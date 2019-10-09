@@ -1,0 +1,42 @@
+---
+title: "Starter code for job desc scrape"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+ 
+
+```{r} 
+library(tidyverse)
+library(rvest)
+library(xml2)
+library(here)
+```
+
+
+```{r}
+
+url <- "https://www.indeed.com/jobs?q=Data+Scientist&l=New+York%2C+NY"
+page <- xml2::read_html(url)
+
+
+title <- page %>% 
+  rvest::html_nodes('[data-tn-element="jobTitle"]') %>%
+  rvest::html_attr("title") %>%
+  stringi::stri_trim_both()
+ 
+summary <- page %>%
+  rvest::html_nodes('.summary') %>% 
+  rvest::html_text() %>%
+  stringi::stri_trim_both()
+
+page_result_start <- 10 # starting page 
+page_result_end <- 190 # last page results
+page_results <- seq(from = page_result_start, to = page_result_end, by = 10)
+
+full_df <- data.frame(title= title, summary=summary)
+```
+
+```{r}
+full_df
+```
