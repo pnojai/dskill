@@ -1,0 +1,20 @@
+---
+title: "db_design"
+author: "Jai Jeffryes"
+date: "10/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Database design notes
+
+### Entities
+- Data science skills. List of distinct skills.
+- Observation. Instance of ascribing value to a skill. Maybe there is a survey of articles. 25 articls report top skills. Some report 10, some 5.
+  - Source description. Article name or publication.
+  - Source URL.
+  - FK link to skill.
+  - Rank. Maybe some articles report top 5. Others, top 10. For analysis, would you like to say how many times a skill appeared in the bin of top 5? Seems like you wouldn't just want a frequency report. It needs weighting. Is that what Tamiko meant?
