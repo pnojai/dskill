@@ -1,0 +1,179 @@
+{
+  "profileAlternative": {
+    "name": "Eric Kostello",
+    "headline": "Director Data Science at Warner Bros. Entertainment",
+    "location": "Los Angeles, California",
+    "connections": "405",
+    "summary": "Creating actionable insight using data, quantitative analytics, statistical analysis, machine learning, R programming, SQL. Creating the tools that enable a wide range or users to tell their own data story. I combine traditional training in statistics, survey methodology, etc. with programming and machine learning.\n\nWhat I love about film, television, media is that the product is itself cultural and social while being created and consumed by cultural and social beings. (Of course that's not exclusively true about media.) The continually evolving media landscape, in turn, generates a vast number of interesting questions and possibilities. I make it part of my mission to enable everyone to be able to tap in to the power of analytics and data-driven insight in these fascinating times."
+  },
+  "aboutAlternative": {
+    "text": "Creating actionable insight using data, quantitative analytics, statistical analysis, machine learning, R programming, SQL. Creating the tools that enable a wide range or users to tell their own data story. I combine traditional training in statistics, survey methodology, etc. with programming and machine learning.\n\nWhat I love about film, television, media is that the product is itself cultural and social while being created and consumed by cultural and social beings. (Of course that's not exclusively true about media.) The continually evolving media landscape, in turn, generates a vast number of interesting questions and possibilities. I make it part of my mission to enable everyone to be able to tap in to the power of analytics and data-driven insight in these fascinating times."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "UC Berkeley",
+      "degree": "BA"
+    },
+    {
+      "title": "UCLA",
+      "degree": "Ph.D."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Shiny",
+      "count": "2"
+    },
+    {
+      "title": "Analytics",
+      "count": "16"
+    },
+    {
+      "title": "Quantitative Research",
+      "count": "14"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "11"
+    },
+    {
+      "title": "Statistics",
+      "count": "9"
+    },
+    {
+      "title": "Survey Design",
+      "count": "9"
+    },
+    {
+      "title": "Market Research",
+      "count": "7"
+    },
+    {
+      "title": "Customer Insight",
+      "count": "6"
+    },
+    {
+      "title": "Segmentation",
+      "count": "5"
+    },
+    {
+      "title": "Data Mining",
+      "count": "4"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "4"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "3"
+    },
+    {
+      "title": "Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Research Design",
+      "count": "2"
+    },
+    {
+      "title": "Consumer Behaviour",
+      "count": "2"
+    },
+    {
+      "title": "Data Collection",
+      "count": "2"
+    },
+    {
+      "title": "Product Development",
+      "count": "1"
+    },
+    {
+      "title": "Sociology",
+      "count": "1"
+    },
+    {
+      "title": "Consumer Insights",
+      "count": "1"
+    },
+    {
+      "title": "Analytical Skills",
+      "count": "2"
+    },
+    {
+      "title": "Consumer Behavior",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "9"
+    },
+    {
+      "title": "Qualitative Research",
+      "count": "4"
+    },
+    {
+      "title": "Marketing Research",
+      "count": "6"
+    },
+    {
+      "title": "Survey Research",
+      "count": "3"
+    },
+    {
+      "title": "Advertising Research",
+      "count": "2"
+    },
+    {
+      "title": "Multivariate Statistics",
+      "count": "1"
+    },
+    {
+      "title": "Regression",
+      "count": "1"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "11",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marcsteidler/",
+        "text": "Eric is the go-to source for the question, “Is this the right approach?” His experience, leadership, and acumen all shone through while I worked closely with Eric as a junior member of our team. I’ve witnessed colleagues of all ages learn from him, raising the bar for our firm's ability to deliver excellent research and world-class service. Always pursuing the truest and most actionable understanding of the data, Eric is an invaluable resource to any product development and consumer insights practice. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/a-morelliperez/",
+        "text": "Eric is a creative and highly skilled thinker. I had the benefit of working with him as his junior to develop a new product, during which time he was collaborative, engaging, and generous with his time and expertise. He is truly interested in the question at hand, which makes for an intellectually rigorous and fun working environment. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/matthewlau1/",
+        "text": "I was *very* lucky to have hired Matt and work with him for two years at Magid. He was an excellent colleague who came in to our very complex data science environment, while we were transitioning into a higher volume mode. In an extremely reasonable amount of time he first became a productive contributor and then took on more and more responsibilities and leadership role. He took the initiative on key projects and managed them successfully to completion. He is not only highly reliable, he is very interested in getting things done right, combined with willingness to experiment and always considers the impact on all stakeholders. Matt is amiable and unassuming, highly intelligent and always seeking to make his work and the products/projects he works on the highest quality... unless the project is scoped as quick and dirty and then he adjusts accordingly. During the time I worked with Matt, I found that Matt was ready and willing for more responsibility and eager for new challenges. I highly recommend Matt for any role where someone with statistical skills, product development skills, SQL, R or R/Shiny programming, etc. and an inquisitive, insightful and industrious, team-oriented person would be a good fit. \n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/marcsteidler/",
+        "text": "Marc transferred to our group about a year after I joined. He came highly recommended… and he has more than lived up to those recommendations! We have worked together on various projects and he has always been a thoughtful, insightful, and resourceful colleague. I have counted on Marc for everything from project management, to client consulting, to product development. He always shows a dedication to quality, and is driven by an innate desire to truly deliver what is needed. He has a natural curiosity and a passion for understanding that makes him a highly valuable participant in analytical projects, data-driven consulting, and… well, anything like that. Marc is also a friendly person, but more than being friendly, he always adds to team unity, cohesiveness, etc. Marc is an invaluable contributor to the team here at Magid!\n\n\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Eric Kostello",
+    "headline": "Director Data Science at Warner Bros. Entertainment",
+    "location": "Los Angeles, California",
+    "connections": "405",
+    "summary": "Creating actionable insight using data, quantitative analytics, statistical analysis, machine learning, R programming, SQL. Creating the tools that enable a wide range or users to tell their own data story. I combine traditional training in statistics, survey methodology, etc. with programming and machine learning.\n\nWhat I love about film, television, media is that the product is itself cultural and social while being created and consumed by cultural and social beings. (Of course that's not exclusively true about media.) The continually evolving media landscape, in turn, generates a vast number of interesting questions and possibilities. I make it part of my mission to enable everyone to be able to tap in to the power of analytics and data-driven insight in these fascinating times."
+  }
+}

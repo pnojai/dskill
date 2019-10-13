@@ -1,0 +1,59 @@
+---
+title: "tidy and clean linkedin scraped data"
+author: "Nicholas Chung"
+date: "10/13/2019"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# load packages
+library(rjson)
+library(tidyr)
+library(dplyr)
+library(jsonlite)
+library(purrr)
+```
+
+```{r}
+# load all JSON
+filenames <- list.files("./data", pattern="*.json", full.names=TRUE) # this should give you a character vector, with each file name represented by an entry
+myJSON <- lapply(filenames, function(x) fromJSON(txt = x)) # a list in which each element is one of your original JSON files
+myJSON
+```
+
+```{r}
+# tidy & clean relevant JSON data (i.e, no PII)
+for (i in myJSON) {tidy.agg <- rbind(tidy.agg, i$profile$headline)}
+
+# todo: figure out how to handle "skills" data
+for (i in myJSON ) {
+  if (length(i) > 0) {
+    print(i$skills)
+  }
+}
+
+# create lists to populate with data
+headline <- list()
+connections <- list()
+location <- list()
+skills <- matrix()
+for (i in myJSON) {
+    headline <- append(headline, i$profile$headline)
+    connections <- append(connections, i$profile$connections)
+    location <- append(location, i$profile$location)
+}
+
+# unlist list objects
+headline <- unlist(headline)
+connections <- unlist(connections)
+location <- unlist(location)
+
+# load list objects into dataframe
+tidy.agg <- data.frame(headline, connections, location)
+names(tidy.agg) <- c(headline, connections, location)
+tidy.agg
+```
+
