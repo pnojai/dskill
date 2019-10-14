@@ -25,16 +25,6 @@ myJSON
 ```
 
 ```{r}
-# tidy & clean relevant JSON data (i.e, no PII)
-for (i in myJSON) {tidy.agg <- rbind(tidy.agg, i$profile$headline)}
-
-# todo: figure out how to handle "skills" data
-for (i in myJSON ) {
-  if (length(i) > 0) {
-    print(i$skills)
-  }
-}
-
 # create lists to populate with data
 headline <- list()
 connections <- list()
@@ -55,5 +45,16 @@ location <- unlist(location)
 tidy.agg <- data.frame(headline, connections, location)
 names(tidy.agg) <- c(headline, connections, location)
 tidy.agg
+```
+
+```{r}
+# todo: figure out how to handle "skills" data
+skills.list = list()
+print(myJSON)
+for (i in myJSON ) {
+    skills <- data.frame(i$skills, i$profile$headline) # this needs to be okay with missing data
+    skills.list <- rbind(skills.list, skills)
+}
+skills.list
 ```
 
