@@ -1,0 +1,127 @@
+---
+title: "tidy and clean linkedin scraped data"
+author: "Nicholas Chung"
+date: "10/13/2019"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# load packages
+library(rjson)
+library(tidyr)
+library(dplyr)
+library(jsonlite)
+library(purrr)
+library(janitor)
+```
+
+```{r}
+# load all JSON
+filenames <- list.files("./data", pattern="*.json", full.names=TRUE) # this should give you a character vector, with each file name represented by an entry
+myJSON <- lapply(filenames, function(x) fromJSON(txt = x)) # a list in which each element is one of your original JSON files
+myJSON
+```
+
+```{r}
+# create lists to populate with data
+headline <- list()
+connections <- list()
+location <- list()
+skills <- matrix()
+for (i in myJSON) {
+    headline <- append(headline, i$profile$headline)
+    connections <- append(connections, i$profile$connections)
+    location <- append(location, i$profile$location)
+}
+
+# unlist list objects
+headline <- unlist(headline)
+connections <- unlist(connections)
+location <- unlist(location)
+
+# load list objects into dataframe
+tidy.agg <- data.frame(headline, connections, location)
+
+tidy.agg
+```
+
+```{r}
+# todo: figure out how to handle "skills" data
+skills.list = list()
+for (i in myJSON ) {
+    skills <- data.frame(i$skills, i$profile$headline) # this needs to be okay with missing data
+    skills.list <- rbind(skills.list, skills)
+}
+
+```
+
+```{r}
+
+skills.list
+
+```
+
+```{r}
+
+# update count class to numeric
+skills.list$count <- as.numeric(skills.list$count)
+
+
+# create mulitple key value columns
+df <- spread(skills.list, title, count)
+head(df)
+
+```
+
+```{r}
+# replace na values with 0 and update colnames
+df[is.na(df)] <- 0
+colnames(df)[colnames(df)=="i.profile.headline"] <- "title"
+df
+
+
+```
+
+```{r}
+# another way to spread the scraped data
+
+df_2 <- spread(skills.list, i.profile.headline, count)
+df_2[is.na(df_2)] <- 0
+colnames(df_2)[colnames(df_2)=="title"] <- "skills"
+df_2
+
+```
+
+```{r}
+# add total column with total values
+df_2$total <- rowSums(df_2[2:6])
+df_2
+
+```
+```{r}
+# distribution of each skill set 
+ggplot(df_2, aes(total))+
+  geom_histogram()
+
+
+```
+
+
+```{r}
+# distribution with skills breakdown (needs work)
+ggplot(df_2, aes(total)) +
+  geom_histogram(aes(fill=skills),
+                 binwidth = 100) 
+
+
+```
+
+
+
+
+
+
+
