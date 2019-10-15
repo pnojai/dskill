@@ -1,0 +1,177 @@
+{
+  "profileAlternative": {
+    "name": "David Freifeld",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "Boulder, Colorado",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Princeton University",
+      "degree": "BSE",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Wayne Hills High School",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Modeling",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Online Advertising"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "1"
+    },
+    {
+      "title": "Software Development",
+      "count": "8"
+    },
+    {
+      "title": "Mobile Devices",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Databases",
+      "count": "7"
+    },
+    {
+      "title": "Java",
+      "count": "10"
+    },
+    {
+      "title": "VBA",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "3"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "3"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "Vertica",
+      "count": "1"
+    },
+    {
+      "title": "Financial Engineering",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Algorithms and Data Structures",
+        "Differential Equations",
+        "Linear Algebra",
+        "Operations and Information Engineering",
+        "Probability and Stochastic Systems",
+        "Programming Systems",
+        "Regression and Time Series Analysis"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "How Super Bowl 50 Brands Can Avoid The Hail Mary Approach"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/erickellis/",
+      "text": "Senior Product Manager at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaelaconnors/",
+      "text": "Senior Director of Client Services at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ctharve/",
+      "text": "Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuanxi-wang-54b72415/",
+      "text": "The Trade Desk - Principal Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bobbielin/",
+      "text": "Data Scientist at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacobnaylor/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucaszalduendo/",
+      "text": "Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vamin/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markedavenport/",
+      "text": "GM, Data Science at The Trade Desk"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "David Freifeld",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "Boulder, Colorado",
+    "connections": "500+"
+  }
+}
