@@ -27,6 +27,17 @@ dbWriteTable(conn = con_aws, name = "rawdata", value = rawdata_local, append = T
 rawdata_aws <- dbGetQuery(con_aws, sql)
 rawdata_aws
 
+load_prj3 <- function(table_name) {
+    sql <- str_c("
+    select	*
+    from	", table_name, ";")
+
+    local_data <- dbGetQuery(con_local, sql)
+    result <- dbWriteTable(conn = con_aws, name = table_name, value = local_data, append = TRUE, row.names = FALSE)
+    
+    return(result)
+}
+
 # agg_linkedin.csv
 table_name <- "agg_linkedin"
 
@@ -36,3 +47,6 @@ from	", table_name, ";")
 
 local_data <- dbGetQuery(con_local, sql)
 dbWriteTable(conn = con_aws, name = table_name, value = local_data, append = TRUE, row.names = FALSE)
+
+# just_skills
+load_prj3("just_skills")
