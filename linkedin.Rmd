@@ -15,10 +15,8 @@ library(tidyr)
 library(dplyr)
 library(jsonlite)
 library(purrr)
-<<<<<<< HEAD
+library(ggplot2)
 library(janitor)
-=======
->>>>>>> 6d8753b22b056e938250bc26018b91f0677d8d02
 ```
 
 ```{r}
@@ -47,45 +45,28 @@ location <- unlist(location)
 
 # load list objects into dataframe
 tidy.agg <- data.frame(headline, connections, location)
-<<<<<<< HEAD
-
-=======
 names(tidy.agg) <- c(headline, connections, location)
->>>>>>> 6d8753b22b056e938250bc26018b91f0677d8d02
 tidy.agg
 ```
 
 ```{r}
 # todo: figure out how to handle "skills" data
 skills.list = list()
-<<<<<<< HEAD
-=======
-print(myJSON)
->>>>>>> 6d8753b22b056e938250bc26018b91f0677d8d02
 for (i in myJSON ) {
     skills <- data.frame(i$skills, i$profile$headline) # this needs to be okay with missing data
     skills.list <- rbind(skills.list, skills)
 }
-<<<<<<< HEAD
-
-```
-
-```{r}
-
 skills.list
-
 ```
 
-```{r}
 
+```{r}
 # update count class to numeric
 skills.list$count <- as.numeric(skills.list$count)
-
 
 # create mulitple key value columns
 df <- spread(skills.list, title, count)
 head(df)
-
 ```
 
 ```{r}
@@ -93,32 +74,26 @@ head(df)
 df[is.na(df)] <- 0
 colnames(df)[colnames(df)=="i.profile.headline"] <- "title"
 df
-
-
 ```
 
 ```{r}
 # another way to spread the scraped data
-
 df_2 <- spread(skills.list, i.profile.headline, count)
 df_2[is.na(df_2)] <- 0
 colnames(df_2)[colnames(df_2)=="title"] <- "skills"
 df_2
-
 ```
 
 ```{r}
 # add total column with total values
 df_2$total <- rowSums(df_2[2:6])
 df_2
-
 ```
+
 ```{r}
 # distribution of each skill set 
 ggplot(df_2, aes(total))+
   geom_histogram()
-
-
 ```
 
 
@@ -127,18 +102,4 @@ ggplot(df_2, aes(total))+
 ggplot(df_2, aes(total)) +
   geom_histogram(aes(fill=skills),
                  binwidth = 100) 
-
-
 ```
-
-
-
-
-
-
-
-=======
-skills.list
-```
-
->>>>>>> 6d8753b22b056e938250bc26018b91f0677d8d02
