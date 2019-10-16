@@ -37,3 +37,4 @@ rsconnect/
 
 # Emacs backups
 *~
+.DS_Store

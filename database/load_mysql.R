@@ -1,4 +1,5 @@
 library(RMySQL)
+library(stringr)
 
 con_local <- dbConnect(
     drv = MySQL(),
@@ -25,3 +26,13 @@ dbWriteTable(conn = con_aws, name = "rawdata", value = rawdata_local, append = T
 
 rawdata_aws <- dbGetQuery(con_aws, sql)
 rawdata_aws
+
+# agg_linkedin.csv
+table_name <- "agg_linkedin"
+
+sql <- str_c("
+select	*
+from	", table_name, ";")
+
+local_data <- dbGetQuery(con_local, sql)
+dbWriteTable(conn = con_aws, name = table_name, value = local_data, append = TRUE, row.names = FALSE)
