@@ -8,14 +8,14 @@ con_local <- dbConnect(
     password = "a",
     dbname = "data607proj3")
 
-con_aws <- dbConnect(
-    drv = MySQL(),
-    host = "msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com",
-    user = "",
-    password = "",
-    dbname = "prj3")
-
 load_prj3 <- function(table_name) {
+    con_aws <- dbConnect(
+        drv = MySQL(),
+        host = "msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com",
+        user = "",
+        password = "",
+        dbname = "prj3")
+    
     sql <- str_c("
     select	*
     from	", table_name, ";")
@@ -28,6 +28,7 @@ load_prj3 <- function(table_name) {
                            append = FALSE,
                            row.names = FALSE)
     
+    dbDisconnect(con_aws)
     return(result)
 }
 
@@ -38,6 +39,9 @@ load_prj3("ds_general_skills_clean")
 load_prj3("skills_raw")
 load_prj3("sample_linkedin_tall")
 load_prj3("payscale_data")
+
+dbListTables(con_local)
+dbListTables(con_aws)
 
 ## WORK PAPERS
 # sql <- "
