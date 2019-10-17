@@ -56,8 +56,9 @@ knit        : slidify::knit2slides
 
 ---
 
-## Data Collection
-- Bullet about scraping.
+## Data collection and preparation
+- Bullets about scraping.
+- Data cleaning.
 
 --- 
 
@@ -88,29 +89,3 @@ knit        : slidify::knit2slides
 - Articles and resources we liked.
   - Jeff Hale's analysis on Medium: [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
   - PayScale: [https://www.payscale.com](https://www.payscale.com).
-
----
-
-## Notes from Anil's draft.
-- Conclusion
-- Use Cases (Best possible use cases for the study)
-- Load Libraries (Load and install all the libraries)
-- Data Collection
-  - Data Sources (explain the data sources)
-  - About Data Sets (variable descriptions, our collection method and relational database set up.)
-  - Load Data to R (load the data set to R)
-
-- Data Wrangling
-  - Tidy Data (if required)
-  - Identify and Handle Missing Values (if required)
-  - Correct Data Formats (if required)
-  - Data Standardization, Normalization (if required)
-
-- Data Analysis and Exploration
-  - Summary and Structure of the data (explore each variable and summary of the dataset)
-  - Data Visualization 
-  - Correlation and distribution
-
-- Conclusion
-- References
-- Appendix (optional)
