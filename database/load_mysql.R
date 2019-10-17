@@ -37,6 +37,7 @@ load_prj3("sample_linkedin_wide")
 load_prj3("ds_general_skills_clean")
 load_prj3("skills_raw")
 load_prj3("sample_linkedin_tall")
+load_prj3("payscale_data")
 
 ## WORK PAPERS
 # sql <- "

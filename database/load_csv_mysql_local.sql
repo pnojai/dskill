@@ -9,6 +9,7 @@ This one isn't a table.
 ds_general_skills_revised.csv
 
 sample_linkedin--tall.csv
+PayScaleData.csv
 */
 
 DROP table agg_linkedin;
@@ -386,4 +387,15 @@ LOAD DATA INFILE '/var/lib/mysql-files/sample_linkedin--tall.csv'
 INTO TABLE sample_linkedin_tall
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 IGNORE 1 LINES;  
-  
+
+DROP table payscale_data;
+CREATE table payscale_data (
+`Skills` VARCHAR(50),
+`Premium` DECIMAL(10, 1),
+`PerCent People Have This` DECIMAL(10, 1)
+);
+
+LOAD DATA INFILE '/var/lib/mysql-files/PayScaleData.csv' 
+INTO TABLE payscale_data
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+IGNORE 1 LINES;  
