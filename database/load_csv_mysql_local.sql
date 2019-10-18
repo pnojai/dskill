@@ -10,6 +10,7 @@ ds_general_skills_revised.csv
 
 sample_linkedin--tall.csv
 PayScaleData.csv
+df.csv
 */
 
 DROP table agg_linkedin;
@@ -397,5 +398,18 @@ CREATE table payscale_data (
 
 LOAD DATA INFILE '/var/lib/mysql-files/PayScaleData.csv' 
 INTO TABLE payscale_data
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+IGNORE 1 LINES;  
+
+DROP table df;
+CREATE table df (
+`skill_id` INT,
+`skills` VARCHAR(500),
+`count` INT,
+`title` VARCHAR(500)
+);
+
+LOAD DATA INFILE '/var/lib/mysql-files/df.csv' 
+INTO TABLE df
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 IGNORE 1 LINES;  
