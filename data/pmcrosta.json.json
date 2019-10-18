@@ -1,0 +1,268 @@
+{
+  "profileAlternative": {
+    "name": "Peter Crosta",
+    "headline": "Data Scientist at Google",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Member Board Of Directors",
+      "description": "Secretary and Treasurer for innovative not-for-profit supporting research and practice of bilingual education.",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Teachers College, Columbia University",
+      "degree": "MA"
+    },
+    {
+      "title": "Cornell University",
+      "degree": "BA"
+    },
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Doctor of Philosophy (Ph.D.)"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R"
+    },
+    {
+      "title": "Quantitative Analytics"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "Statistical Modeling"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Higher Education"
+    },
+    {
+      "title": "Econometrics"
+    },
+    {
+      "title": "Economics"
+    },
+    {
+      "title": "Data Mining"
+    },
+    {
+      "title": "Analysis"
+    },
+    {
+      "title": "Data Management"
+    },
+    {
+      "title": "Program Evaluation"
+    },
+    {
+      "title": "Quantitative Research"
+    },
+    {
+      "title": "Research Design"
+    },
+    {
+      "title": "Survey Design"
+    },
+    {
+      "title": "Policy Analysis"
+    },
+    {
+      "title": "Analytics"
+    },
+    {
+      "title": "Stata"
+    },
+    {
+      "title": "SPSS"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Unix"
+    },
+    {
+      "title": "Visio"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "ArcGIS"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Google Docs"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Subversion"
+    },
+    {
+      "title": "LaTeX"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Geographic Information Systems (GIS)"
+    },
+    {
+      "title": "Qualitative Research"
+    },
+    {
+      "title": "Torque"
+    },
+    {
+      "title": "Experimental Design"
+    },
+    {
+      "title": "Predictive Modeling"
+    },
+    {
+      "title": "Education Policy"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Redis"
+    },
+    {
+      "title": "Predictive Analytics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "12",
+      "items": [
+        "Should Community College Students Earn an Associate Degree Before Transferring to a 4-Year Institution?",
+        "Can Community Colleges Afford to Improve Completion? Measuring the Costs and Efficiency Effects of College Reforms",
+        "Intensity and Attachment: How the Chaotic Enrollment Patterns of Community College Students Relate to Educational Outcomes",
+        "Improving the Targeting of Treatment: Evidence From College Remediation",
+        "Can Community Colleges Afford to Improve Completion? Measuring the Cost and Efficiency Consequences of Reform",
+        "Predicting success in college: The importance of placement tests and high school transcripts",
+        "Community College Student Success: What Institutional Characteristics Make a Difference?",
+        "Stepping Stones to a Degree: The Impact of Enrollment Pathways and Milestones on Community College Students",
+        "Does Age of Entrance Affect Community College Completion Probabilities? Evidence from a Discrete-Time Hazard Model",
+        "The Value of Student Right-to-Know Data in Assessing Community College Performance"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Advisory Council for Career and Technical Education in NYC Public Schools",
+        "Association of Education Finance and Policy (AEFP)",
+        "Association of Institutional Research (AIR)"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yichaojoyce/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/goessling/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheng-zhang-87271654/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-steele/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natec/",
+      "text": "Staff Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaelbeaumier/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/regina-sibagatullina-8ab47720/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wan-chen-46863125/",
+      "text": "Senior Data scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nitin-jain-431a8b1a/",
+      "text": "Data Scientist at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Peter Crosta",
+    "headline": "Data Scientist at Google",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

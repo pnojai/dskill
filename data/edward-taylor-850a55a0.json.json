@@ -1,0 +1,116 @@
+{
+  "profileAlternative": {
+    "name": "Edward Taylor",
+    "headline": "Data Analyst at Data World",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Ohio University",
+      "degree": "Bachelor's Degree",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle",
+      "count": "12"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "8"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "8"
+    },
+    {
+      "title": "Database Design",
+      "count": "7"
+    },
+    {
+      "title": "Database Administration",
+      "count": "6"
+    },
+    {
+      "title": "Stata",
+      "count": "7"
+    },
+    {
+      "title": "CRM databases",
+      "count": "6"
+    },
+    {
+      "title": "SPSS Clementine",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/huanqing-luo-17897389/",
+      "text": "Data Analyst at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johndimmy/",
+      "text": "Data Analyst at Ernst & Young"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thehenrick/",
+      "text": "Data Analyst and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhumika-bhandari/",
+      "text": "Data Analyst at GroupM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carolyn-l-1787b7a/",
+      "text": "Data Analyst at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emma-reed-5541bb172/",
+      "text": "Marketing Data Analyst at Woo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachel-y-6a597166/",
+      "text": "Senior Analyst at Merkle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhenyu-kang-662a45132/",
+      "text": "Data analyst looking for opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisa-moorhead-01076336/",
+      "text": "Research and Data Analyst at the Ohio Department of Higher Education"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Edward Taylor",
+    "headline": "Data Analyst at Data World",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

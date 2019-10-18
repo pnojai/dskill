@@ -1,0 +1,216 @@
+{
+  "profileAlternative": {
+    "name": "Ava (Chenchen) Huang",
+    "headline": "Data Scientist at IBM | Quantitative Analysis",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Data Scientist at Chief Analytics Office, which is internal AI Center of Excellence at IBM. I am utilizing cutting edge technology to drive IBM's transformation such as NLP, Machine learning, Deep Learning and many other sophisticated analytics tools..\n\nMaster student of Operation Research program at Columbia University, with an undergraduate degree in Mathematics and Finance. Passionate about quantitative analysis and making all things possible. Creative innovator and problem-solver, eager to thrive by exploring opportunities and can learn quickly in the Company environment which fosters a culture of communication, team and hard work.\n\nStrong quantitative skills in machine learning, NLP, deep learning, stochastic process, optimization, familiar with Python, R and SQL. Accumulated experience using statistical analysis such as multiple linear regression, machine learning algorithms implementation such as KNN and SVM, deep learning such as LSTM, Autoencoder and Tensorflow, as well as reinforcement learning during courses at Columbia.\n\nHands-on internship experience in quantitative research, data science and predictive modeling. Interned as Quantitative Research and Product Manager at ClimateAI in San Francisco Bay area. Researched interesting ideas to measure climate change risk and implemented models using statistical and machine learning algorithms. Worked on data organization/cleaning and feature selections to extract relationships which can be utilized by asset managers for better investment decisions and predictions.\n\nLook forward to implementing data modeling and statistical learning methods to add quantifiable value to companies growing revenues, identifying new products/services and developing increased customer value. I take ownership of projects with high level of initiative and know how to cooperate with others very. If you have opportunities, please contact ch3294@columbia.edu."
+  },
+  "aboutAlternative": {
+    "text": "Data Scientist at Chief Analytics Office, which is internal AI Center of Excellence at IBM. I am utilizing cutting edge technology to drive IBM's transformation such as NLP, Machine learning, Deep Learning and many other sophisticated analytics tools..\n\nMaster student of Operation Research program at Columbia University, with an undergraduate degree in Mathematics and Finance. Passionate about quantitative analysis and making all things possible. Creative innovator and problem-solver, eager to thrive by exploring opportunities and can learn quickly in the Company environment which fosters a culture of communication, team and hard work.\n\nStrong quantitative skills in machine learning, NLP, deep learning, stochastic process, optimization, familiar with Python, R and SQL. Accumulated experience using statistical analysis such as multiple linear regression, machine learning algorithms implementation such as KNN and SVM, deep learning such as LSTM, Autoencoder and Tensorflow, as well as reinforcement learning during courses at Columbia.\n\nHands-on internship experience in quantitative research, data science and predictive modeling. Interned as Quantitative Research and Product Manager at ClimateAI in San Francisco Bay area. Researched interesting ideas to measure climate change risk and implemented models using statistical and machine learning algorithms. Worked on data organization/cleaning and feature selections to extract relationships which can be utilized by asset managers for better investment decisions and predictions.\n\nLook forward to implementing data modeling and statistical learning methods to add quantifiable value to companies growing revenues, identifying new products/services and developing increased customer value. I take ownership of projects with high level of initiative and know how to cooperate with others very. If you have opportunities, please contact ch3294@columbia.edu."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Columbia Business School",
+      "degree": "Cross-registration",
+      "date1": "2017",
+      "date2": "2017"
+    },
+    {
+      "title": "University of Maryland",
+      "degree": "Exchange",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "China Agricultural University",
+      "degree": "Dual degree",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "National Chung Hsing University",
+      "degree": "Exchange",
+      "date1": "2015",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "Bloomberg",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Investment Banking",
+      "count": "1"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Quantitative Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Portfolio Management"
+    },
+    {
+      "title": "Statistics",
+      "count": "1"
+    },
+    {
+      "title": "data structure"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "SPSS"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "machin learning",
+      "count": "1"
+    },
+    {
+      "title": "Deep Learning"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "Applied Machine Learning",
+        "Applied Statistics",
+        "Data Analytics",
+        "Deep learning",
+        "Econometrics",
+        "Financial derivatives",
+        "Game Theory",
+        "Mergers & Acquistions",
+        "Model Based Trading",
+        "Optimization Models and Methods"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Chinese (Simplified)",
+        "English",
+        "Korean"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Analysis of default payments of Credit Card Clients",
+        "Reinforcement Learning for Automated Trading System",
+        "Analysis on Young People Preference"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chao-zhao-34a9408b/",
+      "text": "Quantitative Research Associate at J.P. Morgan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-zhang/",
+      "text": "Investment Banking Associate at Goldman Sachs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bitao-rita-he-b73636a5/",
+      "text": "Blackrock • Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yizhangpeter/",
+      "text": "Quant Strats at Morgan Stanley | Passed CFA Level 3, FRM Level 2"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cici-z/",
+      "text": "Recruiter in financial and technology industries. Please include your name and purpose when adding my WeChat. Thanks ^_^"
+    },
+    {
+      "user": "https://www.linkedin.com/in/huizibing/",
+      "text": "Analyst at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vanny-xiao-wang/",
+      "text": "Analyst at UBS Chief Investment Office"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aj1212/",
+      "text": "Data Scientist at Amazon (Audible group)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yujie-crystal-hu/",
+      "text": "Data Analyst at Cubist Systematic Strategies"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ava (Chenchen) Huang",
+    "headline": "Data Scientist at IBM | Quantitative Analysis",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Data Scientist at Chief Analytics Office, which is internal AI Center of Excellence at IBM. I am utilizing cutting edge technology to drive IBM's transformation such as NLP, Machine learning, Deep Learning and many other sophisticated analytics tools..\n\nMaster student of Operation Research program at Columbia University, with an undergraduate degree in Mathematics and Finance. Passionate about quantitative analysis and making all things possible. Creative innovator and problem-solver, eager to thrive by exploring opportunities and can learn quickly in the Company environment which fosters a culture of communication, team and hard work.\n\nStrong quantitative skills in machine learning, NLP, deep learning, stochastic process, optimization, familiar with Python, R and SQL. Accumulated experience using statistical analysis such as multiple linear regression, machine learning algorithms implementation such as KNN and SVM, deep learning such as LSTM, Autoencoder and Tensorflow, as well as reinforcement learning during courses at Columbia.\n\nHands-on internship experience in quantitative research, data science and predictive modeling. Interned as Quantitative Research and Product Manager at ClimateAI in San Francisco Bay area. Researched interesting ideas to measure climate change risk and implemented models using statistical and machine learning algorithms. Worked on data organization/cleaning and feature selections to extract relationships which can be utilized by asset managers for better investment decisions and predictions.\n\nLook forward to implementing data modeling and statistical learning methods to add quantifiable value to companies growing revenues, identifying new products/services and developing increased customer value. I take ownership of projects with high level of initiative and know how to cooperate with others very. If you have opportunities, please contact ch3294@columbia.edu."
+  }
+}

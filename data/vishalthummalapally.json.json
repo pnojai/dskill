@@ -1,0 +1,197 @@
+{
+  "profileAlternative": {
+    "name": "Vishal Thummalapally",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University - Leonard N. Stern School of Business",
+      "degree": "Master of Business Administration (MBA)",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Colorado Boulder",
+      "degree": "BS",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "43"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Product Management",
+      "count": "13"
+    },
+    {
+      "title": "Management Consulting",
+      "count": "36"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "24"
+    },
+    {
+      "title": "Project Management",
+      "count": "21"
+    },
+    {
+      "title": "Strategy",
+      "count": "19"
+    },
+    {
+      "title": "Business Development",
+      "count": "19"
+    },
+    {
+      "title": "pandas"
+    },
+    {
+      "title": "Jupyter"
+    },
+    {
+      "title": "seaborn"
+    },
+    {
+      "title": "Leadership",
+      "count": "22"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "Matplotlib"
+    },
+    {
+      "title": "NumPy"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/arielpsegaleck/",
+        "text": "At Stern, I had the opportunity to work with Ariel on a number of class projects and club initiatives. Calling Ariel a rockstar would be selling her short. For a consulting project we worked on together, Ariel was the clear leader: she organized the project plan, delegated tasks, and led the conversations with the client. Ariel was always the first person to start her part of the project, and she was more often than not taking on additional work.\n\nI was also really impressed seeing Ariel lead a trek of 15 people to SXSW on her own. She negotiated student ticket prices, located housing, coordinated schedules, and worked with the Stern Alumni office to organize an event that was attended by over 30 Stern alumni at SXSW. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Advanced Strategy",
+        "Brand Management",
+        "Data Analysis",
+        "Digital Marketing",
+        "Intro to Data Science",
+        "Product Management",
+        "Statistics",
+        "Venture Capital Financing"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "India Unique ID",
+        "Amazon Innovation Competition Finalist"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alanrider/",
+      "text": "Senior Business Consultant at Southwest Airlines"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xi-cindy-wu-54531166/",
+      "text": "Senior Data Scientist at Oracle Data Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonahgoodhart/",
+      "text": "SVP, Oracle Data Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jsiny/",
+      "text": "Global Small Business at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/violetastolpen/",
+      "text": "Program Manager | MBA | Social Innovation Strategist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elizabethschoo/",
+      "text": "Client Partner, Luxury at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/piseth-ky-96b04517/",
+      "text": "Machine Learning Engineer, Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijay-bhagwati-a363bb3b/",
+      "text": "Specialist Master | Tech Lead | Infrastructure - System Architect | Application & Database Administrator at Deloitte"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaharaman/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zacharyrapoport/",
+      "text": "Director, Customer Success at Truly.co"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Pro bono consultant",
+      "experience": "Compass DC",
+      "description": "Social Services",
+      "date1": "2012",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Pro bono consultant",
+      "experience": "Miriam's Kitchen",
+      "description": "Poverty Alleviation",
+      "date1": "2013",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Pro bono consultant",
+      "experience": "Fig Food Company, LLC",
+      "description": "Health",
+      "date1": "2014 – Present",
+      "date2": "5 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Vishal Thummalapally",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

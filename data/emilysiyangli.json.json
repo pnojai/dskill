@@ -1,0 +1,190 @@
+{
+  "profileAlternative": {
+    "name": "Emily Siyang Li",
+    "headline": "Data Analyst at LinkedIn",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Having big data does not necessarily mean more effective marketing; instead, it is the insights derived from the data and the decisions made based on the insights that will make all the difference. I am passionate about transforming data findings to business insights by employing the models and techniques, and business analytics to help businessman make better decision. Also I am capable of interpreting data findings and data visualization. With the help of data analytical tools, I am able to paint an accurate and timely picture of transactions in the demographics, the location, purchase history, and what and how customers are likely to buy in the future."
+  },
+  "aboutAlternative": {
+    "text": "Having big data does not necessarily mean more effective marketing; instead, it is the insights derived from the data and the decisions made based on the insights that will make all the difference. I am passionate about transforming data findings to business insights by employing the models and techniques, and business analytics to help businessman make better decision. Also I am capable of interpreting data findings and data visualization. With the help of data analytical tools, I am able to paint an accurate and timely picture of transactions in the demographics, the location, purchase history, and what and how customers are likely to buy in the future."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "The George Washington University",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "University of California, Los Angeles",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MySQL",
+      "count": "6"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "6"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "19"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "9"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "8"
+    },
+    {
+      "title": "Data Mining",
+      "count": "10"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "12"
+    },
+    {
+      "title": "E-commerce",
+      "count": "1"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "Tableau",
+      "count": "5"
+    },
+    {
+      "title": "SAS",
+      "count": "22"
+    },
+    {
+      "title": "Customer Service",
+      "count": "4"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Business Analytics Skills Workshop",
+        "Computational Optimization",
+        "Data Mining",
+        "Data Warehousing for Analytics",
+        "Decision and Risk Analytics",
+        "Forecasting for Analytics",
+        "Introduction to Business Analytics",
+        "Investment Analysis and Portfolio Management",
+        "Marketing Metrics",
+        "Optimization Methods and Applications"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Highest Honors in Sciences and Mathematics",
+        "Jack Halloran’s Business and Accounting Scholarship",
+        "Outstanding Service as International Ambassador",
+        "SBCC President’s Honor Roll"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Data Mining for Identification of Consumer Behavior Patterns",
+        "Data Warehousing for Business Intelligence Analysis"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Ascend Pan - Asian Leaders"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rachel-y-6a597166/",
+      "text": "Senior Analyst at Merkle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raymondgu/",
+      "text": "Data Analyst at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weiligeng/",
+      "text": "Senior Data Analyst at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hayleexiaowenzhang/",
+      "text": "Data Analyst at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luwang0629/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivia-wang-84477165/",
+      "text": "Data really powers everything that we do."
+    },
+    {
+      "user": "https://www.linkedin.com/in/stella-shao-b7872550/",
+      "text": "Data Analyst at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/serrypark/",
+      "text": "We're hiring!"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Emily Siyang Li",
+    "headline": "Data Analyst at LinkedIn",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Having big data does not necessarily mean more effective marketing; instead, it is the insights derived from the data and the decisions made based on the insights that will make all the difference. I am passionate about transforming data findings to business insights by employing the models and techniques, and business analytics to help businessman make better decision. Also I am capable of interpreting data findings and data visualization. With the help of data analytical tools, I am able to paint an accurate and timely picture of transactions in the demographics, the location, purchase history, and what and how customers are likely to buy in the future."
+  }
+}

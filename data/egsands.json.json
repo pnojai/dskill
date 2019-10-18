@@ -1,0 +1,51 @@
+{
+  "profileAlternative": {
+    "name": "Emily Glassberg Sands",
+    "headline": "Head of Data Science at Coursera",
+    "location": "Menlo Park, California",
+    "connections": "500+",
+    "summary": "A labor economist by training, I love using data to understand individual decision-making and societal trends, and to build products that solve critical inefficiencies in the market.\n\nI lead the end-to-end data team at Coursera — machine learning, decision science, and data engineering. Coursera attracts tens of millions of individuals from around the world who want to learn and be rewarded for that learning in the labor market, education partners who want a flexible and scalable platform through which to teach the world, and employers who need to transform their talent to keep up with the accelerating change. Our data scientists and data engineers fuel data-driven decisions and build data-powered products. And we're growing! Reach out at emily@coursera.org to learn more."
+  },
+  "aboutAlternative": {
+    "text": "A labor economist by training, I love using data to understand individual decision-making and societal trends, and to build products that solve critical inefficiencies in the market.\n\nI lead the end-to-end data team at Coursera — machine learning, decision science, and data engineering. Coursera attracts tens of millions of individuals from around the world who want to learn and be rewarded for that learning in the labor market, education partners who want a flexible and scalable platform through which to teach the world, and employers who need to transform their talent to keep up with the accelerating change. Our data scientists and data engineers fuel data-driven decisions and build data-powered products. And we're growing! Reach out at emily@coursera.org to learn more."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2009",
+      "date2": "2014"
+    },
+    {
+      "title": "Princeton University",
+      "degree": "Bachelor's (A.B.), Department of Economics",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Referee"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Emily Glassberg Sands",
+    "headline": "Head of Data Science at Coursera",
+    "location": "Menlo Park, California",
+    "connections": "500+",
+    "summary": "A labor economist by training, I love using data to understand individual decision-making and societal trends, and to build products that solve critical inefficiencies in the market.\n\nI lead the end-to-end data team at Coursera — machine learning, decision science, and data engineering. Coursera attracts tens of millions of individuals from around the world who want to learn and be rewarded for that learning in the labor market, education partners who want a flexible and scalable platform through which to teach the world, and employers who need to transform their talent to keep up with the accelerating change. Our data scientists and data engineers fuel data-driven decisions and build data-powered products. And we're growing! Reach out at emily@coursera.org to learn more."
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "profileAlternative": {
+    "name": "Joe McLaughlin",
+    "headline": "Data Scientist at Beeswax",
+    "location": "Brooklyn, New York",
+    "connections": "276",
+    "summary": "Resume"
+  },
+  "aboutAlternative": {
+    "text": "Resume"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University",
+      "degree": "Master's degree",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {},
+    {
+      "title": "University of Tennessee-Knoxville",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2005",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "11"
+    },
+    {
+      "title": "R",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining",
+      "count": "3"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "Wastewater Treatment",
+      "count": "6"
+    },
+    {
+      "title": "Environmental Engineering",
+      "count": "4"
+    },
+    {
+      "title": "Process Engineering",
+      "count": "3"
+    },
+    {
+      "title": "Project Engineering",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Windows",
+      "count": "3"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "1"
+    },
+    {
+      "title": "Air Permitting",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Applied Data Science",
+        "Data Mining for Business Analytics",
+        "Information Visualization",
+        "Principles of Urban Informatics",
+        "Realtime Big Data Analytics",
+        "Spatial Analytics"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Flooding, Public Parks, & Marshes"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ellen-terchila-4530845/",
+      "text": "VP Global Customer Success at Sailthru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ron-rothman/",
+      "text": "Feed Me Hard Problems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/consultmo/",
+      "text": "Tech Recruiter at Beeswax | Organizer at hackhalal <he/him>"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shamimsamadi/",
+      "text": "Co-founder, Product @ Beeswax"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joseph-cofino-51825524/",
+      "text": "Strategic Partnerships at Beeswax"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivia-jacobs-061a7a117/",
+      "text": "Staffing Coordinator at Certified Source Staffing Professionals"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnmarcusphillips/",
+      "text": "Global Head of ProServ at Beeswax"
+    },
+    {
+      "user": "https://www.linkedin.com/in/antoaneta-vanc-b917b613/",
+      "text": "Associate Professor, Strategic Communication Department at Quinnipiac University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charleskeinath/",
+      "text": "\"If You’re Offered a Seat on a Rocket Ship, You Don’t Ask What Seat. You Just Get On.”"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peter-luo-438a9b51/",
+      "text": "Solutions Consultant at Beeswax"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joe McLaughlin",
+    "headline": "Data Scientist at Beeswax",
+    "location": "Brooklyn, New York",
+    "connections": "276",
+    "summary": "Resume"
+  }
+}

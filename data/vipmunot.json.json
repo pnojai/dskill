@@ -1,0 +1,226 @@
+{
+  "profileAlternative": {
+    "name": "Vipul Munot",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "A dynamic 3 plus years of experience with hand-in-hand responsibilities of web development, Report development, Migration, Manual Testing and Cognos administration.\nI recently graduation from Indiana University Bloomington with a Master of Science in Data Science.I am mainly interested in analyzing and developing solutions for real life problems.\nThrough my courses here at IUB, I have gained experience on how to tackle the unstructured nature of language in the form of text and dialogues and build models and parser around them so that the raw text can be used for making informative models.\nI am\n- Result oriented and believe in smart work.\n- Patient, adaptable and dedicated.\n- Outstanding ability to multitask and work in a fast paced environment.\n- Ability to work efficiently both independently and within a group.\n- Skilled to analyze process and resolve issues."
+  },
+  "aboutAlternative": {
+    "text": "A dynamic 3 plus years of experience with hand-in-hand responsibilities of web development, Report development, Migration, Manual Testing and Cognos administration.\nI recently graduation from Indiana University Bloomington with a Master of Science in Data Science.I am mainly interested in analyzing and developing solutions for real life problems.\nThrough my courses here at IUB, I have gained experience on how to tackle the unstructured nature of language in the form of text and dialogues and build models and parser around them so that the raw text can be used for making informative models.\nI am\n- Result oriented and believe in smart work.\n- Patient, adaptable and dedicated.\n- Outstanding ability to multitask and work in a fast paced environment.\n- Ability to work efficiently both independently and within a group.\n- Skilled to analyze process and resolve issues."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Indiana University Bloomington",
+      "degree": "Master of Science (MS)",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "IBS Business School, Pune",
+      "degree": "Master of Business Administration (MBA)",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {
+      "title": "University of Pune",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Data Mining",
+      "count": "4"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "12"
+    },
+    {
+      "title": "Testing",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "Cognos",
+      "count": "4"
+    },
+    {
+      "title": "MySQL",
+      "count": "20"
+    },
+    {
+      "title": "HTML",
+      "count": "31"
+    },
+    {
+      "title": "PHP",
+      "count": "17"
+    },
+    {
+      "title": "JavaScript",
+      "count": "29"
+    },
+    {
+      "title": "C++",
+      "count": "13"
+    },
+    {
+      "title": "C",
+      "count": "20"
+    },
+    {
+      "title": "Tableau",
+      "count": "1"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Team Management",
+      "count": "4"
+    },
+    {
+      "title": "Data Science"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/anurag-ramgopal-17065738/",
+        "text": "Hi, working with Vipul was always an pleasant experience, He is diligent, committed and focused. The thing I liked the most about Vipul was his ability to take critique and feedback effectively which in turn allowed us to collaborate and come with really unique and interesting solutions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/cbangera/",
+        "text": "Vipul M is a creative professional that works within deadlines finding solutions to any kind of issues. He is independently motivated,detail oriented, and works well with a team. I highly recommend him for an addition to your project, team or company."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/cbangera/",
+        "text": "I’ve had the privilege of working with Chetan for little more than 18 months and in that time I have known Chetan to be a well-grounded and down to earth colleague. He is pragmatic leader and realist who seems to grasp ideas holistically whilst still taking note to the more acute details. I found this to be incredibly valuable in working with him. He is an hard worker and value creator in the truest sense.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "Lending Club Project",
+        "Predicting the Stock Market",
+        "Weather App",
+        "Eventpal",
+        "Board game reviews",
+        "Finding Optimal Features for Credit Analysis",
+        "Kobe Bryant’s NBA career analysis",
+        "Amazon reviews Sentiment Analysis",
+        "Airline Delays",
+        "IU Bus System - Transit optimization"
+      ]
+    },
+    {
+      "count": "9",
+      "items": [
+        "Applied Machine Learning",
+        "Big Data Applications",
+        "Data Mining",
+        "Data Visualization",
+        "Information Visualization",
+        "Introduction to Statistics",
+        "Search",
+        "Sentiment Analysis",
+        "Social Media Mining"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Marwari"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amrutachavan/",
+      "text": "Data Scientist at Tory Burch"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dipikabandekar/",
+      "text": "SRE at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/parmeet08/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthiramakrishnan/",
+      "text": "Data Analyst at BDIPlus"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aishwarya-raut/",
+      "text": "Product Manager | Project Manager | Information Systems/Technology | Tech Enthusiast | NYU Alumni"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danielarahmani/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neilbardhan/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyasangale/",
+      "text": "Data Analyst at BDIPlus"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anusharamamurthy/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/preritanwekar/",
+      "text": "Machine Learning Engineer | Kaggle #1449 | Constant seeker"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Vipul Munot",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "A dynamic 3 plus years of experience with hand-in-hand responsibilities of web development, Report development, Migration, Manual Testing and Cognos administration.\nI recently graduation from Indiana University Bloomington with a Master of Science in Data Science.I am mainly interested in analyzing and developing solutions for real life problems.\nThrough my courses here at IUB, I have gained experience on how to tackle the unstructured nature of language in the form of text and dialogues and build models and parser around them so that the raw text can be used for making informative models.\nI am\n- Result oriented and believe in smart work.\n- Patient, adaptable and dedicated.\n- Outstanding ability to multitask and work in a fast paced environment.\n- Ability to work efficiently both independently and within a group.\n- Skilled to analyze process and resolve issues."
+  }
+}

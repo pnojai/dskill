@@ -1,0 +1,223 @@
+{
+  "profileAlternative": {
+    "name": "Alexandra Pappas",
+    "headline": "Data Scientist and Engineer!",
+    "location": "New York, New York",
+    "connections": "494",
+    "summary": "Current Data Engineer at Etsy. Previous Master's student in statistics at Stanford University with strong programming skills and over three years of experience on data-driven projects, and passionate about using data to solve complex problems, create better products, and create better experiences."
+  },
+  "aboutAlternative": {
+    "text": "Current Data Engineer at Etsy. Previous Master's student in statistics at Stanford University with strong programming skills and over three years of experience on data-driven projects, and passionate about using data to solve complex problems, create better products, and create better experiences."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "New York University",
+      "degree": "B.A.",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "Data Mining",
+      "count": "4"
+    },
+    {
+      "title": "Social Media",
+      "count": "6"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "5"
+    },
+    {
+      "title": "Marketing",
+      "count": "5"
+    },
+    {
+      "title": "Editing",
+      "count": "3"
+    },
+    {
+      "title": "Business Development",
+      "count": "1"
+    },
+    {
+      "title": "Public Relations",
+      "count": "2"
+    },
+    {
+      "title": "Strategy",
+      "count": "1"
+    },
+    {
+      "title": "Statistics",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "LaTeX"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "D3.js"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "2"
+    },
+    {
+      "title": "Version Control",
+      "count": "1"
+    },
+    {
+      "title": "Processing"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mahiryavuz/",
+        "text": "I worked with Alexandra at Seed Scientific more than two years and I really appreciated her communication and project management skills. She was the lead project manager for a big data driven campaign website in partnership with the UN and we completed the project with huge success. She has unique analytical and communication skills and more importantly she is the person who always comes up with the right questions. Working with Alexandra was a great experience all around!\nSee less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/charlenemanuel/",
+        "text": "As Alexandra's direct manager for more than three years, I had the privilege of guiding and witnessing her professional growth. During her tenure with Seed Scientific, her notable accomplishments include her role in executing Visualizing's data visualization hackathon program and leading the launch of a survey and analytics website in partnership with the UN. She possesses sharp analytical skills, the ability to distill complex ideas into simpler forms, and knows the right questions to ask to frame a problem and/or solution. Personable, hardworking, dynamic and dependable, I highly recommend Alexandra as she will be a valuable asset to any company. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/charlenemanuel/",
+        "text": "I had the tremendous opportunity of having Charlene as a manager for three years, during which time she nurtured my development from Community and Events Coordinator to Community and Events Manager. Charlene is an exceptionally talented and resourceful planner and an incredible brand strategist, adept at leveraging partnerships, launching campaigns, and defining messaging. She easily identifies areas for improvement and methodically implements change. Similarly as a manager, Charlene is skilled at analyzing an individual’s strengths and weaknesses and offering constructive feedback. Working with Charlene was a wonderful experience and prepared me well for future endeavors.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mahiryavuz/",
+        "text": "I had the privilege of being Mahir's colleague at Seed Scientific, where he was responsible for leading Seed Scientific's visualization projects in concept, design, and technology. In addition to Mahir’s exceptional design and technology skills, he is a great communicator that can explain complex concepts in simpler terms for different audiences and is also one that leads by example, always being professional, dependable, and excellent in his work. Many projects were team-oriented or involved a large number of collaborators/stakeholders, and Mahir was skilled at balancing these many interests. I highly recommend Mahir for any position, and I hope to work with him again in the future.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "Advanced Programming for Scientists and Engineers",
+        "Applied Matrix Theory",
+        "Data Mining and Analysis",
+        "Introduction to Data Visualization",
+        "Introduction to Databases",
+        "Introduction to Parallel Computing using MPI, openMP, and CUDA",
+        "Introduction to Stochastic Processes",
+        "Machine Learning",
+        "Modern Applied Statistics",
+        "Statistical Methods for Group Comparisons and Causal Inference"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Visualizing Global Marathon",
+        "Visualizing Marathon 2011"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ethan-weber-809b7698/",
+      "text": "Data Scientist at Farfetch"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarah-tanguay-72b65b20/",
+      "text": "Talent Acquisition at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthaemanuele/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mfergis/",
+      "text": "Senior Data Scientist @ Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruirui-yu/",
+      "text": "Data Scientist at Stash"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishwabhuta/",
+      "text": "Data Scientist at Etsy in New York City"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raphael-louca-7329b476/",
+      "text": "Senior Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stanrozenraukh/",
+      "text": "Senior Staff Software Engineer / Systems Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moumitab/",
+      "text": "Senior Data Scientist (Machine Learning)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sonya-rauschenbach-36a8aa88/",
+      "text": "Forecasting Data Analyst at Etsy"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Alexandra Pappas",
+    "headline": "Data Scientist and Engineer!",
+    "location": "New York, New York",
+    "connections": "494",
+    "summary": "Current Data Engineer at Etsy. Previous Master's student in statistics at Stanford University with strong programming skills and over three years of experience on data-driven projects, and passionate about using data to solve complex problems, create better products, and create better experiences."
+  }
+}

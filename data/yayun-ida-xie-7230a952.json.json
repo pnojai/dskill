@@ -1,0 +1,210 @@
+{
+  "profileAlternative": {
+    "name": "Yayun (Ida) Xie",
+    "headline": "Data Scientist at JPMorgan Chase & Co.",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "JPMC"
+  },
+  "aboutAlternative": {
+    "text": "JPMC"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Georgetown University",
+      "degree": "Master's degree",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "Nanjing University",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "No.1 Middle School of Longyan",
+      "date1": "2005",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "35"
+    },
+    {
+      "title": "SAS",
+      "count": "25"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "25"
+    },
+    {
+      "title": "Data Mining",
+      "count": "19"
+    },
+    {
+      "title": "Statistics",
+      "count": "12"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "5"
+    },
+    {
+      "title": "Research",
+      "count": "4"
+    },
+    {
+      "title": "Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Matlab",
+      "count": "18"
+    },
+    {
+      "title": "SQL",
+      "count": "17"
+    },
+    {
+      "title": "SPSS",
+      "count": "14"
+    },
+    {
+      "title": "LaTeX",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Visual C++",
+      "count": "5"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "14"
+    },
+    {
+      "title": "Certificated in SAS Advance Programming for SAS 9.0",
+      "count": "3"
+    },
+    {
+      "title": "SOA EXAM P/1",
+      "count": "3"
+    },
+    {
+      "title": "SOA EXAM FM/2",
+      "count": "3"
+    },
+    {
+      "title": "SOA EXAM MFE/3",
+      "count": "2"
+    },
+    {
+      "title": "CFA Level 2",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Bayesian Statistic Analysis",
+        "Deterministic Math Models",
+        "MATLAB, SAS and R Learning",
+        "Mathematical Statistics",
+        "Multivariate Analysis",
+        "Numerical Methods",
+        "Regression",
+        "Stochastic Simulation"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cantonese",
+        "English",
+        "Mandarin Chinese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/wentaosu/",
+      "text": "Data Scientist at JPMorgan Chase"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karthikkrishnaiyengar/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/fei-feng-1b6aba82/",
+      "text": "Data Science & Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/achang26/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhangjill/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-dai/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/zan-li/",
+      "text": "Vice President, Data Science at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anant-atyam-phd-080aaa40/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruyao-zhang/",
+      "text": "Associate at JPMorgan Chase & Co"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yayun (Ida) Xie",
+    "headline": "Data Scientist at JPMorgan Chase & Co.",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "JPMC"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "profileAlternative": {
+    "name": "Lanny Fox",
+    "headline": "Data Scientist at Capital One",
+    "location": "Washington, District Of Columbia",
+    "connections": "476"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Georgetown University",
+      "degree": "Master of Science (MS)",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "Brown University",
+      "degree": "BA",
+      "date1": "2005",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Quantitative Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Statistics",
+      "count": "3"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Quantitative Research",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "6"
+    },
+    {
+      "title": "Energy Audits",
+      "count": "3"
+    },
+    {
+      "title": "Public Policy",
+      "count": "2"
+    },
+    {
+      "title": "Report Writing",
+      "count": "1"
+    },
+    {
+      "title": "Data Mining"
+    },
+    {
+      "title": "Analytics"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Relational Databases"
+    },
+    {
+      "title": "Teaching",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Sampling"
+    },
+    {
+      "title": "Predictive Analytics"
+    },
+    {
+      "title": "Predictive Modeling"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/fernando-melchor/",
+      "text": "Data Scientist at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swetha-kalapala-3965b2126/",
+      "text": "Software Engineer at TGS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danti-chen-ph-d-00ba6396/",
+      "text": "Head of Applied Data Science & Insights, Global Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/regula/",
+      "text": "Manager, Data Science at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rzachlamberty/",
+      "text": "Data Scientist at Storyblocks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scott-james-a294626a/",
+      "text": "Data Scientist at PAR Framework, a Division of Hobsons"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-lutes-59135962/",
+      "text": "Data Scientist at Quantifind"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dubeabhishek/",
+      "text": "Machine Learning and Data Science at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rmcgibony/",
+      "text": "Applied Data Science Lead at Civis Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timxflin/",
+      "text": "Data Scientist at dv01"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Lanny Fox",
+    "headline": "Data Scientist at Capital One",
+    "location": "Washington, District Of Columbia",
+    "connections": "476"
+  }
+}

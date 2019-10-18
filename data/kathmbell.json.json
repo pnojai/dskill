@@ -1,0 +1,229 @@
+{
+  "profileAlternative": {
+    "name": "Katherine M. Bell",
+    "headline": "Data Scientist | Data Analyst",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Analytics professional with experience working with data for clients across a number of industries developing insights for sales and marketing teams, and senior stakeholders. Experience working at early-stage startups in operations and account management roles delivering data-driven analysis to platform partners. Recent work includes applying unsupervised clustering algorithms to hiring and using NLP and unsupervised learning to classify S-1 documents.\n\n• Skills: Python, SQL, MongoDB, Machine Learning algorithms\n• Education: Degree in Urban Studies, Metis Data Science Bootcamp Alumn"
+  },
+  "aboutAlternative": {
+    "text": "Analytics professional with experience working with data for clients across a number of industries developing insights for sales and marketing teams, and senior stakeholders. Experience working at early-stage startups in operations and account management roles delivering data-driven analysis to platform partners. Recent work includes applying unsupervised clustering algorithms to hiring and using NLP and unsupervised learning to classify S-1 documents.\n\n• Skills: Python, SQL, MongoDB, Machine Learning algorithms\n• Education: Degree in Urban Studies, Metis Data Science Bootcamp Alumn"
+  },
+  "positions": [
+    {
+      "title": "Metis",
+      "description": "-Act as a resource for students learning the EDA process, machine learning algorithms, developing and deploying web applications, and data visualization.\n-Recommend optimal specifications for project design, data pipelines, and debugging, as well as tactics to overcome technical obstacles.\n-Provided code reviews for 25 students to identify areas of improvement and provide detailed notes for optimal implementation.",
+      "date1": "Sep 2019 – Present",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Data Science Teaching Assistant",
+          "date1": "Sep 2019 – Present",
+          "date2": "2 mos"
+        },
+        {
+          "title": "Data Science Fellow",
+          "date1": "Jul 2019 – Sep 2019",
+          "date2": "3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Independent Consultant",
+      "description": "Data analysis consultant. Worked with a variety of clients across industries to analyze their data and develop dashboards. Industries included food import companies, distribution services, startups and nonprofits.\n... ",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The College of Wooster",
+      "degree": "Bachelor of Arts (BA)",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Data Modeling"
+    },
+    {
+      "title": "Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Research",
+      "count": "6"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "10"
+    },
+    {
+      "title": "Public Policy",
+      "count": "2"
+    },
+    {
+      "title": "Policy Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Grant Writing",
+      "count": "2"
+    },
+    {
+      "title": "Urban Planning",
+      "count": "3"
+    },
+    {
+      "title": "Event Planning",
+      "count": "3"
+    },
+    {
+      "title": "Editing",
+      "count": "4"
+    },
+    {
+      "title": "Sustainability",
+      "count": "2"
+    },
+    {
+      "title": "Political Campaigns"
+    },
+    {
+      "title": "Program Development",
+      "count": "3"
+    },
+    {
+      "title": "Social Media",
+      "count": "3"
+    },
+    {
+      "title": "Program Evaluation",
+      "count": "2"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Community Outreach",
+      "count": "5"
+    },
+    {
+      "title": "Community Development",
+      "count": "3"
+    },
+    {
+      "title": "Fundraising",
+      "count": "2"
+    },
+    {
+      "title": "Volunteer Management",
+      "count": "1"
+    },
+    {
+      "title": "Community Organizing",
+      "count": "2"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "3"
+    },
+    {
+      "title": "Grants",
+      "count": "2"
+    },
+    {
+      "title": "Email Campaigning"
+    },
+    {
+      "title": "Database Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/kaitlyntrabucco/",
+        "text": "Katherine is one of the smartest people I have ever worked with. She is always learning new things, teaching herself and challenging herself. She brings value to any team that she joins and rolls up her sleeves to get the job done. Any team would be lucky to have her!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/craig-chaffee-905104107/",
+        "text": "Katherine is a ball of awesome. In a matter of months she picked up SQL and could write new queries using a complicated schema. She is a person you want to have around in a crisis situation: level-headed and practical even under pressure. Her positive, helpful personality is infectious and makes everyone around her better. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/michael-ramsey/",
+      "text": "Data Science Fellow at Galvanize, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/aarondfrederick/",
+      "text": "Data Scientist at eHealth, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/antoniaantonova/",
+      "text": "Data Science at Autodesk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessyyu77/",
+      "text": "Data Analyst at Rockstar Games"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelaszuminwu/",
+      "text": "Data Scientist at Metis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adeckert23/",
+      "text": "Data Scientist @ Galvanize"
+    },
+    {
+      "user": "https://www.linkedin.com/in/travis-j-griffin/",
+      "text": "Leader I Veteran I MBA Candidate at Washington University in St. Louis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hannahrosegorman/",
+      "text": "Data Analyst at Adweek"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peter-woolverton-b58a7583/",
+      "text": "Data Analyst at Fidelity Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aiyizhang/",
+      "text": "Data Scientist at Aptus Health"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Katherine M. Bell",
+    "headline": "Data Scientist | Data Analyst",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Analytics professional with experience working with data for clients across a number of industries developing insights for sales and marketing teams, and senior stakeholders. Experience working at early-stage startups in operations and account management roles delivering data-driven analysis to platform partners. Recent work includes applying unsupervised clustering algorithms to hiring and using NLP and unsupervised learning to classify S-1 documents.\n\n• Skills: Python, SQL, MongoDB, Machine Learning algorithms\n• Education: Degree in Urban Studies, Metis Data Science Bootcamp Alumn"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "profileAlternative": {
+    "name": "Michelle Fergis",
+    "headline": "Senior Data Scientist @ Etsy",
+    "location": "Brooklyn, New York",
+    "connections": "378"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "The Wharton School",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Pennsylvania",
+      "degree": "Bachelor of Applied Science (B.A.Sc.)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "Felix Varela Senior High School",
+      "degree": "Valedictorian",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Undergraduate Data Analytics Team",
+        "Wharton Latino Undergraduate Association",
+        "Soundworks Tap Factory"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Dean's List"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rory-michelen-7a751a68/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthaemanuele/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-hollenberg-23941857/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrampappas/",
+      "text": "Data Scientist and Engineer!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perry-davidoff-b1b49462/",
+      "text": "Senior Data Scientist, Analytics at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishwabhuta/",
+      "text": "Data Scientist at Etsy in New York City"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raphael-louca-7329b476/",
+      "text": "Senior Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoting-zhao-6001261b/",
+      "text": "Senior Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/callie-mcree-66025792/",
+      "text": "Product Manager at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moumitab/",
+      "text": "Senior Data Scientist (Machine Learning)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Michelle Fergis",
+    "headline": "Senior Data Scientist @ Etsy",
+    "location": "Brooklyn, New York",
+    "connections": "378"
+  }
+}

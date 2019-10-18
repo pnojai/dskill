@@ -1,0 +1,289 @@
+{
+  "profileAlternative": {
+    "name": "Apurvaa Subramaniam",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I am interested in helping organizations and people improve their decision-making processes through data.\n\nProject Portfolio and blog: www.apurvaa.com\n\nSkills:\nProficient in Python, Java, R, SQL.\nExperience with Hadoop (MapReduce), JavaScript, D3, A/B Testing,Spark, AWS, Tableau, Unix, ElasticSearch.\n\nI am currently enrolled in the MS in Analytics program at Northwestern University and have completed several projects with real world data sets using machine learning and data science techniques such as deep learning, social network analysis, predictive modeling, unsupervised learning, data visualization and MapReduce (big data).\nAdditionally, I have strong programming and communication skills. I graduated from NTU Singapore with a degree in Computer Engineering and worked in Goldman Sachs as a software engineer for 3+ years.\n\nGitHub which contains code samples from Analytics class projects: https://github.com/apurvaa7"
+  },
+  "aboutAlternative": {
+    "text": "I am interested in helping organizations and people improve their decision-making processes through data.\n\nProject Portfolio and blog: www.apurvaa.com\n\nSkills:\nProficient in Python, Java, R, SQL.\nExperience with Hadoop (MapReduce), JavaScript, D3, A/B Testing,Spark, AWS, Tableau, Unix, ElasticSearch.\n\nI am currently enrolled in the MS in Analytics program at Northwestern University and have completed several projects with real world data sets using machine learning and data science techniques such as deep learning, social network analysis, predictive modeling, unsupervised learning, data visualization and MapReduce (big data).\nAdditionally, I have strong programming and communication skills. I graduated from NTU Singapore with a degree in Computer Engineering and worked in Goldman Sachs as a software engineer for 3+ years.\n\nGitHub which contains code samples from Analytics class projects: https://github.com/apurvaa7"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Northwestern University",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "Nanyang Technological University",
+      "degree": "Bachelor of Engineering (Honors)",
+      "date1": "2008",
+      "date2": "2012"
+    },
+    {
+      "title": "Technische Universität München",
+      "degree": "Study Abroad Semester",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "UC Berkeley",
+      "degree": "Summer School",
+      "date1": "2009",
+      "date2": "2009"
+    },
+    {
+      "title": "Delhi Public School - R. K. Puram",
+      "degree": "High School",
+      "date1": "2006",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "22"
+    },
+    {
+      "title": "Java",
+      "count": "19"
+    },
+    {
+      "title": "Software Development",
+      "count": "10"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "5"
+    },
+    {
+      "title": "Writing",
+      "count": "1"
+    },
+    {
+      "title": "SDLC",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "14"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "Hadoop",
+      "count": "4"
+    },
+    {
+      "title": "MapReduce",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "Tableau",
+      "count": "3"
+    },
+    {
+      "title": "SAS",
+      "count": "3"
+    },
+    {
+      "title": "VBA",
+      "count": "4"
+    },
+    {
+      "title": "D3.js",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "A/B Testing",
+      "count": "1"
+    },
+    {
+      "title": "Social Network Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Text Analytics",
+      "count": "1"
+    },
+    {
+      "title": "OPL",
+      "count": "1"
+    },
+    {
+      "title": "Data Science",
+      "count": "3"
+    },
+    {
+      "title": "Data Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Apache Pig",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "21",
+      "items": [
+        "Ancient Egypt",
+        "Artificial Intelligence",
+        "Astronomy",
+        "Big Data",
+        "Computer Architecture",
+        "Computer Simulation for Risk and Operations",
+        "Cryptography",
+        "Data Mining",
+        "Data Structures and Object-Oriented Programming",
+        "Data Visualization"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "Chi Hack Night: Predicting level of e-coli in Chicago beaches",
+        "Optimization Project: Kellogg Education Technology Incubator (KETI)",
+        "Deep Learning Image Recognition: Detecting Distracted Drivers",
+        "Industry Project: Chicago Park District",
+        "Social Network Analytics: What Makes a Kaggle Team Successful",
+        "Data Mining: SuddenLink Project",
+        "Kaggle Airbnb Contest: Predict First Booking Destination for New Customers",
+        "Predictive Analytics: Logistic and Multiple Regression Models to Predict Sales",
+        "Text Analytics: Yahoo Questions and Answers",
+        "Final Year Project: Autonomous Humans in Virtual World"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "German",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Tuition Grant"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/liu-yang-ph-d-04523766/",
+      "text": "Data Scientist III at Amazon. We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunmengjin/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prateek-agrawal1991/",
+      "text": "Data Scientist at Amazon | AWS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phamnina/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sravanthip/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/praveenguptas/",
+      "text": "Data Scientist at Amazon | Kaggler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vynguyent/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunercat/",
+      "text": "Sr. Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjalkarshruti/",
+      "text": "Data Scientist at Amazon (Alexa AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xgong/",
+      "text": "Data Scientist - Amazon Alexa AI"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Mentor- Computer Workshop",
+      "experience": "aidha",
+      "description": "Education",
+      "date1": "May 2013 – May 2014",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Mathematics and Science Tutor",
+      "experience": "Rotary Club",
+      "description": "Education",
+      "date1": "Aug 2011 – Jun 2012",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Youth Olympics News Reporter",
+      "experience": "Singapore Youth Olympics Games OC",
+      "description": "Social Services",
+      "date1": "Feb 2010 – Aug 2010",
+      "date2": "7 mos"
+    }
+  ],
+  "profile": {
+    "name": "Apurvaa Subramaniam",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I am interested in helping organizations and people improve their decision-making processes through data.\n\nProject Portfolio and blog: www.apurvaa.com\n\nSkills:\nProficient in Python, Java, R, SQL.\nExperience with Hadoop (MapReduce), JavaScript, D3, A/B Testing,Spark, AWS, Tableau, Unix, ElasticSearch.\n\nI am currently enrolled in the MS in Analytics program at Northwestern University and have completed several projects with real world data sets using machine learning and data science techniques such as deep learning, social network analysis, predictive modeling, unsupervised learning, data visualization and MapReduce (big data).\nAdditionally, I have strong programming and communication skills. I graduated from NTU Singapore with a degree in Computer Engineering and worked in Goldman Sachs as a software engineer for 3+ years.\n\nGitHub which contains code samples from Analytics class projects: https://github.com/apurvaa7"
+  }
+}

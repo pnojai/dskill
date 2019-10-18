@@ -1,0 +1,198 @@
+{
+  "profileAlternative": {
+    "name": "Linda Liu",
+    "headline": "Data Scientist at Twitter",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Please kindly let me know what I can do to help when connecting with me :)"
+  },
+  "aboutAlternative": {
+    "text": "Please kindly let me know what I can do to help when connecting with me :)"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of San Francisco",
+      "degree": "Master’s Degree",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "University of Rochester",
+      "degree": "Bachelor of Applied Science (B.A.Sc.)",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "21"
+    },
+    {
+      "title": "Research",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "16"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "22"
+    },
+    {
+      "title": "Statistics",
+      "count": "14"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "5"
+    },
+    {
+      "title": "AutoCAD",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "15"
+    },
+    {
+      "title": "R",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Databases",
+      "count": "2"
+    },
+    {
+      "title": "LaTeX",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "Mathematica",
+      "count": "4"
+    },
+    {
+      "title": "LabVIEW",
+      "count": "1"
+    },
+    {
+      "title": "Teaching",
+      "count": "4"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "3"
+    },
+    {
+      "title": "Leadership",
+      "count": "4"
+    },
+    {
+      "title": "Data Science",
+      "count": "8"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "SFpal",
+        "Vungle.com - Influential Factors Identification for App Install Prediction"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Machine Learning by Andrew Ng"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Rochester Engineering David Fergusson Memorial Scholarship Recipient"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alejandro-ludert/",
+      "text": "Data Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jdubson/",
+      "text": "Product Manager & Data Scientist at Twitter | Ex-Facebook, Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sayanssanyal/",
+      "text": "Data Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanaz-bahargam-9182a034/",
+      "text": "Data and Machine Learning Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tina-peng-a08810107/",
+      "text": "Data Scientist, Machine Learning, Deep Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoshuowang/",
+      "text": "Senior Data Scientist at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tajdarra/",
+      "text": "Data Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phillipalonhayes/",
+      "text": "Data Science and Growth at Twitter"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Linda Liu",
+    "headline": "Data Scientist at Twitter",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Please kindly let me know what I can do to help when connecting with me :)"
+  }
+}

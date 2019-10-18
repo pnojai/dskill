@@ -1,0 +1,219 @@
+{
+  "profileAlternative": {
+    "name": "Rika Gorn",
+    "headline": "Data Scientist at Spring Health",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Rika has 10 years of experience working as a program manager and data wrangler at organizations dedicated to expanding access to social services for vulnerable populations. After receiving her MPA from the NYU Wagner School of Public Service in 2013, Rika developed a passion for translating data, which may often seem uninspiring or dry, into systems and program changes that improve the work and quality of organizations. She is dedicated to using new technologies, statistical analysis, strategic management, and program evaluation to create practical policy and organizational solutions for some of today’s most serious issues including mass incarceration, the school-to-prison pipeline, access to services for immigrants, and the lack of adequate healthcare and housing for indigent individuals, non-citizens, and people with serious mental health needs.\n\nFluent in Russian. Expert in R, SPSS and STATA statistical software. Proficient in SQL, PostgreSQL, Qualtrics, Access, ArcGIS, SAS Statistical Software, Tableau Software."
+  },
+  "aboutAlternative": {
+    "text": "Rika has 10 years of experience working as a program manager and data wrangler at organizations dedicated to expanding access to social services for vulnerable populations. After receiving her MPA from the NYU Wagner School of Public Service in 2013, Rika developed a passion for translating data, which may often seem uninspiring or dry, into systems and program changes that improve the work and quality of organizations. She is dedicated to using new technologies, statistical analysis, strategic management, and program evaluation to create practical policy and organizational solutions for some of today’s most serious issues including mass incarceration, the school-to-prison pipeline, access to services for immigrants, and the lack of adequate healthcare and housing for indigent individuals, non-citizens, and people with serious mental health needs.\n\nFluent in Russian. Expert in R, SPSS and STATA statistical software. Proficient in SQL, PostgreSQL, Qualtrics, Access, ArcGIS, SAS Statistical Software, Tableau Software."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University",
+      "degree": "Master of Public Administration (MPA)",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "Hunter College",
+      "degree": "Bachelor's degree",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "Bronx High School of Science",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Grant Writing",
+      "count": "10"
+    },
+    {
+      "title": "Grant Administration",
+      "count": "2"
+    },
+    {
+      "title": "SPSS",
+      "count": "7"
+    },
+    {
+      "title": "Program Development",
+      "count": "14"
+    },
+    {
+      "title": "Program Evaluation",
+      "count": "35"
+    },
+    {
+      "title": "Criminal Justice",
+      "count": "5"
+    },
+    {
+      "title": "Public Administration",
+      "count": "2"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "29"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "1"
+    },
+    {
+      "title": "Policy Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Stata",
+      "count": "6"
+    },
+    {
+      "title": "ArcGIS",
+      "count": "1"
+    },
+    {
+      "title": "SAS",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "1"
+    },
+    {
+      "title": "Community Outreach",
+      "count": "23"
+    },
+    {
+      "title": "Qualitative Research",
+      "count": "6"
+    },
+    {
+      "title": "Russian",
+      "count": "10"
+    },
+    {
+      "title": "Policy Writing",
+      "count": "3"
+    },
+    {
+      "title": "Grants",
+      "count": "19"
+    },
+    {
+      "title": "Policy",
+      "count": "12"
+    },
+    {
+      "title": "Hebrew",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Hebrew",
+        "Russian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Peer to Procure: How peer networks can support development by improving the quality of World Bank-funded procurements"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aprilyjkoh/",
+      "text": "CEO at Spring Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robert-watson-81b762a1/",
+      "text": "Vice President, Enterprise Partnerships at Spring Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kyle-mendes-51292856/",
+      "text": "Director Of Engineering at Spring Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elaine-clerkin-yang-9579588/",
+      "text": "VP, Operations at Lyra Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephaniegline/",
+      "text": "Data Scientist at Viome"
+    },
+    {
+      "user": "https://www.linkedin.com/in/simantov-yousoufov-211160a1/",
+      "text": "Software Engineer at Spring Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanaa-houston-876646139/",
+      "text": "Project Manager at Hush Beauty"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madelinestoddart/",
+      "text": "Disaster Recovery + Policy | MPA + RPCV"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nfurlotte/",
+      "text": "Senior R&D Scientist - Health and Machine Learning at 23andMe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amina-mohammadalipour-833967b/",
+      "text": "Postdoctoral Research Associate at Washington University in St. Louis"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Board Co-Chair",
+      "experience": "Students for Criminal Justice Reform at NYU",
+      "description": "Civil Rights and Social Action",
+      "date1": "Sep 2012 – May 2013",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Board Treasurer",
+      "experience": "The New York Consortium of Evaluators",
+      "description": "Social Services",
+      "date1": "Oct 2015 – Oct 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Board Secretary",
+      "experience": "Mishpucha Family Camping",
+      "description": "Arts and Culture",
+      "date1": "Nov 2016 – Nov 2017",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Rika Gorn",
+    "headline": "Data Scientist at Spring Health",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Rika has 10 years of experience working as a program manager and data wrangler at organizations dedicated to expanding access to social services for vulnerable populations. After receiving her MPA from the NYU Wagner School of Public Service in 2013, Rika developed a passion for translating data, which may often seem uninspiring or dry, into systems and program changes that improve the work and quality of organizations. She is dedicated to using new technologies, statistical analysis, strategic management, and program evaluation to create practical policy and organizational solutions for some of today’s most serious issues including mass incarceration, the school-to-prison pipeline, access to services for immigrants, and the lack of adequate healthcare and housing for indigent individuals, non-citizens, and people with serious mental health needs.\n\nFluent in Russian. Expert in R, SPSS and STATA statistical software. Proficient in SQL, PostgreSQL, Qualtrics, Access, ArcGIS, SAS Statistical Software, Tableau Software."
+  }
+}

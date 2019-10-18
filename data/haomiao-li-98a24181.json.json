@@ -1,0 +1,168 @@
+{
+  "profileAlternative": {
+    "name": "Haomiao Li",
+    "headline": "Data Scientist at Uber",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Yale University",
+      "degree": "Master’s Degree",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "William & Mary",
+      "degree": "Bachelor’s Degree",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "17"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "Python",
+      "count": "12"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "8"
+    },
+    {
+      "title": "Matlab",
+      "count": "4"
+    },
+    {
+      "title": "LaTeX",
+      "count": "6"
+    },
+    {
+      "title": "Stata",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "6"
+    },
+    {
+      "title": "Bloomberg",
+      "count": "3"
+    },
+    {
+      "title": "Capital IQ",
+      "count": "2"
+    },
+    {
+      "title": "Maple",
+      "count": "2"
+    },
+    {
+      "title": "Dealogic",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "27",
+      "items": [
+        "Abstract Algebra",
+        "Bayesian Inference & Data Analysis",
+        "Case studies",
+        "Computational Statistics",
+        "Corporate Finance Strategy",
+        "Data Analysis",
+        "Data Mining and Machine Learning",
+        "Data Structures",
+        "Elementary Analysis",
+        "Equity Markets/Portfolio Management"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Summa Cum Laude",
+        "Phi Beta Kappa",
+        "Alpha Lambda Delta Honor Society",
+        "Phi Eta Sigma Honor Society",
+        "Alpha Kappa Psi (Omega Chapter), Business Honor Fraternity",
+        "Dean's List"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/meishen-yang-18152358/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/afshineamidi/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chenyuehu/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karenawu/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhaozhenyu/",
+      "text": "Sr. Data Scientist II at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anji-yi-65262093/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jizhoufu/",
+      "text": "Data Science @ Uber"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Haomiao Li",
+    "headline": "Data Scientist at Uber",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  }
+}

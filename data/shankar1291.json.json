@@ -1,0 +1,247 @@
+{
+  "profileAlternative": {
+    "name": "Shankar Ramasubramanian",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "The University of Texas at Austin - Red McCombs School of Business",
+      "degree": "Master's Degree",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Shanmugha Arts, Science, Technology and Research Academy",
+      "degree": "Bachelor’s Degree",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Predictive Modeling",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "34"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "16"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Mining",
+      "count": "3"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "20"
+    },
+    {
+      "title": "Analytics",
+      "count": "18"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "7"
+    },
+    {
+      "title": "SAS Programming",
+      "count": "7"
+    },
+    {
+      "title": "R",
+      "count": "29"
+    },
+    {
+      "title": "Tableau",
+      "count": "13"
+    },
+    {
+      "title": "Python",
+      "count": "11"
+    },
+    {
+      "title": "SQL",
+      "count": "31"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "3"
+    },
+    {
+      "title": "Map reduce",
+      "count": "1"
+    },
+    {
+      "title": "Hadoop",
+      "count": "5"
+    },
+    {
+      "title": "VBA",
+      "count": "2"
+    },
+    {
+      "title": "SAS",
+      "count": "18"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Visual Basic for Applications (VBA)",
+      "count": "1"
+    },
+    {
+      "title": "Hive",
+      "count": "3"
+    },
+    {
+      "title": "Apache Pig"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "4"
+    },
+    {
+      "title": "Logistic Regression",
+      "count": "13"
+    },
+    {
+      "title": "Marketing Analytics",
+      "count": "5"
+    },
+    {
+      "title": "Customer Segmentation Strategy",
+      "count": "2"
+    },
+    {
+      "title": "Customer Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "5"
+    },
+    {
+      "title": "Octave"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "Advanced Predictive modeling",
+        "Decision Analysis",
+        "Financial Management",
+        "Introduction to Data Management",
+        "Introduction to Data programming",
+        "Introduction to Predictive modeling",
+        "Learning structures and Time series",
+        "Marketing Analytics I",
+        "Marketing analytics II",
+        "Optimization Techniques"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Profiling and segmentation of online visitors – HomeAway.com",
+        "Customer segmentation and Conjoint Analysis on Laptop preferences",
+        "Predicting Click Through Rate on Online Ads",
+        "Identifying Valued Repeat Buyers using Purchase History",
+        "Predicting car sales using sentimental analysis on online reviews",
+        "Reimplementing customer churn model in Apache Hive"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Malayalam",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Spot Award"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sravanthip/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hoiyi-ng/",
+      "text": "Sr. Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/voranikunj/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bijot/",
+      "text": "Data Scientist II at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phamnina/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liu-yang-ph-d-04523766/",
+      "text": "Data Scientist III at Amazon. We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sourabhpuri/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunercat/",
+      "text": "Sr. Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prateek-agrawal1991/",
+      "text": "Data Scientist at Amazon | AWS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shankar Ramasubramanian",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "500+"
+  }
+}

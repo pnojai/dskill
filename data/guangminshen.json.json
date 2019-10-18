@@ -1,0 +1,295 @@
+{
+  "profileAlternative": {
+    "name": "Guangmin Shen",
+    "headline": "Data Scientist at IBM",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Interdisciplinary background in Data Science and Business. Experience combining Statistics, Machine Learning, and business concepts to help drive strategy and operations.\n\n- Softwares and Tools:\nPython, Spark, Hadoop, Hive, Pandas, SQL, R, Shinny, Excel, Tableau, Google Analytics, Google Adwords, Baidu Analytics, Qualtrics, PowerPoint/Prezi, Redshift, S3, QlickSense, AWS, Tensorflow.\n\n- Statistics and Data Science:\nAPIs, Web Scraping, Exploratory Analysis, Predictive and Regression Modeling, Marketing Mix Modeling (MMM), Machine Learning, Text Mining(NLP), Hypothesis Test, Conjoint Analysis, CHAID, PCA, CART Model, Clustering, Decision Tree and Random Forest, ETL process.\n\n- Business Experience:\nRevenue Analysis, Pricing Modeling, Financial Analysis, Market Segmentation, A/B Testing, Business Plan, Product Analysis, Marketing Research, Economic Value Analysis."
+  },
+  "aboutAlternative": {
+    "text": "Interdisciplinary background in Data Science and Business. Experience combining Statistics, Machine Learning, and business concepts to help drive strategy and operations.\n\n- Softwares and Tools:\nPython, Spark, Hadoop, Hive, Pandas, SQL, R, Shinny, Excel, Tableau, Google Analytics, Google Adwords, Baidu Analytics, Qualtrics, PowerPoint/Prezi, Redshift, S3, QlickSense, AWS, Tensorflow.\n\n- Statistics and Data Science:\nAPIs, Web Scraping, Exploratory Analysis, Predictive and Regression Modeling, Marketing Mix Modeling (MMM), Machine Learning, Text Mining(NLP), Hypothesis Test, Conjoint Analysis, CHAID, PCA, CART Model, Clustering, Decision Tree and Random Forest, ETL process.\n\n- Business Experience:\nRevenue Analysis, Pricing Modeling, Financial Analysis, Market Segmentation, A/B Testing, Business Plan, Product Analysis, Marketing Research, Economic Value Analysis."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Rochester - Simon Business School",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Tianjin University of Technology",
+      "degree": "Bachelor's degree",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "25"
+    },
+    {
+      "title": "Marketing",
+      "count": "20"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "19"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "15"
+    },
+    {
+      "title": "Analytics",
+      "count": "15"
+    },
+    {
+      "title": "Economics",
+      "count": "12"
+    },
+    {
+      "title": "Market Research",
+      "count": "11"
+    },
+    {
+      "title": "Sales",
+      "count": "10"
+    },
+    {
+      "title": "Pricing",
+      "count": "9"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "8"
+    },
+    {
+      "title": "Statistics",
+      "count": "7"
+    },
+    {
+      "title": "Finance",
+      "count": "5"
+    },
+    {
+      "title": "Competitive Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Environmental Science",
+      "count": "5"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Project Management",
+      "count": "4"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "2"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Accounting",
+      "count": "1"
+    },
+    {
+      "title": "Energy Audits",
+      "count": "1"
+    },
+    {
+      "title": "data mining"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "13"
+    },
+    {
+      "title": "R",
+      "count": "12"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "SAS",
+      "count": "3"
+    },
+    {
+      "title": "Tableau",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "Google Analytics",
+      "count": "2"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "2"
+    },
+    {
+      "title": "Chinese",
+      "count": "1"
+    },
+    {
+      "title": "Data Science",
+      "count": "7"
+    },
+    {
+      "title": "APIs",
+      "count": "2"
+    },
+    {
+      "title": "Korean",
+      "count": "1"
+    },
+    {
+      "title": "Web Scraping",
+      "count": "1"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "Neural Networks"
+    },
+    {
+      "title": "machine lea"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "26",
+      "items": [
+        "Accounting and Finance Primer for Entrepreneurs",
+        "B2B Pricing",
+        "Basis of Analysis and Monitoring",
+        "C Programming Language",
+        "Cleaner Production",
+        "Data Science Specialization",
+        "Economics, Marketing and Strategy Primer for Entrepreneurs",
+        "Energy Systems' Economics and Modeling",
+        "Engineering Drawing and AUTOCAD",
+        "Environmental Ecology"
+      ]
+    },
+    {
+      "count": "9",
+      "items": [
+        "Text Predictive Modeling (Tools: R, Shinny)",
+        "Data Product for League of Legends APIs (Tools: R, Python, Shinny)",
+        "Economic Analysis for Solar PV (Tool: Excel)",
+        "Scanner Product-Line Pricing Modeling (Tools: Excel, VBA)",
+        "Business Plan for Mobile App",
+        "Product management for tablet ordering system",
+        "Consumer Insights Analysis (Tools: R, Tableau)",
+        "Financial Report Analysis for Apple Inc.",
+        "Social Media Listening (Tools: R, Python)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Chinese",
+        "English",
+        "Korean"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/xuyuhe/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiajingchen/",
+      "text": "Data Scientist at HBO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ava-huang/",
+      "text": "Data Scientist at IBM | Quantitative Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/williamqin0324/",
+      "text": "Data Analyst at MerlinSight| Actively Seeking full-time Data Analyst/ Scientist opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanyan-zhang-9b41b083/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ye-emily-hua/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/navyak21/",
+      "text": "Data Scientist at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pan-ding/",
+      "text": "Data Scientist at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonypaek/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vipmunot/",
+      "text": "Data Scientist"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Guangmin Shen",
+    "headline": "Data Scientist at IBM",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Interdisciplinary background in Data Science and Business. Experience combining Statistics, Machine Learning, and business concepts to help drive strategy and operations.\n\n- Softwares and Tools:\nPython, Spark, Hadoop, Hive, Pandas, SQL, R, Shinny, Excel, Tableau, Google Analytics, Google Adwords, Baidu Analytics, Qualtrics, PowerPoint/Prezi, Redshift, S3, QlickSense, AWS, Tensorflow.\n\n- Statistics and Data Science:\nAPIs, Web Scraping, Exploratory Analysis, Predictive and Regression Modeling, Marketing Mix Modeling (MMM), Machine Learning, Text Mining(NLP), Hypothesis Test, Conjoint Analysis, CHAID, PCA, CART Model, Clustering, Decision Tree and Random Forest, ETL process.\n\n- Business Experience:\nRevenue Analysis, Pricing Modeling, Financial Analysis, Market Segmentation, A/B Testing, Business Plan, Product Analysis, Marketing Research, Economic Value Analysis."
+  }
+}

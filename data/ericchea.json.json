@@ -1,0 +1,140 @@
+{
+  "profileAlternative": {
+    "name": "Eric Chea",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "424"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Weill Cornell Graduate School / Sloan-Kettering Cancer Institute",
+      "degree": "Ph.D.",
+      "date1": "2006",
+      "date2": "2011"
+    },
+    {
+      "title": "California State Polytechnic University, Pomona",
+      "degree": "B. S.",
+      "date1": "2001",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Biochemistry",
+      "count": "20"
+    },
+    {
+      "title": "Bioinformatics",
+      "count": "16"
+    },
+    {
+      "title": "Organic Chemistry",
+      "count": "13"
+    },
+    {
+      "title": "Cancer",
+      "count": "11"
+    },
+    {
+      "title": "Molecular Biology",
+      "count": "11"
+    },
+    {
+      "title": "Research",
+      "count": "11"
+    },
+    {
+      "title": "Clinical Trials",
+      "count": "10"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Science",
+      "count": "7"
+    },
+    {
+      "title": "Microbiology",
+      "count": "6"
+    },
+    {
+      "title": "Scientific Writing",
+      "count": "5"
+    },
+    {
+      "title": "Chemistry",
+      "count": "5"
+    },
+    {
+      "title": "Laboratory",
+      "count": "4"
+    },
+    {
+      "title": "Statistics",
+      "count": "4"
+    },
+    {
+      "title": "Pharmacology",
+      "count": "3"
+    },
+    {
+      "title": "Flow Cytometry",
+      "count": "3"
+    },
+    {
+      "title": "Infectious Diseases",
+      "count": "2"
+    },
+    {
+      "title": "LC-MS",
+      "count": "2"
+    },
+    {
+      "title": "Life Sciences",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/susan-kim/",
+        "text": "Eric is a wonderfully dedicated employee. He is passionate about data science and technology. He delivers results despite challenging situations (e.g. limited or changes in resources, expanded project scope, difficult stakeholders, etc.). Eric's professional maturity, methodical approach and thoughtfulness make him a valuable resource to any project, team or company. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Teochew"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Development of a minimal saponin vaccine adjuvant based on QS-21."
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Eric Chea",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "424"
+  }
+}

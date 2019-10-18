@@ -1,0 +1,202 @@
+{
+  "profileAlternative": {
+    "name": "Olivia Liao",
+    "headline": "Data Science at Stitch Fix, ex-Uber, Stanford, Biostatistics consultant",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Formerly Uber and Stanford. Experienced in building marketplace technologies, forecasting demand, developing and launching products worldwide.\nDeep knowledge in adaptive clinical trial design and biomarker-guided clinical studies.\nInterested in bridging between Data Science and Clinical Science."
+  },
+  "aboutAlternative": {
+    "text": "Formerly Uber and Stanford. Experienced in building marketplace technologies, forecasting demand, developing and launching products worldwide.\nDeep knowledge in adaptive clinical trial design and biomarker-guided clinical studies.\nInterested in bridging between Data Science and Clinical Science."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "Ph.D",
+      "date1": "2008",
+      "date2": "2012"
+    },
+    {
+      "title": "National Taiwan University",
+      "degree": "Bachelor's degree",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "11"
+    },
+    {
+      "title": "Statistics",
+      "count": "11"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "11"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "8"
+    },
+    {
+      "title": "Clinical Trials",
+      "count": "6"
+    },
+    {
+      "title": "Biostatistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Mining",
+      "count": "5"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "Research",
+      "count": "3"
+    },
+    {
+      "title": "Clinical Development",
+      "count": "2"
+    },
+    {
+      "title": "Clinical Research",
+      "count": "1"
+    },
+    {
+      "title": "Genetics",
+      "count": "1"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "1"
+    },
+    {
+      "title": "SAS Programming",
+      "count": "1"
+    },
+    {
+      "title": "Cancer"
+    },
+    {
+      "title": "Matlab",
+      "count": "5"
+    },
+    {
+      "title": "LaTeX",
+      "count": "3"
+    },
+    {
+      "title": "SAS",
+      "count": "2"
+    },
+    {
+      "title": "python",
+      "count": "1"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Biomarkers"
+    },
+    {
+      "title": "Survival Analysis"
+    },
+    {
+      "title": "Applied Mathematics"
+    },
+    {
+      "title": "Pharmacokinetics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Bayesian Statistics",
+        "Data Mining",
+        "Health Care Regulation, Finance, and Policy",
+        "Large scale simultaneous inference",
+        "Modern Applied Statistics: Elements of Statistical Learning",
+        "Monte Carlo Sampling",
+        "Programming in C++"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Chinese"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Adaptive choice of patient subgroup for comparing two treatments"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nisha-iyer-0081032a/",
+      "text": "Director of Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/isadora-nun-79b02030/",
+      "text": "Data Scientist at FLYR Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewstanek/",
+      "text": "Sr. Mgr of Data Science at Confluent (Hiring for multiple roles!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephaniejyee/",
+      "text": "Director of Data Science at Stitch Fix (Hiring!!!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timshoaf/",
+      "text": "Head of Data Science at FLYR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tatsianamaskalevich/",
+      "text": "Director of Data Science at Stitch Fix [Hiring!]"
+    },
+    {
+      "user": "https://www.linkedin.com/in/silvanus-lee-2827ab9/",
+      "text": "Cofounder at Basis AI. ex Uber, Dropbox."
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/franziska-bell-phd-00097992/",
+      "text": "Director of Data Science Platforms at Uber"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Olivia Liao",
+    "headline": "Data Science at Stitch Fix, ex-Uber, Stanford, Biostatistics consultant",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Formerly Uber and Stanford. Experienced in building marketplace technologies, forecasting demand, developing and launching products worldwide.\nDeep knowledge in adaptive clinical trial design and biomarker-guided clinical studies.\nInterested in bridging between Data Science and Clinical Science."
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "profileAlternative": {
+    "name": "Igor Elbert",
+    "headline": "SVP, Data Science at CB Insights",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced head of data science who believes in data-driven decision making. My passion is building efficient teams and transforming companies through effective and innovative use of data."
+  },
+  "aboutAlternative": {
+    "text": "Experienced head of data science who believes in data-driven decision making. My passion is building efficient teams and transforming companies through effective and innovative use of data."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Ukraine National University",
+      "degree": "MSc",
+      "date1": "1984",
+      "date2": "1991"
+    },
+    {
+      "title": "Kiev Institute for Cybernetics Aspiranture",
+      "degree": "PhD (ABD)"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Big Data",
+      "count": "65"
+    },
+    {
+      "title": "Software Development",
+      "count": "57"
+    },
+    {
+      "title": "Data Mining",
+      "count": "50"
+    },
+    {
+      "title": "Analytics",
+      "count": "42"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "33"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "22"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "20"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "18"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "16"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "15"
+    },
+    {
+      "title": "Scalability",
+      "count": "13"
+    },
+    {
+      "title": "Database Design",
+      "count": "11"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "10"
+    },
+    {
+      "title": "SOA",
+      "count": "10"
+    },
+    {
+      "title": "System Architecture",
+      "count": "10"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "6"
+    },
+    {
+      "title": "Architecture",
+      "count": "6"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "4"
+    },
+    {
+      "title": "Web Applications",
+      "count": "4"
+    },
+    {
+      "title": "ETL",
+      "count": "3"
+    },
+    {
+      "title": "Data Integration",
+      "count": "3"
+    },
+    {
+      "title": "Quantitative Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "2"
+    },
+    {
+      "title": "Business Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "2"
+    },
+    {
+      "title": "Solution Architecture",
+      "count": "1"
+    },
+    {
+      "title": "Software Design",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "38"
+    },
+    {
+      "title": "Databases",
+      "count": "19"
+    },
+    {
+      "title": "Java",
+      "count": "16"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "R",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "6"
+    },
+    {
+      "title": "Perl",
+      "count": "5"
+    },
+    {
+      "title": "SaaS",
+      "count": "3"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "3"
+    },
+    {
+      "title": "Hadoop",
+      "count": "1"
+    },
+    {
+      "title": "MapReduce",
+      "count": "4"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "19"
+    },
+    {
+      "title": "Data Science",
+      "count": "7"
+    },
+    {
+      "title": "Data Warehouse Architecture",
+      "count": "3"
+    },
+    {
+      "title": "Spark"
+    },
+    {
+      "title": "RapidMiner"
+    },
+    {
+      "title": "Natural Language Processing"
+    },
+    {
+      "title": "H2O"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "15",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/huangroger/",
+        "text": "Igor is my mentor during my service at Gilt. You rarely can find such a genius who is both creative and analytical. His passion for innovation and analytics has lead to several big initiatives that completely change how Gilt works. Highly recommend Igor to any organization that needs to instill a solid data-driven culture!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dvoeglazov/",
+        "text": "Igor's brilliant analytical skills ensure his MVP status within any software development team. During the time we worked together I admired his deep knowledge of IT architectures and their theoretical foundations. His skill set plus warm personality guarantees any project he is on is a success."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/eisenbergjoe/",
+        "text": "I had a pleasure dealing with Joe during his times at DataRobot and RapidMiner. He is very dedicated to assuring successful adoption of a product. Joe pays close attention to clients' requirements and constraints. Looking forward to working with Joe again.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/annaszostek/",
+        "text": "Anna is my best data scientist hire so far. Brilliant and diligent, she quickly won support and respect of her teammates and business users. Anna excelled at all stages of a data science process. I highly recommend Anna to any data-driven team. It was a great pleasure working with her.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Russian",
+        "Ukrainian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Google Trends Analysis"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Trickle-Down Preferences: Preferential Conformity to High Status Peers in Fashion Choices"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/huangroger/",
+      "text": "Marketing Intelligence @ Facebook. Alumni @Gilt, RtR, IBM, App Annie"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kelly-sooch-9703b610a/",
+      "text": "MS Data Science Candidate at NYU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melindahan/",
+      "text": "Chief Data Scientist at Dstillery"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maosamuel/",
+      "text": "Insights Analyst at TodayTix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brooklyndecker/",
+      "text": "Co-Founder at FINERY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emmamariehussein/",
+      "text": "Assistant Manager Of Product Development at The Style Shop"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katie-sohn-5b13b8b/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tami-cohen-0ba3073/",
+      "text": "Data Scientist at Borderfree"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanchezgil/",
+      "text": "Front-end Developer, Senior Producer, MIH Contributor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fwhigh/",
+      "text": "Senior Data Scientist at Netflix"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Igor Elbert",
+    "headline": "SVP, Data Science at CB Insights",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced head of data science who believes in data-driven decision making. My passion is building efficient teams and transforming companies through effective and innovative use of data."
+  }
+}

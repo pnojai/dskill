@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Fernando Melchor",
+    "headline": "Data Scientist at Discovery Inc",
+    "location": "New York, New York",
+    "connections": "451",
+    "summary": "Highly motivated Data Scientist with solid data and geo-spatial analysis skills seeking to design innovative products and services. Energetic team player focused on delivering high quality work with strong impact. 6 years of proven record in strategic thinking in various areas including engineering and product development. I have special interest in geospatial analysis, natural language processing, recommender systems and network analysis techniques.\n\nPassionate about cities and proficient at building professional relationships based on trust & respect, complemented by linguistic knowledge: (English, Spanish & French)\nhttps://obsidian-mirror.net/"
+  },
+  "aboutAlternative": {
+    "text": "Highly motivated Data Scientist with solid data and geo-spatial analysis skills seeking to design innovative products and services. Energetic team player focused on delivering high quality work with strong impact. 6 years of proven record in strategic thinking in various areas including engineering and product development. I have special interest in geospatial analysis, natural language processing, recommender systems and network analysis techniques.\n\nPassionate about cities and proficient at building professional relationships based on trust & respect, complemented by linguistic knowledge: (English, Spanish & French)\nhttps://obsidian-mirror.net/"
+  },
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "California OC Water Usage Benchmarking\nCore Technologies: Python, Pandas, Web-scraper, NLP, Gensim, word2vec, & APIs (Google, Yelp) in JSON format.\nLed a team of 4 to develop a water usage benchmark in CA by using public availabl... ",
+      "date1": "Oct 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "NYU Center for Urban Science + Progress",
+      "degree": "Master of Science (MSc)",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Instituto Francés de América Latina",
+      "degree": "DELF B2",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "degree": "Ingeniero Mecatrónico",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "Product Development"
+    },
+    {
+      "title": "Automotive"
+    },
+    {
+      "title": "Engineering"
+    },
+    {
+      "title": "Continuous Improvement"
+    },
+    {
+      "title": "Six Sigma"
+    },
+    {
+      "title": "Process Engineering"
+    },
+    {
+      "title": "Manufacturing"
+    },
+    {
+      "title": "Automation"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Big Data"
+    },
+    {
+      "title": "MS Project"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Catia"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Geographic Information Systems (GIS)"
+    },
+    {
+      "title": "Team Leadership"
+    },
+    {
+      "title": "Process Improvement"
+    },
+    {
+      "title": "DELMIA"
+    },
+    {
+      "title": "Spark"
+    },
+    {
+      "title": "Hive"
+    },
+    {
+      "title": "Geospatial Data"
+    },
+    {
+      "title": "Geostatistics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "California OC Water Usage Benchmarking",
+        "MTA-Subway Network & The L-Train Closure",
+        "Automated classification of Airbnb Listings (NYC)",
+        "USA Domestic Aviation Big Data Analysis",
+        "Predicting Ground-Level Ozone in Delhi with Support Vector Machine (SVM)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Francés",
+        "Inglés",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Dime cómo votas y te diré a qué bancada del Senado perteneces"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/xiao-guo-1416ba69/",
+      "text": "Data Scientist at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ianftwright/",
+      "text": "Data Scientist @ Quizlet"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yukun-wan/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhuoya-zhao-a2a73411b/",
+      "text": "Data Scientist at adMarketplace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lanny-fox-a8038a23/",
+      "text": "Data Scientist at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jordanvani/",
+      "text": "Data Scientist at Sayari Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/enriquesanzgonzalez/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/caroline-yao-/",
+      "text": "Data Scientist / Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timxflin/",
+      "text": "Data Scientist at dv01"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-mcgrath-1561671/",
+      "text": "Group SVP & Chief Data Officer at Discovery Inc"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Fernando Melchor",
+    "headline": "Data Scientist at Discovery Inc",
+    "location": "New York, New York",
+    "connections": "451",
+    "summary": "Highly motivated Data Scientist with solid data and geo-spatial analysis skills seeking to design innovative products and services. Energetic team player focused on delivering high quality work with strong impact. 6 years of proven record in strategic thinking in various areas including engineering and product development. I have special interest in geospatial analysis, natural language processing, recommender systems and network analysis techniques.\n\nPassionate about cities and proficient at building professional relationships based on trust & respect, complemented by linguistic knowledge: (English, Spanish & French)\nhttps://obsidian-mirror.net/"
+  }
+}
