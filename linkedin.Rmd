@@ -15,31 +15,22 @@ library(tidyr)
 library(dplyr)
 library(jsonlite)
 library(purrr)
-library(ggplot2)
 library(janitor)
+library(ggplot2)
+library(reshape2)
+library(plyr)
+library(zoo)
+library(RMariaDB)
 ```
 
 ```{r}
-# https://stats.idre.ucla.edu/r/faq/how-can-i-time-my-code/
-ptm <- proc.time()
-g <- rnorm(100000)
-h <- rep(NA, 100000)
-
 # load all JSON
-filenames <- list.files("../scrapedin-linkedin-crawler-master/crawledProfiles/", pattern="*.json", full.names=TRUE) # this should give you a character vector, with each file name represented by an entry
+filenames <- list.files("./data", pattern="*.json", full.names=TRUE) # this should give you a character vector, with each file name represented by an entry
 myJSON <- lapply(filenames, function(x) fromJSON(txt = x)) # a list in which each element is one of your original JSON files
-
 myJSON
-
-# time code
-h <- g + 1
-print(proc.time() - ptm)
 ```
 
 ```{r}
-g <- rnorm(100000)
-h <- rep(NA, 100000)
-
 # create lists to populate with data
 headline <- list()
 connections <- list()
@@ -58,98 +49,198 @@ location <- unlist(location)
 
 # load list objects into dataframe
 tidy.agg <- data.frame(headline, connections, location)
-#names(tidy.agg) <- c(headline, connections, location)
-tidy.agg
 
-# time code
-h <- g + 1
-print(proc.time() - ptm)
+tidy.agg
 ```
 
 ```{r}
-g <- rnorm(100000)
-h <- rep(NA, 100000)
-
-# todo: figure out how to handle "skills" data
+# grab skills data 
 skills.list = list()
 for (i in myJSON ) {
-    skills <- data.frame(i$skills, i$profile$headline) # this needs to be okay with missing data
-    skills.list <- rbind(skills.list, skills)
+    skills <- as.data.frame(as.matrix(merge(i$skills, i$profile$headline))) 
+    skills.list <- rbind.fill(skills.list, skills)
 }
 
 skills.list
 
-# time code
-h <- g + 1
-print(proc.time() - ptm)
+```
+
+
+
+```{r}
+# remove y[FALSE] column
+skills.list <- subset(skills.list, select = c(title, count, y))
+skills.list
+
 ```
 
 
 ```{r}
-g <- rnorm(100000)
-h <- rep(NA, 100000)
 
 # update count class to numeric
 skills.list$count <- as.numeric(skills.list$count)
+skills.list$y <- as.character(skills.list$y)
 
-# create mulitple key value columns
-df <- spread(skills.list, title, count)
-head(df)
-
-# time code
-h <- g + 1
-print(proc.time() - ptm)
 ```
 
 ```{r}
-g <- rnorm(100000)
-h <- rep(NA, 100000)
-
-# join two dataframes
-# r merge by rownames
-bigtable <- data.frame()
-big_table <- merge(skills.list, df, by = "i.profile.headline")
-
-big_table
-
-# time code
-h <- g + 1
-print(proc.time() - ptm)
-```
-
-```{r}
-# replace na values with 0 and update colnames
+# replaced na count values, update column names 
+df <- skills.list
 df[is.na(df)] <- 0
-colnames(df)[colnames(df)=="i.profile.headline"] <- "title"
+colnames(df)[colnames(df)=="title"] <- "skills"
+colnames(df)[colnames(df)=="y"] <- "title"
+
+
+```
+
+
+```{r}
+# write csv and upload to our mysql database
+write.csv(df, "df.csv")
+
+```
+
+
+
+```{r}
+# the load of the data to our will be from the databse (dbGetQuery(myDb, "select * from df"))
+df <- read.csv("df.csv")
+
+```
+
+
+```{r}
+# There are more than 145 skills, clean to data similar to 2018 data
+df <- subset(df, select = c(skills, count))
+colnames(df) <- c("Skills", "Linkedin")
 df
-#write.csv(df, file = "sample_linkedin--wide.csv", row.names = FALSE)
+
 ```
 
 ```{r}
-# another way to spread the scraped data
-df_2 <- spread(skills.list, i.profile.headline, count)
-df_2[is.na(df_2)] <- 0
-colnames(df_2)[colnames(df_2)=="title"] <- "skills"
-df_2
-#write.csv(df_2, file = "sample_linkedin--tall.csv", row.names = FALSE)
+# there are skills that is listed more than once. finding those
+n_occur <- data.frame(table(df$Skills))
+n_occur[n_occur$Freq > 1,]
+
 ```
 
 ```{r}
-# add total column with total values
-df_2$total <- rowSums(df_2[2:6])
-df_2
+# we need to add the count of the duplicate skills rows 
+
+df <- aggregate(Linkedin ~ Skills, dat=df, FUN=sum)
+df
+
+
 ```
 
 ```{r}
-# distribution of each skill set 
-ggplot(df_2, aes(total))+
-  geom_histogram()
+# data is collected and ready to be analyzed at this point
+summary(df)
+str(df)
+
+```
+
+```{r}
+
+#We have 1157 observations (skills) that data science roles use in linkedin
+#let's see the distribution
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=Skills, y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+```
+
+```{r}
+# we have way too many skills so let's only focus on the ones that has significant count
+
+df <- filter(df, Linkedin >100)
+df
+
+```
+
+```{r}
+# we narrowed it down to 57 skills. Let's see how distribution works.
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=Skills, y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+
+```
+
+```{r}
+
+# let's narrow it down further 
+df <- filter(df, Linkedin > 200)
+df
+
+```
+
+
+
+```{r}
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=reorder(Skills, Linkedin, fun=max), y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+```
+
+```{r}
+# load the data in the database and look at 2018 Linkedin Data
+user_name <- 'anil'
+user_password <- "redy2rok"
+database <- 'prj3'
+host_name <- 'msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com'
+
+#connecting to the MySQL database
+
+myDb <- dbConnect(RMariaDB::MariaDB(), user=user_name, password=user_password, dbname=database, host=host_name)
+myDb
 ```
 
 
 ```{r}
-# distribution with skills breakdown (needs work)
-ggplot(df_2, aes(total)) +
-  geom_histogram(aes(fill=skills),
-                 binwidth = 100) 
+#list of tables we have
+dbListTables(myDb)
+
 ```
+
+
+```{r}
+# lets load 2018 Linkedin Data
+skills_2018 <- dbGetQuery(myDb, "select * from ds_general_skills_clean")
+skills_2018$LinkedIn <- as.numeric(skills_2018$LinkedIn) # little cleanup
+skills_2018
+
+
+```
+
+
+```{r}
+# analyze briefly to see if there are differences
+theme_set(theme_classic())
+
+ggplot(skills_2018, aes(x=reorder(Keyword, LinkedIn, fun=max),y=LinkedIn))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+
+```
+
+
+
+
+
+
