@@ -39,9 +39,10 @@ load_prj3("ds_general_skills_clean")
 load_prj3("skills_raw")
 load_prj3("sample_linkedin_tall")
 load_prj3("payscale_data")
+load_prj3("df")
 
 dbListTables(con_local)
-dbListTables(con_aws)
+#dbListTables(con_aws)
 
 ## WORK PAPERS
 # sql <- "

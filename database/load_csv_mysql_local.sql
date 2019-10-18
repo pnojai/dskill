@@ -404,9 +404,9 @@ IGNORE 1 LINES;
 DROP table df;
 CREATE table df (
 `skill_id` INT,
-`skills` VARCHAR(500),
+`skills` VARCHAR(100),
 `count` INT,
-`title` VARCHAR(500)
+`title` VARCHAR(1000)
 );
 
 LOAD DATA INFILE '/var/lib/mysql-files/df.csv' 
