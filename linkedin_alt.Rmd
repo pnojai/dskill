@@ -166,7 +166,7 @@ agg_df_counts <- df_counts %>%
 agg_df_counts
 ```
 
-# Prepare data for storage
+### Prepare data for storage
 ```{r}
 
 # TODO: follow df.csv convention
@@ -177,7 +177,12 @@ agg_df_counts
 # remove automatic row names from write csv
 # Remove depr function
 #df_csv <- add_rownames(df, var = "skill_id")
+
+# NB: these are the original row id's based on R records
+# to generate skill_ids without skips for na's removed
+# use a seq
 df_csv <- tibble::rownames_to_column(df, var = "skill_id")
+df_csv$skill_id <- as.numeric(df_csv$skill_id)
 head(df_csv)
 
 # TODO: follow df.csv convention
@@ -188,9 +193,222 @@ head(df_csv)
 
 ```
 
-## Write to csv
+### Prepare data for SQL
+```{r}
+
+# TODO: 1) I think we just need a names () on the column missing the column name 
+# Done
+# TODO: 2) I have to research how to remove unicode 
+# suggest
+# rs <- dbSendQuery(con, 'SET NAMES utf8')
+# ALTER TABLE mytable CONVERT TO CHARACTER SET utf8mb4;
+
+# TODO: 3)remove termination of comma
+# TODO: can we try this: texts(df) <- iconv(texts(df, from = "UTF-8", to = "ASCII", sub = "")
+# https://cran.r-project.org/web/packages/quanteda/quanteda.pdf
+# stripped all the Unicode characters 
+# stripped all the commas from the fields for skill and title
+
+# Example of dirty data obtained with \d,"[^"]+,
+# line 256: "396","Python",31,"Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner"
+
+#x <- c("396","Python",31,"Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner")[4]
+#validUTF8(x)
+#validUTF8(xx)
+#xi <- stringi::stri_enc_toascii(x)
+#xi <- iconv(xi, "latin1", "ASCII", sub='')
+
+
+# Joe
+#library("quanteda")
+#dfs <-df
+#texts(dfs) <- iconv(texts(dfs, from = "UTF-8", to = "ASCII", sub = ""))
+
+#Convert Latin characters to UTF-8
+#convert_for_sql <- function(x) {
+#  Encoding(x) <- "latin1"
+#  x <-  iconv(x, "latin1", "UTF-8", sub='')
+#  x <- stringr::str_replace(x,",","")
+#  Encoding(x) <- "UTF-8"
+#  return(x)
+#}
+
+# Remove non-ASCII character codes
+df_csv$skills <- sapply(df_csv$skills, function(x) gsub('[^\x20-\x7E]', '', x))
+df_csv$title <- sapply(df_csv$title, function(x) gsub('[^\x20-\x7E]', '', x))
+head(df_csv)
+df_csv[256,]
+```
+
+
+
+### Write to csv
 ```{r}
 # write csv and upload to our mysql database
+# Encoding(df_csv)
 write.csv(df_csv, "results/df_alt.csv", row.names=FALSE)
 
 ```
+
+
+### Load the data from the database
+```{r}
+# load the data in the database and look at 2018 Linkedin Data
+user_name <- 'anil'
+user_password <- "redy2rok"
+database <- 'prj3'
+host_name <- 'msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com'
+
+#connecting to the MySQL database
+
+myDb <- dbConnect(RMariaDB::MariaDB(), user=user_name, password=user_password, dbname=database, host=host_name)
+myDb
+```
+
+### View tables
+
+```{r}
+#list of tables we have
+dbListTables(myDb)
+
+```
+
+
+```{r}
+# lets load 2018 Linkedin Data
+df <- dbGetQuery(myDb, "select * from df")
+df
+
+
+```
+`
+
+```{r}
+# There are more than 145 skills, clean to data similar to 2018 data
+df <- subset(df, select = c(skills, count))
+colnames(df) <- c("Skills", "Linkedin")
+df
+
+```
+
+```{r}
+# there are skills that is listed more than once. finding those
+n_occur <- data.frame(table(df$Skills))
+n_occur[n_occur$Freq > 1,]
+
+```
+
+```{r}
+# we need to add the count of the duplicate skills rows 
+
+df <- aggregate(Linkedin ~ Skills, dat=df, FUN=sum)
+df
+
+
+```
+
+```{r}
+# data is collected and ready to be analyzed at this point
+summary(df)
+str(df)
+
+```
+
+```{r}
+
+df$Skills <- as.character(df$Skills)
+df$Linkedin <- as.numeric(df$Linkedin)
+
+```
+
+
+```{r}
+
+#We have 1157 observations (skills) that data science roles use in linkedin
+#let's see the distribution
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=Skills, y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+```
+
+```{r}
+# we have way too many skills so let's only focus on the ones that has significant count
+
+df <- filter(df, Linkedin >100)
+df
+
+```
+
+```{r}
+# we narrowed it down to 57 skills. Let's see how distribution works.
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=Skills, y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+
+```
+
+```{r}
+
+# let's narrow it down further 
+df <- filter(df, Linkedin > 200)
+df
+
+```
+
+
+```{r}
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=reorder(Skills, Linkedin, fun=max), y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+```
+
+
+```{r}
+# lets load 2018 Linkedin Data from Jeff Hale.
+skills_2018 <- dbGetQuery(myDb, "select * from ds_general_skills_clean")
+skills_2018$LinkedIn <- as.numeric(skills_2018$LinkedIn) # little cleanup
+skills_2018
+
+
+```
+
+
+```{r}
+# analyze briefly to see if there are differences
+theme_set(theme_classic())
+
+ggplot(skills_2018, aes(x=reorder(Keyword, LinkedIn, fun=max),y=LinkedIn))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6)) +
+  labs(title = "Hale's 2018 findings")
+
+
+
+```
+
+# Conclusions
+The six data science skills most valued by employers in 2019 appear to be the following.
+
+1. Data analysis
+1. R
+1. Python
+1. SQL
+1. Statistics
+1. Machine learning
+
+Our approach differed from Mr. Hales. He investigated programming languages as a separate research question. Our approach commingles them. Therefore, though our high-ranking skills list includes the languages R, Python, and SQL, nothing is to be concluded from their absence from Hale's list. What we see in common are the skills of analysis, statistics, and machine learning. We believe the data tell a compelling story about investment in these disciplines.
