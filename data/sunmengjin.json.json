@@ -1,0 +1,209 @@
+{
+  "profileAlternative": {
+    "name": "Mengjin Sun",
+    "headline": "Data Scientist at Amazon",
+    "location": "Greater Seattle Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Tsinghua University",
+      "degree": "Bachelor's degree",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2015",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "9"
+    },
+    {
+      "title": "Matlab",
+      "count": "9"
+    },
+    {
+      "title": "Leadership",
+      "count": "8"
+    },
+    {
+      "title": "Project Management",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Management Consulting",
+      "count": "4"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "Assembly Language",
+      "count": "1"
+    },
+    {
+      "title": "Verilog",
+      "count": "1"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/josh-alexander-bb6b1844/",
+        "text": "Mengjin did a great job during her summer internship with the Strategy & Analytics team at Bargain Hunt. During her tenure she assisted in development of the merchandise allocation program through data mining, creation of store profiles, and merchandising analytics. Mengjin showed initiative in learning new skills and techniques to create positive results, as well as the ability to adapt to changing business needs while meeting established deadlines. She will be an asset to any organization she joins in her future career.\nSee less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "(MBA) Capital Market & Investments",
+        "(MBA) Service Operations Management",
+        "(MBA)Quantitative Pricing and Revenue Analytics",
+        "(MBA)Strategic Consumer Insights",
+        "Business Analytics for Operations Research",
+        "Computer Programming Basis",
+        "Data Mining",
+        "Game-Theoretical Business Strategy",
+        "Linear Algebra",
+        "Operations Consulting"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Movies Sales Prediction System, Python-Based Data Analytics",
+        "Thesis: Energy Storage System Size Optimization and Software Development in Micro Grids",
+        "Wireless Power Transfer and Alternating Magnetic Field Direction Measurement",
+        "Indoor PM2.5 Detecting and Air Cleaning"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Merits based Science and Technology Innovation Scholarship",
+        "Grand Prize, The 32nd Challenge-Cup Student Extracurricular Academic and Technology Contest"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Alternating magnetic field direction measuring system and device"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tracy-le-b0b183114/",
+      "text": "Data Scientist at Amazon | MS in Analytics| BA in Math & Economics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/varshini-ramaseshan-3b060739/",
+      "text": "Data Scientist at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phamnina/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xgong/",
+      "text": "Data Scientist - Amazon Alexa AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liu-yang-ph-d-04523766/",
+      "text": "Data Scientist III at Amazon. We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/limengyu/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vynguyent/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minghao-gai-59794a41/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prateek-agrawal1991/",
+      "text": "Data Scientist at Amazon | AWS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sravanthip/",
+      "text": "Data Scientist"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Audience Face painting volunteer",
+      "experience": "2013 China Tennis Open",
+      "date1": "Oct 2013",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Beijing International Garden Expo Volunteering Activity",
+      "date1": "Sep 2013 – Oct 2013",
+      "date2": "2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Mengjin Sun",
+    "headline": "Data Scientist at Amazon",
+    "location": "Greater Seattle Area",
+    "connections": "500+"
+  }
+}

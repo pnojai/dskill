@@ -1,0 +1,133 @@
+{
+  "profileAlternative": {
+    "name": "Anand Mangalam",
+    "headline": "Senior Data Scientist at J.P. Morgan",
+    "location": "Dallas/Fort Worth Area",
+    "connections": "215",
+    "summary": "My expertise is in market risk and credit risk models for fixed income securities, business banking and mortgage banking credit portfolios. In my current role at JP Morgan I build and deploy loss forecasting models across all asset classes under Asset & Wealth Management portfolio. I had a short tenure at DTCC, where I was building market risk models such as Value-at-Risk (VaR), Stressed VaR and Sensitivity VaR in the fixed income space."
+  },
+  "aboutAlternative": {
+    "text": "My expertise is in market risk and credit risk models for fixed income securities, business banking and mortgage banking credit portfolios. In my current role at JP Morgan I build and deploy loss forecasting models across all asset classes under Asset & Wealth Management portfolio. I had a short tenure at DTCC, where I was building market risk models such as Value-at-Risk (VaR), Stressed VaR and Sensitivity VaR in the fixed income space."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Oregon State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "University of Idaho",
+      "degree": "Master of Science (MS)",
+      "date1": "2002",
+      "date2": "2004"
+    },
+    {
+      "title": "COF, KAU"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "5"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "Credit Risk",
+      "count": "4"
+    },
+    {
+      "title": "Forecasting",
+      "count": "3"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Portfolio Management",
+      "count": "2"
+    },
+    {
+      "title": "Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Risk Management",
+      "count": "2"
+    },
+    {
+      "title": "Financial Risk",
+      "count": "2"
+    },
+    {
+      "title": "Financial Services",
+      "count": "2"
+    },
+    {
+      "title": "Commercial Banking",
+      "count": "1"
+    },
+    {
+      "title": "Banking",
+      "count": "1"
+    },
+    {
+      "title": "Credit Risk Modeling"
+    },
+    {
+      "title": "Business Banking"
+    },
+    {
+      "title": "SAS",
+      "count": "8"
+    },
+    {
+      "title": "Loss Forecasting"
+    },
+    {
+      "title": "Risk Analytics"
+    },
+    {
+      "title": "Mortgage Banking"
+    },
+    {
+      "title": "PD, LGD & EAD Models"
+    },
+    {
+      "title": "CCAR Modeling and Stress Testing"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/chenjie-shao-8505a321/",
+        "text": "Chenjie came to JP Morgan as summer intern in CCAR Risk Modeling and Analytics group. She has a strong background in financial modeling and statistical computing platforms such as R. Within a short span of two months she very well imbibed the logic behind loss forecasting. She is a quick learner and detail oriented. She has done an excellent work here in JP Morgan & Chase Credit Risk modeling See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anand Mangalam",
+    "headline": "Senior Data Scientist at J.P. Morgan",
+    "location": "Dallas/Fort Worth Area",
+    "connections": "215",
+    "summary": "My expertise is in market risk and credit risk models for fixed income securities, business banking and mortgage banking credit portfolios. In my current role at JP Morgan I build and deploy loss forecasting models across all asset classes under Asset & Wealth Management portfolio. I had a short tenure at DTCC, where I was building market risk models such as Value-at-Risk (VaR), Stressed VaR and Sensitivity VaR in the fixed income space."
+  }
+}

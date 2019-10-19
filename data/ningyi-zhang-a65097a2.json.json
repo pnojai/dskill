@@ -1,0 +1,215 @@
+{
+  "profileAlternative": {
+    "name": "Ningyi Zhang",
+    "headline": "Data Scientist (People Analytics) at Bloomberg",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Maryland College Park",
+      "degree": "Master's Degree",
+      "date1": "2014",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "8"
+    },
+    {
+      "title": "Tableau",
+      "count": "2"
+    },
+    {
+      "title": "Hadoop",
+      "count": "3"
+    },
+    {
+      "title": "Project Management",
+      "count": "5"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Market Research",
+      "count": "2"
+    },
+    {
+      "title": "Marketing Communications",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "Visio",
+      "count": "3"
+    },
+    {
+      "title": "Salesforce.com",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "SAS",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "5"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Management",
+      "count": "3"
+    },
+    {
+      "title": "HIVE",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Big Data",
+        "Bussiness Process Analysis for information system",
+        "Data Mining predictive analytics",
+        "Data models and decisions",
+        "Data network and infrastructure",
+        "Database management",
+        "Managing digital business market",
+        "Project managment",
+        "Strategic and transformational IT"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Data Mining Project for IMDB.COM",
+        "Purchasing Agent Inventory Management System Project"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dan-xie-36677930/",
+      "text": "Data Scientist at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chriscurro/",
+      "text": "Senior Data Scientist at PepsiCo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amla-srivastava/",
+      "text": "Data Scientist @ Bloomberg || Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pei-chloe-jin-25450926/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathieu-cliche-3698629a/",
+      "text": "Data Scientist at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jy-lu/",
+      "text": "Data Analytics, Strategic Insights at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ridhi-mahajan/",
+      "text": "Data Scientist at Bloomberg | Director's Gold Medalist at IIT Delhi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sherryjingxia/",
+      "text": "Data Scientist at Point72"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patrick-spencer/",
+      "text": "Data Scientist at Bloomberg Law"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ava-huang/",
+      "text": "Data Scientist at IBM | Quantitative Analysis"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Team Leader",
+      "experience": "Intangible Cultural Heritage Protection Social Practice Team",
+      "description": "Arts and Culture",
+      "date1": "2010",
+      "date2": "less than a year"
+    },
+    {
+      "title": "volunteer",
+      "experience": "City News Volunteer of 8thThe Disabled (national event)",
+      "description": "Social Services",
+      "date1": "2011",
+      "date2": "less than a year"
+    },
+    {
+      "title": "volunteer",
+      "experience": "Zhejiang Jinyun Changkeng Primary School",
+      "description": "Education",
+      "date1": "2011",
+      "date2": "less than a year"
+    }
+  ],
+  "profile": {
+    "name": "Ningyi Zhang",
+    "headline": "Data Scientist (People Analytics) at Bloomberg",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "profileAlternative": {
+    "name": "Chuheng Hu",
+    "headline": "McKinsey & Company - Data Scientist",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "Passionate about using data to advance education and training decisions.\n\nUndergraduate background in Applied Math, Statistics, and Finance.\nCFA level I (passed)\nMasters degree in Learning Analytics.\nWorking experience in Technical Training , Employee onboarding, Quantitative analyst, and Education Consultant."
+  },
+  "aboutAlternative": {
+    "text": "Passionate about using data to advance education and training decisions.\n\nUndergraduate background in Applied Math, Statistics, and Finance.\nCFA level I (passed)\nMasters degree in Learning Analytics.\nWorking experience in Technical Training , Employee onboarding, Quantitative analyst, and Education Consultant."
+  },
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Founder",
+      "description": "-EdTech Cafe\na bilingual WeMedia platform, strives to bridge the gaps between the Ed Tech insiders through sharing the latest news and groundbreaking work in a way that is friendly for different groups to engage in conversations and brainstorm for solutions.",
+      "date1": "Dec 2016 – Present",
+      "date2": "2 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "University of Toronto",
+      "degree": "Bachelor of Science (BSc) (Hons)",
+      "date1": "2012",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Excel",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "11"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "8"
+    },
+    {
+      "title": "Social Media",
+      "count": "7"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Research",
+      "count": "6"
+    },
+    {
+      "title": "photography",
+      "count": "5"
+    },
+    {
+      "title": "Education",
+      "count": "5"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "event planning",
+      "count": "4"
+    },
+    {
+      "title": "Drawing",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "7"
+    },
+    {
+      "title": "Github",
+      "count": "6"
+    },
+    {
+      "title": "spss",
+      "count": "4"
+    },
+    {
+      "title": "teamwork",
+      "count": "6"
+    },
+    {
+      "title": "Leadership",
+      "count": "6"
+    },
+    {
+      "title": "Teamwork",
+      "count": "6"
+    },
+    {
+      "title": "leadership",
+      "count": "5"
+    },
+    {
+      "title": "Public speaking",
+      "count": "5"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "5"
+    },
+    {
+      "title": "mandarin",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/kristianruggieri/",
+        "text": "I had the pleasure of working with Helen when she was an intern in the Technical Training department during the summer of 2017.\n\nHelen used her strong data analytics skills to manage and evaluate a pilot program with an online learning vendor. She reviewed user data, developed and delivered a written survey and conducted interviews with users to determine the relevance and value this service was providing. Her recommendation at the end of this project was to continue to work with this vendor.\n\nIn addition, she conducted analysis on a Technical Training survey to breakdown training request by location. This will enable our department to plan our future training programs.\n\nThroughout her internship, Helen was very conscientious about her work and she listened to feedback and incorporated it into her final presentations and reports.\n\nHer positive attitude, analytical skills and commitment will be a benefit to any future employer. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "3rd Prize in NYC Foster Care Data Challenge"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yilu-dai-87286462/",
+      "text": "Data Scientist at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eva-huang-17151597/",
+      "text": "MBA candidate at the Wharton School | McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rainiegu/",
+      "text": "Data Scientist at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ariel-hsing-10940b99/",
+      "text": "2012 Olympian and Business Analyst at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khushpreetkaur/",
+      "text": "Partner at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carolineshi/",
+      "text": "Data Scientist at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivia-howard-80a37953/",
+      "text": "Engagement Manager at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jane-shi-10971694/",
+      "text": "Business Analyst at McKinsey & Company"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student Counselor",
+      "experience": "Nancy Campbell Collegiate Institute",
+      "description": "Education",
+      "date1": "Aug 2014 – Sep 2014",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Teaching Assistant",
+      "experience": "CET",
+      "description": "Education",
+      "date1": "Nov 2015 – Jan 2016",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Chuheng Hu",
+    "headline": "McKinsey & Company - Data Scientist",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "Passionate about using data to advance education and training decisions.\n\nUndergraduate background in Applied Math, Statistics, and Finance.\nCFA level I (passed)\nMasters degree in Learning Analytics.\nWorking experience in Technical Training , Employee onboarding, Quantitative analyst, and Education Consultant."
+  }
+}

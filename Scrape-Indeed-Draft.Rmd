@@ -1,0 +1,285 @@
+---
+title: "Scraping indeed jobs"
+author: "Anil Akyildirim"
+date: "10/13/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#load libraries
+
+library(tidyverse)
+library(rvest)
+library(xml2)
+library(stringr)
+library(dplyr)
+```
+
+```{r}
+
+#search query "Data Scientist, New York, NY" 
+
+indeed_url <- "https://www.indeed.com/jobs?q=data+scientist&l=New+York%2C+NY"
+jobs <- xml2::read_html(indeed_url)
+jobs
+
+
+```
+
+
+```{r}
+#get the job title
+  title <- jobs %>% 
+    rvest::html_nodes("div") %>%
+    rvest::html_nodes(xpath = '//*[@data-tn-element = "jobTitle"]') %>%
+    rvest::html_attr("title")
+
+title
+
+```
+
+```{r}
+# use css selector to get the job title
+title_1 <-page %>% 
+  rvest::html_nodes('[data-tn-element="jobTitle"]') %>%
+  rvest::html_attr("title")
+
+# try this
+
+title_2 <- page %>% 
+  rvest::html_nodes('a[data-tn-element="jobTitle"]') %>%
+  rvest::html_attr("title")
+
+title_2
+
+```
+
+
+
+
+```{r}
+# get company location
+company_location <- jobs %>% 
+  rvest::html_nodes("span") %>% 
+  rvest::html_nodes(xpath = '//*[@class="location"]')%>% 
+  rvest::html_text() %>%
+  stringi::stri_trim_both()
+
+company_location
+
+```
+
+```{r}
+ 
+# get company name
+company_name <- jobs %>% 
+  rvest::html_nodes("span")  %>% 
+  rvest::html_nodes(xpath = '//*[@class="company"]')  %>% 
+  rvest::html_text() %>%
+  stringi::stri_trim_both()
+
+company_name
+
+
+```
+
+```{r}
+# try css selector to get the location and name
+location <- jobs %>% 
+  rvest::html_nodes(".location") %>%
+  rvest::html_text()
+ 
+# get company name
+company_name_2 <- jobs %>% 
+  rvest::html_nodes(".company") %>%
+  rvest::html_text() %>%
+  stringi::stri_trim_both()
+
+location
+
+```
+
+CSs selector worked but div didnt work.
+
+```{r}
+# get links xpath
+links <- jobs %>% 
+  rvest::html_nodes("div") %>%
+  rvest::html_nodes(xpath = '//*[@data-tn-element="jobTitle"]') %>%
+  rvest::html_attr("href")
+
+# get links CSS selectors
+jobs %>% 
+  rvest::html_nodes('[data-tn-element="jobTitle"]') %>%
+  rvest::html_attr("href")
+
+links
+
+
+```
+
+```{r}
+# get job description using xpath
+description <- jobs %>%
+  rvest::html_nodes("span")  %>% 
+  rvest::html_nodes(xpath = '//*[@class="jobsearch-jobDescriptionText"]') %>% 
+  rvest::html_text() %>%
+  stringi::stri_trim_both()
+
+# get job description using CSS selector
+description_1 <- jobs %>%
+  rvest::html_nodes('.jobsearch-JobComponent-description icl-u-xs-mt--md') %>% 
+  rvest::html_text() %>%
+  stringi::stri_trim_both()
+
+description
+
+```
+
+```{r}
+
+# Create a loop to go through each page based on search results within indeed.com
+
+page_result_start <- 5 
+page_result_end <- 190 
+page_results <- seq(from = page_result_start, to = page_result_end, by = 5)
+
+full_df <- data.frame()
+for(i in seq_along(page_results)) {
+  
+  first_page_url <- "https://www.indeed.com/jobs?q=data+scientist&l=New+York%2C+NY"
+  url <- paste0(first_page_url, "&start=", page_results[i])
+  page <- xml2::read_html(url)
+  Sys.sleep(2)
+  
+  #get the job title
+  job_title <- page %>% 
+    rvest::html_nodes("div") %>%
+    rvest::html_nodes(xpath = '//a[@data-tn-element = "jobTitle"]') %>%
+    rvest::html_attr("title")
+  
+  #get the company name
+  company_name <- page %>% 
+    rvest::html_nodes("span")  %>% 
+    rvest::html_nodes(xpath = '//*[@class="company"]')  %>% 
+    rvest::html_text() %>%
+    stringi::stri_trim_both() -> company.name 
+  
+  
+  #get job location
+  job_location <- page %>% 
+    rvest::html_nodes("span") %>% 
+    rvest::html_nodes(xpath = '//*[@class="location"]')%>% 
+    rvest::html_text() %>%
+    stringi::stri_trim_both()
+  
+  # get links
+  links <- page %>% 
+    rvest::html_nodes("div") %>%
+    rvest::html_nodes(xpath = '//*[@data-tn-element="jobTitle"]') %>%
+    rvest::html_attr("href")
+  
+  job_description <- c()
+  for(i in seq_along(links)) {
+    
+    url <- paste0("https://www.indeed.com/", links[i])
+    page <- xml2::read_html(url)
+    
+    job_description[[i]] <- jobs %>%
+      rvest::html_nodes("span")  %>% 
+      rvest::html_nodes(xpath = '//*[@class="jobsearch-JobComponent-description icl-u-xs-mt--md"]') %>% 
+      rvest::html_text() %>%
+      stringi::stri_trim_both()
+  }
+  
+  df <- data.frame(job_title, company_name, job_location, job_description)
+  full_df <- rbind(full_df, df)
+}
+
+df_NewYork <- full_df %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(city = "New York")
+
+df_Chicago <- full_df %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(city = "Chicago")
+
+df_Boston <- full_df %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(city = "Boston")
+
+df_us <- rbind(df_NewYork, df_Chicago, df_Boston)
+write.csv(df_us, "df_us.csv")
+
+df_us$job_description <- gsub("[\r\n]", "", df_us$job_description)
+
+df_us <- read.csv(here::here("df_us.csv"))
+
+
+
+```
+
+```{r}
+# different method
+html_page <- read_html("https://www.indeed.com/jobs?q=data+scientist&l=New+York%2C+NY")
+total_jobs <- html_page %>%
+  html_node('#searchCount')%>%
+  html_text()
+
+total_jobs <-as.integer(unlist(strsplit(total_jobs, " "))[5])
+total_jobs
+
+
+```
+
+```{r}
+# another method
+job_title <- "\"Data+Scientist\""
+location <- "Chicago%2C+IL"
+
+
+# use advanced search to get 50 results in a page
+BASE_URL <- 'https://www.indeed.com'
+ADV_URL <- paste0('https://www.indeed.com/jobs?as_and=&as_not=&as_cmp=&jt=all&st=&salary=&sr=directhire&radius=25&fromage=any&limit=50&sort=date&psf=advsrch&as_any=&as_phr=&as_ttl=', job_title, '&l=', location)
+cat(ADV_URL)
+
+
+```
+
+```{r}
+
+# get the html file from search url
+start_page <- read_html(ADV_URL)
+
+# get the total job count 
+job_count <- unlist(strsplit(start_page %>% 
+                               html_node("#searchCount") %>%
+                               html_text(), split = ' ')) 
+job_count <- as.numeric(str_replace_all(job_count[length(job_count)],',',''))
+cat('Total job count: ', job_count)
+
+```
+
+```{r}
+
+# Get start page job URLs
+links <- start_page %>%
+  html_nodes("h2 a") %>%
+  html_attr('href')
+
+# Get result page links
+page.links <- start_page %>%
+  html_nodes(xpath = '//div[contains(@class,"pagination")]//a') %>%
+  html_attr('href')
+
+```
+
+
+
+
+
+

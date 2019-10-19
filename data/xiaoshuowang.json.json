@@ -1,0 +1,132 @@
+{
+  "profileAlternative": {
+    "name": "Summer Wang",
+    "headline": "Senior Data Scientist at Netflix",
+    "location": "Los Gatos, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "UC Irvine",
+      "degree": "PhD in Education Policy + MS in Statistics",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Stanford University",
+      "degree": "Research Assistant on RCT studies for Stanford REAP (https://reap.fsi.stanford.edu/)",
+      "date1": "2012",
+      "date2": "2013"
+    },
+    {
+      "title": "Beijing Language and Culture University",
+      "degree": "BS in Information Management",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "34"
+    },
+    {
+      "title": "Econometrics",
+      "count": "8"
+    },
+    {
+      "title": "Statistics",
+      "count": "31"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "18"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Writing",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "16"
+    },
+    {
+      "title": "Stata",
+      "count": "16"
+    },
+    {
+      "title": "Teaching",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/patrickshyu/",
+      "text": "Ex-Google Tech Lead"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheng-zhang-87271654/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julieranyan/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cherryxingyuchen/",
+      "text": "Vice President at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/rekhathakur/",
+      "text": "Manager, Data Science & Engineering at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gracezhang612/",
+      "text": "Software Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Summer Wang",
+    "headline": "Senior Data Scientist at Netflix",
+    "location": "Los Gatos, California",
+    "connections": "500+"
+  }
+}

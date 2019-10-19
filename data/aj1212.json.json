@@ -1,0 +1,132 @@
+{
+  "profileAlternative": {
+    "name": "Aditya Jadhav",
+    "headline": "Data Scientist at Amazon (Audible group)",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Deep Learning, Reinforcement Learning, Machine Learning, NLP."
+  },
+  "aboutAlternative": {
+    "text": "Deep Learning, Reinforcement Learning, Machine Learning, NLP."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science - MS",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Indian Institute of Technology, Bombay",
+      "degree": "Bachelor of Technology - BTech"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Natural Language Processing (NLP)"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "TensorFlow"
+    },
+    {
+      "title": "PyTorch"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Client Liaising"
+    },
+    {
+      "title": "Scikit-Learn"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "English",
+        "French",
+        "German",
+        "Hindi",
+        "Marathi",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tracy-le-b0b183114/",
+      "text": "Data Scientist at Amazon | MS in Analytics| BA in Math & Economics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amla-srivastava/",
+      "text": "Data Scientist @ Bloomberg || Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phamnina/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ava-huang/",
+      "text": "Data Scientist at IBM | Quantitative Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjalkarshruti/",
+      "text": "Data Scientist at Amazon (Alexa AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gauravgada/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunmengjin/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/apurvaasubramaniam/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/youyangliu/",
+      "text": "Incoming Data Scientist at Tencent"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aditya Jadhav",
+    "headline": "Data Scientist at Amazon (Audible group)",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Deep Learning, Reinforcement Learning, Machine Learning, NLP."
+  }
+}

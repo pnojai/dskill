@@ -1,0 +1,102 @@
+{
+  "profileAlternative": {
+    "name": "Ethan Zornow",
+    "headline": "Data Scientist at dv01",
+    "location": "Greater New York City Area",
+    "connections": "233"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Wesleyan University",
+      "degree": "Mathematics and Computer Science",
+      "date1": "2013",
+      "date2": "2016"
+    },
+    {
+      "title": "Occidental College",
+      "degree": "Mathematics",
+      "date1": "2012",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "Haskell",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dianecai/",
+      "text": "Data Scientist at CKM Advisors"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danti-chen-ph-d-00ba6396/",
+      "text": "Head of Applied Data Science & Insights, Global Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/malik-salam-a7525497/",
+      "text": "Data Scientist at CKM Analytix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luke-fitzpatrick-5377ba34/",
+      "text": "Data Scientist at GeoPhy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chelsea-melman-5748b18b/",
+      "text": "Data Analyst at dv01"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamemrich/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timxflin/",
+      "text": "Data Scientist at dv01"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kerrysmithrecognia/",
+      "text": "Head of Sales at dv01"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angela-orthmeyer/",
+      "text": "GIS Data Analyst at RapidSOS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-kost-stephenson/",
+      "text": "Data Scientist at TELUS"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ethan Zornow",
+    "headline": "Data Scientist at dv01",
+    "location": "Greater New York City Area",
+    "connections": "233"
+  }
+}

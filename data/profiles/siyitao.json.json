@@ -1,0 +1,162 @@
+{
+  "profileAlternative": {
+    "name": "Siyi Tao",
+    "headline": "Speech and Data Scientist at Nuance Communications",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master’s Degree",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "East China Normal University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "17"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "15"
+    },
+    {
+      "title": "Statistics",
+      "count": "14"
+    },
+    {
+      "title": "Mathematics",
+      "count": "9"
+    },
+    {
+      "title": "Data analysis",
+      "count": "6"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "5"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Data Collection",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "R",
+      "count": "8"
+    },
+    {
+      "title": "Java",
+      "count": "6"
+    },
+    {
+      "title": "PHP",
+      "count": "4"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "5"
+    },
+    {
+      "title": "Regression Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Lingo",
+      "count": "4"
+    },
+    {
+      "title": "Data Science",
+      "count": "4"
+    },
+    {
+      "title": "Linear Programming",
+      "count": "4"
+    },
+    {
+      "title": "Principal Component Analysis",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/qian-shi-60ab28127/",
+      "text": "Data Scientist at SimpleBet"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cindy-wu-a893bb116/",
+      "text": "Data Scientist at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanbing-liu/",
+      "text": "Data Scientist at Clearpool Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zenithsun/",
+      "text": "Senior Consultant / Data Scientist at Protiviti"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarah-wigodsky-4731982b/",
+      "text": "Data Scientist at Nuance Communications"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ziweimeng/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yifanwu1994/",
+      "text": "Lead Data Scientist at Lending Club"
+    },
+    {
+      "user": "https://www.linkedin.com/in/feifeiyan1015/",
+      "text": "Business Intelligence Analyst at Publicis Groupe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shan-shannon-guan/",
+      "text": "Sr. Data Science Analyst @ Carat USA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaodi-sun-807612149/",
+      "text": "Amazon - Data Scientist"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Siyi Tao",
+    "headline": "Speech and Data Scientist at Nuance Communications",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}

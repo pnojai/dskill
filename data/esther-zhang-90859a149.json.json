@@ -1,0 +1,153 @@
+{
+  "profileAlternative": {
+    "name": "Esther Zhang",
+    "headline": "Data Scientist at American Express | Dartmouth College",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Data Scientist"
+  },
+  "aboutAlternative": {
+    "text": "Data Scientist"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Dartmouth College",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Nanyang Technological University",
+      "degree": "Bachelor of Engineering - BE",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "INSA Lyon - Institut National des Sciences Appliquées de Lyon",
+      "degree": "Bachelor of Engineering - BE",
+      "date1": "2013",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "R",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "5"
+    },
+    {
+      "title": "Big Data",
+      "count": "5"
+    },
+    {
+      "title": "Lean Six Sigma",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining",
+      "count": "2"
+    },
+    {
+      "title": "PySpark",
+      "count": "2"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "2"
+    },
+    {
+      "title": "Tableau",
+      "count": "1"
+    },
+    {
+      "title": "Tensorflow",
+      "count": "1"
+    },
+    {
+      "title": "Scikit-Learn",
+      "count": "1"
+    },
+    {
+      "title": "Data Streaming",
+      "count": "1"
+    },
+    {
+      "title": "Lean 6 Sigma Green Belt",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ruolan-ivy-wang-833718132/",
+        "text": "I've worked with Esther in Tesla Giga during her summery intern. She's a hardworking, dedicated, and detail oriented team player. She is truly determined and always willing to learn, practice and excel new skills. She follows her passion in what she does and it plays a key role in her success. She'll be a great asset to your company. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuijngma/",
+      "text": "Data Scientist at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chanqianye/",
+      "text": "Senior Data Scientist at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yina-wei-9968b8134/",
+      "text": "Data Scientist—American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qiguocornell/",
+      "text": "Data Scientist - American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelayuanqi/",
+      "text": "Senior Decision Scientist at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jinshuniu/",
+      "text": "Data Scientist @ Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lin-jia-dartmouth/",
+      "text": "Senior Data Scientist at Wayfair"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shiqi-dartmouth/",
+      "text": "Principal Data Scientist at Capital One"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Esther Zhang",
+    "headline": "Data Scientist at American Express | Dartmouth College",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Data Scientist"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "profileAlternative": {
+    "name": "Jack Gindi",
+    "headline": "Data Scientist/Engineer @ BlackRock AI Labs",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "When I'm not programming, I love playing basketball, getting outdoors, recreationally studying math, reading and writing (see my blog below)."
+  },
+  "aboutAlternative": {
+    "text": "When I'm not programming, I love playing basketball, getting outdoors, recreationally studying math, reading and writing (see my blog below)."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Pennsylvania",
+      "degree": "Master of Science - MS",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "University of Pennsylvania",
+      "degree": "Bachelor of Arts - BA",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "Higher Education",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "4"
+    },
+    {
+      "title": "Leadership",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "Abstract Algebra",
+        "Advanced Programming in Haskell",
+        "Algorithms",
+        "Artificial Intelligence",
+        "Complex Analysis",
+        "Cryptography",
+        "Databases and Information Systems",
+        "Distributed Systems",
+        "Engineering Entrepreneurship",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hebrew"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/osho-jha/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawn-simpson-9b866130/",
+      "text": "Principal Data Scientist at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandermckay/",
+      "text": "Vice President at BlackRock AI Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ellislbrownii/",
+      "text": "Engineer @ BlackRock AI Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacob-kornman-69b91a81/",
+      "text": "JD/MBA Candidate at Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melaniemanko/",
+      "text": "Data Engineer at BlackRock AI Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xianzhicao/",
+      "text": "Data Scientist (Machine/Deep Learning & AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessica-huang-06a40761/",
+      "text": "Analyst at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bin-han-71079222/",
+      "text": "Vice President, Data Scientist at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicolegranet/",
+      "text": "MBA Candidate at Harvard Business School"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jack Gindi",
+    "headline": "Data Scientist/Engineer @ BlackRock AI Labs",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "When I'm not programming, I love playing basketball, getting outdoors, recreationally studying math, reading and writing (see my blog below)."
+  }
+}

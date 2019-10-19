@@ -1,0 +1,173 @@
+{
+  "profileAlternative": {
+    "name": "Nilüfer Polat",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University",
+      "degree": "Master’s Degree",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "Yildiz Technical University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Data Modeling"
+    },
+    {
+      "title": "Analysis"
+    },
+    {
+      "title": "Business Intelligence"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "Data Mining"
+    },
+    {
+      "title": "Business Analytics"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Predictive Analytics"
+    },
+    {
+      "title": "Predictive Modeling"
+    },
+    {
+      "title": "Linear Programming"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "22",
+      "items": [
+        "Cartography",
+        "Design Thinking",
+        "Digital Image Processing",
+        "Economical Foundations in Finance",
+        "Engineering Economics",
+        "Engineering Practices In Business Environment",
+        "Error Theory and Parameter Estimation",
+        "Facility Planning and Design",
+        "GPS Technique",
+        "Geographic Information Systems"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Hack It Together Women's Hackathon - 2nd Place",
+        "Harold Hertzberg Award",
+        "Outstanding Student Club Ofﬁcer of the Year – OpenIDEO Student Chapter",
+        "President's Service Award",
+        "Global Idea Exchange Fellow"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Turkish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "A pneumatic tourniquet apparatus and method of use",
+        "A mechanical tourniquet apparatus and method of use"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "RISE Marketplace - Co-Founder"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/maludee/",
+      "text": "Data Scientist at Button"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swv293/",
+      "text": "Data Scientist at Concurrency Inc.|Microsoft Partner Network"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicky-bangs-44751535/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/berebichez/",
+      "text": "Chief Data Scientist at Metis / VP at Kaplan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitchki/",
+      "text": "Data Analyst / Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julia-lintern-a5141384/",
+      "text": "Data Scientist at The New York Times"
+    },
+    {
+      "user": "https://www.linkedin.com/in/data-science-hiring-hophr/",
+      "text": "CEO at HopHR: Data Science Talent Matching/ Transforming Hiring With AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jad2192/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patricknieto/",
+      "text": "Senior Associate, Data Science at Annalect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamescmit/",
+      "text": "Data Scientist at Metis"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nilüfer Polat",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}

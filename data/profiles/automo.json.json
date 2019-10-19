@@ -1,0 +1,144 @@
+{
+  "profileAlternative": {
+    "name": "Adi Utomo",
+    "headline": "Senior Data Scientist at Target",
+    "location": "San Francisco, California",
+    "connections": "126",
+    "summary": "Experienced data analyst with a demonstrated history of working in the technology industry. Strong business development professional skilled in Statistics, Research, Market Research, Policy Analysis, and R."
+  },
+  "aboutAlternative": {
+    "text": "Experienced data analyst with a demonstrated history of working in the technology industry. Strong business development professional skilled in Statistics, Research, Market Research, Policy Analysis, and R."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "M.A.",
+      "date1": "2009",
+      "date2": "2010"
+    },
+    {
+      "title": "Brown University",
+      "degree": "A.B./Sc.B.",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Research",
+      "count": "4"
+    },
+    {
+      "title": "Statistics",
+      "count": "4"
+    },
+    {
+      "title": "Data Mining",
+      "count": "3"
+    },
+    {
+      "title": "Quantitative Research",
+      "count": "2"
+    },
+    {
+      "title": "Policy Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Market Research"
+    },
+    {
+      "title": "Public Policy"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "SAS",
+      "count": "2"
+    },
+    {
+      "title": "Stata",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Chinese",
+        "English",
+        "French",
+        "German",
+        "Indonesian",
+        "Malay"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/robert-picard/",
+      "text": "Senior Security Engineer at Robinhood"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jay-shah-1ba5b740/",
+      "text": "Wireless RF System"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ben-chagnon-98915911/",
+      "text": "JD Candidate at Stanford Law School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danwc/",
+      "text": "Lead Data Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bill-cooney-ab01381/",
+      "text": "President at Target Electronic Supply Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jasmine-safford-b1186740/",
+      "text": "Executive Team Leader at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-barela-4761b239/",
+      "text": "Executive Team Leader of Human Resources at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelle-gurt-620b6884/",
+      "text": "Office Manager at Friends of the Israel Defense Forces (FIDF)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/toopan/",
+      "text": "Vice President, Enterprise Strategy Development at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elisajuarez/",
+      "text": "Building Resilient and Thriving Communities through Corporate Responsibility"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Adi Utomo",
+    "headline": "Senior Data Scientist at Target",
+    "location": "San Francisco, California",
+    "connections": "126",
+    "summary": "Experienced data analyst with a demonstrated history of working in the technology industry. Strong business development professional skilled in Statistics, Research, Market Research, Policy Analysis, and R."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "profileAlternative": {
+    "name": "Laura Elsener",
+    "headline": "Senior Data Scientist at Squarespace",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "The Johns Hopkins University",
+      "degree": "Bachelor of Arts (BA)"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/michaelbostwick1/",
+      "text": "Senior Data Scientist at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katie-sohn-5b13b8b/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krispasset/",
+      "text": "VP, People at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/helen-zhang-4986a4a8/",
+      "text": "Software Engineer @ Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/polinagiralt/",
+      "text": "Senior Software Engineer at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/omarabboud/",
+      "text": "Senior Data Scientist at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericaleh/",
+      "text": "Data Scientist at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/noraali/",
+      "text": "Anchor at Cheddar Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashaegupta/",
+      "text": "Product Leader Squarespace | Previously Venmo, Customer.io, Hopscotch, Etsy, Stanford"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Laura Elsener",
+    "headline": "Senior Data Scientist at Squarespace",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}

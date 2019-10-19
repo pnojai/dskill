@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Database design notes
 
 ### Entities
+- Skill category. Google suggests 6. This could be a lookup table.
 - Data science skills. List of distinct skills.
 - Observation. Instance of ascribing value to a skill. Maybe there is a survey of articles. 25 articls report top skills. Some report 10, some 5.
   - Source description. Article name or publication.

@@ -1,0 +1,118 @@
+{
+  "profileAlternative": {
+    "name": "Yi Fang Chen",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "New York, New York",
+    "connections": "89",
+    "summary": "Specialties: Statistic applied to Climate Modelling, Biostatistics, Information Technology, Big Data Analytics, Machine Learning & Data Mining applied to network security\n\nComputer-- Expert in R"
+  },
+  "aboutAlternative": {
+    "text": "Specialties: Statistic applied to Climate Modelling, Biostatistics, Information Technology, Big Data Analytics, Machine Learning & Data Mining applied to network security\n\nComputer-- Expert in R"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "Ph.d.",
+      "date1": "2004",
+      "date2": "2010"
+    },
+    {
+      "title": "Polytechnic Institute of NYU",
+      "degree": "BS",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Biostatistics",
+      "count": "2"
+    },
+    {
+      "title": "Data Mining",
+      "count": "2"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Big Data Analytics",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chengxili1992/",
+      "text": "Manager, Data Scientist @ Mastercard"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rudy-angeles-8b63569a/",
+      "text": "Data Scientist/Statistician"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chunxiao-li-61450620/",
+      "text": "Assistant Professor at Shanghai Jiao Tong University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacobnaylor/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/miumiumiu/",
+      "text": "Data Analyst at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rakesh-patil-phd-43678a29/",
+      "text": "Manager, Data Science at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucaszalduendo/",
+      "text": "Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ctharve/",
+      "text": "Data Scientist at The Trade Desk"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yi Fang Chen",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "New York, New York",
+    "connections": "89",
+    "summary": "Specialties: Statistic applied to Climate Modelling, Biostatistics, Information Technology, Big Data Analytics, Machine Learning & Data Mining applied to network security\n\nComputer-- Expert in R"
+  }
+}

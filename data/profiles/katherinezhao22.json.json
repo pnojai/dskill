@@ -1,0 +1,301 @@
+{
+  "profileAlternative": {
+    "name": "Katherine Zhao",
+    "headline": "AI/Machine Learning Engineer at Google Cloud",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Welcome to my LinkedIn page.\n\nData is everywhere and is changing the world. I am interested in harnessing the power of big data and using various algorithms to answer interesting questions and drive business decisions.\n\nThe areas of my expertise are in Machine Learning (ML), Natural Language Processing (NLP), Deep Learning, Statistical Analysis, and Data Mining.\n\nMy professional skills include not limit to:\n• Develop Data-Driven products using ML and Deep Learning algorithms.\n• Provide Big Data Analytics solutions for business use cases on Spark and Hadoop.\n• Proficient in NLP, Statistical Analysis and Data Mining in Python and R.\n• Advanced analytics and modeling skills in Python, R, and SAS.\n• Work with cloud computing platforms: Microsoft Azure and Amazon Web Services.\n• Proficient in Microsoft SQL Server, Cosmos DB, Apache Hive, Pivotal Greenplum Database, HAWQ, MySQL, PostgreSQL, MongoDB platforms, SQL Server Reporting Services (SSRS), and Microsoft Excel.\n• Data visualization with PowerBI, Tableau, matlibplot in Python, ggplot2 and Shiny App in R.\n• Great knowledge about Data Architecture and Data Engineering/ETL Process.\n• Hands on with Linux command line."
+  },
+  "aboutAlternative": {
+    "text": "Welcome to my LinkedIn page.\n\nData is everywhere and is changing the world. I am interested in harnessing the power of big data and using various algorithms to answer interesting questions and drive business decisions.\n\nThe areas of my expertise are in Machine Learning (ML), Natural Language Processing (NLP), Deep Learning, Statistical Analysis, and Data Mining.\n\nMy professional skills include not limit to:\n• Develop Data-Driven products using ML and Deep Learning algorithms.\n• Provide Big Data Analytics solutions for business use cases on Spark and Hadoop.\n• Proficient in NLP, Statistical Analysis and Data Mining in Python and R.\n• Advanced analytics and modeling skills in Python, R, and SAS.\n• Work with cloud computing platforms: Microsoft Azure and Amazon Web Services.\n• Proficient in Microsoft SQL Server, Cosmos DB, Apache Hive, Pivotal Greenplum Database, HAWQ, MySQL, PostgreSQL, MongoDB platforms, SQL Server Reporting Services (SSRS), and Microsoft Excel.\n• Data visualization with PowerBI, Tableau, matlibplot in Python, ggplot2 and Shiny App in R.\n• Great knowledge about Data Architecture and Data Engineering/ETL Process.\n• Hands on with Linux command line."
+  },
+  "positions": [
+    {
+      "title": "Senior Artificial Intelligence Engineer",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Advisory Board Member",
+      "description": "The Data Institute is creating a new partnership between industry and academia. It educates and develops highly talented data scientists by providing experiential learning opportunities and supporting the research of data science and deep learning. It brings together researchers, students, industry leaders and nonprofits to apply data-driven solutions to social issues.",
+      "date1": "2019 – Present",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of San Francisco",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2013",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "62"
+    },
+    {
+      "title": "R",
+      "count": "48"
+    },
+    {
+      "title": "MySQL",
+      "count": "36"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "31"
+    },
+    {
+      "title": "Statistics",
+      "count": "27"
+    },
+    {
+      "title": "Big Data",
+      "count": "30"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "24"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "27"
+    },
+    {
+      "title": "Accounting",
+      "count": "7"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "5"
+    },
+    {
+      "title": "SAS",
+      "count": "33"
+    },
+    {
+      "title": "Hadoop",
+      "count": "17"
+    },
+    {
+      "title": "Tableau",
+      "count": "9"
+    },
+    {
+      "title": "HDFS",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "23"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "6"
+    },
+    {
+      "title": "MongoDB",
+      "count": "16"
+    },
+    {
+      "title": "Azure Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "SSRS",
+      "count": "9"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "11"
+    },
+    {
+      "title": "MapReduce",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "12"
+    },
+    {
+      "title": "Data Science",
+      "count": "13"
+    },
+    {
+      "title": "Text Mining",
+      "count": "20"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "2"
+    },
+    {
+      "title": "Hive",
+      "count": "8"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "2"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "16"
+    },
+    {
+      "title": "Microsoft R Server",
+      "count": "3"
+    },
+    {
+      "title": "Greenplum",
+      "count": "2"
+    },
+    {
+      "title": "HAWQ",
+      "count": "2"
+    },
+    {
+      "title": "ElasticSearch",
+      "count": "1"
+    },
+    {
+      "title": "Pivotal",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/shilpikaran/",
+        "text": "Shilpi was my recruiter while I was interviewing at Google. I would like to share my strong recommendation for her as she has made the process so smooth and enjoyable. Shilpi was an excellent recruiter. She standed from my perspective and helped present my profile on my behalf. We had time zone difference, but she stayed late and updated me on any progress. She also gave me a clear picture of the next steps that I should expect and guide me through them. Lastly, she has excellent communication skills and talked me through every details over the phone. That said, I would certainly recommend Shilpi for any organization looking to hire technical engineers/scientists. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/vikram-lakshmipathy-52555a3/",
+        "text": "It is rare that you come across a manager like Vikram Lakshmipathy. Vikram has been very supportive the entire time when I worked with him at GE Digital and has always been the “go to person” whenever I looked for guidance in my career. He not only supported the growth of my technical skills, but also helped with my long term career development.\nAs a manager, beyond just giving projects to his employee, Vikram helped me understand the bigger pictures of them from a higher angle too so that I understand how my work would impact on the business. This truly made me think more from different perspectives to develop better products for the company.\nI highly recommend Vikram as a manager as I know that he will never let anyone down.\nSee less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Advanced Mathmetics",
+        "Application of Analytics",
+        "Data Acquisition",
+        "Data and Information Visualization",
+        "Distributed Computing",
+        "Distributed Databases",
+        "Economics",
+        "Exploratory Data Analysis",
+        "Linear Algebra",
+        "Linear Regression Analysis"
+      ]
+    },
+    {
+      "count": "14",
+      "items": [
+        "Road Failure Cause Recommendation",
+        "Flight Delays Prediction with Microsoft R Server",
+        "Retail Customer Churn Template using Microsoft R Server/HDInsight/Spark",
+        "Sample Experiments for Cortana Analaytics Gallery",
+        "Sentiment Analysis of 2016 Presidential Election with Twitter Data",
+        "Locomotive Failure Prediction",
+        "Application Master DB Project",
+        "Sourcing Big Data Project",
+        "Unstructured Image Data Extraction",
+        "Customer Review Categorization"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Empower and Inspire Others Award",
+        "Recognition Award",
+        "Graduate Assistantship and Tuition Waiver",
+        "First Class Scholarship"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Scalable Data Analytics Using R: Single Machines to Hadoop Spark Clusters"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/malikacantor/",
+      "text": "Startups | AI & ML | @Sequoia, ex @Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meidanbu/",
+      "text": "Senior Data Scientist at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelabassa/",
+      "text": "Head of Data Science, Data Engineering, and Machine Learning at iRobot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/binjielai/",
+      "text": "Manager, Data Science at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alan-gasperini-5664761/",
+      "text": "Engineering Manager at Google - my team is hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuelu/",
+      "text": "We are hiring!"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Co-Founder",
+      "experience": "Women in Software and Analytics Meetup",
+      "description": "Science and Technology",
+      "date1": "Jul 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Event Hosting Staff",
+      "experience": "Girls Who Code",
+      "description": "Education",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Katherine Zhao",
+    "headline": "AI/Machine Learning Engineer at Google Cloud",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Welcome to my LinkedIn page.\n\nData is everywhere and is changing the world. I am interested in harnessing the power of big data and using various algorithms to answer interesting questions and drive business decisions.\n\nThe areas of my expertise are in Machine Learning (ML), Natural Language Processing (NLP), Deep Learning, Statistical Analysis, and Data Mining.\n\nMy professional skills include not limit to:\n• Develop Data-Driven products using ML and Deep Learning algorithms.\n• Provide Big Data Analytics solutions for business use cases on Spark and Hadoop.\n• Proficient in NLP, Statistical Analysis and Data Mining in Python and R.\n• Advanced analytics and modeling skills in Python, R, and SAS.\n• Work with cloud computing platforms: Microsoft Azure and Amazon Web Services.\n• Proficient in Microsoft SQL Server, Cosmos DB, Apache Hive, Pivotal Greenplum Database, HAWQ, MySQL, PostgreSQL, MongoDB platforms, SQL Server Reporting Services (SSRS), and Microsoft Excel.\n• Data visualization with PowerBI, Tableau, matlibplot in Python, ggplot2 and Shiny App in R.\n• Great knowledge about Data Architecture and Data Engineering/ETL Process.\n• Hands on with Linux command line."
+  }
+}

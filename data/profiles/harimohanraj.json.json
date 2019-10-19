@@ -1,0 +1,154 @@
+{
+  "profileAlternative": {
+    "name": "Hari Mohanraj",
+    "headline": "Senior Data Scientist at Shipt",
+    "location": "San Francisco, California",
+    "connections": "276",
+    "summary": "I'm a data scientist-engineer with experience in building production-quality data products from the ground up. I enjoy tackling unstructured business problems and building out deployable solutions.\n\nMy tools of choice are Python / R / SQL for prototyping, interactive data analysis, and model building. I tend to lean on the AWS ecosystem for standing up scalable production services.\n\nI'm interested in learning more about and working on problems where deep learning is applicable (image processing, NLP)."
+  },
+  "aboutAlternative": {
+    "text": "I'm a data scientist-engineer with experience in building production-quality data products from the ground up. I enjoy tackling unstructured business problems and building out deployable solutions.\n\nMy tools of choice are Python / R / SQL for prototyping, interactive data analysis, and model building. I tend to lean on the AWS ecosystem for standing up scalable production services.\n\nI'm interested in learning more about and working on problems where deep learning is applicable (image processing, NLP)."
+  },
+  "positions": [
+    {
+      "title": "Project Lead & Fellow",
+      "description": "- Project lead for 4-person team offering pro-bono data consulting services to nonprofits soliciting analytics expertise as part of Delta Analytics’ 2019 Fellowship.\n- Work with the Open Media Foundation to develop a visualization tool that enables constituents to inspect and be notified of conversations about important issues taking place in their local governments.",
+      "date1": "Dec 2018 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "description": "- 3rd data science hire; acquired by Target in December 2017 for $550 million\n- Served as technical lead on cross-functional projects spanning Data Science, Data Engineering, and Operations\n- Assisted in recruiting and technical interviewing as we grew the Data organization... ",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Pennsylvania",
+      "degree": "Biostatistics",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "Arizona State University",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "Statistics",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Lesson Planning",
+      "count": "1"
+    },
+    {
+      "title": "Curriculum Development",
+      "count": "1"
+    },
+    {
+      "title": "Curriculum Design",
+      "count": "1"
+    },
+    {
+      "title": "SAS"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "Stata",
+      "count": "2"
+    },
+    {
+      "title": "Tutoring",
+      "count": "3"
+    },
+    {
+      "title": "Educational Leadership",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Gammage Memorial Scholarship",
+        "National Merit Finalist Scholarship"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/peterwen1027/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harinisubramaniankarthik/",
+      "text": "Data Science, Insights & Strategy Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yaminikandamani/",
+      "text": "Data Scientist at Shipt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiangyi1212/",
+      "text": "Senior Data Analyst at GoFundMe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vsbhat/",
+      "text": "EVP of Data at Shipt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/naziakhan1/",
+      "text": "Data Scientist at Shipt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/billsmitha/",
+      "text": "Founder"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tarekbarnes/",
+      "text": "Associate Data Engineer at Shipt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryanboyer2/",
+      "text": "Data Scientist @ Shipt | Pairing People & Data to Solve Problems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harbani-malhotra-07615615/",
+      "text": "Director of Product, previously at Flipkart, Rocket Internet and startups"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Hari Mohanraj",
+    "headline": "Senior Data Scientist at Shipt",
+    "location": "San Francisco, California",
+    "connections": "276",
+    "summary": "I'm a data scientist-engineer with experience in building production-quality data products from the ground up. I enjoy tackling unstructured business problems and building out deployable solutions.\n\nMy tools of choice are Python / R / SQL for prototyping, interactive data analysis, and model building. I tend to lean on the AWS ecosystem for standing up scalable production services.\n\nI'm interested in learning more about and working on problems where deep learning is applicable (image processing, NLP)."
+  }
+}

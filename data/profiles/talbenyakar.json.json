@@ -1,0 +1,268 @@
+{
+  "profileAlternative": {
+    "name": "Tal B.",
+    "headline": "Data Science at Uber | AI / ML innovation specialist",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Leading and planning, pipeline design and architecture of Artificial Intelligence and data driven innovative products.\n- Deep learning Neural networks\n- Natural Language processing\n- Machine learning algorithms\n- Computer vision"
+  },
+  "aboutAlternative": {
+    "text": "Leading and planning, pipeline design and architecture of Artificial Intelligence and data driven innovative products.\n- Deep learning Neural networks\n- Natural Language processing\n- Machine learning algorithms\n- Computer vision"
+  },
+  "positions": [
+    {
+      "title": "Senior Data Scientist leader",
+      "date1": "2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "AI Innovation Development",
+      "description": "❏ AI chatbot​​ onboard new employees for an extensive professional services network​.\n❏ Anomaly detection ​agile BI events-base engine for business analytics software​.\n❏ Data augmentation for virtualization applications (IoT).\n❏ Active learning, semi-supervised learning, and data curation.... ",
+      "date1": "Jan 2013 – Present",
+      "date2": "6 yrs 10 mos"
+    },
+    {
+      "title": "Mentor",
+      "description": "Google's Launchpad is a pre-accelerator which provides startups with the technology, expertise and guidance. ​Technical and product​ ​consulting/prototyping data driven& ​big data​broad solutions.",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Tel Aviv University",
+      "degree": "Master of Business Administration (MBA)",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "Singularity University (Mountain View, California)",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {
+      "title": "Tel Aviv University",
+      "degree": "MSc.",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "Tel Aviv University",
+      "degree": "BSc."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "60"
+    },
+    {
+      "title": "Signal Processing",
+      "count": "54"
+    },
+    {
+      "title": "Simulations",
+      "count": "39"
+    },
+    {
+      "title": "Computer Vision",
+      "count": "33"
+    },
+    {
+      "title": "Algorithms",
+      "count": "45"
+    },
+    {
+      "title": "Image Processing",
+      "count": "13"
+    },
+    {
+      "title": "R&D",
+      "count": "8"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "7"
+    },
+    {
+      "title": "Optics",
+      "count": "2"
+    },
+    {
+      "title": "Start-ups",
+      "count": "7"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "5"
+    },
+    {
+      "title": "Software Development",
+      "count": "7"
+    },
+    {
+      "title": "Fraud"
+    },
+    {
+      "title": "Research and Development (R&D)",
+      "count": "1"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "15"
+    },
+    {
+      "title": "Java",
+      "count": "13"
+    },
+    {
+      "title": "R",
+      "count": "7"
+    },
+    {
+      "title": "SPSS"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "5"
+    },
+    {
+      "title": "Matlab",
+      "count": "15"
+    },
+    {
+      "title": "Solidworks",
+      "count": "4"
+    },
+    {
+      "title": "tensorFlow"
+    },
+    {
+      "title": "Pattern Recognition",
+      "count": "5"
+    },
+    {
+      "title": "Communication Systems",
+      "count": "3"
+    },
+    {
+      "title": "Spark"
+    },
+    {
+      "title": "Statistical Signal Processing",
+      "count": "2"
+    },
+    {
+      "title": "EEG",
+      "count": "2"
+    },
+    {
+      "title": "Solr"
+    },
+    {
+      "title": "elastic search",
+      "count": "1"
+    },
+    {
+      "title": "Recommender Systems"
+    },
+    {
+      "title": "Hive"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "2"
+    },
+    {
+      "title": "A/B Testing"
+    },
+    {
+      "title": "Anomaly Detection"
+    },
+    {
+      "title": "google clo"
+    },
+    {
+      "title": "active lear"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "KDD 22ND ACM SIGKDD award",
+        "Grace Hopper Celebration of Women in Computing (GHC)",
+        "Studies Excellence Award, Engineering Master's degree, Tel Aviv University",
+        "Studies Excellence Award, Weinstein Research Institute for Signal Processing",
+        "Microsoft women excellence"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "BILEVEL SPARSE MODELS FOR POLYPHONIC MUSIC TRANSCRIPTION",
+        "Efficient Supervised Sparse Analysis and Synthesis Operators"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/peter-cohen-1928901b/",
+      "text": "Data Science Manager II at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-dean-8b212555/",
+      "text": "Google Senior Fellow at Google, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ian-goodfellow-b7187213/",
+      "text": "Deep learner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shae-wang/",
+      "text": "Data Scientist at Uber (We're hiring in SF!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilywbailey/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-xia-b61b793a/",
+      "text": "Data Scientist at Uber, UberEats"
+    },
+    {
+      "user": "https://www.linkedin.com/in/soumith/",
+      "text": "Artificial Intelligence @ Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alvira-swalin/",
+      "text": "Data Scientist @ Uber"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tal B.",
+    "headline": "Data Science at Uber | AI / ML innovation specialist",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Leading and planning, pipeline design and architecture of Artificial Intelligence and data driven innovative products.\n- Deep learning Neural networks\n- Natural Language processing\n- Machine learning algorithms\n- Computer vision"
+  }
+}

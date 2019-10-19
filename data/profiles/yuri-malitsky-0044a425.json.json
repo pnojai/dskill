@@ -1,0 +1,171 @@
+{
+  "profileAlternative": {
+    "name": "Yuri Malitsky",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "258",
+    "summary": "I am currently a data scientist Morgan Stanley, researching applications of machine learning and data analysis techniques applied to challenges faced in the financial sector.\n\nIn 2014 I was a post-doc at the IBM Thomas J. Watson Research Center where my research focused on a cross of machine learning, combinatorial optimization, data mining and data analytics. Before this, I was a post-doc at the Cork Constraint Computation Centre working with Barry O'Sullivan. While at 4C my work centered around automated algorithm configuration, algorithm portfolios, algorithm scheduling, and adaptive search strategies. The goal of this study was two fold. First, it aimed to develop the mechanisms to determine the structure of problems and its association with the behavior of the different solvers. Second, to develop methodologies that automatically adapt existing tools to the instances they will be evaluated on.\n\nI finished my PhD at Brown University in 2012 working with Meinolf Sellmann. The thesis developed the Instance-Specific Algorithm Configuration (ISAC) approach that focuses on training different categories of parameterized solvers. Specifically, my research showed that many combinatorial problems can be decomposed into a representative vector of features that are associated with the behavior of the applied algorithm. ISAC exploits this observation by automatically detecting the different sub types of a problem and then training a solver for each variety. This technique was explored on a number problem domains, including set covering, mixed integer, satisfiability, container stowage, set partitioning, and local search problems. ISAC was later further expanded to demonstrate its application to traditional algorithm portfolios and adaptive search methodologies. In all cases, marked improvements were shown over the existing state-of-the-art solvers.\n\nSpecialties: computer science, machine learning, combinatorial optimization"
+  },
+  "aboutAlternative": {
+    "text": "I am currently a data scientist Morgan Stanley, researching applications of machine learning and data analysis techniques applied to challenges faced in the financial sector.\n\nIn 2014 I was a post-doc at the IBM Thomas J. Watson Research Center where my research focused on a cross of machine learning, combinatorial optimization, data mining and data analytics. Before this, I was a post-doc at the Cork Constraint Computation Centre working with Barry O'Sullivan. While at 4C my work centered around automated algorithm configuration, algorithm portfolios, algorithm scheduling, and adaptive search strategies. The goal of this study was two fold. First, it aimed to develop the mechanisms to determine the structure of problems and its association with the behavior of the different solvers. Second, to develop methodologies that automatically adapt existing tools to the instances they will be evaluated on.\n\nI finished my PhD at Brown University in 2012 working with Meinolf Sellmann. The thesis developed the Instance-Specific Algorithm Configuration (ISAC) approach that focuses on training different categories of parameterized solvers. Specifically, my research showed that many combinatorial problems can be decomposed into a representative vector of features that are associated with the behavior of the applied algorithm. ISAC exploits this observation by automatically detecting the different sub types of a problem and then training a solver for each variety. This technique was explored on a number problem domains, including set covering, mixed integer, satisfiability, container stowage, set partitioning, and local search problems. ISAC was later further expanded to demonstrate its application to traditional algorithm portfolios and adaptive search methodologies. In all cases, marked improvements were shown over the existing state-of-the-art solvers.\n\nSpecialties: computer science, machine learning, combinatorial optimization"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Brown University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2009",
+      "date2": "2012"
+    },
+    {
+      "title": "Brown University",
+      "degree": "M.Sc",
+      "date1": "2007",
+      "date2": "2009"
+    },
+    {
+      "title": "Cornell University",
+      "degree": "B.Sc",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Algorithms",
+      "count": "20"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "15"
+    },
+    {
+      "title": "Computer Science",
+      "count": "13"
+    },
+    {
+      "title": "Programming",
+      "count": "8"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "count": "5"
+    },
+    {
+      "title": "Optimization",
+      "count": "4"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Operations Research",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "LaTeX",
+      "count": "8"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Combinatorial Optimization",
+      "count": "5"
+    },
+    {
+      "title": "Pattern Recognition",
+      "count": "2"
+    },
+    {
+      "title": "Scientific Computing",
+      "count": "2"
+    },
+    {
+      "title": "Algorithm Design",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/janetdeng92/",
+      "text": "Data Scientist at Capital Group | American Funds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nalini-khade-5b17a49b/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edwin-a-mendoza-9a404771/",
+      "text": "Software Developer, Vice President at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anand-mangalam-88723886/",
+      "text": "Senior Data Scientist at J.P. Morgan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuanfeng1/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abshk/",
+      "text": "Software Engineering | Solutions Engineering | Project Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinay-maluh-67a725b/",
+      "text": "Vice President at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-cru-ph-d-85a7387/",
+      "text": "Executive Director in Client Portfolio Risk and Margining"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harimohanraj/",
+      "text": "Senior Data Scientist at Shipt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yijun-jack-dong-b160ab109/",
+      "text": "Data Scientist at Morgan Stanley"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Young Professionals Committee Member",
+      "experience": "Global Kids",
+      "description": "Children",
+      "date1": "Jan 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Yuri Malitsky",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "258",
+    "summary": "I am currently a data scientist Morgan Stanley, researching applications of machine learning and data analysis techniques applied to challenges faced in the financial sector.\n\nIn 2014 I was a post-doc at the IBM Thomas J. Watson Research Center where my research focused on a cross of machine learning, combinatorial optimization, data mining and data analytics. Before this, I was a post-doc at the Cork Constraint Computation Centre working with Barry O'Sullivan. While at 4C my work centered around automated algorithm configuration, algorithm portfolios, algorithm scheduling, and adaptive search strategies. The goal of this study was two fold. First, it aimed to develop the mechanisms to determine the structure of problems and its association with the behavior of the different solvers. Second, to develop methodologies that automatically adapt existing tools to the instances they will be evaluated on.\n\nI finished my PhD at Brown University in 2012 working with Meinolf Sellmann. The thesis developed the Instance-Specific Algorithm Configuration (ISAC) approach that focuses on training different categories of parameterized solvers. Specifically, my research showed that many combinatorial problems can be decomposed into a representative vector of features that are associated with the behavior of the applied algorithm. ISAC exploits this observation by automatically detecting the different sub types of a problem and then training a solver for each variety. This technique was explored on a number problem domains, including set covering, mixed integer, satisfiability, container stowage, set partitioning, and local search problems. ISAC was later further expanded to demonstrate its application to traditional algorithm portfolios and adaptive search methodologies. In all cases, marked improvements were shown over the existing state-of-the-art solvers.\n\nSpecialties: computer science, machine learning, combinatorial optimization"
+  }
+}

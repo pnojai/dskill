@@ -1,0 +1,264 @@
+{
+  "profileAlternative": {
+    "name": "Gan Gao",
+    "headline": "Data Scientist - Analytics at Facebook",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I'm graduating from Columbia University with a Masters degree in Management Science (joint degree program offered by Columbia Engineering in conjunction with Columbia Business School) in December 2015 with a current GPA of 4.0/4.0.\n\nI received my Bachelors degree in Hydraulic and Hydropower Engineering in 2014 with a second degree in Economics from Tsinghua University and graduated with a GPA of 3.8/4.0.\n\nAbroad-study experiences at Columbia University broadened my horizons and given me immense international exposure.\n\nBeing associated with Simulmedia, S&P Capital IQ and FreshDirect have provided me with rich professional exposure and steered me towards my career goals.\n\nTo know more about me, please contact me at gg2572@caa.columbia.edu."
+  },
+  "aboutAlternative": {
+    "text": "I'm graduating from Columbia University with a Masters degree in Management Science (joint degree program offered by Columbia Engineering in conjunction with Columbia Business School) in December 2015 with a current GPA of 4.0/4.0.\n\nI received my Bachelors degree in Hydraulic and Hydropower Engineering in 2014 with a second degree in Economics from Tsinghua University and graduated with a GPA of 3.8/4.0.\n\nAbroad-study experiences at Columbia University broadened my horizons and given me immense international exposure.\n\nBeing associated with Simulmedia, S&P Capital IQ and FreshDirect have provided me with rich professional exposure and steered me towards my career goals.\n\nTo know more about me, please contact me at gg2572@caa.columbia.edu."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (MS)",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Tsinghua University",
+      "degree": "Bachelor of Arts (B.A.)",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {
+      "title": "Tsinghua University",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "26"
+    },
+    {
+      "title": "SQL",
+      "count": "32"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "49"
+    },
+    {
+      "title": "Statistics",
+      "count": "20"
+    },
+    {
+      "title": "Data Mining",
+      "count": "12"
+    },
+    {
+      "title": "Business Analytics",
+      "count": "9"
+    },
+    {
+      "title": "Operations Research",
+      "count": "8"
+    },
+    {
+      "title": "Research",
+      "count": "10"
+    },
+    {
+      "title": "Keras",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "37"
+    },
+    {
+      "title": "Matlab",
+      "count": "31"
+    },
+    {
+      "title": "SAS",
+      "count": "12"
+    },
+    {
+      "title": "VBA",
+      "count": "12"
+    },
+    {
+      "title": "MongoDB",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "22"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "13"
+    },
+    {
+      "title": "EViews",
+      "count": "4"
+    },
+    {
+      "title": "Stata",
+      "count": "8"
+    },
+    {
+      "title": "Capital IQ",
+      "count": "6"
+    },
+    {
+      "title": "C",
+      "count": "5"
+    },
+    {
+      "title": "SPSS",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    },
+    {
+      "title": "HTML5",
+      "count": "2"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "2"
+    },
+    {
+      "title": "D3.js",
+      "count": "2"
+    },
+    {
+      "title": "Neo4j",
+      "count": "4"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "5"
+    },
+    {
+      "title": "Regression Analysis",
+      "count": "15"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/leon-goldfeld-9730355/",
+        "text": "I hired Gan as a Quantitative Analyst Consultant after several rounds of interviews in which he was incredibly enthusiastic and thoughtful in his ability to solve complex problems in simple ways. Since then he has completed many flawless projects in which he has assisted in finding alpha-generating investments for the firm. I was particularly impressed with his ability to present his findings in a concise matter that was easy to explain and understanding.\n\nAs a team leader or a team member Gan earns my highest recommendation. Any employee would be lucky to have him.\n\nThanks,\nLeon See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/georgechien/",
+        "text": "I worked with Gan extensively during his summer internship at Simulmedia. He's impressed me with his ability to quickly navigate the data environment and pick up new technical skills. Gan is an outstanding problem solver and impressively delivered a working product for a difficult problem. Gan is an asset to any data science team. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "26",
+      "items": [
+        "(Audit) Python-based Data Analytics",
+        "(Ph.D) Computing for Business Research",
+        "Advanced Corporate Finance",
+        "Asset Management",
+        "Business Analytics",
+        "Calculus",
+        "Corporate Finance",
+        "Data Mining",
+        "Econometrics",
+        "Empirical Finance"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Frydman Graduate Fellowship",
+        "“Dongfang Electric” Scholarship",
+        "“Wu Chaoyu” Scholarship",
+        "“Zhang Xiangqing” Scholarship"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Mandarin"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qingm/",
+      "text": "Data Scientist, Analytics at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wenhanxue/",
+      "text": "Data Scientist, Analytics at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xihanliu/",
+      "text": "Facebook - Data Scientist, Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julieranyan/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xindi-zhao-128b2a82/",
+      "text": "Data Scientist, Analytics Intern at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arcturuswati/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jyotiyadav/",
+      "text": "Data Scientist, Product Analytics at Facebook"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "College Mentor",
+      "experience": "Double Discovery Center, Columbia University",
+      "description": "Education",
+      "date1": "Sep 2014 – May 2015",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Supervisor and teacher for children",
+      "experience": "Compassion for Migrant Children Program, Beijing, China",
+      "description": "Children",
+      "date1": "Oct 2010 – Jan 2011",
+      "date2": "4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Gan Gao",
+    "headline": "Data Scientist - Analytics at Facebook",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I'm graduating from Columbia University with a Masters degree in Management Science (joint degree program offered by Columbia Engineering in conjunction with Columbia Business School) in December 2015 with a current GPA of 4.0/4.0.\n\nI received my Bachelors degree in Hydraulic and Hydropower Engineering in 2014 with a second degree in Economics from Tsinghua University and graduated with a GPA of 3.8/4.0.\n\nAbroad-study experiences at Columbia University broadened my horizons and given me immense international exposure.\n\nBeing associated with Simulmedia, S&P Capital IQ and FreshDirect have provided me with rich professional exposure and steered me towards my career goals.\n\nTo know more about me, please contact me at gg2572@caa.columbia.edu."
+  }
+}

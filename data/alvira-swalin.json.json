@@ -1,0 +1,177 @@
+{
+  "profileAlternative": {
+    "name": "Alvira Swalin",
+    "headline": "Data Scientist @ Uber",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "IIT Bombay graduate (2016) and MSDS alum at USF. Keen to apply Mathematical, Statistical and Machine Learning experience to solve complicated data science problems and utilize strong programming proficiency. I am an active blogger & kaggler.\nCheck out my blogs here - https://medium.com/@aswalin\nKaggle Profile - https://www.kaggle.com/alvira12"
+  },
+  "aboutAlternative": {
+    "text": "IIT Bombay graduate (2016) and MSDS alum at USF. Keen to apply Mathematical, Statistical and Machine Learning experience to solve complicated data science problems and utilize strong programming proficiency. I am an active blogger & kaggler.\nCheck out my blogs here - https://medium.com/@aswalin\nKaggle Profile - https://www.kaggle.com/alvira12"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of San Francisco",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Indian Institute of Technology, Bombay",
+      "degree": "Bachelor's Degree",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "8"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "3"
+    },
+    {
+      "title": "Simulations",
+      "count": "4"
+    },
+    {
+      "title": "Programming",
+      "count": "12"
+    },
+    {
+      "title": "Research",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "14"
+    },
+    {
+      "title": "Photoshop",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "6"
+    },
+    {
+      "title": "HTML",
+      "count": "4"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "Teamwork",
+      "count": "9"
+    },
+    {
+      "title": "Data Analytics",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/gabesmith/",
+        "text": "I highly recommend Alvira! She is bright, easy to work with and likable, and she did great work for us. Alvira helped us push the envelope on our machine learning driven recommendation approach. She brought new thinking and techniques to the table and operated with little guidance and in an environment with a lot of ambiguity. She is focused and worked hard to try out different models and methods until we found one that worked well and got good results. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Medium Blogs Web Scraping",
+        "Sentiment Analysis of Yelp Restaurant's Reviews",
+        "Forecasting of Canada’s Bankruptcy Rates",
+        "Capacitated Vehicle Routing Problem (Traveling Salesman Problem)",
+        "Soil Biotechnology - Industrial Collaborator: Dr. Biplank Patanaik"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cultural Citation Award",
+        "Best PAF Mentor",
+        "Secretary of the Year"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GATE-16 (Graduate Aptitude Test in Engineering)",
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sreeta-gorripaty-2b948717/",
+      "text": "Uber || Apple || UC Berkeley || IIT Bombay || HBS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neerja-doshi/",
+      "text": "Data Scientist at Amazon Web Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lindarliu/",
+      "text": "Data Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rekhathakur/",
+      "text": "Manager, Data Science & Engineering at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilywbailey/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/asmitavikas/",
+      "text": "Data Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyamatnani/",
+      "text": "Data Scientist at Airbnb"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Alvira Swalin",
+    "headline": "Data Scientist @ Uber",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "IIT Bombay graduate (2016) and MSDS alum at USF. Keen to apply Mathematical, Statistical and Machine Learning experience to solve complicated data science problems and utilize strong programming proficiency. I am an active blogger & kaggler.\nCheck out my blogs here - https://medium.com/@aswalin\nKaggle Profile - https://www.kaggle.com/alvira12"
+  }
+}

@@ -1,0 +1,45 @@
+---
+title: "Presentation Structure"
+author: "Anil Akyildirim"
+date: "10/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Introduction (who we are , what is our task)
+
+# Table of Contents
+
+# Problem in Question (there can be bunch of different questions)
+
+# Use Cases (Best possible use cases for the study)
+
+# Load Libraries (Load and install all the libraries)
+
+# Data Collection
+## Data Sources (explain the data sources)
+## About Data Sets (variable descriptions, our collection method and relational database set up.)
+## Load Data to R (load the data set to R)
+
+# Data Wrangling
+## Tidy Data (if required)
+## Identify and Handle Missing Values (if required)
+## Correct Data Formats (if required)
+## Data Standardization, Normalization (if required)
+
+
+
+# Data Analysis and Exploration
+## Summary and Structure of the data (explore each variable and summary of the dataset)
+## Data Visualization 
+## Correlation and distribution
+
+# Conclusion
+
+# References
+
+# Appendix (optional)

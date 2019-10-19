@@ -1,0 +1,200 @@
+{
+  "profileAlternative": {
+    "name": "David Rosenberg",
+    "headline": "Data Scientist -- CTO Office at Bloomberg LP",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Data Scientist -- CTO Office",
+      "date1": "Sep 2015 – Present",
+      "date2": "4 yrs 2 mos"
+    },
+    {
+      "title": "Adjunct Associate Professor in the Center for Data Science",
+      "description": "Instructor at NYU's Center for Data Science for the course DS-GA 1003: Machine Learning and Computational Statistics. https://davidrosenberg.github.io/ml2016",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of California, Berkeley",
+      "degree": "PhD",
+      "date1": "2002",
+      "date2": "2008"
+    },
+    {
+      "title": "Harvard University",
+      "degree": "SM",
+      "date1": "2000",
+      "date2": "2002"
+    },
+    {
+      "title": "Yale University",
+      "degree": "BS",
+      "date1": "1995",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "71"
+    },
+    {
+      "title": "Statistics",
+      "count": "43"
+    },
+    {
+      "title": "R",
+      "count": "36"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "33"
+    },
+    {
+      "title": "Data Mining",
+      "count": "29"
+    },
+    {
+      "title": "Algorithms",
+      "count": "17"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "16"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "count": "12"
+    },
+    {
+      "title": "Big Data",
+      "count": "8"
+    },
+    {
+      "title": "Computer Science",
+      "count": "4"
+    },
+    {
+      "title": "Sports Nutrition",
+      "count": "1"
+    },
+    {
+      "title": "Personal Training",
+      "count": "1"
+    },
+    {
+      "title": "Hadoop",
+      "count": "16"
+    },
+    {
+      "title": "Java",
+      "count": "16"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Natural Language Processing",
+      "count": "14"
+    },
+    {
+      "title": "Pattern Recognition",
+      "count": "12"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "11"
+    },
+    {
+      "title": "Information Retrieval",
+      "count": "2"
+    },
+    {
+      "title": "Kitesurfing",
+      "count": "2"
+    },
+    {
+      "title": "Electric Fencing",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Comparing Spatial-Temporal Trails In Location Analytics",
+        "Event identification in sensor analytics",
+        "Method for Analyzing and Ranking Venues",
+        "User Description Based on Contexts of Location and Time"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Hungarian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vlad-kliatchko-12168b2/",
+      "text": "Engineering at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikita-bhargava/",
+      "text": "Computer Science Graduate Student at NYU Courant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amla-srivastava/",
+      "text": "Data Scientist @ Bloomberg || Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pli88/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ridhi-mahajan/",
+      "text": "Data Scientist at Bloomberg | Director's Gold Medalist at IIT Delhi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ningyi-zhang-a65097a2/",
+      "text": "Data Scientist (People Analytics) at Bloomberg"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manuela-veloso-ba8011144/",
+      "text": "Head JPMorgan AI Research, Professor at Carnegie Mellon University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/whoisnanli/",
+      "text": "Research Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-xia-b61b793a/",
+      "text": "Data Scientist at Uber, UberEats"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "David Rosenberg",
+    "headline": "Data Scientist -- CTO Office at Bloomberg LP",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

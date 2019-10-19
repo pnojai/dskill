@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Biyue Huang",
+    "headline": "Data Scientist",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Graduated with a Master's degree in Statistics from Columbia University, I am fascinated by the opportunities to apply data science techniques to translate data into meaningful business results.\n\nCurrently working in the technology industry, I have extensive experiences in identifying business problems and provide practical solutions with quantitative approaches. I am always passionate about adapting myself to the most advanced technology.\n\n► Tools:\nPython (Numpy, Pandas, Matplotlib, Seaborn, Scipy, sklearn, Tensorflow), R, SQL, SAS, Git, GitHub, Spark\n\n► Skills:\nMachine Learning, Quantitative Research, Deep Learning, Reinforcement Learning, Data Mining, A/B Testing, Statistical Analysis, Data Visualisation, Data Analysis, Product Metrics, Analytics, Predictive Modeling"
+  },
+  "aboutAlternative": {
+    "text": "Graduated with a Master's degree in Statistics from Columbia University, I am fascinated by the opportunities to apply data science techniques to translate data into meaningful business results.\n\nCurrently working in the technology industry, I have extensive experiences in identifying business problems and provide practical solutions with quantitative approaches. I am always passionate about adapting myself to the most advanced technology.\n\n► Tools:\nPython (Numpy, Pandas, Matplotlib, Seaborn, Scipy, sklearn, Tensorflow), R, SQL, SAS, Git, GitHub, Spark\n\n► Skills:\nMachine Learning, Quantitative Research, Deep Learning, Reinforcement Learning, Data Mining, A/B Testing, Statistical Analysis, Data Visualisation, Data Analysis, Product Metrics, Analytics, Predictive Modeling"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "City University of Hong Kong",
+      "degree": "Bachelor’s Degree",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "University of Wisconsin-Madison",
+      "degree": "Non-degree Exchange",
+      "date1": "2013",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Excel",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "10"
+    },
+    {
+      "title": "Data Mining",
+      "count": "7"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "4"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "SAS",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "2"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "Machine L"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "25",
+      "items": [
+        "Actuarial Science",
+        "Advanced Data Analysis",
+        "Analysis",
+        "Applied Statistics",
+        "Bayesian Statistics",
+        "Complex Analysis",
+        "Data Mining",
+        "Data Structure and Data Management",
+        "Derivatives Analysis and Advanced Investment",
+        "Financial Management"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Special Fund for Non-local Outbound Exchange Students",
+        "HKSAR Government Scholarship",
+        "Mainland Student Scholarship Scheme - Full Tuition Scholarship"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cantonese",
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Database for Venture Capital Recommendation",
+        "Yield Curve Construction",
+        "Data Mining"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yuxi-wang-6b93a7a8/",
+      "text": "Algo Trading Quant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiwenyou/",
+      "text": "Data Scientist at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ziweimeng/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dina-xuanyi-liu-77b2673a/",
+      "text": "Senior Data Scientist at Aetna"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hancui/",
+      "text": "Quant | Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhen-zheng-4068555a/",
+      "text": "Associate Director at UBS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yifanwu1994/",
+      "text": "Lead Data Scientist at Lending Club"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luyuan-shi/",
+      "text": "Quantitative Analyst at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monicatao69/",
+      "text": "Data Scientist at SAP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laurale8/",
+      "text": "VP, Quantitative Analyst at Bank of America"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Jimmy's Village School",
+      "description": "Education",
+      "date1": "Jun 2013",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Mercer Street Friends Food Bank",
+      "description": "Children",
+      "date1": "Jul 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Biyue Huang",
+    "headline": "Data Scientist",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Graduated with a Master's degree in Statistics from Columbia University, I am fascinated by the opportunities to apply data science techniques to translate data into meaningful business results.\n\nCurrently working in the technology industry, I have extensive experiences in identifying business problems and provide practical solutions with quantitative approaches. I am always passionate about adapting myself to the most advanced technology.\n\n► Tools:\nPython (Numpy, Pandas, Matplotlib, Seaborn, Scipy, sklearn, Tensorflow), R, SQL, SAS, Git, GitHub, Spark\n\n► Skills:\nMachine Learning, Quantitative Research, Deep Learning, Reinforcement Learning, Data Mining, A/B Testing, Statistical Analysis, Data Visualisation, Data Analysis, Product Metrics, Analytics, Predictive Modeling"
+  }
+}

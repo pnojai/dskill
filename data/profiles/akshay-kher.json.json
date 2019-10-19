@@ -1,0 +1,289 @@
+{
+  "profileAlternative": {
+    "name": "Akshay Kher",
+    "headline": "Data Scientist at Amazon",
+    "location": "Cincinnati, Ohio",
+    "connections": "500+",
+    "summary": "Data science professional with 5 years of experience in building end-to-end data science solutions for Fortune 500 companies in retail, eCommerce and manufacturing sectors.\n\nSkills:\n\n1. Statistical Analysis Techniques:\nLinear Regression (Ridge, Lasso) | Generalized Linear Models (Logistic Regression, Multinomial Regression, Ordinal Regression, Poisson Regression) | Generalized Additive Models | Decision Trees | Bagging | Random Forest | Boosting | Support Vector Machine | Clustering (K-Means, Hierarchical) | K-Nearest Neighbor | Dimensionality Reduction (Principal Component Analysis, Exploratory Factor Analysis, Non-Negative Matrix Factorization, Multi-Dimensional Scaling) | Association Rule Mining (Apriori Algorithm) | Text Mining | Hypothesis Testing | Design of Experiment | A/B Testing | Optimization (Linear Programming, Integer Programming, Mixed Integer Programming)\n\n2. Statistical Tools:\nPython, R, SAS, PySpark\n\n3. Data Management Tools:\nSQL, Hive SQL, Hadoop\n\n4. Data Visualization Tools:\nPowerBI, Tableau, R Shiny, ggplot2\n\n5. Programming Languages:\nPython, C++, Java, HTML, CSS, JavaScript\n\n6. Optimization and Simulation Softwares\nFICO Xpress, Decision Tools Suite (TopRank, @RISK, Precision Tree), Excel Solver\n\nGitHub: https://github.com/akshaykher\n\nEmail: kheray@mail.uc.edu"
+  },
+  "aboutAlternative": {
+    "text": "Data science professional with 5 years of experience in building end-to-end data science solutions for Fortune 500 companies in retail, eCommerce and manufacturing sectors.\n\nSkills:\n\n1. Statistical Analysis Techniques:\nLinear Regression (Ridge, Lasso) | Generalized Linear Models (Logistic Regression, Multinomial Regression, Ordinal Regression, Poisson Regression) | Generalized Additive Models | Decision Trees | Bagging | Random Forest | Boosting | Support Vector Machine | Clustering (K-Means, Hierarchical) | K-Nearest Neighbor | Dimensionality Reduction (Principal Component Analysis, Exploratory Factor Analysis, Non-Negative Matrix Factorization, Multi-Dimensional Scaling) | Association Rule Mining (Apriori Algorithm) | Text Mining | Hypothesis Testing | Design of Experiment | A/B Testing | Optimization (Linear Programming, Integer Programming, Mixed Integer Programming)\n\n2. Statistical Tools:\nPython, R, SAS, PySpark\n\n3. Data Management Tools:\nSQL, Hive SQL, Hadoop\n\n4. Data Visualization Tools:\nPowerBI, Tableau, R Shiny, ggplot2\n\n5. Programming Languages:\nPython, C++, Java, HTML, CSS, JavaScript\n\n6. Optimization and Simulation Softwares\nFICO Xpress, Decision Tools Suite (TopRank, @RISK, Precision Tree), Excel Solver\n\nGitHub: https://github.com/akshaykher\n\nEmail: kheray@mail.uc.edu"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Cincinnati Carl H. Lindner College of Business",
+      "degree": "Master's degree, Business Analytics, 3.92/4",
+      "date1": "2018",
+      "date2": "2019"
+    },
+    {},
+    {
+      "title": "Jaypee Institute Of Information Technology",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "The Mother's International School",
+      "degree": "High School, 92.7%",
+      "date1": "1996",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "16"
+    },
+    {
+      "title": "Python",
+      "count": "18"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "9"
+    },
+    {
+      "title": "Data Mining",
+      "count": "9"
+    },
+    {
+      "title": "Optimization",
+      "count": "3"
+    },
+    {
+      "title": "Marketing",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "E-commerce",
+      "count": "2"
+    },
+    {
+      "title": "E-commerce SEO",
+      "count": "1"
+    },
+    {
+      "title": "Retail",
+      "count": "1"
+    },
+    {
+      "title": "HTML5",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "C",
+      "count": "6"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Hadoop",
+      "count": "1"
+    },
+    {
+      "title": "PySpark",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Power BI"
+    },
+    {
+      "title": "HDFS"
+    },
+    {
+      "title": "RShiny",
+      "count": "1"
+    },
+    {
+      "title": "Data Cleaning",
+      "count": "5"
+    },
+    {
+      "title": "Exploratory Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "6"
+    },
+    {
+      "title": "Logistic Regression",
+      "count": "6"
+    },
+    {
+      "title": "Cluster Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Text Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Data Extraction",
+      "count": "3"
+    },
+    {
+      "title": "Customer Segmentation Strategy"
+    },
+    {
+      "title": "Target Marketing"
+    },
+    {
+      "title": "Positioning"
+    },
+    {
+      "title": "Marketing Mix"
+    },
+    {
+      "title": "Hive",
+      "count": "1"
+    },
+    {
+      "title": "Principal Component Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Market Basket Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Retail Sales Analysis"
+    },
+    {
+      "title": "Recommender Systems"
+    },
+    {
+      "title": "Pig"
+    },
+    {
+      "title": "Impala"
+    },
+    {
+      "title": "YARN"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jean-seguro-3409b8141/",
+        "text": "I had a great experience working with Akshay as his supervisor while he was at the UC Sim Center. Akshay was reliable, very competent and did not hesitate to ask for clarifications when in doubt. His Data Science skills were up to any of the challenges we faced when exploring, cleaning and analyzing unorganized data from multiple non-synchronized sources. I look forward to staying in touch and home our paths will cross again in the future. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/neeraj-gehani-3a5ab61/",
+        "text": "Akshay reported into me at dunnhumby and right from day one stood out as an individual who is committed to growing and learning. He is a very curious by nature and has a growth mindset . During his stint in dunnhumby, he was always keen to work on toughest of the business problems and delivered on every project. One key thing which differentiates Akshay from others is his desire to build a strong understanding of the foundations of any analytical methodology and working tirelessly to explore all facets. He has a strong work ethic and gets very well along with others along with strong communication skills which made him an asset to the team. I wish him all the best for the future and look forward to the opportunities to work again together in future. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "Uber Promotional Campaign Analysis",
+        "German Credit Risk Analysis using Multiple Classification Models",
+        "Kroger: Shelf Optimization Analysis",
+        "Analyzing Profitability on Short Term Rentals using AirbnB and Zillow Data",
+        "Clustering EU Data and Association Mining on Zoo Data",
+        "Revenue and Insurance Product Prediction using Census Data",
+        "Predicting house prices using multiple regression models",
+        "Predicting risky plane landings using GLM models",
+        "Retail Analysis",
+        "Alumni Donation Case Study"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Winner - Cincinnati Bell Innovation Challenge"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rishabh-joshi/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyamatnani/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhavanavijay/",
+      "text": "Analytics at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tinnazhang/",
+      "text": "Product Manager at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dutta-pallavi/",
+      "text": "Senior Regional Operations Manager at Uber | Tuck MBA | ex-Bain"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanjana-bhosekar/",
+      "text": "Associate at Tredence Inc. |Experienced Business Data Analytics Professional|Retail|E-Commerce| Amazon and Nielsen Alum"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Propel Wingman",
+      "experience": "Make A Difference",
+      "description": "Social Services",
+      "date1": "Jun 2014 – Aug 2017",
+      "date2": "3 yrs 3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Akshay Kher",
+    "headline": "Data Scientist at Amazon",
+    "location": "Cincinnati, Ohio",
+    "connections": "500+",
+    "summary": "Data science professional with 5 years of experience in building end-to-end data science solutions for Fortune 500 companies in retail, eCommerce and manufacturing sectors.\n\nSkills:\n\n1. Statistical Analysis Techniques:\nLinear Regression (Ridge, Lasso) | Generalized Linear Models (Logistic Regression, Multinomial Regression, Ordinal Regression, Poisson Regression) | Generalized Additive Models | Decision Trees | Bagging | Random Forest | Boosting | Support Vector Machine | Clustering (K-Means, Hierarchical) | K-Nearest Neighbor | Dimensionality Reduction (Principal Component Analysis, Exploratory Factor Analysis, Non-Negative Matrix Factorization, Multi-Dimensional Scaling) | Association Rule Mining (Apriori Algorithm) | Text Mining | Hypothesis Testing | Design of Experiment | A/B Testing | Optimization (Linear Programming, Integer Programming, Mixed Integer Programming)\n\n2. Statistical Tools:\nPython, R, SAS, PySpark\n\n3. Data Management Tools:\nSQL, Hive SQL, Hadoop\n\n4. Data Visualization Tools:\nPowerBI, Tableau, R Shiny, ggplot2\n\n5. Programming Languages:\nPython, C++, Java, HTML, CSS, JavaScript\n\n6. Optimization and Simulation Softwares\nFICO Xpress, Decision Tools Suite (TopRank, @RISK, Precision Tree), Excel Solver\n\nGitHub: https://github.com/akshaykher\n\nEmail: kheray@mail.uc.edu"
+  }
+}

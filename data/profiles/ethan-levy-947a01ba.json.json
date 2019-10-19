@@ -1,0 +1,220 @@
+{
+  "profileAlternative": {
+    "name": "Ethan Levy",
+    "headline": "Data Scientist at Raise",
+    "location": "San Francisco Bay Area",
+    "connections": "261",
+    "summary": "Main interests: Data science, probability, statistics, machine learning, predictive modeling, hydrology, geology, water resources, geostatistics, numerical modeling, time series analysis."
+  },
+  "aboutAlternative": {
+    "text": "Main interests: Data science, probability, statistics, machine learning, predictive modeling, hydrology, geology, water resources, geostatistics, numerical modeling, time series analysis."
+  },
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "date1": "Sep 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Terraphase Engineering Inc.",
+      "date1": "Dec 2018 – Present",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Senior Staff Geologist",
+          "date1": "Dec 2018 – Present",
+          "date2": "11 mos"
+        },
+        {
+          "title": "Staff II Geologist",
+          "date1": "Apr 2017 – Present",
+          "date2": "2 yrs 7 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ben-Gurion University of the Negev",
+      "degree": "Master’s Degree",
+      "date1": "2013",
+      "date2": "2016"
+    },
+    {
+      "title": "Brown University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Groundwater Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "MODFLOW",
+      "count": "1"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Research",
+      "count": "9"
+    },
+    {
+      "title": "Project Management",
+      "count": "1"
+    },
+    {
+      "title": "Science"
+    },
+    {
+      "title": "Environmental Science"
+    },
+    {
+      "title": "Environmental Awareness",
+      "count": "1"
+    },
+    {
+      "title": "GIS",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Access",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Teaching",
+      "count": "3"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "3"
+    },
+    {
+      "title": "Hydrus-1/2/3D"
+    },
+    {
+      "title": "GMS",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Contaminant Hydrology",
+        "Field Methods in Hydrology",
+        "Geostatistics",
+        "Hydrogeology and Environmental Geochemistry",
+        "Modeling Water Flow and Contaminant Transport with Hydrus",
+        "Soil Mechanics and Foundation Engineering",
+        "Theory and Applications of GIS"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "English",
+        "French",
+        "German",
+        "Hebrew",
+        "Italian",
+        "Mandarin",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kate-huckelbridge-a9104a6/",
+      "text": "Senior Environmental Scientist at California Coastal Commission"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scottyoo/",
+      "text": "VP, Operations at Terminal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/techgirlwonder/",
+      "text": "Principal Developer at Carbon Five"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meredith-coughlin-cpa-5883a338/",
+      "text": "Partner at EY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhengwenjie/",
+      "text": "Management Consultant at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-harpin-5241a995/",
+      "text": "Member Of Technical Staff at Delphix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamjoel/",
+      "text": "Senior Associate, Asset Management at Equity LifeStyle Properties, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/qihengchen/",
+      "text": "Columbia SIPA MIA '20"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephanie-rivera-levy-37346a5/",
+      "text": "Director of Commercial Planning at Banana Republic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/henningfischer24/",
+      "text": "Explore new ground, build products, services and orgs."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ethan Levy",
+    "headline": "Data Scientist at Raise",
+    "location": "San Francisco Bay Area",
+    "connections": "261",
+    "summary": "Main interests: Data science, probability, statistics, machine learning, predictive modeling, hydrology, geology, water resources, geostatistics, numerical modeling, time series analysis."
+  }
+}

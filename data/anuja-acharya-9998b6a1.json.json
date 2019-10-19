@@ -1,0 +1,146 @@
+{
+  "profileAlternative": {
+    "name": "Anuja Acharya",
+    "headline": "Data Analyst at Apple",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "7+ years of experience in Information Technology in domains concentrating on Retail, Automotive\nand Infotainment with focus on Business and Data Analysis and substantial know-how of Business Processes, Business Requirements gathering, Business Process flow, Business Process Modeling, Data Mining, Data Mapping, Data Modeling, Data Migration and Data Integration.\n\n\nTECHNICAL SKILLS\nScripting Languages: Advanced: R | Intermediate: Python | Basic: SAS\nProgramming Languages: Advanced: SQL | Intermediate: C, C++ | Basic: JavaScript, PHP, D3.js\nTools: JMP Pro 13, SAS 9.4, IBM SPSS, IBM Rational Rhapsody, IBM ClearQuest, IBM Rational ClearCase, Precision Tree 7.5, Risk 7.5, IBM Rational Clear Quest\nDatabases: MS Access, MS Visual Studio 17, SQL Server 17, SQL Server 2012\nData Visualization: Tableau, Excel, Google Sheets\nDistributed Systems: Hadoop/MapReduce, AWS, Pig, Hive, HBase\nOffice Software: Advanced Excel (solver, decision tree, macros, pivot tables, vlookups)\nMachine Learning: Regression, Naïve Bayes, k-means, Random Forest, SVM, Deep learning\nERP Software: Oracle ERP 12\nProject Mgmt. Software: MS Project\nOperating Systems: Linux, Unix, Windows"
+  },
+  "aboutAlternative": {
+    "text": "7+ years of experience in Information Technology in domains concentrating on Retail, Automotive\nand Infotainment with focus on Business and Data Analysis and substantial know-how of Business Processes, Business Requirements gathering, Business Process flow, Business Process Modeling, Data Mining, Data Mapping, Data Modeling, Data Migration and Data Integration.\n\n\nTECHNICAL SKILLS\nScripting Languages: Advanced: R | Intermediate: Python | Basic: SAS\nProgramming Languages: Advanced: SQL | Intermediate: C, C++ | Basic: JavaScript, PHP, D3.js\nTools: JMP Pro 13, SAS 9.4, IBM SPSS, IBM Rational Rhapsody, IBM ClearQuest, IBM Rational ClearCase, Precision Tree 7.5, Risk 7.5, IBM Rational Clear Quest\nDatabases: MS Access, MS Visual Studio 17, SQL Server 17, SQL Server 2012\nData Visualization: Tableau, Excel, Google Sheets\nDistributed Systems: Hadoop/MapReduce, AWS, Pig, Hive, HBase\nOffice Software: Advanced Excel (solver, decision tree, macros, pivot tables, vlookups)\nMachine Learning: Regression, Naïve Bayes, k-means, Random Forest, SVM, Deep learning\nERP Software: Oracle ERP 12\nProject Mgmt. Software: MS Project\nOperating Systems: Linux, Unix, Windows"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "California State University - East Bay",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+      "degree": "Bachelor’s Degree",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "6"
+    },
+    {
+      "title": "Project Management",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Enterprise Resource Planning (ERP)",
+      "count": "1"
+    },
+    {
+      "title": "Relational Databases",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Access",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "SPSS",
+      "count": "1"
+    },
+    {
+      "title": "HR Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Oracle ERP"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/zinovy-radovilsky-7333b18/",
+        "text": "May 3, 2018\n\nTo Whom It May Concern:\n\nI am writing this letter with respect to Anuja Acharya, who is finishing the Master of Science in Business Analytics (MSBA) Program. I trust you have received Anuja’s resume, and, therefore, will not repeat that information. Let me make some observations regarding her abilities, work habits, and personality.\n\nI have known Anuja since winter of 2017, when she started the MSBA Program. I have had her as a student in several graduate courses where I taught prescriptive analytics/optimization methods and enterprise resource management. In these courses, Anuja always demonstrated strong analytical skills and excellent ability to comprehend complex materials. She always distinguished herself by the outstanding preparation for classes. I found Anuja to be very responsive and hardworking person that can always fulfill course requirements on time and with high quality and efficiency. She was truly one of the best students in my classes, and her course achievements were consistently in the top 5% of the classes.\n\nShe was also one of my students in a capstone project, where we worked on a research related to identifying and comparing, using text mining methods, knowledge domains and skills that characterize Business Data Analytics (BDA) and Decision Sciences (DS) professions. The results of the text mining analysis reveal some similarities as well as important differences between the required knowledge domains and groups of skills for BDA and DS. These results provide insights that are vital in designing curriculum and training in the evolving business analytics and data sciences areas, and also enable professionals to sharpen their skills that are aligned with job market requirements. This project lead to a publication of a research paper in a peer-reviewed journal, where Anuja was one of the co-authors.\n\nOn the personal basis, Anuja is easy to get along with. I found her to be pleasant and sensitive. She is soft spoken and takes criticism really well. Anuja could be an excellent team player that would not hesitate to take on various responsibilities.\n\nIn summary, I can recommend Anuja Acharya to you in a strongest possible manner. I sincerely believe that she can be a great asset for a company that hires her. Should you have any further questions, please do not hesitate to e-mail me.\nSee less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sanchit-suman-49a27320/",
+      "text": "Data Science Analyst at Apple | Strategic Data Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daodemi/",
+      "text": "Data Analyst at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nadiayg23/",
+      "text": "Data Analyst at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelapeng/",
+      "text": "Data Analyst at Twitch"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chi-p-nguyen/",
+      "text": "Marketing System Analyst @Esurance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pooja-bhansali-2336b1169/",
+      "text": "Actively seeking for Fall 2019 Internship in Business / Data Analyst || Master of Science in Business Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivia-wang-84477165/",
+      "text": "Data really powers everything that we do."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ritu-pardasani/",
+      "text": "Data Analyst at TrueAccord"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prasanna-chitti-969b7777/",
+      "text": "Operations Data Analyst and Program Manager at AMD"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anuja Acharya",
+    "headline": "Data Analyst at Apple",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "7+ years of experience in Information Technology in domains concentrating on Retail, Automotive\nand Infotainment with focus on Business and Data Analysis and substantial know-how of Business Processes, Business Requirements gathering, Business Process flow, Business Process Modeling, Data Mining, Data Mapping, Data Modeling, Data Migration and Data Integration.\n\n\nTECHNICAL SKILLS\nScripting Languages: Advanced: R | Intermediate: Python | Basic: SAS\nProgramming Languages: Advanced: SQL | Intermediate: C, C++ | Basic: JavaScript, PHP, D3.js\nTools: JMP Pro 13, SAS 9.4, IBM SPSS, IBM Rational Rhapsody, IBM ClearQuest, IBM Rational ClearCase, Precision Tree 7.5, Risk 7.5, IBM Rational Clear Quest\nDatabases: MS Access, MS Visual Studio 17, SQL Server 17, SQL Server 2012\nData Visualization: Tableau, Excel, Google Sheets\nDistributed Systems: Hadoop/MapReduce, AWS, Pig, Hive, HBase\nOffice Software: Advanced Excel (solver, decision tree, macros, pivot tables, vlookups)\nMachine Learning: Regression, Naïve Bayes, k-means, Random Forest, SVM, Deep learning\nERP Software: Oracle ERP 12\nProject Mgmt. Software: MS Project\nOperating Systems: Linux, Unix, Windows"
+  }
+}

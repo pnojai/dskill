@@ -1,0 +1,172 @@
+{
+  "profileAlternative": {
+    "name": "Mark Davenport",
+    "headline": "GM, Data Science at The Trade Desk",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Chicago",
+      "degree": "Master of Science"
+    },
+    {
+      "title": "Washington University in St. Louis",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Digital Strategy",
+      "count": "25"
+    },
+    {
+      "title": "Online Advertising",
+      "count": "25"
+    },
+    {
+      "title": "Digital Media",
+      "count": "23"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "22"
+    },
+    {
+      "title": "Analytics",
+      "count": "16"
+    },
+    {
+      "title": "Advertising",
+      "count": "13"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "9"
+    },
+    {
+      "title": "Mobile Marketing",
+      "count": "8"
+    },
+    {
+      "title": "Web Analytics",
+      "count": "6"
+    },
+    {
+      "title": "Online Marketing",
+      "count": "5"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "4"
+    },
+    {
+      "title": "SEM",
+      "count": "3"
+    },
+    {
+      "title": "Strategy",
+      "count": "3"
+    },
+    {
+      "title": "Social Media",
+      "count": "3"
+    },
+    {
+      "title": "PPC",
+      "count": "2"
+    },
+    {
+      "title": "Statistics",
+      "count": "1"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "RTB",
+      "count": "3"
+    },
+    {
+      "title": "Regression Models"
+    },
+    {
+      "title": "Text Analytics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Jargon Hype: How Word Usage Is A Barometer For Industry Buzz"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/miumiumiu/",
+      "text": "Data Analyst at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dave-pickles-3a31bb3/",
+      "text": "CTO & Founder at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peter-amos-44777626/",
+      "text": "Director, Trading Strategy at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/asha-menon-7264b756/",
+      "text": "Senior Trading Specialist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vamin/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tim-sims-9b07204/",
+      "text": "SVP, Inventory Partnerships at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopherhuie/",
+      "text": "Finance & Strategy at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eunjin-ej-koh-0a440587/",
+      "text": "Trading Specialist at The Trade Desk, Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mark Davenport",
+    "headline": "GM, Data Science at The Trade Desk",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

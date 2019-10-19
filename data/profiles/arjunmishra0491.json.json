@@ -1,0 +1,264 @@
+{
+  "profileAlternative": {
+    "name": "Arjun Mishra",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I am a data scientist at Amazon.com working on the seller misconduct team to identify and restrict bad actors from committing fraud on the Amazon platform. I completed my graduate degree in the Analytics program at Georgia Institute of Technology. My concentration of study at tech was Computational Data Analytics which focused on machine learning, big data applications, and statistical methods.\n\nI was first exposed to data analysis during my final year undergraduate project at IIT, Roorkee. During my subsequent three years in the industry, I worked on projects from diverse fields like supply chain optimization, marketing, insurance, and finance respectively, where I again leveraged data to assist decision making. My graduate studies are centered towards further building my capabilities in the field of data science and learning about the latest techniques in artificial intelligence like deep learning. The two most motivating factors for me in this area of study are:\n1. The versatility of skills. Each and every industry is experiencing data-driven innovation today and this is set to grow further - this includes societal causes like crime, hunger etc.\n2. The obsolescence of skills. Due to the fast pace at which the research is progressing in the field, one must always be up to date with the best and latest techniques to maximize impact. This brings along the promise and exciting challenge of perpetual learning.\n\nOutside the data world, I enjoy hiking, reading, fine arts and everything basketball. I love making professional connections to share ideas and experiences. Please feel free to connect with me at mishra_arjun@hotmail.com"
+  },
+  "aboutAlternative": {
+    "text": "I am a data scientist at Amazon.com working on the seller misconduct team to identify and restrict bad actors from committing fraud on the Amazon platform. I completed my graduate degree in the Analytics program at Georgia Institute of Technology. My concentration of study at tech was Computational Data Analytics which focused on machine learning, big data applications, and statistical methods.\n\nI was first exposed to data analysis during my final year undergraduate project at IIT, Roorkee. During my subsequent three years in the industry, I worked on projects from diverse fields like supply chain optimization, marketing, insurance, and finance respectively, where I again leveraged data to assist decision making. My graduate studies are centered towards further building my capabilities in the field of data science and learning about the latest techniques in artificial intelligence like deep learning. The two most motivating factors for me in this area of study are:\n1. The versatility of skills. Each and every industry is experiencing data-driven innovation today and this is set to grow further - this includes societal causes like crime, hunger etc.\n2. The obsolescence of skills. Due to the fast pace at which the research is progressing in the field, one must always be up to date with the best and latest techniques to maximize impact. This brings along the promise and exciting challenge of perpetual learning.\n\nOutside the data world, I enjoy hiking, reading, fine arts and everything basketball. I love making professional connections to share ideas and experiences. Please feel free to connect with me at mishra_arjun@hotmail.com"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Indian Institute of Technology, Roorkee",
+      "degree": "Bachelor of Technology",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Bal Niketan Senior Secondary School",
+      "degree": "Higher Education",
+      "date1": "2007",
+      "date2": "2009"
+    },
+    {
+      "title": "Vivek High School",
+      "degree": "Secondary Education",
+      "date1": "1997",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Text Mining",
+      "count": "8"
+    },
+    {
+      "title": "Regression Trees & Random Forests",
+      "count": "11"
+    },
+    {
+      "title": "R",
+      "count": "24"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "30"
+    },
+    {
+      "title": "Analytics",
+      "count": "6"
+    },
+    {
+      "title": "3D Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Economics",
+      "count": "1"
+    },
+    {
+      "title": "Data Mining"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "21"
+    },
+    {
+      "title": "SQL",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "17"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "11"
+    },
+    {
+      "title": "Solidworks",
+      "count": "5"
+    },
+    {
+      "title": "Problem Solving",
+      "count": "4"
+    },
+    {
+      "title": "Team Management",
+      "count": "2"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "2"
+    },
+    {
+      "title": "Natural Language Processing",
+      "count": "2"
+    },
+    {
+      "title": "Cluster Analysis",
+      "count": "10"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "10"
+    },
+    {
+      "title": "Logistic Regression",
+      "count": "10"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Alteryx",
+      "count": "4"
+    },
+    {
+      "title": "Spotfire",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/cloudrobx/",
+        "text": "Arjun is a tremendously talented data scientist. We worked together on a data science team at Georgia Tech and Arjun was a standout member of our team due to his strong background and analytical skills. He has excellent statistical and modeling knowledge and the software development skills to back it up. He's a great team player and a pleasure to work with. I look forward to working together with Arjun again in the future! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/francismckeown/",
+        "text": "Arjun is a self-starter. I had the benefit of working with him for 6 months and learnt a tonne of stuff in that time. His deliverables in that period were ground-breaking for P&G, including a piece which was turned around in 5 hours vs. a quote we had from a Big 4 consultancy which included a team of consultants, 12 weeks and $100k+ (the 5 hours was a determination to prove to Business Unit it could be done before the next day when they were due to sign the deal)!! See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "Data Analytics for Business",
+        "Data and Visual Analytics",
+        "Deep Learning and Text Mining (called Web Search and Text Mining)",
+        "Intro to AI",
+        "Intro to Analytical Models",
+        "Intro to Computing for Data Analysis",
+        "Machine Learning",
+        "Regression Analysis",
+        "Simulation",
+        "Special Research Problems: Training an AI agent to play Doom with Deep Reinforcement learning"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Predict safety incidents in The Home Depot stores across the US",
+        "Creating a language detection model using LSTMs",
+        "Training an AI agent to play Doom using Deep Reinforcement Learning",
+        "Trained customized GANs to generate MNIST digit images",
+        "BAJA SAE"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Punjabi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Graduate Record Examination (GRE)",
+        "Test Of English as a Foreign Language (TOEFL)"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Master Modeler Competition 2017 @ Scheller School of Business"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/prateek-agrawal1991/",
+      "text": "Data Scientist at Amazon | AWS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjalkarshruti/",
+      "text": "Data Scientist at Amazon (Alexa AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phamnina/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srinivas-sekar/",
+      "text": "Data Scientist at Asurion"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabriella-runnels/",
+      "text": "Data Scientist at Opex Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/apurvaasubramaniam/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nirmitchetwani/",
+      "text": "Data Scientist II at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyamatnani/",
+      "text": "Data Scientist at Airbnb"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer / School Representative",
+      "experience": "The Round Square",
+      "description": "Social Services",
+      "date1": "Nov 2006 – Feb 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Coordinator and Volunteer",
+      "experience": "National Service Scheme",
+      "description": "Children",
+      "date1": "Aug 2009 – Nov 2011",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Arjun Mishra",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I am a data scientist at Amazon.com working on the seller misconduct team to identify and restrict bad actors from committing fraud on the Amazon platform. I completed my graduate degree in the Analytics program at Georgia Institute of Technology. My concentration of study at tech was Computational Data Analytics which focused on machine learning, big data applications, and statistical methods.\n\nI was first exposed to data analysis during my final year undergraduate project at IIT, Roorkee. During my subsequent three years in the industry, I worked on projects from diverse fields like supply chain optimization, marketing, insurance, and finance respectively, where I again leveraged data to assist decision making. My graduate studies are centered towards further building my capabilities in the field of data science and learning about the latest techniques in artificial intelligence like deep learning. The two most motivating factors for me in this area of study are:\n1. The versatility of skills. Each and every industry is experiencing data-driven innovation today and this is set to grow further - this includes societal causes like crime, hunger etc.\n2. The obsolescence of skills. Due to the fast pace at which the research is progressing in the field, one must always be up to date with the best and latest techniques to maximize impact. This brings along the promise and exciting challenge of perpetual learning.\n\nOutside the data world, I enjoy hiking, reading, fine arts and everything basketball. I love making professional connections to share ideas and experiences. Please feel free to connect with me at mishra_arjun@hotmail.com"
+  }
+}

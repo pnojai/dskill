@@ -1,0 +1,206 @@
+{
+  "profileAlternative": {
+    "name": "Habib Adam",
+    "headline": "Data Scientist at TransferWise",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I have worked in analytical and highly quantitative roles – spanning investment markets, insurance pricing, marketing performance analytics, and general consulting. My experience has covered a range of challenging and unique analytical projects where I have been afforded opportunities to work with a variety of different data sets, design classification and regression models, and develop optimization algorithms. These projects have provided me with hands-on experience and familiarity in statistical modelling and analysis, machine learning, data warehousing, process automation (predominately using R, Python, and SQL).\n\nSome of my personal work can be found at:\nhttp://cargocollective.com/theswishcheese"
+  },
+  "aboutAlternative": {
+    "text": "I have worked in analytical and highly quantitative roles – spanning investment markets, insurance pricing, marketing performance analytics, and general consulting. My experience has covered a range of challenging and unique analytical projects where I have been afforded opportunities to work with a variety of different data sets, design classification and regression models, and develop optimization algorithms. These projects have provided me with hands-on experience and familiarity in statistical modelling and analysis, machine learning, data warehousing, process automation (predominately using R, Python, and SQL).\n\nSome of my personal work can be found at:\nhttp://cargocollective.com/theswishcheese"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "The Australian National University",
+      "degree": "Bachelor of Social Science",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "National University of Singapore",
+      "degree": "Bachelor of Social Science",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Analytics",
+      "count": "18"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "18"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "13"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "11"
+    },
+    {
+      "title": "Actuarial Science",
+      "count": "7"
+    },
+    {
+      "title": "Quantitative Research",
+      "count": "6"
+    },
+    {
+      "title": "Economics",
+      "count": "4"
+    },
+    {
+      "title": "Data Mining",
+      "count": "4"
+    },
+    {
+      "title": "Segmentation",
+      "count": "2"
+    },
+    {
+      "title": "Customer Insight",
+      "count": "2"
+    },
+    {
+      "title": "Econometrics",
+      "count": "2"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Consulting",
+      "count": "2"
+    },
+    {
+      "title": "Statistics",
+      "count": "1"
+    },
+    {
+      "title": "General Insurance",
+      "count": "1"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "1"
+    },
+    {
+      "title": "VBA",
+      "count": "11"
+    },
+    {
+      "title": "R",
+      "count": "6"
+    },
+    {
+      "title": "SAS",
+      "count": "4"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "5"
+    },
+    {
+      "title": "Marketing Mix Modeling",
+      "count": "5"
+    },
+    {
+      "title": "Econometric Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Multivariate Testing",
+      "count": "1"
+    },
+    {
+      "title": "Marketing Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Questionnaire Design",
+      "count": "1"
+    },
+    {
+      "title": "Pricing Analysis",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/caleblam/",
+      "text": "Data Scientist at Zoom Video Communications"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daehyun-kim-9812aba7/",
+      "text": "Data Scientist at IPG Mediabrands"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniela-saheb-hernandez-12938b24/",
+      "text": "Growth at TransferWise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/grete-helena-kytt/",
+      "text": "Full Stack Developer Intern at TransferWise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/can-tan-2259812a/",
+      "text": "Data Scientist at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessicachenriolfi/",
+      "text": "Head of Product at Earnin"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessataylor/",
+      "text": "Part of the TransferWise revolution"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ester-azeredo-465015107/",
+      "text": "CS at TransferWise - The smart way to send money abroad. A maneira inteligente de enviar dinheiro para o exterior :)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hardichandra/",
+      "text": "Full Stack Developer at TransferWise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrea-gildea-a220074/",
+      "text": "Head of Legal for the Americas at TransferWise Inc."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Community member panel",
+      "experience": "Yarra City Council",
+      "description": "Social Services",
+      "date1": "Aug 2015",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Habib Adam",
+    "headline": "Data Scientist at TransferWise",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I have worked in analytical and highly quantitative roles – spanning investment markets, insurance pricing, marketing performance analytics, and general consulting. My experience has covered a range of challenging and unique analytical projects where I have been afforded opportunities to work with a variety of different data sets, design classification and regression models, and develop optimization algorithms. These projects have provided me with hands-on experience and familiarity in statistical modelling and analysis, machine learning, data warehousing, process automation (predominately using R, Python, and SQL).\n\nSome of my personal work can be found at:\nhttp://cargocollective.com/theswishcheese"
+  }
+}

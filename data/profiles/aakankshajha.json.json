@@ -1,0 +1,341 @@
+{
+  "profileAlternative": {
+    "name": "Aakanksha Jha",
+    "headline": "Data Scientist at Microsoft",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "★ Experienced Consultant with a demonstrated history of working in the information technology and services industry .\n★ Skilled in Machine Learning, Data Mining,Data Optimization and Decision Modelling,Data visualisation,Statistical Inference,Regression Modelling and Techinques.\nKnowledge of Recommendation systems,Text Mining,Social Network Analysis\n★ Programming skills: R , Python,SAS\n★Database Mnagement System: SQL\n★Data Visualisation: Tableau"
+  },
+  "aboutAlternative": {
+    "text": "★ Experienced Consultant with a demonstrated history of working in the information technology and services industry .\n★ Skilled in Machine Learning, Data Mining,Data Optimization and Decision Modelling,Data visualisation,Statistical Inference,Regression Modelling and Techinques.\nKnowledge of Recommendation systems,Text Mining,Social Network Analysis\n★ Programming skills: R , Python,SAS\n★Database Mnagement System: SQL\n★Data Visualisation: Tableau"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Arizona State University - W. P. Carey School of Business",
+      "degree": "Master of Science - MS",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Bachelor of Engineering (BEng)",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "R. D. National College",
+      "degree": "Associate of Science - AS",
+      "date1": "2008",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "11"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "R",
+      "count": "10"
+    },
+    {
+      "title": "Data Mining",
+      "count": "5"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "6"
+    },
+    {
+      "title": "Enterprise Resource Planning (ERP)",
+      "count": "8"
+    },
+    {
+      "title": "Functional Testing",
+      "count": "5"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "IT Service Management",
+      "count": "2"
+    },
+    {
+      "title": "Trend Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Commodity Trading",
+      "count": "8"
+    },
+    {
+      "title": "Credit Risk",
+      "count": "7"
+    },
+    {
+      "title": "Design of Experiments",
+      "count": "3"
+    },
+    {
+      "title": "Business Intelligence"
+    },
+    {
+      "title": "Analytics"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "10"
+    },
+    {
+      "title": "Tableau",
+      "count": "6"
+    },
+    {
+      "title": "SPSS",
+      "count": "3"
+    },
+    {
+      "title": "Minitab",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "10"
+    },
+    {
+      "title": "C++",
+      "count": "10"
+    },
+    {
+      "title": "SAP Sales & Distribution",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "8"
+    },
+    {
+      "title": "C",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Azure",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Databases",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "Data Cleaning",
+      "count": "5"
+    },
+    {
+      "title": "Statistical Inference",
+      "count": "2"
+    },
+    {
+      "title": "Logistic Regression",
+      "count": "3"
+    },
+    {
+      "title": "Linear Programming",
+      "count": "2"
+    },
+    {
+      "title": "Hypothesis Testing",
+      "count": "3"
+    },
+    {
+      "title": "ANOVA",
+      "count": "4"
+    },
+    {
+      "title": "Database Management System (DBMS)",
+      "count": "8"
+    },
+    {
+      "title": "SNOW",
+      "count": "8"
+    },
+    {
+      "title": "Root Cause Problem Solving",
+      "count": "4"
+    },
+    {
+      "title": "SAP Logistics Execution",
+      "count": "4"
+    },
+    {
+      "title": "Data Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Business Continuity Management",
+      "count": "2"
+    },
+    {
+      "title": "SAP TSW",
+      "count": "9"
+    },
+    {
+      "title": "Product Risk",
+      "count": "7"
+    },
+    {
+      "title": "Data Warehousing and Management",
+      "count": "6"
+    },
+    {
+      "title": "Legacy System Migration Workbench",
+      "count": "1"
+    },
+    {
+      "title": "StatTools",
+      "count": "3"
+    },
+    {
+      "title": "EDA",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "APL Logistics",
+        "House Prices: Advanced Regression Techniques",
+        "Profit Optimization At KOLBY’S (Data Modelling)",
+        "Design of experiments to build a race car using Lego sets(Minitab)",
+        "Kaggle Project:Predict service faults on Telstra Network Disruptions(Machine Learning)",
+        "Perform Clustering for Time Series Dataset",
+        "Porto Seguro’s Safe Driver Prediction",
+        "Fraud Detection for bank",
+        "Target Marketing-Portugese Bank Data",
+        "Tableau Visual analytics Project- Sean Lahman’s baseball dataset(Tableau)"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "Advance Decison Modelling",
+        "Applied Analytics",
+        "Business Analytics Case Study",
+        "Data Driven Quality Management",
+        "Data Mining 1",
+        "Data Mining 2",
+        "Decision Modelling",
+        "Enterprise Analytics",
+        "Job Search Strategies",
+        "Marketing Analytics"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "W. P. Carey GPO Merit Scholarship.",
+        "Outperformer Award at Accenture"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Engage Charitable Trust-Non Profitable Organization"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/varshini-ramaseshan-3b060739/",
+      "text": "Data Scientist at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rishabh-joshi/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyamatnani/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anjalichadha1/",
+      "text": "Business Analyst at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhavanavijay/",
+      "text": "Analytics at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anmol-shrivastava/",
+      "text": "Analyst at Carvana"
+    },
+    {
+      "user": "https://www.linkedin.com/in/santoshmashetty/",
+      "text": "Data & Applied Scientist at Microsoft"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aakanksha Jha",
+    "headline": "Data Scientist at Microsoft",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "★ Experienced Consultant with a demonstrated history of working in the information technology and services industry .\n★ Skilled in Machine Learning, Data Mining,Data Optimization and Decision Modelling,Data visualisation,Statistical Inference,Regression Modelling and Techinques.\nKnowledge of Recommendation systems,Text Mining,Social Network Analysis\n★ Programming skills: R , Python,SAS\n★Database Mnagement System: SQL\n★Data Visualisation: Tableau"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "profileAlternative": {
+    "name": "Perry Davidoff",
+    "headline": "Senior Data Scientist, Analytics at Etsy",
+    "location": "Boston, Massachusetts",
+    "connections": "495"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Gann Academy"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Excel",
+      "count": "4"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Analysis"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "Strategic Planning"
+    },
+    {
+      "title": "Financial Analysis"
+    },
+    {
+      "title": "Economics"
+    },
+    {
+      "title": "Financial Modeling"
+    },
+    {
+      "title": "SAS Programming"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Stata"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Qualitative Research"
+    },
+    {
+      "title": "Public Speaking"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hebrew",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Dean's List - College of Arts and Sciences"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mfergis/",
+      "text": "Senior Data Scientist @ Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthaemanuele/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rory-michelen-7a751a68/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumeetishere/",
+      "text": "Senior Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moumitab/",
+      "text": "Senior Data Scientist (Machine Learning)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-li-39097822/",
+      "text": "Senior Machine Learning Engineer at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/casey-jones-66279347/",
+      "text": "Strategy & Data at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoting-zhao-6001261b/",
+      "text": "Senior Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liangjiehong/",
+      "text": "Director of Engineering, Data Science and Machine Learning at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thealexa-becker-7113a034/",
+      "text": "Data Scientist at Federal Reserve Bank of Cleveland"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Big Brother",
+      "experience": "Big Brothers Big Sisters of Massachusetts Bay",
+      "description": "Children",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Perry Davidoff",
+    "headline": "Senior Data Scientist, Analytics at Etsy",
+    "location": "Boston, Massachusetts",
+    "connections": "495"
+  }
+}

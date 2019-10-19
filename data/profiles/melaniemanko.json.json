@@ -1,0 +1,100 @@
+{
+  "profileAlternative": {
+    "name": "Melanie Manko",
+    "headline": "Data Engineer at BlackRock AI Labs",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Bachelor of Arts (B.A.)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Non-Degree",
+      "date1": "2019",
+      "date2": "2019"
+    },
+    {
+      "title": "Cornell University",
+      "degree": "Bachelor of Arts (B.A.)",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "12"
+    },
+    {
+      "title": "JavaScript",
+      "count": "12"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "9"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "11"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Scala"
+    },
+    {
+      "title": "Matlab",
+      "count": "7"
+    },
+    {
+      "title": "React.js",
+      "count": "1"
+    },
+    {
+      "title": "Leadership",
+      "count": "2"
+    },
+    {
+      "title": "Apache Spark"
+    },
+    {
+      "title": "Linear Algebra",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Melanie Manko",
+    "headline": "Data Engineer at BlackRock AI Labs",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

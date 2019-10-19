@@ -1,0 +1,342 @@
+{
+  "profileAlternative": {
+    "name": "Anuj Katiyal",
+    "headline": "Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I have been working as a full stack ML engineer at Condé Nast after having graduated from Columbia University with Masters in Data Science. My CS background and the gained skills in the fields related to Statistical Inference and Modeling, Data Visualization as well as Machine Learning have helped me become a full stack ML engineer and I have been able to tackle end to end ML projects in the industry. For example, I have been successfully able to scale a project to predict virality for content published by Condé Nast to all the brands and the project has nearly doubled the traffic on the brands.\n\nIn particular, I have strong quantitative skills from my mathematics background and experience with data mining and analysis, mainly in Python. I also enjoy working on web and mobile development and learning the latest tools and technologies. I have been doing MOOCs, mainly courses on fast.ai and Udemy, to keep up with the state of the art techniques in NLP and Deep Learning.\n\nI try and gain the data science skills with undivided Focus and Consistency, giving proper Significance to learning and being Restorative towards the issues faced along the way, trying always to be deliberative towards my career goals. Deliberative, Significance, Consistency, Restorative, Focus - these aren’t just words for me, these are my superpowers. My learning experiences, marathon adventures and quantified self enthusiasm are perfectly captured by them."
+  },
+  "aboutAlternative": {
+    "text": "I have been working as a full stack ML engineer at Condé Nast after having graduated from Columbia University with Masters in Data Science. My CS background and the gained skills in the fields related to Statistical Inference and Modeling, Data Visualization as well as Machine Learning have helped me become a full stack ML engineer and I have been able to tackle end to end ML projects in the industry. For example, I have been successfully able to scale a project to predict virality for content published by Condé Nast to all the brands and the project has nearly doubled the traffic on the brands.\n\nIn particular, I have strong quantitative skills from my mathematics background and experience with data mining and analysis, mainly in Python. I also enjoy working on web and mobile development and learning the latest tools and technologies. I have been doing MOOCs, mainly courses on fast.ai and Udemy, to keep up with the state of the art techniques in NLP and Deep Learning.\n\nI try and gain the data science skills with undivided Focus and Consistency, giving proper Significance to learning and being Restorative towards the issues faced along the way, trying always to be deliberative towards my career goals. Deliberative, Significance, Consistency, Restorative, Focus - these aren’t just words for me, these are my superpowers. My learning experiences, marathon adventures and quantified self enthusiasm are perfectly captured by them."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "International Institute of Information Technology, Hyderabad",
+      "degree": "Bachelor of Technology (Hons) + M.S. by Research",
+      "date1": "2007",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "31"
+    },
+    {
+      "title": "MySQL",
+      "count": "20"
+    },
+    {
+      "title": "Data Structures",
+      "count": "16"
+    },
+    {
+      "title": "Computer Science",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "9"
+    },
+    {
+      "title": "Algorithms",
+      "count": "11"
+    },
+    {
+      "title": "Computer Vision",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining",
+      "count": "1"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "5"
+    },
+    {
+      "title": "Git",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "17"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "D3.js",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "6"
+    },
+    {
+      "title": "PHP",
+      "count": "6"
+    },
+    {
+      "title": "HTML",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "CSS",
+      "count": "5"
+    },
+    {
+      "title": "jQuery",
+      "count": "5"
+    },
+    {
+      "title": "OpenGL",
+      "count": "4"
+    },
+    {
+      "title": "Databases",
+      "count": "4"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "3"
+    },
+    {
+      "title": "HTML 5"
+    },
+    {
+      "title": "Ubuntu"
+    },
+    {
+      "title": "LaTeX",
+      "count": "3"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "PySpark",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft Word"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "git",
+      "count": "1"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Data Science",
+      "count": "5"
+    },
+    {
+      "title": "NumPy",
+      "count": "4"
+    },
+    {
+      "title": "ENVI",
+      "count": "2"
+    },
+    {
+      "title": "SciPy",
+      "count": "2"
+    },
+    {
+      "title": "Sphinx"
+    },
+    {
+      "title": "Matplotlib"
+    },
+    {
+      "title": "travis"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jonnalagadda/",
+        "text": "This was my first job and I got to work with the best boss who guided me throughout my journey with her in the company. She is very patient with everyone and gives them time for whatever they want to do. She made me follow a proper step-by-step procedure for learning which helped me being better in the field I used to work in and I would love to comeback, interact and work with her after my research. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Algorithms",
+        "Algorithms for Data Science",
+        "Applied Machine Learning",
+        "Artificial Intelligence",
+        "Computer Systems for Data Science",
+        "Computer Vision",
+        "Data Science Capstone",
+        "Data Warehousing and Data Mining",
+        "Database Management Systems",
+        "Digital Image Processing"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "Complaints about Traffic conditions in the city of Boston : Text Classification and Clustering Analysis",
+        "Deep Learning using Keras",
+        "Machine Learning for Data Science (COMS 4721) : Projects",
+        "Quantified Self : Analyzing Personal Garmin Data (2012-2017)",
+        "In-Class Kaggle : Bank's Marketing Campaign to Analyze Subscription Status (Classification Analysis)",
+        "Predicting Market Rate for Apartments based on New York City Housing and Vacancy Survey (NYCHVS) : Regression Analysis",
+        "Data Visualization Project : Marvel vs DC Superheroes compared using D3.js",
+        "Analyzing GitHub Experts",
+        "Image Matching Tool",
+        "Golconda on the Web (Honors Project)"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "I Know What You Coded Last Summer: Mining Candidate Expertise from GitHub Repositories",
+        "An Unmixing Framework to improve class accuracies using detected High Importance Local Regions",
+        "Improving Utility of Low-Resolution data using Statistical approaches in Remote Sensing",
+        "Spatio-Spectral method for Estimating classified regions with high confidence using Modis Data"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Punjabi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Best Young Scientist Presentation Award",
+        "Dean's List"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "IEEE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amla-srivastava/",
+      "text": "Data Scientist @ Bloomberg || Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karlloic/",
+      "text": "Data Scientist at Lazard | Indomitable Lion | Columbia Lion"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alva-i-strand-39b08189/",
+      "text": "Data Scientist at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijuneja/",
+      "text": "Data Scientist at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/somendra-tripathi/",
+      "text": "Actively Seeking Employment [starting Jan 2020] | Data Scientist | Columbia University | Machine Learning | Python"
+    },
+    {
+      "user": "https://www.linkedin.com/in/m-a-x/",
+      "text": "Data Science | Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshatapatel/",
+      "text": "MS in Data Science at Columbia University | Actively seeking full time positions starting January 2020"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jgalsurkar/",
+      "text": "Sr. Data Scientist - Capital One | M.S Data Science - Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niteshsurtani/",
+      "text": "Lead Data Scientist at SquarePegHires"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pranjalbajaj/",
+      "text": "Data Scientist at Boston Consulting Group | Data Science for Social Good Fellow at DSSG Foundation"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Teacher",
+      "experience": "Ashakiran at IIIT Hyderabad",
+      "description": "Education",
+      "date1": "Sep 2009",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Treasurer",
+      "experience": "Data Science Institute Student Council, Columbia University",
+      "description": "Education",
+      "date1": "Oct 2016 – Dec 2017",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Anuj Katiyal",
+    "headline": "Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I have been working as a full stack ML engineer at Condé Nast after having graduated from Columbia University with Masters in Data Science. My CS background and the gained skills in the fields related to Statistical Inference and Modeling, Data Visualization as well as Machine Learning have helped me become a full stack ML engineer and I have been able to tackle end to end ML projects in the industry. For example, I have been successfully able to scale a project to predict virality for content published by Condé Nast to all the brands and the project has nearly doubled the traffic on the brands.\n\nIn particular, I have strong quantitative skills from my mathematics background and experience with data mining and analysis, mainly in Python. I also enjoy working on web and mobile development and learning the latest tools and technologies. I have been doing MOOCs, mainly courses on fast.ai and Udemy, to keep up with the state of the art techniques in NLP and Deep Learning.\n\nI try and gain the data science skills with undivided Focus and Consistency, giving proper Significance to learning and being Restorative towards the issues faced along the way, trying always to be deliberative towards my career goals. Deliberative, Significance, Consistency, Restorative, Focus - these aren’t just words for me, these are my superpowers. My learning experiences, marathon adventures and quantified self enthusiasm are perfectly captured by them."
+  }
+}

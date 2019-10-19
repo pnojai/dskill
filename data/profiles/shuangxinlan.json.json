@@ -1,0 +1,225 @@
+{
+  "profileAlternative": {
+    "name": "Shuangxin Lan",
+    "headline": "Data Scientist at Facebook | M.S. in Statistics",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I enjoy working on various data problems to provide insight and support for future strategy of people.\n\nSkills:\n- Advanced programming experience in R, Python (e.g. numpy, scipy, scikit-learn, and pandas),\nSAS (Certified Advanced Programmer), and SQL. Experienced with C, MATLAB, Unix, Stata\n- Advanced in big data analysis: Hadoop (MapReduce, Hive, and Pig), Spark\n- Experienced with visualization packages and software: ggplot2 (R), matplotlib (Python), and Tableau\n- Experienced with numerical analysis, text mining, and image processing"
+  },
+  "aboutAlternative": {
+    "text": "I enjoy working on various data problems to provide insight and support for future strategy of people.\n\nSkills:\n- Advanced programming experience in R, Python (e.g. numpy, scipy, scikit-learn, and pandas),\nSAS (Certified Advanced Programmer), and SQL. Experienced with C, MATLAB, Unix, Stata\n- Advanced in big data analysis: Hadoop (MapReduce, Hive, and Pig), Spark\n- Experienced with visualization packages and software: ggplot2 (R), matplotlib (Python), and Tableau\n- Experienced with numerical analysis, text mining, and image processing"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Renmin University of China",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R Programming",
+      "count": "8"
+    },
+    {
+      "title": "SAS",
+      "count": "9"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Data Mining",
+      "count": "1"
+    },
+    {
+      "title": "Statistics",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "C Programming",
+      "count": "4"
+    },
+    {
+      "title": "MATLAB",
+      "count": "3"
+    },
+    {
+      "title": "Hadoop",
+      "count": "2"
+    },
+    {
+      "title": "Tableau",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Stata",
+      "count": "3"
+    },
+    {
+      "title": "Adobe After Effects",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/charleslinville/",
+        "text": "Ms. Lan was an immensely valuable member of the Ploughman Analytics team during her Summer 2016 internship. She has considerable expertise in Tableau, and was responsible for a major overhaul for one of our products, broadening its scope of coverage, enhancing its quality and function, and helping to produce a more appealing user experience.\n\nAlso, Ploughman benefitted from her expertise in classification methods, and her use of R and Python in putting that expertise into practice. She is knowledgeable, efficient, and formed very productive working relationships across the team. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Advanced Algebra",
+        "Applied Regression and Design",
+        "Basics of Statistical Learning",
+        "Computational Statistics",
+        "Data Science Foundation",
+        "Data Structures",
+        "Econometrics",
+        "Introduction to Data Mining",
+        "Mathematical Analysis",
+        "Mathematical Modelling"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "Prediction of Blog Comments Count",
+        "Frequent Pattern Mining and Decision Tree",
+        "US Domestic Airline Delay Analysis",
+        "Exploration of NBA Teams’ Competitive Value of 2013 - 15 Regular Seasons",
+        "Forecasting the Rental Demand of a Bike-sharing System (Kaggle)",
+        "Research on Prevention and Control Strategies of HIV/AIDS (NSFC Project No.11471336)",
+        "Undergraduate Innovative Practice Program",
+        "Mathematical Contest in Modeling - College Coach Rankings"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Peer Counseling Center at Renmin University of China",
+        "Beijing Mind Educational Technology Ltd.",
+        "Student Union of School of Information at Renmin University of China"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Mandarin Chinese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julieranyan/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arcturuswati/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/utku-pamuksuz/",
+      "text": "Chief Data Scientist and Clinical Professor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/feikexin/",
+      "text": "Data Scientist @LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wbangguo/",
+      "text": "Data Scientist at CME Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiwenyou/",
+      "text": "Data Scientist at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elainezhi/",
+      "text": "Sr. Data Scientist at Visa"
+    },
+    {
+      "user": "https://www.linkedin.com/in/afshineamidi/",
+      "text": "Data Scientist at Uber"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Statistical Consultant",
+      "experience": "Statistics in the Community",
+      "description": "Science and Technology",
+      "date1": "Sep 2015 – May 2017",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Voluntary Teacher",
+      "experience": "The 5th Hoping Download Voluntary Teaching Activity - National Taiwan Normal University",
+      "description": "Education",
+      "date1": "Jul 2014",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Peer Counselor",
+      "experience": "Peer Counseling Center at Renmin University of China",
+      "description": "Health",
+      "date1": "Sep 2012 – Jun 2015",
+      "date2": "2 yrs 10 mos"
+    }
+  ],
+  "profile": {
+    "name": "Shuangxin Lan",
+    "headline": "Data Scientist at Facebook | M.S. in Statistics",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I enjoy working on various data problems to provide insight and support for future strategy of people.\n\nSkills:\n- Advanced programming experience in R, Python (e.g. numpy, scipy, scikit-learn, and pandas),\nSAS (Certified Advanced Programmer), and SQL. Experienced with C, MATLAB, Unix, Stata\n- Advanced in big data analysis: Hadoop (MapReduce, Hive, and Pig), Spark\n- Experienced with visualization packages and software: ggplot2 (R), matplotlib (Python), and Tableau\n- Experienced with numerical analysis, text mining, and image processing"
+  }
+}

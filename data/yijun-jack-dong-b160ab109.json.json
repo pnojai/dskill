@@ -1,0 +1,175 @@
+{
+  "profileAlternative": {
+    "name": "Yijun (Jack) Dong",
+    "headline": "Data Scientist at Morgan Stanley",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Experienced Data Scientist with a demonstrated history of working in the financial services industry with a focus on research. Strong quantitative professional with a Bachelor’s Degree in Mathematics with additional major in Computer Science and additional minor in Computational Finance from Carnegie Mellon University.\n\n* Specialized in applying data science and machine learning techniques to identify patterns and obtain insights from large datasets and alternative data sources\n* Programming skills in R, Python, Hadoop, SQL, Unix, Java, C"
+  },
+  "aboutAlternative": {
+    "text": "Experienced Data Scientist with a demonstrated history of working in the financial services industry with a focus on research. Strong quantitative professional with a Bachelor’s Degree in Mathematics with additional major in Computer Science and additional minor in Computational Finance from Carnegie Mellon University.\n\n* Specialized in applying data science and machine learning techniques to identify patterns and obtain insights from large datasets and alternative data sources\n* Programming skills in R, Python, Hadoop, SQL, Unix, Java, C"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2013",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "21"
+    },
+    {
+      "title": "C",
+      "count": "13"
+    },
+    {
+      "title": "Java",
+      "count": "12"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "14"
+    },
+    {
+      "title": "Statistics",
+      "count": "9"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "LaTeX",
+      "count": "6"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "12"
+    },
+    {
+      "title": "Teamwork",
+      "count": "9"
+    },
+    {
+      "title": "Computational Finance",
+      "count": "5"
+    },
+    {
+      "title": "SML",
+      "count": "2"
+    },
+    {
+      "title": "Data Science"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "Combinatorics",
+        "Database Applications",
+        "Discrete and Continuous Time Finance",
+        "Functional Programming: Parallel and Sequential Data Structures and Algorithms",
+        "Great Theoretical Ideas and Algorithm Design and Analysis",
+        "Honor Matrix Theory",
+        "Introduction to Computer Systems",
+        "Machine Learning",
+        "Modern Regression and Advanced Data Analysis",
+        "Numerical Methods"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Chinese Students and Scholars Association",
+        "CMU Summit on US-China Innovation and Entrepreneurship",
+        "Chinese Student Association",
+        "Chinese Students and Scholars Association"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aratrika-sarkar-088227b5/",
+      "text": "Data Scientist/Machine Learning Engineer at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuanfeng1/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/norabarry1/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nalini-khade-5b17a49b/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peggy-yu-217889109/",
+      "text": "Data Scientist in Equity Research at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ronnnwu/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shuyi-lu-062a4b126/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dustin-hamerla/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xing-xiong/",
+      "text": "WePay - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lin-ganlin-liu-58014641/",
+      "text": "Business Data Analyst at Deutsche Bank"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yijun (Jack) Dong",
+    "headline": "Data Scientist at Morgan Stanley",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Experienced Data Scientist with a demonstrated history of working in the financial services industry with a focus on research. Strong quantitative professional with a Bachelor’s Degree in Mathematics with additional major in Computer Science and additional minor in Computational Finance from Carnegie Mellon University.\n\n* Specialized in applying data science and machine learning techniques to identify patterns and obtain insights from large datasets and alternative data sources\n* Programming skills in R, Python, Hadoop, SQL, Unix, Java, C"
+  }
+}

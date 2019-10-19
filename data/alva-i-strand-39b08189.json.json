@@ -1,0 +1,197 @@
+{
+  "profileAlternative": {
+    "name": "Alva I. Strand",
+    "headline": "Data Scientist at Condé Nast",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master’s Degree",
+      "date1": "2013",
+      "date2": "2016"
+    },
+    {
+      "title": "Princeton University",
+      "degree": "Bachelor's Degree",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "French International School (Lycee Rochambeau)",
+      "degree": "High School Diploma",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Molecular Biology",
+      "count": "6"
+    },
+    {
+      "title": "Fluorescence Microscopy",
+      "count": "3"
+    },
+    {
+      "title": "Statistics",
+      "count": "4"
+    },
+    {
+      "title": "Microscopy",
+      "count": "2"
+    },
+    {
+      "title": "Cell Biology",
+      "count": "3"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "Matlab",
+      "count": "4"
+    },
+    {
+      "title": "Mathematica",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Bash",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "1"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Biophysics",
+      "count": "2"
+    },
+    {
+      "title": "Population Genetics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "French",
+        "German",
+        "Norwegian",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Undergraduate Senior Thesis"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/subsriram/",
+      "text": "Head of Data Sciences at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijuneja/",
+      "text": "Data Scientist at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonypaek/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anujkatiyal/",
+      "text": "Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/taeyoung-choi/",
+      "text": "Data Scientist at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/allison-silcox-2982324/",
+      "text": "Associate Director, Data Science at Conde Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-field-245a2113/",
+      "text": "Senior Analytics Manager at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gggocook/",
+      "text": "Health and Benefits Actuarial Analyst at Willis Towers Watson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joseph-sokolov-34b06067/",
+      "text": "Director of Software Development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnphallahan/",
+      "text": "IMS Systems Programmer or DBA Providing 24/7 Support."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Mentor",
+      "experience": "iMentor",
+      "description": "Education",
+      "date1": "Nov 2014 – Dec 2016",
+      "date2": "2 yrs 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Alva I. Strand",
+    "headline": "Data Scientist at Condé Nast",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "profileAlternative": {
+    "name": "Victor Amin",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "Denver, Colorado",
+    "connections": "500+",
+    "summary": "10 years of experience applying machine learning and statistical techniques to large datasets in a wide variety of domains, including security, genomics, physical chemistry, email, IoT, education, and now ad-tech. I am at home working cross-functionally to evaluate business impact and find the right solutions to the most valuable problems. I excel at communicating with and about data—I am an award-winning public speaker and have been invited to speak internationally."
+  },
+  "aboutAlternative": {
+    "text": "10 years of experience applying machine learning and statistical techniques to large datasets in a wide variety of domains, including security, genomics, physical chemistry, email, IoT, education, and now ad-tech. I am at home working cross-functionally to evaluate business impact and find the right solutions to the most valuable problems. I excel at communicating with and about data—I am an award-winning public speaker and have been invited to speak internationally."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Princeton University",
+      "degree": "AB",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "Kellogg School of Management",
+      "degree": "Certificate",
+      "date1": "2013",
+      "date2": "2013"
+    },
+    {
+      "title": "Northwestern University",
+      "degree": "PhD",
+      "date1": "2010",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Science",
+      "count": "4"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Product Management"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "19"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Big Data",
+      "count": "2"
+    },
+    {
+      "title": "Science",
+      "count": "8"
+    },
+    {
+      "title": "Statistical Data Analysis"
+    },
+    {
+      "title": "Business Intelligence"
+    },
+    {
+      "title": "Bioinformatics"
+    },
+    {
+      "title": "Nanotechnology",
+      "count": "13"
+    },
+    {
+      "title": "Spectroscopy",
+      "count": "8"
+    },
+    {
+      "title": "Chemistry",
+      "count": "7"
+    },
+    {
+      "title": "Research",
+      "count": "6"
+    },
+    {
+      "title": "Nanomaterials",
+      "count": "3"
+    },
+    {
+      "title": "Start-ups",
+      "count": "3"
+    },
+    {
+      "title": "Entrepreneurship"
+    },
+    {
+      "title": "Artificial Intelligence"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Perl",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Bash",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "3"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "REST"
+    },
+    {
+      "title": "LaTeX"
+    },
+    {
+      "title": "Mathematica"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Amazon Lambda"
+    },
+    {
+      "title": "Public Speaking"
+    },
+    {
+      "title": "Teaching",
+      "count": "1"
+    },
+    {
+      "title": "Coaching & Mentoring"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "Artificial Neural Networks"
+    },
+    {
+      "title": "Convolutional Neural Networks (CNN)"
+    },
+    {
+      "title": "Time Series Analysis"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Summit Award",
+        "NSF Graduate Research Fellowshp",
+        "Hierarchical Materials Program Fellowship",
+        "1st Place InNUvation Pitch Challenge",
+        "Basolo Fellowship"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "How Data Latency Kills Creativity (and What You Can Do About It)",
+        "Data-First Machine Learning",
+        "Ligand-Mediated Control of the Confinement Potential in Semiconductor Quantum Dots",
+        "Synthesis of a novel pd/au cyanogel and physiochemical investigations of the cyanogel system",
+        "Google Scholar"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Big Data on AWS"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Victor Amin",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "Denver, Colorado",
+    "connections": "500+",
+    "summary": "10 years of experience applying machine learning and statistical techniques to large datasets in a wide variety of domains, including security, genomics, physical chemistry, email, IoT, education, and now ad-tech. I am at home working cross-functionally to evaluate business impact and find the right solutions to the most valuable problems. I excel at communicating with and about data—I am an award-winning public speaker and have been invited to speak internationally."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "profileAlternative": {
+    "name": "Morgan Henry",
+    "headline": "Data Scientist, Instagram",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Bachelor of Arts (B.A.)",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Harvard Extension School",
+      "degree": "Computer Science",
+      "date1": "2014",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "13"
+    },
+    {
+      "title": "Matlab",
+      "count": "5"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "PHP",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Cognitive Neuroscience",
+      "count": "4"
+    },
+    {
+      "title": "Experimental Design",
+      "count": "2"
+    },
+    {
+      "title": "Neuroimaging",
+      "count": "1"
+    },
+    {
+      "title": "Hive",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sarah-lorraine-wagner/",
+        "text": "I had the pleasure of working with Morgan at a national conference for Kumon North America, where she spoke in front of over a thousand Instructors from across the US, Canada and Mexico. Morgan was an absolute delight to work with and is filled with passion, determination and excitement! Even with her wealth of knowledge and laundry list of accomplishments, she remains humble and modest when discussing her success! I envy anyone who gets a chance to work with Morgan in the near future as she brings a tremendous about of skills and background to the table! See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Data Science",
+        "Discrete Mathematics",
+        "Introduction to Programming",
+        "Linear Algebra",
+        "Probability"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "1st Place Data Science Project",
+        "Hoopes Prize",
+        "National Collegiate Research Conference 1st Place Winner",
+        "Herchel Smith Undergraduate Science Research Fellowship",
+        "Magna Cum Laude with Highest Honors in Neurobiology"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jeffreyc/",
+      "text": "Senior Staff Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arcturuswati/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mosseri/",
+      "text": "Head of Instagram at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivierdevoret/",
+      "text": "Senior Data Scientist at Slack"
+    },
+    {
+      "user": "https://www.linkedin.com/in/praveen-rathinavelu-6874b299/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshlawrence67/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreyapunya/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ye-emily-hua/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinmgilbert/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuling-xiong/",
+      "text": "Data Scientist II at Amazon"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Ambassador",
+      "experience": "Kumon North America, Inc."
+    },
+    {
+      "title": "Sponsorships & Swag Committee Head",
+      "experience": "Women in Analytics Conference",
+      "description": "Science and Technology",
+      "date2": "Cause"
+    },
+    {
+      "title": "Research Coordinator",
+      "experience": "American Foundation for Suicide Prevention"
+    }
+  ],
+  "profile": {
+    "name": "Morgan Henry",
+    "headline": "Data Scientist, Instagram",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

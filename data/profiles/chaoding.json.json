@@ -1,0 +1,99 @@
+{
+  "profileAlternative": {
+    "name": "Chao Ding",
+    "headline": "Staff Data Scientist at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Ph.D.",
+      "date1": "2007",
+      "date2": "2012"
+    },
+    {
+      "title": "Tsinghua University",
+      "degree": "BS",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Optimization",
+      "count": "21"
+    },
+    {
+      "title": "Matlab",
+      "count": "17"
+    },
+    {
+      "title": "R",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/chen-peng-4a728b19/",
+        "text": "Chen is passionate, creative and trustworthy, and one of the best people I've worked with. His quantitative skills are excellent, accompanied with outstanding communication / leadership skills and entrepreneurial spirit, he will ace whatever he does."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yichaojoyce/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacey-cheng-0b009426/",
+      "text": "Staff Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lijuan-xu-07074631/",
+      "text": "Data Scientist / Statistician, Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-chatterjee-b824b554/",
+      "text": "Senior Data Scientist, Geo Growth Analytics at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heng-liu-5626a91b/",
+      "text": "Staff Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mary-beth-broadbent-8501b246/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wan-chen-46863125/",
+      "text": "Senior Data scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheng-zhang-87271654/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chao Ding",
+    "headline": "Staff Data Scientist at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  }
+}

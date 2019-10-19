@@ -1,0 +1,145 @@
+{
+  "profileAlternative": {
+    "name": "Jacey Cheng",
+    "headline": "Staff Data Scientist at Google",
+    "location": "United States",
+    "connections": "453",
+    "summary": "Responsible story telling with data, actionable insights, statistical thinking......"
+  },
+  "aboutAlternative": {
+    "text": "Responsible story telling with data, actionable insights, statistical thinking......"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Michigan",
+      "degree": "Doctor of Philosophy (PhD)",
+      "date1": "2008",
+      "date2": "2011"
+    },
+    {
+      "title": "Peking University",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "20"
+    },
+    {
+      "title": "R",
+      "count": "14"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "12"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "8"
+    },
+    {
+      "title": "Research",
+      "count": "7"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "SPSS",
+      "count": "8"
+    },
+    {
+      "title": "LaTeX",
+      "count": "8"
+    },
+    {
+      "title": "Matlab",
+      "count": "7"
+    },
+    {
+      "title": "Mathematica",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Chinese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yichaojoyce/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-wang-64432311/",
+      "text": "Tech Lead Manager and Staff Data Scientist at Google (we are hiring)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valeriavulpe/",
+      "text": "Data Scientist, Google Search"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaoding/",
+      "text": "Staff Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-chatterjee-b824b554/",
+      "text": "Senior Data Scientist, Geo Growth Analytics at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lijuan-xu-07074631/",
+      "text": "Data Scientist / Statistician, Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wan-chen-46863125/",
+      "text": "Senior Data scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahul-belur-57246779/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minghui-shi-13b4b717/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lu-zhang-88a00a18/",
+      "text": "Senior Staff Data Scientist and Manager at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jacey Cheng",
+    "headline": "Staff Data Scientist at Google",
+    "location": "United States",
+    "connections": "453",
+    "summary": "Responsible story telling with data, actionable insights, statistical thinking......"
+  }
+}

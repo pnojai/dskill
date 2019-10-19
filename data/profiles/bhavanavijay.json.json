@@ -1,0 +1,261 @@
+{
+  "profileAlternative": {
+    "name": "Bhavana Vijay",
+    "headline": "Analytics at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I graduated with a Masters Business Analytics at UT Austin in May 2018. I am currently working with the technical infrastructure team at Google. I also worked with the Global Business Services team within Walmart Technology as a Data Scientist prior to that.\n\nAfter my graduation from BITS Pilani with a Bachelors in Engineering, I joined Flipkart, India’s leading e-commerce platform as a Business Analyst. My work at Flipkart, has given me a 360 degree view of an online retail ecosystem from strategy, marketing, pricing and business finance, to operations, supply chain and customer experience.\n\nI love solving business problems through efficient analysis of data. Using technology to analyze a problem while keeping it in the context of its business application is invaluable for navigating today’s ocean of information. I aim to sharpen my analytical skills, deepen my data understanding and broaden my business knowledge in these nascent years of my career.\n\nI am also extremely passionate about doing my part in the society whether it is for underprivileged children, physically handicapped people or animals.\n\nI get my artistic fix out of singing, cooking and doodling."
+  },
+  "aboutAlternative": {
+    "text": "I graduated with a Masters Business Analytics at UT Austin in May 2018. I am currently working with the technical infrastructure team at Google. I also worked with the Global Business Services team within Walmart Technology as a Data Scientist prior to that.\n\nAfter my graduation from BITS Pilani with a Bachelors in Engineering, I joined Flipkart, India’s leading e-commerce platform as a Business Analyst. My work at Flipkart, has given me a 360 degree view of an online retail ecosystem from strategy, marketing, pricing and business finance, to operations, supply chain and customer experience.\n\nI love solving business problems through efficient analysis of data. Using technology to analyze a problem while keeping it in the context of its business application is invaluable for navigating today’s ocean of information. I aim to sharpen my analytical skills, deepen my data understanding and broaden my business knowledge in these nascent years of my career.\n\nI am also extremely passionate about doing my part in the society whether it is for underprivileged children, physically handicapped people or animals.\n\nI get my artistic fix out of singing, cooking and doodling."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "The University of Texas at Austin - Red McCombs School of Business",
+      "degree": "Master of Science - MS",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "BITS Pilani",
+      "degree": "Bachelor of Engineering (B.Eng.)",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Mithibai College",
+      "degree": "High School",
+      "date1": "2009",
+      "date2": "2011"
+    },
+    {
+      "title": "Thakur Public School",
+      "degree": "93.14%",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "4"
+    },
+    {
+      "title": "Process Automation",
+      "count": "1"
+    },
+    {
+      "title": "Analytics",
+      "count": "7"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Business Strategy",
+      "count": "5"
+    },
+    {
+      "title": "Event Management",
+      "count": "9"
+    },
+    {
+      "title": "Press Releases",
+      "count": "3"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "7"
+    },
+    {
+      "title": "Text Editing",
+      "count": "1"
+    },
+    {
+      "title": "Music",
+      "count": "10"
+    },
+    {
+      "title": "Art",
+      "count": "7"
+    },
+    {
+      "title": "Poetry",
+      "count": "3"
+    },
+    {
+      "title": "QlikView",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "VBA",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "11"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "Team Management",
+      "count": "1"
+    },
+    {
+      "title": "Retail Sales Analysis",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/puneetgambhir/",
+        "text": "Bhavana started her career as an intern in my team at Flipkart & I have been a witness to the tremendous professional growth she has achieved in the couple of years that we have worked together.\nHer natural strengths are around partnering with business stakeholders, taking complete ownership of her tasks and sharp problem solving using data. But what was even more impressive was her ability to pick-up new technical skills required for an impactful Analytics job. By the time we parted ways, she was a super-critical analyst in the team handling some very important business areas.\nAs a leader, it has been a pleasure to mentor Bhavana who has been a super-enthusiastic contributor towards the company and a very involved team-member. It makes job so much easier with folks like her around.\nI wish her best in her career as she ventures out for her higher education in US! See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/joshua-michel-fernandes/",
+        "text": "I was just an intern when Joshua joined my team at Flipkart in 2014. He has been my mentor and best friend ever since. He is extremely smart, experienced and diligent. I have worked with him on numerous projects in Flipkart where he has not only played a pivotal role in shaping the analytical solutions but also in implementing and visualizing them.\n\nHis strengths are communication, collaboration and problem solving. He has taught me everything I needed early in my career to succeed in Analytics. His experience gives him the business acumen to understand a problem in context of its greater application. He has been proactive in advancing his skills and bringing the most cohesive approach to any data science problem. He has shown his leadership and initiative as a senior in my team and I have looked to him for guidance through complex projects.\n\nI have no doubt that Josh will succeed and flourish in every endeavour he undertakes!\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "Advanced Algebra",
+        "Business Analysis & Valuation",
+        "C",
+        "Calculus",
+        "Functions and Working of Stock Exchanges",
+        "Game Theory",
+        "Heat & Mass Transfer",
+        "International Relations",
+        "Modelling and Simulations",
+        "Modern Political Concepts"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Telugu"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "INSPIRE Scholarship",
+        "Thakur Shyamnarayan Award"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Development of Epoxy polymers using Vegetable oils",
+        "Modeling of Lithium ion Batteries"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/manjushanatarajan/",
+      "text": "Product Leader| Carnegie Mellon University Alum| Machine Learning Geek | Amazonian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poonamchawla2010/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monica-reddy/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/snehal-nagmote-79651122/",
+      "text": "Data@Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/soumya-sampath-984a779/",
+      "text": "Technical Program Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akankshya-padhi-2699018a/",
+      "text": "Senior Associate at PwC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayuripardeshi/",
+      "text": "Global Program Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisadbarnett/",
+      "text": "Co-Founder - We're hiring!"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer & Community Leader",
+      "experience": "National Association For The Blind - India",
+      "description": "Social Services",
+      "date1": "Jul 2013",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Lead Volunteer",
+      "experience": "Environment and Animal Welfare Society - BPHC",
+      "description": "Animal Welfare",
+      "date1": "Jan 2015 – Aug 2015",
+      "date2": "8 mos"
+    }
+  ],
+  "profile": {
+    "name": "Bhavana Vijay",
+    "headline": "Analytics at Google",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I graduated with a Masters Business Analytics at UT Austin in May 2018. I am currently working with the technical infrastructure team at Google. I also worked with the Global Business Services team within Walmart Technology as a Data Scientist prior to that.\n\nAfter my graduation from BITS Pilani with a Bachelors in Engineering, I joined Flipkart, India’s leading e-commerce platform as a Business Analyst. My work at Flipkart, has given me a 360 degree view of an online retail ecosystem from strategy, marketing, pricing and business finance, to operations, supply chain and customer experience.\n\nI love solving business problems through efficient analysis of data. Using technology to analyze a problem while keeping it in the context of its business application is invaluable for navigating today’s ocean of information. I aim to sharpen my analytical skills, deepen my data understanding and broaden my business knowledge in these nascent years of my career.\n\nI am also extremely passionate about doing my part in the society whether it is for underprivileged children, physically handicapped people or animals.\n\nI get my artistic fix out of singing, cooking and doodling."
+  }
+}

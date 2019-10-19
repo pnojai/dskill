@@ -1,0 +1,279 @@
+{
+  "profileAlternative": {
+    "name": "Liu Yang, Ph.D.",
+    "headline": "Data Scientist III at Amazon. We are hiring!",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "Ph.D. in Physics, result oriented, dedicated and scientifically trained with extensive experience in design of experiments, big data sets analyze, computer programming, predictive and statistics modeling.\n\nSpecialties:\n-- Machine learning, statistical modeling, mathematical modeling\n-- Software skills: Python, R, SQL, Spark\n-- A/B testing, error analysis, statistics and probability"
+  },
+  "aboutAlternative": {
+    "text": "Ph.D. in Physics, result oriented, dedicated and scientifically trained with extensive experience in design of experiments, big data sets analyze, computer programming, predictive and statistics modeling.\n\nSpecialties:\n-- Machine learning, statistical modeling, mathematical modeling\n-- Software skills: Python, R, SQL, Spark\n-- A/B testing, error analysis, statistics and probability"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of California, Irvine",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2009",
+      "date2": "2015"
+    },
+    {
+      "title": "Nanjing University",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "National Taiwan University",
+      "degree": "Visiting Researcher",
+      "date1": "2009",
+      "date2": "2009"
+    },
+    {
+      "title": "City University of Hong Kong",
+      "degree": "Exchange study",
+      "date1": "2008",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "32"
+    },
+    {
+      "title": "Statistics",
+      "count": "31"
+    },
+    {
+      "title": "Design of Experiments",
+      "count": "12"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "32"
+    },
+    {
+      "title": "R&D",
+      "count": "13"
+    },
+    {
+      "title": "Physics",
+      "count": "46"
+    },
+    {
+      "title": "Characterization",
+      "count": "29"
+    },
+    {
+      "title": "Optics",
+      "count": "8"
+    },
+    {
+      "title": "Nanotechnology",
+      "count": "21"
+    },
+    {
+      "title": "Thin Films",
+      "count": "27"
+    },
+    {
+      "title": "Nanomaterials",
+      "count": "7"
+    },
+    {
+      "title": "SEM",
+      "count": "7"
+    },
+    {
+      "title": "Python",
+      "count": "33"
+    },
+    {
+      "title": "SQL",
+      "count": "14"
+    },
+    {
+      "title": "Mathematica",
+      "count": "25"
+    },
+    {
+      "title": "LabVIEW",
+      "count": "20"
+    },
+    {
+      "title": "tensorflow"
+    },
+    {
+      "title": "Nanofabrication",
+      "count": "33"
+    },
+    {
+      "title": "Magnetics",
+      "count": "14"
+    },
+    {
+      "title": "JMP",
+      "count": "4"
+    },
+    {
+      "title": "Electron Beam Lithography",
+      "count": "12"
+    },
+    {
+      "title": "Photolithography",
+      "count": "18"
+    },
+    {
+      "title": "Sputtering",
+      "count": "14"
+    },
+    {
+      "title": "Microfabrication",
+      "count": "9"
+    },
+    {
+      "title": "Ellipsometry",
+      "count": "6"
+    },
+    {
+      "title": "PECVD",
+      "count": "6"
+    },
+    {
+      "title": "Profilometer",
+      "count": "5"
+    },
+    {
+      "title": "Ion Milling",
+      "count": "4"
+    },
+    {
+      "title": "Wet Chemical Etching",
+      "count": "4"
+    },
+    {
+      "title": "AFM",
+      "count": "27"
+    },
+    {
+      "title": "RIE",
+      "count": "5"
+    },
+    {
+      "title": "NLP"
+    },
+    {
+      "title": "Deep learning"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/antuongle/",
+        "text": "Liu is a terrific asset to KPMG and it was my pleasure to work with him in the healthcare data & analytics space. He consistently produced high quality deliverables, asked meaningful questions, and took the lead on many initiatives to improve our work for the client. Any team who gets to work with Liu is incredibly lucky!"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/junghoonwoo/",
+        "text": "I worked closely with Junghoon on a health-care engagement. It was always a pleasure working with him. He is super enthusiastic about the impact of the work we are doing, and he really treated the project as his own: he devoted all passion and a lot of private time to this project and this enthusiasm is contagious. \r\nHe is also extremely knowledgable in health care domain knowledge, and he is always willing to share his insights and knowledge to other team members. I also like his structured and logical approaches to a lot of issues that we face, and how he pushes and drives the implementation of an idea from 90% to 100%. He is a great value to our engagement team and it was a pleasure working with him!\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/antuongle/",
+        "text": "I worked closely with Amy on a healthcare engagement. She met/exceeded expectations for her role all the time. She really impressed me on her technical skills, ability to learn new stuff on the fly, asking the right questions, and managing her workstream, as well as helping out other team members whenever possible. What really made her stand out is her ability to always drive and push for improvement, since she set up a very high bar and standard for the work she delivered. She was an all around nice person and it was always nice to discuss to and work with her. It was a great pleasure working with her! \n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Data Scientist Fellowship (Declined)",
+        "Data Scientist fellowship (Declined)",
+        "Best Poster Award",
+        "Best Poster Award",
+        "Exchange Program Scholarship",
+        "National Scholarship",
+        "Regent’s Fellowship"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "American Physics Society (APS)"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Human or Robot Detection (Kaggle competition)"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Nanowire spin torque oscillator driven by spin orbit torques"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/apurvaasubramaniam/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monicawu01/",
+      "text": "Data Science Manager at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hongxia-yang-0b612424/",
+      "text": "Senior Staff Data Scientist & Director (We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/feng-yang-214a281a/",
+      "text": "We are hiring! Google AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Liu Yang, Ph.D.",
+    "headline": "Data Scientist III at Amazon. We are hiring!",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "Ph.D. in Physics, result oriented, dedicated and scientifically trained with extensive experience in design of experiments, big data sets analyze, computer programming, predictive and statistics modeling.\n\nSpecialties:\n-- Machine learning, statistical modeling, mathematical modeling\n-- Software skills: Python, R, SQL, Spark\n-- A/B testing, error analysis, statistics and probability"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "profileAlternative": {
+    "name": "Mark Chamness",
+    "headline": "Director, Data Science & Machine Learning at Coursera",
+    "location": "Menlo Park, California",
+    "connections": "500+",
+    "summary": "Chamness leads the Data Science and Machine Learning team. He received his B.S. in Physics from the California Institute of Technology and M.S. in Statistics from San Jose State University. He was a Ph.D. Physics candidate at Brown University where he conducted research in machine learning under Nobel Laureate, Leon Cooper. His undergrad advisor was Nobel Laureate, David Politzer. Mr. Chamness has been a consultant on machine learning for Sun Microsystems, Visa, and Stanford University.\n\nChamness has 17 granted patents on Machine Learning and has published in leading journals."
+  },
+  "aboutAlternative": {
+    "text": "Chamness leads the Data Science and Machine Learning team. He received his B.S. in Physics from the California Institute of Technology and M.S. in Statistics from San Jose State University. He was a Ph.D. Physics candidate at Brown University where he conducted research in machine learning under Nobel Laureate, Leon Cooper. His undergrad advisor was Nobel Laureate, David Politzer. Mr. Chamness has been a consultant on machine learning for Sun Microsystems, Visa, and Stanford University.\n\nChamness has 17 granted patents on Machine Learning and has published in leading journals."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "San Jose State University",
+      "degree": "Master of Science (MS)",
+      "date1": "2012",
+      "date2": "2015"
+    },
+    {
+      "title": "California Institute of Technology",
+      "degree": "B.S.",
+      "date1": "1987",
+      "date2": "1992"
+    },
+    {
+      "title": "Brown University",
+      "degree": "PhD",
+      "date1": "1992",
+      "date2": "1993"
+    },
+    {
+      "title": "Kerman High",
+      "date1": "1983",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Start-ups"
+    },
+    {
+      "title": "Applied Mathematics"
+    },
+    {
+      "title": "System Architecture"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "Prediction of disk failure",
+        "Automated Defect and Optimization Discovery",
+        "Automated identification of the source of RAID performance degradation",
+        "Capacity forecasting for a deduplicating storage system",
+        "Method and apparatus for predicting potential replication performance degradation",
+        "Defect remediation within a system",
+        "Method for prediction of the duration of garbage collection for backup storage systems",
+        "Automated defect diagnosis from machine diagnostic data",
+        "Automated Defect Identification and Resolution",
+        "Method and apparatus for automatically detecting replication performance degradation"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "RAIDShield: Characterizing, Monitoring, and Proactively Protecting Against Disk Failures",
+        "Characteristics of Backup Workloads in Production Systems",
+        "Capacity forecasting in a backup storage environment",
+        "What makes good wine? The dirt on terroir",
+        "Performance Tuning for the JDBC API"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "American Statistical Association"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/phamnina/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/egsands/",
+      "text": "Head of Data Science at Coursera"
+    },
+    {
+      "user": "https://www.linkedin.com/in/singhjuhi91/",
+      "text": "Data Scientist at Coursera | MIT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pratima-adusumilli-5bb7859b/",
+      "text": "Founder & CEO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ritul-jhanwar-88553173/",
+      "text": "Data Engineer at Coursera"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandra-solovyeva/",
+      "text": "Economist at International Monetary Fund"
+    },
+    {
+      "user": "https://www.linkedin.com/in/revathianilkumar/",
+      "text": "Data Scientist at Nutanix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hrabarcar/",
+      "text": "Senior Economist at applEcon, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kshiells/",
+      "text": "Data Science Manager at Coursera"
+    },
+    {
+      "user": "https://www.linkedin.com/in/francis-flanagan-917b595a/",
+      "text": "Assistant Professor of Economics, Wake Forest University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mark Chamness",
+    "headline": "Director, Data Science & Machine Learning at Coursera",
+    "location": "Menlo Park, California",
+    "connections": "500+",
+    "summary": "Chamness leads the Data Science and Machine Learning team. He received his B.S. in Physics from the California Institute of Technology and M.S. in Statistics from San Jose State University. He was a Ph.D. Physics candidate at Brown University where he conducted research in machine learning under Nobel Laureate, Leon Cooper. His undergrad advisor was Nobel Laureate, David Politzer. Mr. Chamness has been a consultant on machine learning for Sun Microsystems, Visa, and Stanford University.\n\nChamness has 17 granted patents on Machine Learning and has published in leading journals."
+  }
+}

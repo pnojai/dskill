@@ -1,0 +1,196 @@
+{
+  "profileAlternative": {
+    "name": "Katie Sohn",
+    "headline": "Data Scientist",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "TECHNICAL SKILLS\n• Python (numpy, pandas, scipy, matplotlib, scrapy splash)\n• R/RStudio (dplyr, ggplot, shiny)\n• Machine Learning Modeling and Algorithms\n• Natural Language Processing (NLP)\n• Big Data (MySQL, Spark, Hadoop/MapReduce, Hive, AWS)\n• Unix/Linux, SQL, Git/GitHub\n• Statistics"
+  },
+  "aboutAlternative": {
+    "text": "TECHNICAL SKILLS\n• Python (numpy, pandas, scipy, matplotlib, scrapy splash)\n• R/RStudio (dplyr, ggplot, shiny)\n• Machine Learning Modeling and Algorithms\n• Natural Language Processing (NLP)\n• Big Data (MySQL, Spark, Hadoop/MapReduce, Hive, AWS)\n• Unix/Linux, SQL, Git/GitHub\n• Statistics"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Maryland College Park",
+      "degree": "B.S."
+    },
+    {
+      "title": "General Assembly",
+      "date1": "2016",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Media Planning",
+      "count": "10"
+    },
+    {
+      "title": "Digital Media",
+      "count": "6"
+    },
+    {
+      "title": "Advertising",
+      "count": "5"
+    },
+    {
+      "title": "Digital Strategy",
+      "count": "4"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "6"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "3"
+    },
+    {
+      "title": "Media Buying",
+      "count": "2"
+    },
+    {
+      "title": "Mobile Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Integrated Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "7"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "7"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Tableau",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "R",
+      "count": "7"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "5"
+    },
+    {
+      "title": "Git",
+      "count": "6"
+    },
+    {
+      "title": "Scrapy",
+      "count": "5"
+    },
+    {
+      "title": "Docker",
+      "count": "3"
+    },
+    {
+      "title": "Hadoop",
+      "count": "4"
+    },
+    {
+      "title": "Spanish"
+    },
+    {
+      "title": "Scrapy Splash",
+      "count": "3"
+    },
+    {
+      "title": "Natural Language Processing",
+      "count": "6"
+    },
+    {
+      "title": "Spark",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "2014 Internationalist Award: Fireworks",
+        "Bronze Effie",
+        "Silver Effie",
+        "iMedia Campaign of the Year 2012"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maosamuel/",
+      "text": "Insights Analyst at TodayTix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahsusiepak/",
+      "text": "Data Scientist at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xianzhicao/",
+      "text": "Data Scientist (Machine/Deep Learning & AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiajingchen/",
+      "text": "Data Scientist at HBO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laura-elsener-b7880123/",
+      "text": "Senior Data Scientist at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stellahkim93/",
+      "text": "Data Scientist at Pfizer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xuyuhe/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisa-ren-b0083b76/",
+      "text": "Data Scientist at Hinge"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Katie Sohn",
+    "headline": "Data Scientist",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "TECHNICAL SKILLS\n• Python (numpy, pandas, scipy, matplotlib, scrapy splash)\n• R/RStudio (dplyr, ggplot, shiny)\n• Machine Learning Modeling and Algorithms\n• Natural Language Processing (NLP)\n• Big Data (MySQL, Spark, Hadoop/MapReduce, Hive, AWS)\n• Unix/Linux, SQL, Git/GitHub\n• Statistics"
+  }
+}

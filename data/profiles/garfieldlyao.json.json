@@ -1,0 +1,180 @@
+{
+  "profileAlternative": {
+    "name": "Yao Li",
+    "headline": "Data Scientist, Business Intelligence Analyst",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "- Machine Learning: SVM, KNN, K-Means, Random Forest, etc.\n- Survey Techniques: Sampling, Variance Estimation, Nonresponse Estimation\n- Large Database Manipulation: MySQL, HP Vertica\n- Marketing Campaign: Lead Scoring, Intent Data Analysis, Email Automation"
+  },
+  "aboutAlternative": {
+    "text": "- Machine Learning: SVM, KNN, K-Means, Random Forest, etc.\n- Survey Techniques: Sampling, Variance Estimation, Nonresponse Estimation\n- Large Database Manipulation: MySQL, HP Vertica\n- Marketing Campaign: Lead Scoring, Intent Data Analysis, Email Automation"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Colorado State University",
+      "degree": "Master's Degree",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "East China Normal University",
+      "degree": "Bachelor's Degree",
+      "date1": "2008",
+      "date2": "2013"
+    },
+    {
+      "title": "Colorado State University",
+      "degree": "Bachelor's Degree",
+      "date1": "2011",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "28"
+    },
+    {
+      "title": "SQL",
+      "count": "14"
+    },
+    {
+      "title": "R",
+      "count": "23"
+    },
+    {
+      "title": "SAS programming",
+      "count": "2"
+    },
+    {
+      "title": "Survey Design",
+      "count": "1"
+    },
+    {
+      "title": "Data Mining",
+      "count": "7"
+    },
+    {
+      "title": "Tableau",
+      "count": "3"
+    },
+    {
+      "title": "LaTeX",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "11"
+    },
+    {
+      "title": "Matlab",
+      "count": "12"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "12"
+    },
+    {
+      "title": "Vertica",
+      "count": "1"
+    },
+    {
+      "title": "Survey Statistics",
+      "count": "1"
+    },
+    {
+      "title": "Bayesian statistics",
+      "count": "2"
+    },
+    {
+      "title": "Multivariate Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Experimental Design",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Travel Award"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "An Evaluation of Successive Difference Replication Variance Estimation for Systematic Sampling"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weiligeng/",
+      "text": "Senior Data Analyst at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanzi-shen/",
+      "text": "Data Analysis/Science | Actively Seeking Full-Time Job | Columbia University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachel-y-6a597166/",
+      "text": "Senior Analyst at Merkle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hayleexiaowenzhang/",
+      "text": "Data Analyst at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yutang-raina-zheng-74284139/",
+      "text": "Business Intelligence Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gurenee/",
+      "text": "Data Scientist at Tesla"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yao Li",
+    "headline": "Data Scientist, Business Intelligence Analyst",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "- Machine Learning: SVM, KNN, K-Means, Random Forest, etc.\n- Survey Techniques: Sampling, Variance Estimation, Nonresponse Estimation\n- Large Database Manipulation: MySQL, HP Vertica\n- Marketing Campaign: Lead Scoring, Intent Data Analysis, Email Automation"
+  }
+}

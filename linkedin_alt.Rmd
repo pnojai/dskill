@@ -1,0 +1,422 @@
+---
+title: "tidy and clean linkedin scraped data"
+author: "T. Jenkins"
+date: "10/19/2019"
+output: 
+  html_document:
+    toc: true
+---
+
+# Introduction
+
+As part of our project, we are tasked to answer the question "What are the most valued data science skills?" by working as a team, deciding what data to collect and how to collect it, use relational database and set of normalized tables and data exploration and analysis. Our team members are as follows;
+
+- Anil Akyildirim
+
+- Nicholas Chung
+
+- Jai Jeffryes
+
+- Tamiko Jenkins
+
+- Joe Rovalino
+
+- Sie Siong Wong
+
+As part of project management tools, we have used Slack Private channel and Skype for Project Communication, Github for Project tracking, documentation and code collaboration, and Amazon Relational Database Service for data integration. All of our supporting code and data are on the GitHub repo, which documents branches and commits from our team.
+
+- GitHub: [https://github.com/pnojai/dskill](https://github.com/pnojai/dskill)
+- Amazon Relational Database Service: [msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com](msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# load packages
+#library(rjson)
+#library(tidyr)
+library(dplyr)
+library(jsonlite)
+#library(purrr)
+#library(janitor)
+library(ggplot2)
+#library(reshape2)
+#library(plyr)
+#library(zoo)
+library(RMariaDB)
+```
+
+# Data Collection 
+
+We have reviewed and discussed different data types such as current job requirements around data scientists from job postings such as indeed.com or monster.com and articles around top data scientists skills in websites such as towardsdatascience and knuggets. Our approach built on the assumption that data scientists with jobs have the skills most valued by employers. We collected skills from employed data scientists.
+
+we were inspired by the research of Jeff Hale whose article on data science skills appeared on the website, Medium.
+
+- [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
+
+We discussed different methods of collecting the data and further how we can store it. As a result, we decided to work with usefull data within linkedin.com. We compared our findings from LinkedIn data to Mr. Hale's 2018 findings.
+
+
+### Load JSON files
+```{r}
+# load all JSON
+filenames <- list.files("data/profiles", pattern="*.json", full.names=TRUE) # this should give you a character vector, with each file name represented by an entry
+example_file <- lapply(filenames[1], function(x) jsonlite::fromJSON(txt = x)) # a list in which each element is one of your original JSON files
+example_file
+```
+
+
+### Bind fromJSON results
+```{r}
+# apply fromJSON to read in all of the json files
+# create the column (variable) title, headline, which will be populated with json file identifying information
+# extract the skills data which contains the variables title and counts
+# bind the results together as a data frame named r_df
+r_df <- dplyr::bind_rows(sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$skills), .id="headline")
+
+```
+
+
+### Extract Headlines
+```{r}
+# apply fromJSON to read in all of the json files
+# extract the headline variable from the profile data, saving each file name as the variable title
+# save the mapping as  data frame headlines 
+headlines <- sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$profile$headline, USE.NAMES = TRUE)
+```
+
+
+### Map Headlines to Skills
+```{r}
+#  apply a look up of the variable title specifying the filename 
+#  and add the headline value from the headlines  data frame
+#  to the headlines variable in  data frame r_df
+
+r_df$headline <- sapply(r_df$headline, function(x) headlines[x])
+
+```
+
+
+### Name and convert variables and data
+```{r}
+df <- r_df
+# TODO: conform names to db
+# TODO: Fix naming call
+# TODO: find out which naming convention we're using
+# display data frame r_df
+head(df)
+# name r_df
+names(df) <- c("title", "skills", "count")
+#names(v) <- c("headline", "skills", "linkedin")
+class(df)
+# create numeric values in Linkedin counts column
+# coerce any nulls to na's
+sapply(df, class)
+df$count <- as.numeric(df$count)
+sapply(df, class)
+```
+
+
+### Remove NA's from numeric column
+```{r}
+# count all rows
+# 4822
+# view a subset of rows with na's mixed with complete rows
+nrow(df)
+df[11:20,]
+
+# filter for any rows with na
+# count all rows with na's
+# 942
+# view a subset of rows with only na's
+df_na <- df %>% filter_all(any_vars(is.na(.)))
+nrow(df_na)
+df[1:20,]
+
+# omit any rows with na's
+# save rows without na's as a data frame names df
+# count the data frame 
+# 4822-942 = 3880
+df <- na.omit(df)
+df
+nrow(df)
+```
+
+
+### Simplify data frame
+
+```{r}
+
+# TODO: simplify
+# subset vector v, removing the headline variable
+# save the new vector as v_counts
+df_counts <- df[c(-1)]
+
+```
+
+
+### View aggregate Skills counts
+```{r}
+
+# aggregate the counts for each unique skill
+# store as agg_df_counts data fram
+agg_df_counts <- df_counts %>%
+    group_by(skills)  %>%
+    dplyr::summarise(count = n())  %>%
+    arrange(desc(count))
+
+agg_df_counts
+```
+
+### Prepare data for storage
+```{r}
+
+# TODO: follow df.csv convention
+
+# Add rownames (indices) as a skill id
+# to final dataframe to prepare for 
+# SQL-based storage and to provide option to
+# remove automatic row names from write csv
+# Remove depr function
+#df_csv <- add_rownames(df, var = "skill_id")
+
+# NB: these are the original row id's based on R records
+# to generate skill_ids without skips for na's removed
+# use a seq
+df_csv <- tibble::rownames_to_column(df, var = "skill_id")
+df_csv$skill_id <- as.numeric(df_csv$skill_id)
+head(df_csv)
+
+# TODO: follow df.csv convention
+# Rearrange column order with dplyr select
+df_csv <- dplyr::select(df_csv, skill_id, skills, count, title)
+
+head(df_csv)
+
+```
+
+### Prepare data for SQL
+```{r}
+
+# TODO: 1) I think we just need a names () on the column missing the column name 
+# Done
+# TODO: 2) I have to research how to remove unicode 
+# suggest
+# rs <- dbSendQuery(con, 'SET NAMES utf8')
+# ALTER TABLE mytable CONVERT TO CHARACTER SET utf8mb4;
+
+# TODO: 3)remove termination of comma
+# TODO: can we try this: texts(df) <- iconv(texts(df, from = "UTF-8", to = "ASCII", sub = "")
+# https://cran.r-project.org/web/packages/quanteda/quanteda.pdf
+# stripped all the Unicode characters 
+# stripped all the commas from the fields for skill and title
+
+# Example of dirty data obtained with \d,"[^"]+,
+# line 256: "396","Python",31,"Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner"
+
+#x <- c("396","Python",31,"Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner")[4]
+#validUTF8(x)
+#validUTF8(xx)
+#xi <- stringi::stri_enc_toascii(x)
+#xi <- iconv(xi, "latin1", "ASCII", sub='')
+
+
+# Joe
+#library("quanteda")
+#dfs <-df
+#texts(dfs) <- iconv(texts(dfs, from = "UTF-8", to = "ASCII", sub = ""))
+
+#Convert Latin characters to UTF-8
+#convert_for_sql <- function(x) {
+#  Encoding(x) <- "latin1"
+#  x <-  iconv(x, "latin1", "UTF-8", sub='')
+#  x <- stringr::str_replace(x,",","")
+#  Encoding(x) <- "UTF-8"
+#  return(x)
+#}
+df_f <- df_csv
+# Remove non-ASCII character codes
+test <- df_f[256,]
+df_f$skills <- sapply(df_f$skills, function(x) gsub('[^\x20-\x7E]', '', x))
+df_f$title <- sapply(df_f$title, function(x) gsub('[^\x20-\x7E]', '', x))
+df_f$skills <- sapply(df_f$skills, function(x) gsub('[@]', 'at', x))
+df_f$title <- sapply(df_f$title, function(x) gsub('[@]', 'at', x))
+df_f$skills <- sapply(df_f$skills, function(x) gsub('[@\\|\\(\\),]', '', x))
+df_f$title <- sapply(df_f$title, function(x) gsub('[@\\|\\(\\),]', '', x))
+Encoding(df_f$skills) <- "UTF-8"
+Encoding(df_f$title) <- "UTF-8"
+head(df_f)
+test
+df_f[256,]
+```
+
+
+
+### Write to csv
+```{r}
+# write csv and upload to our mysql database
+# Encoding(df_csv)
+write.csv(df_f, "results/df_alt.csv", row.names=FALSE, fileEncoding="UTF-8")
+
+```
+
+
+### Load the data from the database
+```{r}
+# load the data in the database and look at 2018 Linkedin Data
+user_name <- 'anil'
+user_password <- "redy2rok"
+database <- 'prj3'
+host_name <- 'msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com'
+
+#connecting to the MySQL database
+
+myDb <- dbConnect(RMariaDB::MariaDB(), user=user_name, password=user_password, dbname=database, host=host_name)
+myDb
+```
+
+### View tables
+
+```{r}
+#list of tables we have
+dbListTables(myDb)
+
+```
+
+
+```{r}
+# lets load 2018 Linkedin Data
+df <- dbGetQuery(myDb, "select * from df")
+df
+
+
+```
+`
+
+```{r}
+# There are more than 145 skills, clean to data similar to 2018 data
+df <- subset(df, select = c(skills, count))
+colnames(df) <- c("Skills", "Linkedin")
+df
+
+```
+
+```{r}
+# there are skills that is listed more than once. finding those
+n_occur <- data.frame(table(df$Skills))
+n_occur[n_occur$Freq > 1,]
+
+```
+
+```{r}
+# we need to add the count of the duplicate skills rows 
+
+df <- aggregate(Linkedin ~ Skills, dat=df, FUN=sum)
+df
+
+
+```
+
+```{r}
+# data is collected and ready to be analyzed at this point
+summary(df)
+str(df)
+
+```
+
+```{r}
+
+df$Skills <- as.character(df$Skills)
+df$Linkedin <- as.numeric(df$Linkedin)
+
+```
+
+
+```{r}
+
+#We have 1157 observations (skills) that data science roles use in linkedin
+#let's see the distribution
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=Skills, y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+```
+
+```{r}
+# we have way too many skills so let's only focus on the ones that has significant count
+
+df <- filter(df, Linkedin >100)
+df
+
+```
+
+```{r}
+# we narrowed it down to 57 skills. Let's see how distribution works.
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=Skills, y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+
+```
+
+```{r}
+
+# let's narrow it down further 
+df <- filter(df, Linkedin > 200)
+df
+
+```
+
+
+```{r}
+
+theme_set(theme_classic())
+
+ggplot(df, aes(x=reorder(Skills, Linkedin, fun=max), y=Linkedin))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+
+
+```
+
+
+```{r}
+# lets load 2018 Linkedin Data from Jeff Hale.
+skills_2018 <- dbGetQuery(myDb, "select * from ds_general_skills_clean")
+skills_2018$LinkedIn <- as.numeric(skills_2018$LinkedIn) # little cleanup
+skills_2018
+
+
+```
+
+
+```{r}
+# analyze briefly to see if there are differences
+theme_set(theme_classic())
+
+ggplot(skills_2018, aes(x=reorder(Keyword, LinkedIn, fun=max),y=LinkedIn))+
+  geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
+             theme(axis.text.x = element_text(angle = 65, vjust=0.6)) +
+  labs(title = "Hale's 2018 findings")
+
+
+
+```
+
+# Conclusions
+The six data science skills most valued by employers in 2019 appear to be the following.
+
+1. Data analysis
+1. R
+1. Python
+1. SQL
+1. Statistics
+1. Machine learning
+
+Our approach differed from Mr. Hales. He investigated programming languages as a separate research question. Our approach commingles them. Therefore, though our high-ranking skills list includes the languages R, Python, and SQL, nothing is to be concluded from their absence from Hale's list. What we see in common are the skills of analysis, statistics, and machine learning. We believe the data tell a compelling story about investment in these disciplines.

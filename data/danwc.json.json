@@ -1,0 +1,163 @@
+{
+  "profileAlternative": {
+    "name": "Daniel Winograd-Cort",
+    "headline": "Lead Data Scientist at Target",
+    "location": "Philadelphia, Pennsylvania",
+    "connections": "119"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Yale University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "date1": "2009",
+      "date2": "2015"
+    },
+    {
+      "title": "Brown University",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "5"
+    },
+    {
+      "title": "Teaching",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "5"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Editing",
+      "count": "3"
+    },
+    {
+      "title": "Computer Science",
+      "count": "3"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "LaTeX",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Linux",
+      "count": "2"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "1"
+    },
+    {
+      "title": "Haskell",
+      "count": "2"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/michael-stulberg-0a4a0841/",
+        "text": "Dan is a very clear and knowledgeable teacher. As a biological researcher, I needed help understanding how best to write code to handle and interpret DNA sequencing data. Dan was able to explain to a beginner (me) the purpose of each line of code and how I could best write scripts to achieve my project goal (in a programming language that is not one his specialties!). His help was instrumental for my current project, and I can now envision how the program might scale-up for future projects handling \"big data\" in biology. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/matthew-nokleby-80511036/",
+      "text": "Director of AI Science at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshita-raina/",
+      "text": "Lead AI Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elisajuarez/",
+      "text": "Building Resilient and Thriving Communities through Corporate Responsibility"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jinghezhang/",
+      "text": "Lead Data Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/knatt/",
+      "text": "iOS at Orro"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vivekkhajuria/",
+      "text": "Lead Data Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alisazhila/",
+      "text": "Lead Data Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niceggert/",
+      "text": "Principal AI Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qmorgan/",
+      "text": "Lead Data Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/briana-bruce-301840183/",
+      "text": "Food and Beverage Team lead at Target"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Daniel Winograd-Cort",
+    "headline": "Lead Data Scientist at Target",
+    "location": "Philadelphia, Pennsylvania",
+    "connections": "119"
+  }
+}

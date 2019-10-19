@@ -1,0 +1,337 @@
+{
+  "profileAlternative": {
+    "name": "Amla Srivastava",
+    "headline": "Data Scientist @ Bloomberg || Columbia University",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I work with the Data Science Solutions team at Bloomberg to build machine learning tools to help clients across Product, Sales, Marketing, and HR better analyze insights from data. My day-to-day work involves building large-scale recommendation systems, text classification/clustering, and statistical modeling. I hold an MS in Data Science from Columbia University and a Bachelors degree in Computer Science.\n\nDuring Fall 2017, I interned with the Data Science team at NBC Universal where I worked on clustering and inferential analysis to model demographic variation across TV shows and networks.\n\nI spent the Summer of 2017 at Hartford Insurance building loss models to improve on existing Class Plans for Auto Insurance.\n\nMy industry experience also includes a year as an Analyst and a six month internship with McKinsey & Company in India.\n\nInterests: Machine Learning, NLP, Deep Learning, Data Mining, Software Development\n\nFeel free to reach out to me at amla2693@gmail.com!"
+  },
+  "aboutAlternative": {
+    "text": "I work with the Data Science Solutions team at Bloomberg to build machine learning tools to help clients across Product, Sales, Marketing, and HR better analyze insights from data. My day-to-day work involves building large-scale recommendation systems, text classification/clustering, and statistical modeling. I hold an MS in Data Science from Columbia University and a Bachelors degree in Computer Science.\n\nDuring Fall 2017, I interned with the Data Science team at NBC Universal where I worked on clustering and inferential analysis to model demographic variation across TV shows and networks.\n\nI spent the Summer of 2017 at Hartford Insurance building loss models to improve on existing Class Plans for Auto Insurance.\n\nMy industry experience also includes a year as an Analyst and a six month internship with McKinsey & Company in India.\n\nInterests: Machine Learning, NLP, Deep Learning, Data Mining, Software Development\n\nFeel free to reach out to me at amla2693@gmail.com!"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (MS)",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Punjab Engineering College",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "15"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "4"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "Algorithms",
+      "count": "1"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Computer Science"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "PHP",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "keras"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "C",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "10"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "11"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "PySpark"
+    },
+    {
+      "title": "D3.js",
+      "count": "2"
+    },
+    {
+      "title": "Shiny",
+      "count": "1"
+    },
+    {
+      "title": "Pandas"
+    },
+    {
+      "title": "ggplot2"
+    },
+    {
+      "title": "Unix/Linux"
+    },
+    {
+      "title": "Teamwork",
+      "count": "6"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "2"
+    },
+    {
+      "title": "Regression"
+    },
+    {
+      "title": "Data Science",
+      "count": "2"
+    },
+    {
+      "title": "Text mining",
+      "count": "2"
+    },
+    {
+      "title": "RapidMiner"
+    },
+    {
+      "title": "H20"
+    },
+    {
+      "title": "Natural Language Processing"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "Neural Networks"
+    },
+    {
+      "title": "NumPy"
+    },
+    {
+      "title": "Apache Spark"
+    },
+    {
+      "title": "CartoDB"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "Clustering"
+    },
+    {
+      "title": "Probability"
+    },
+    {
+      "title": "Exploratory Data Analysis"
+    },
+    {
+      "title": "Hive"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ishan-mathur-40339584/",
+        "text": "I supervised Amla on multiple projects for the RAI team at McKinsey. She focused on providing our client with quality research that was targeted and meaningful. She picked up our business with ease and was eager to apply her technical skills to more challenging problems right from the beginning. Amla is a talented individual who doesn’t shy away from hard problems and exhibits confidence and professionalism. I would be more than happy to work with her in the future! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/subhashree-singh-20267117/",
+        "text": "I was working with Amla during her time as a Data Science intern with The Hartford. Amla was quick to pick up new concepts and showed an intuitive understanding of business. She completed two significant projects during the summer with excellent results. Her work on loss modeling helped us identify areas for improvement in our existing Class Plan. She also displayed sound understanding of machine learning techniques and great presentation skills. She will be an asset to any organization she works with! See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "25",
+      "items": [
+        "Algorithms for Data Science",
+        "Applied Machine Learning",
+        "Artificial Intelligence",
+        "Compiler Design",
+        "Computer Architecture & Organization",
+        "Computer Networks (Honors)",
+        "Computer Systems for Data Science",
+        "Database Management Systems (Honors)",
+        "Discrete Mathematics",
+        "Exploratory Data Analysis and Visualization"
+      ]
+    },
+    {
+      "count": "9",
+      "items": [
+        "Recommendation engine for new business locations (Data Science Institute & Synergic Partners)",
+        "Music Recommendation System using the AudioScrobbler dataset",
+        "Text Analytics: Classifying traffic complaints in Boston",
+        "Deep learning with Keras",
+        "NYC Motor Vehicle Collisions: Visualizing accidents 2013-16",
+        "Patient trails through the healthcare setting",
+        "Visualizing character interactions in 'Love Actually'​",
+        "Performance analysis and improvements for energy efficient routing protocols in Wireless Sensor Networks",
+        "WiFi assisted localization for monitoring resource utilization"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "2nd prize, Microsoft CDSS Hackathon",
+        "Course Honors",
+        "BTO Pride",
+        "Award for Outstanding Effort and Performance, ICICI Trinity Idea Presentation",
+        "Scholarship Programmes for Diaspora Children (SPDC) scholarship",
+        "Certificate of Excellence",
+        "DASA Scholarship"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "German",
+        "Hindi",
+        "Punjabi"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Engineering Graduate Student Council (EGSC)",
+        "Alumni Affairs Committee",
+        "PECFEST 2014"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/bhavanavijay/",
+      "text": "Analytics at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shravyamandava/",
+      "text": "Data Engineering Consultant at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanaz-bahargam-9182a034/",
+      "text": "Data and Machine Learning Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aprokofieva/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjalkarshruti/",
+      "text": "Data Scientist at Amazon (Alexa AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aarshayjain/",
+      "text": "Machine Learning Expert | Scikit-Learn Developer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student Mentor",
+      "experience": "Junior Achievement of Southwest New England, Inc.",
+      "description": "Education",
+      "date1": "Jun 2017 – Jul 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Teaching Volunteer",
+      "experience": "Sahayta Cancer Sahyog",
+      "description": "Health",
+      "date1": "Feb 2015 – Jun 2015",
+      "date2": "5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Amla Srivastava",
+    "headline": "Data Scientist @ Bloomberg || Columbia University",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I work with the Data Science Solutions team at Bloomberg to build machine learning tools to help clients across Product, Sales, Marketing, and HR better analyze insights from data. My day-to-day work involves building large-scale recommendation systems, text classification/clustering, and statistical modeling. I hold an MS in Data Science from Columbia University and a Bachelors degree in Computer Science.\n\nDuring Fall 2017, I interned with the Data Science team at NBC Universal where I worked on clustering and inferential analysis to model demographic variation across TV shows and networks.\n\nI spent the Summer of 2017 at Hartford Insurance building loss models to improve on existing Class Plans for Auto Insurance.\n\nMy industry experience also includes a year as an Analyst and a six month internship with McKinsey & Company in India.\n\nInterests: Machine Learning, NLP, Deep Learning, Data Mining, Software Development\n\nFeel free to reach out to me at amla2693@gmail.com!"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "profileAlternative": {
+    "name": "Sarah S. P.",
+    "headline": "Data Scientist at Spotify",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Princeton University",
+      "degree": "Bachelor's degree",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Roslyn High School",
+      "date1": "2008",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "8"
+    },
+    {
+      "title": "Research",
+      "count": "8"
+    },
+    {
+      "title": "Science",
+      "count": "7"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Computer Science",
+      "count": "3"
+    },
+    {
+      "title": "Algorithms",
+      "count": "2"
+    },
+    {
+      "title": "Microscopy"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "Matlab",
+      "count": "4"
+    },
+    {
+      "title": "LaTeX",
+      "count": "3"
+    },
+    {
+      "title": "Stata",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "SPSS",
+      "count": "2"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "Qualitative Research",
+      "count": "4"
+    },
+    {
+      "title": "Ableton Live",
+      "count": "1"
+    },
+    {
+      "title": "Traktor"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Grand Award Winner (3rd)",
+        "Semifinalist",
+        "Addiction Science Award (1st)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Won’t You Think of the Children?: Traits Predicting Intergenerational Preferences",
+        "When old meets new: Repetition enhances encoding of competing novel items",
+        "The Effect of Mandatory Reading Logs on Children’s Motivation to Read"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Korean",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Colonial Club"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tiffanytywu/",
+      "text": "Data Science @ Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katie-sohn-5b13b8b/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/race-archibold-20aab377/",
+      "text": "Data Scientist, Product at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelleganbaum/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chingsung/",
+      "text": "Product Manager Research & AI at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alissa-deak-56711353/",
+      "text": "Data Science at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anna-smith-338996b/",
+      "text": "Data Engineer at spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mirascarvalone/",
+      "text": "Senior Software Engineer at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-calhoun-26422945/",
+      "text": "Data Scientist at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/margotkurfess/",
+      "text": "Senior Data Scientist, Growth Marketing at Spotify"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sarah S. P.",
+    "headline": "Data Scientist at Spotify",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

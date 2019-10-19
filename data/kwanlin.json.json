@@ -1,0 +1,199 @@
+{
+  "profileAlternative": {
+    "name": "Kwan Lin",
+    "headline": "Cybersecurity Senior Data Scientist",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "Data scientist currently focused on cybersecurity with experience working in engineering, product management, product marketing, sales engineering, business intelligence, customer success, finance, and accounting across both small startups and large established organizations."
+  },
+  "aboutAlternative": {
+    "text": "Data scientist currently focused on cybersecurity with experience working in engineering, product management, product marketing, sales engineering, business intelligence, customer success, finance, and accounting across both small startups and large established organizations."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Fletcher School of Law and Diplomacy",
+      "degree": "Master of Arts in Law and Diplomacy",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {
+      "title": "Brown University",
+      "degree": "B.A.",
+      "date1": "2003",
+      "date2": "2007"
+    },
+    {
+      "title": "Beijing Language and Culture University",
+      "degree": "n/a",
+      "date1": "2005",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Lavastorm Analytics Engine",
+      "count": "2"
+    },
+    {
+      "title": "Econometrics",
+      "count": "1"
+    },
+    {
+      "title": "Statistics",
+      "count": "1"
+    },
+    {
+      "title": "Economics",
+      "count": "10"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "LaTeX"
+    },
+    {
+      "title": "ggplot2"
+    },
+    {
+      "title": "Salesforce",
+      "count": "1"
+    },
+    {
+      "title": "Stata",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "5"
+    },
+    {
+      "title": "Geographic Information Systems (GIS)"
+    },
+    {
+      "title": "Jupyter"
+    },
+    {
+      "title": "Pandas"
+    },
+    {
+      "title": "Mandarin",
+      "count": "1"
+    },
+    {
+      "title": "UCINET",
+      "count": "1"
+    },
+    {
+      "title": "Social Network Analysis"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Marketing Analytics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/charles-quadrini-mba-3672327/",
+        "text": "I worked directly with Chuck for slightly over a year in a software development capacity. Chuck was the individual who helped me acclimate to the group and its practices when I first joined. I quickly came to respect his thoroughness in his work and his willingness to help the rest of the team.\n\nChuck consistently proposed improvements to practice methodologies while we worked together. I can honestly attribute many of the group's process improvements to Chuck's ingenuity.\n\nI can wholeheartedly recommend Chuck for any positions that he may seek in the future. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Cantonese",
+        "Fuzhounese",
+        "Korean",
+        "Mandarin",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Rapid7: 2018 Q1 Threat Report",
+        "Rapid7: 2017 Q4 and Annual Wrap Up Threat Report",
+        "Rapid7: 2017 Q3 Threat Report"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Sarah Scaife Frank Rockwell Barnett Memorial Grant in International Security Studies"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "PendoR"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rick-bond-1530b87/",
+      "text": "Independent Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lindafoley/",
+      "text": "Nara Logics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beckyhodur/",
+      "text": "Global Mobility Senior Manager in PwC's People and Organization Practice"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ann-merritt-b572794/",
+      "text": "Global Mobility Professional with 20 years international/intercultural experience"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chad-spears-41a6897/",
+      "text": "Associate Director, Radford"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jillian-haffner-3411176/",
+      "text": "Sr. Manager, Cloud Platform at Endurance International Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-j-chiu-ba9b036a/",
+      "text": "Global Mobility Vice President at Bank of America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roy-hodgman-3371672/",
+      "text": "Lead Data Scientist at Rapid7"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zachary-osman-052665b4/",
+      "text": "Experienced Compensation Consultant with a focus on Executive and Equity Compensation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-shalla-6388a12/",
+      "text": "Director of Sales and New Business Development"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kwan Lin",
+    "headline": "Cybersecurity Senior Data Scientist",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "Data scientist currently focused on cybersecurity with experience working in engineering, product management, product marketing, sales engineering, business intelligence, customer success, finance, and accounting across both small startups and large established organizations."
+  }
+}

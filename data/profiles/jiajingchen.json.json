@@ -1,0 +1,325 @@
+{
+  "profileAlternative": {
+    "name": "Jiajing Chen",
+    "headline": "Data Scientist at HBO",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced in predictive analytics, machine learning and statistical modeling.\nSolid foundation in applied mathematics and statistics, especially in:\nProbability, Statistical Learning, Statistical Inference, Regression Methods, Longitudinal and Time series, Probabilistic Models, Markov Chain, Bayesian Inference, MCMC, Stochastic Processes, Experimental Design, A/B Testing, etc.\n\nDeep Learning enthusiast. Familiar with deep learning platform: TensorFlow, Keras, Pytorch, MXNet.\nProficient in R, Python, Java, C, SAS, SQL, Linux.\n\nMore than 3 years programming experience in Python and R. Hands-on experience in data cleaning, processing and handling with large dataset."
+  },
+  "aboutAlternative": {
+    "text": "Experienced in predictive analytics, machine learning and statistical modeling.\nSolid foundation in applied mathematics and statistics, especially in:\nProbability, Statistical Learning, Statistical Inference, Regression Methods, Longitudinal and Time series, Probabilistic Models, Markov Chain, Bayesian Inference, MCMC, Stochastic Processes, Experimental Design, A/B Testing, etc.\n\nDeep Learning enthusiast. Familiar with deep learning platform: TensorFlow, Keras, Pytorch, MXNet.\nProficient in R, Python, Java, C, SAS, SQL, Linux.\n\nMore than 3 years programming experience in Python and R. Hands-on experience in data cleaning, processing and handling with large dataset."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Master of Science - MS",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "China Agricultural University",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2013",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "45"
+    },
+    {
+      "title": "Data Science",
+      "count": "46"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "23"
+    },
+    {
+      "title": "Biostatistics",
+      "count": "21"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "19"
+    },
+    {
+      "title": "Algorithms",
+      "count": "16"
+    },
+    {
+      "title": "Quantitative Research",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Data structure",
+      "count": "16"
+    },
+    {
+      "title": "C",
+      "count": "40"
+    },
+    {
+      "title": "R",
+      "count": "24"
+    },
+    {
+      "title": "C++",
+      "count": "16"
+    },
+    {
+      "title": "SAS",
+      "count": "17"
+    },
+    {
+      "title": "Java",
+      "count": "20"
+    },
+    {
+      "title": "Linux",
+      "count": "15"
+    },
+    {
+      "title": "NoSQL",
+      "count": "11"
+    },
+    {
+      "title": "MySQL",
+      "count": "13"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "13"
+    },
+    {
+      "title": "STATA",
+      "count": "13"
+    },
+    {
+      "title": "Hadoop",
+      "count": "14"
+    },
+    {
+      "title": "Matlab",
+      "count": "16"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "15"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "Amazon S3",
+      "count": "1"
+    },
+    {
+      "title": "ggplot",
+      "count": "12"
+    },
+    {
+      "title": "TensorFlow",
+      "count": "13"
+    },
+    {
+      "title": "Keras",
+      "count": "1"
+    },
+    {
+      "title": "AWS SageMaker",
+      "count": "1"
+    },
+    {
+      "title": "Computational",
+      "count": "13"
+    },
+    {
+      "title": "Data Cleaning",
+      "count": "14"
+    },
+    {
+      "title": "Numpy",
+      "count": "14"
+    },
+    {
+      "title": "Analyst",
+      "count": "12"
+    },
+    {
+      "title": "Spark",
+      "count": "12"
+    },
+    {
+      "title": "Scipy",
+      "count": "12"
+    },
+    {
+      "title": "Scikit-Learn",
+      "count": "13"
+    },
+    {
+      "title": "Matplotlib",
+      "count": "12"
+    },
+    {
+      "title": "Predictive analytics",
+      "count": "13"
+    },
+    {
+      "title": "SVM",
+      "count": "13"
+    },
+    {
+      "title": "Regression Models",
+      "count": "14"
+    },
+    {
+      "title": "Cluster Analysis",
+      "count": "12"
+    },
+    {
+      "title": "Network",
+      "count": "14"
+    },
+    {
+      "title": "Kaggle",
+      "count": "12"
+    },
+    {
+      "title": "Qualitative & Quantitative Research Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "A/B Testing",
+      "count": "1"
+    },
+    {
+      "title": "Stochastic Processes",
+      "count": "1"
+    },
+    {
+      "title": "Probabilistic Models",
+      "count": "1"
+    },
+    {
+      "title": "Product Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "1"
+    },
+    {
+      "title": "Costumer Analytics",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/prashantighale/",
+        "text": "Jiajing is a well-rounded data scientist with a strong skillset to perform insightful analyses. She has in-depth knowledge of probability and statistical theory along with strong familiarity with advanced machine learning algorithms. She is a highly proficient R and Python programmer. During her internship, she was a great team player and quickly grasped important business concepts relevant to the analysis. Given her thoughtful disposition and technical strengths, she would be a great asset to any data science team looking to perform robust data analytics. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/josh-mills-2494a923/",
+        "text": "Jiajing has considerable depth of knowledge in the modeling space, and she also has tremendous potential for putting together compelling presentations that convey complex, technical concepts to non-technical audiences. During her time with Nationwide, she was resourceful, self-sufficient, and a strong team player. She is strongly positioned for success in the data science space. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Algorithms Design and Analysis",
+        "Applied Machine Learning",
+        "Applied Regression Analysis",
+        "Applied Statistical Methods",
+        "Biostatistics",
+        "Computational Biology and Bioinformatics",
+        "Computational Methods",
+        "Data Mining",
+        "Data Science Ⅱ",
+        "Introduction to Data Science"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Kaggle Facial Expression Classification, Deep Learning, CNN",
+        "Kaggle: House price Prediction, Regression, Lasso, random forests, top 15%",
+        "Machine Learning Application in Computational Biology, Ubiquitination sites Prediction, SVM, RF, Front-End Web Server"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Prediction of Protein Ubiquitination Sites in Arabidopsis thaliana"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/eileen-dise-40308923/",
+      "text": "Data Scientist at HBO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xuyuhe/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xianzhicao/",
+      "text": "Data Scientist (Machine/Deep Learning & AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tianyi-fang-11040210a/",
+      "text": "Keep moving forward."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jialuyan/",
+      "text": "Data Scientist at HBO | Data Science/Analytics Enthusiast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mashraphijuo/",
+      "text": "Data Scientist II at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anelachan/",
+      "text": "Lead Data Scientist at HBO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perry-petra-wong-10538547/",
+      "text": "Data Scientist at Apple Media Products"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jiajing Chen",
+    "headline": "Data Scientist at HBO",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced in predictive analytics, machine learning and statistical modeling.\nSolid foundation in applied mathematics and statistics, especially in:\nProbability, Statistical Learning, Statistical Inference, Regression Methods, Longitudinal and Time series, Probabilistic Models, Markov Chain, Bayesian Inference, MCMC, Stochastic Processes, Experimental Design, A/B Testing, etc.\n\nDeep Learning enthusiast. Familiar with deep learning platform: TensorFlow, Keras, Pytorch, MXNet.\nProficient in R, Python, Java, C, SAS, SQL, Linux.\n\nMore than 3 years programming experience in Python and R. Hands-on experience in data cleaning, processing and handling with large dataset."
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "profileAlternative": {
+    "name": "Chang Liu",
+    "headline": "Data Scientist at Uber",
+    "location": "United States",
+    "connections": "500+",
+    "summary": "Contact: CL3195@COLUMBIA.EDU"
+  },
+  "aboutAlternative": {
+    "text": "Contact: CL3195@COLUMBIA.EDU"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master's Degree"
+    },
+    {
+      "title": "Central University of Finance and Economics",
+      "degree": "Bachelor's Degree"
+    },
+    {
+      "title": "Chengdu No.7 High School",
+      "degree": "High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "13"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "11"
+    },
+    {
+      "title": "Stata",
+      "count": "7"
+    },
+    {
+      "title": "Statistics",
+      "count": "7"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Data Mining",
+      "count": "3"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Quantitative Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Algorithms",
+      "count": "1"
+    },
+    {
+      "title": "Analytical Skills",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "SPSS",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "SAS",
+      "count": "1"
+    },
+    {
+      "title": "SQL"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tthrall/",
+        "text": "I had the pleasure of working with Chang during her summer 2014 internship at AIG. She is among the most conscientious and diligent colleagues I've worked with over the course of my career. She takes responsibility for understanding her tasks in entirety, executing beyond expectations, and checking to see that deliverables are satisfactory. In addition, Chang contributes to technical problem-solving, offering excellent approaches to tackling difficult and sometimes ambiguous problems. I recommend her wholeheartedly. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Applied Data Science",
+        "Interactive Data Visualization: Facebook sentiment analysis"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "An Empirical Study of Main Sources of the Stress Faced by Chinese City Laborers"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/huan-wang-22a88a65/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sugang/",
+      "text": "Senior Data Scientist @ Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/garfieldlyao/",
+      "text": "Data Scientist, Business Intelligence Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/radhika-anand-86457122/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/skashuk/",
+      "text": "Senior Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilywbailey/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melissadalis/",
+      "text": "Senior Data Scientist at Uber"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Vice President",
+      "experience": "Young Volunteer Association of Central U of Finance and Economics"
+    }
+  ],
+  "profile": {
+    "name": "Chang Liu",
+    "headline": "Data Scientist at Uber",
+    "location": "United States",
+    "connections": "500+",
+    "summary": "Contact: CL3195@COLUMBIA.EDU"
+  }
+}

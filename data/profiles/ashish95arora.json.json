@@ -1,0 +1,297 @@
+{
+  "profileAlternative": {
+    "name": "Ashish Arora",
+    "headline": "Data Scientist at Autodesk",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Bigger and better data can give organizations both more panoramic as well as more granular views of their business phenomena. This realization has dawned upon me through my internship experiences. Furthermore, working on individual projects pertaining to various analytical and statistical techniques (logistic regression, linear regression, cluster analysis, RFM analysis and time series forecasting) has made me realize the potential that data crunching possesses.\n\nI am a graduate student at Carnegie Mellon University pursuing Master of Information Systems Management. I have a penchant towards exploring the field of Data Analytics/Business Intelligence and am currently seeking summer 2018 Internship opportunities. I aim at taking up a role pioneering in data-based decision-making that can help catalyze the growth of an organization.\n\nTechnical Skills: Python, R, Spark, Hadoop, JAVA, SAS, Minitab\nVisualization Tools: Tableau, Excel, Matplotlib, Seaborn, R Shiny, plot.ly\nDatabase Technologies: Oracle 11g (SQL), MongoDB, Redis, Cassandra, Neo4j"
+  },
+  "aboutAlternative": {
+    "text": "Bigger and better data can give organizations both more panoramic as well as more granular views of their business phenomena. This realization has dawned upon me through my internship experiences. Furthermore, working on individual projects pertaining to various analytical and statistical techniques (logistic regression, linear regression, cluster analysis, RFM analysis and time series forecasting) has made me realize the potential that data crunching possesses.\n\nI am a graduate student at Carnegie Mellon University pursuing Master of Information Systems Management. I have a penchant towards exploring the field of Data Analytics/Business Intelligence and am currently seeking summer 2018 Internship opportunities. I aim at taking up a role pioneering in data-based decision-making that can help catalyze the growth of an organization.\n\nTechnical Skills: Python, R, Spark, Hadoop, JAVA, SAS, Minitab\nVisualization Tools: Tableau, Excel, Matplotlib, Seaborn, R Shiny, plot.ly\nDatabase Technologies: Oracle 11g (SQL), MongoDB, Redis, Cassandra, Neo4j"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "Master of Information Systems Management",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Vellore Institute of Technology",
+      "degree": "Bachelor’s Degree",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "DAV PUBLIC SCHOOL, Gurgaon",
+      "degree": "High School",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "DAV PUBLIC SCHOOL, Gurgaon",
+      "degree": "9.4/10.0",
+      "date1": "1998",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "47"
+    },
+    {
+      "title": "SQL",
+      "count": "40"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "15"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "41"
+    },
+    {
+      "title": "Web Development",
+      "count": "16"
+    },
+    {
+      "title": "Research",
+      "count": "16"
+    },
+    {
+      "title": "Project Management",
+      "count": "16"
+    },
+    {
+      "title": "Big Data",
+      "count": "1"
+    },
+    {
+      "title": "SAS",
+      "count": "20"
+    },
+    {
+      "title": "R",
+      "count": "30"
+    },
+    {
+      "title": "Tableau",
+      "count": "21"
+    },
+    {
+      "title": "MongoDB",
+      "count": "12"
+    },
+    {
+      "title": "C",
+      "count": "20"
+    },
+    {
+      "title": "Java",
+      "count": "24"
+    },
+    {
+      "title": "HTML",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "11"
+    },
+    {
+      "title": "JavaScript",
+      "count": "11"
+    },
+    {
+      "title": "SharePoint",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "13"
+    },
+    {
+      "title": "Databases",
+      "count": "14"
+    },
+    {
+      "title": "MySQL",
+      "count": "16"
+    },
+    {
+      "title": "Hadoop",
+      "count": "1"
+    },
+    {
+      "title": "AWS SageMaker"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Amazon Athena"
+    },
+    {
+      "title": "Looker (Software)"
+    },
+    {
+      "title": "Apache Oozie"
+    },
+    {
+      "title": "AWS Glue"
+    },
+    {
+      "title": "AWS Lambda"
+    },
+    {
+      "title": "Leadership",
+      "count": "17"
+    },
+    {
+      "title": "Management",
+      "count": "13"
+    },
+    {
+      "title": "Customer Service",
+      "count": "9"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "1"
+    },
+    {
+      "title": "Amazon EC2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/rajeshkjain/",
+        "text": "It’s my pleasure to recommend Ashish\n\nEven as python coder at jr level (start of career) he left good image in my mind!\n\nHe has shown immense amount of dedication & sincerity towards work. Quick learner and absolutely focused on the work assignment. He could do the tasks which even his sr. team members couldn’t do in time. I like to recommend him for any technical work & data analytics assignment.\n\nI wish him good luck & all success in life.\nRajesh Jain\nSee less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kaori-neuberger-mba/",
+        "text": "Ashish is a one of a kind data science professional who accomplished a store segmentation project for Hallmark in less than 11 weeks. He has strong motivation and dedication to success.\n\nI had the pleasure of working with Ashish at Hallmark during his internship as a data scientist. I was particularly impressed by Ashish's ability to go above and beyond expectations and willingness to pitch in for the team. Not only had he completed store segmentation on time, he had created a first-ever data dictionary tool at Hallmark to make the search of 3,000+ tables a breeze. He also created a file formatting app that allowed an associate to spend the time on generating insights rather than manipulating the files.\n\nOh, and not to mention he is easy to get along with!\n\nAshish would be a true asset for anyone looking for a highly-motivated data scientist and comes with my heartfelt recommendation. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "19",
+      "items": [
+        "Census Income Level Prediction",
+        "Collaborative Filtering by Matrix Factorization",
+        "Email Spam Detection using SVM",
+        "Natural Language Processing Library",
+        "Criminal Recidivism Prediction",
+        "Twitter Political Tweets Classification",
+        "Pittsburgh Port Authority Buses Time Series Analysis",
+        "Python Graph Library",
+        "Movie Recommender System in Python",
+        "Pittsburgh Bus Arrival Prediction"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Intuit App Case Challenge",
+        "Heinz Deloitte Case Challenge (Finalist - 4th Position)",
+        "Winner (3rd Position)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sonalikashyap/",
+      "text": "Graduate Student at CMU| Actively looking for Internship opportunity in Business Analytics & Consulting for Summer 2020"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreshtha-jha-694a8514a/",
+      "text": "MSBA Candidate at UTD-Fall '19| Actively seeking Summer'20 Internship Opportunities in Data Analytics|Data Science|ML."
+    },
+    {
+      "user": "https://www.linkedin.com/in/radhika-bhange/",
+      "text": "Program Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nathanidisha/",
+      "text": "#GHC19 | Software Engineer@Numerify | Carnegie Mellon University Alumna"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghnajani/",
+      "text": "Delivery Data Scientist at Microsoft | Carnegie Mellon University Alumna | Data Science | Data Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darshanmehta17/",
+      "text": "Actively looking for full-time positions | Data Scientist Intern @ Microsoft | MS in Data Science @ Univ. of Washington"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajeevraibhatia/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/migueltwahirwa/",
+      "text": "Senior Business Insights Analyst/Data Scientist, Commercial Operations and Business Analytics at WESCO Distribution"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-saraf/",
+      "text": "GHC'19 | Graduate Student | Data Science | Columbia University | Actively looking for Full-time opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anandkhanna/",
+      "text": "Senior Data Scientist at Target"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Virtual Intern",
+      "experience": "The Saviours",
+      "description": "Health",
+      "date1": "Jan 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Sankara Eye Foundation, USA",
+      "description": "Health",
+      "date1": "Feb 2016 – Apr 2016",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Ashish Arora",
+    "headline": "Data Scientist at Autodesk",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Bigger and better data can give organizations both more panoramic as well as more granular views of their business phenomena. This realization has dawned upon me through my internship experiences. Furthermore, working on individual projects pertaining to various analytical and statistical techniques (logistic regression, linear regression, cluster analysis, RFM analysis and time series forecasting) has made me realize the potential that data crunching possesses.\n\nI am a graduate student at Carnegie Mellon University pursuing Master of Information Systems Management. I have a penchant towards exploring the field of Data Analytics/Business Intelligence and am currently seeking summer 2018 Internship opportunities. I aim at taking up a role pioneering in data-based decision-making that can help catalyze the growth of an organization.\n\nTechnical Skills: Python, R, Spark, Hadoop, JAVA, SAS, Minitab\nVisualization Tools: Tableau, Excel, Matplotlib, Seaborn, R Shiny, plot.ly\nDatabase Technologies: Oracle 11g (SQL), MongoDB, Redis, Cassandra, Neo4j"
+  }
+}

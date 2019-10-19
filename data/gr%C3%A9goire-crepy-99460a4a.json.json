@@ -1,0 +1,136 @@
+{
+  "profileAlternative": {
+    "name": "Grégoire Crepy",
+    "headline": "Data Scientist, Analytics chez Facebook",
+    "location": "New York, New York",
+    "connections": "479"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (MSc)",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "Ecole Nationale des Ponts et Chaussées",
+      "degree": "Master of Science (MSc)",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Lycée Thiers",
+      "degree": "Classes Préparatoires: Mathematics, Physics & Engineering Sciences (MPSI-MP*)",
+      "date1": "2008",
+      "date2": "2010"
+    },
+    {
+      "title": "Lycée de Provence",
+      "degree": "Baccalauréat",
+      "date1": "2001",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Consulting",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "1"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "VBA"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "PowerPoint"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Anglais",
+        "Espagnol",
+        "Français"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mengyinliu/",
+      "text": "Data Scientist, Analytics at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gangao/",
+      "text": "Data Scientist - Analytics at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wenhanxue/",
+      "text": "Data Scientist, Analytics at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshua-minxiang-tu-15148768/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonypaek/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinmgilbert/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danyangchen/",
+      "text": "It's all about data."
+    },
+    {
+      "user": "https://www.linkedin.com/in/alechubel/",
+      "text": "Data Science Manager at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vivekdesikan/",
+      "text": "Data Science @ Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anshuljain26/",
+      "text": "Data Science at Facebook (I am Hiring!)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Grégoire Crepy",
+    "headline": "Data Scientist, Analytics chez Facebook",
+    "location": "New York, New York",
+    "connections": "479"
+  }
+}

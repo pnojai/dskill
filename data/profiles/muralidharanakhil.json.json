@@ -1,0 +1,346 @@
+{
+  "profileAlternative": {
+    "name": "Akhil Muralidharan",
+    "headline": "Data Scientist at JPMorgan Chase & Co.",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Purdue University",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Vellore Institute of Technology",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Chinmaya Vidyalaya, Kochi, Kerala",
+      "degree": "High School",
+      "date1": "2005",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analytics",
+      "count": "12"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "10"
+    },
+    {
+      "title": "Forecasting",
+      "count": "7"
+    },
+    {
+      "title": "CNC Programming",
+      "count": "5"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "Engineering",
+      "count": "4"
+    },
+    {
+      "title": "CAD",
+      "count": "3"
+    },
+    {
+      "title": "Risk Assessment",
+      "count": "2"
+    },
+    {
+      "title": "Football",
+      "count": "5"
+    },
+    {
+      "title": "Dance",
+      "count": "2"
+    },
+    {
+      "title": "Computer-Aided Design (CAD)",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "12"
+    },
+    {
+      "title": "SAS",
+      "count": "4"
+    },
+    {
+      "title": "Matlab",
+      "count": "30"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "Google Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "45"
+    },
+    {
+      "title": "C++",
+      "count": "24"
+    },
+    {
+      "title": "C",
+      "count": "29"
+    },
+    {
+      "title": "Solidworks",
+      "count": "8"
+    },
+    {
+      "title": "ANSYS",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "11"
+    },
+    {
+      "title": "AutoCAD",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "18"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "12"
+    },
+    {
+      "title": "Tableau",
+      "count": "2"
+    },
+    {
+      "title": "SolidWorks",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Leadership",
+      "count": "4"
+    },
+    {
+      "title": "Management",
+      "count": "5"
+    },
+    {
+      "title": "Teamwork",
+      "count": "5"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "6"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "3"
+    },
+    {
+      "title": "Arena Simulation Software",
+      "count": "2"
+    },
+    {
+      "title": "Weka",
+      "count": "1"
+    },
+    {
+      "title": "SPSS Modeler",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/pranaykekre/",
+        "text": "Akhil is a hard-working, results-driven and highly methodical individual who combines analytical, out-of-the-box thinking with creativity. His proficiency in data analytics bears testimony to this. Whether a research project in academia or an industry project requiring fast, accurate results, Akhil goes out of his way to learn and grasp concepts he needs to solve problems and implement practical solutions. He has tremendous experience with data, going full circle from data acquisition, cleaning and analytics to visualization. He is someone who recognizes the power of analytics (armed with knowledge of SAS, R, Minitab) and the sense of urgency and practicality that drives most industry projects. I highly recommend Akhil for any future roles in the vast realm of Data Analytics which require knowledge, creativity, insight and the will to never give up. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/joemon-joseph/",
+        "text": "We worked together for the National Go kart championship. During this time, Joemon Joseph being the head of electrical department made sure that he met deadlines for completion of all tasks related to his department. Moreover, he also helped secure the funding needed to complete the project and participate in the event. He's a great team player and it's been a pleasure working with him.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "ADVANCED DATA ANALYTICS",
+        "APPLIED NUMERICAL METHODS",
+        "APPLIED REGRESSION ANALYSIS",
+        "BENEFIT COST ANALYSIS",
+        "COMPLEX VARIABLES & PARTIAL DIFFERENTIAL EQUATIONS",
+        "COMPUTER PROGRAMMING & PROBLEM SOLVING",
+        "CREATIVITY & INNOVATION IN MANAGEMENT",
+        "DATA DRIVEN MARKETING",
+        "ECONOMICS FOR ENGINEERS",
+        "FINANCIAL MARKETS"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "Forecasting inventory demand for a Mexican bakery franchise, Grupo Bimbo",
+        "Housing Sales Price Analysis Based on Housing Characteristics",
+        "Energy Adequacy Planning in the Residential Building stock under Deep Uncertainty",
+        "Simulation of Disaster Relief Logistics for Hurricane Katrina",
+        "Analysis & Matlab coding for Black Scholes model for predicting the price fluctuations using market parameters",
+        "Developing an application for Economic Order Quantity model computation for data related to inventory",
+        "Market Analysis of mobile phone markets in India & Demand forecasting for iPhone 6",
+        "National Go Kart Championship 2013"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Novel mechanical whistle counter device for pressure cooker",
+        "A design of multi-axis traversable depth gauge to measure dents on car body panel",
+        "Bearing Fault Diagnosis Using Vibration Signals By Variational Mode Decomposition And Naïve Bayes Classifier",
+        "Fault Diagnosis of Helical gear box using Variational Mode Decomposition & Random Forest algorithm",
+        "Novel Design Of Solar Cooker With Bottom Feed"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "German",
+        "Hindi",
+        "Malayalam"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "INFORMS Purdue Chapter",
+        "IE GSO",
+        "Dhakshina",
+        "Society of Automobile Engineers India"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "FIITJEE Talent Reward Exam",
+        "International Informatics Olympiad 2009"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Solar Cooker with Bottom Feed",
+        "Simultaneous lug removal device with variable pitch circle diameter"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/gayatrimandava/",
+      "text": "Continuous Improvement Lead | Six Sigma Black Belt | CAPM | Industrial Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poojashevade/",
+      "text": "Operations and Supply Chain - Program Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuvarajpazhamalai/",
+      "text": "Product Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cu-statistics-xinyi-huang/",
+      "text": "Associate at Argus Information and Advisory Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-pirkl-a14a3a132/",
+      "text": "Business Management at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/junayd-merchant-a3b1b2aa/",
+      "text": "Advisory at EY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swarajdharia/",
+      "text": "Senior Consultant at EY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srinidhi-iyengar/",
+      "text": "Supply Chain Engineer at Lenovo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramparikh/",
+      "text": "Data Scientist at Aetna, a CVS Health Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sonakshimalhotra/",
+      "text": "Global Supply Manager at Apple"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Public Relations Officer",
+      "experience": "Dhakshina",
+      "description": "Social Services",
+      "date1": "Sep 2013",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Project member",
+      "experience": "AIESEC",
+      "description": "Social Services",
+      "date1": "Oct 2009",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Member & Associate of Organizing committee",
+      "experience": "TEDx Willingdon",
+      "date1": "Jul 2014",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Akhil Muralidharan",
+    "headline": "Data Scientist at JPMorgan Chase & Co.",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}
