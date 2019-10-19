@@ -1,0 +1,143 @@
+{
+  "profileAlternative": {
+    "name": "Brian de Luna",
+    "headline": "Data Scientist @ Airbnb | Harvard '17",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Bachelor of Arts (B.A.)",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Miramonte High School",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Public Speaking",
+      "count": "10"
+    },
+    {
+      "title": "Teamwork",
+      "count": "8"
+    },
+    {
+      "title": "Data Science",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "The Harvard Crimson",
+        "Harvard College Consulting Group",
+        "The Harvard Crimson"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Venture Capital Flows: A Visualization",
+        "Predicting Restaurant Success by Neighborhood Factors Using the Yelp Dataset"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "5th Place in the State of California, Original Oratory"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "SAT"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lo-hua-yuan-071aa23a/",
+      "text": "Statistics Ph.D. (causal inference); Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rainiegu/",
+      "text": "Data Scientist at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vquoss/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xuyuhe/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hannah-xue-6a50ba83/",
+      "text": "Software Engineer at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kathy-a-yang/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyamatnani/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yan-zhang-usc/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/annamatlin/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karakasoglu/",
+      "text": "Data Scientist at Airbnb"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Service Learning Supervisor",
+      "experience": "Amigos de las Americas (AMIGOS)",
+      "description": "Civil Rights and Social Action",
+      "date1": "Sep 2012 – May 2013",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Amigos de las Americas (AMIGOS)",
+      "description": "Civil Rights and Social Action",
+      "date1": "Jun 2012 – Aug 2012",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Brian de Luna",
+    "headline": "Data Scientist @ Airbnb | Harvard '17",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  }
+}

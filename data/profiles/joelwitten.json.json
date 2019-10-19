@@ -1,0 +1,205 @@
+{
+  "profileAlternative": {
+    "name": "Joel Witten",
+    "headline": "Data Science Manager at Facebook",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University Graduate School of Arts and Sciences",
+      "degree": "M.A.",
+      "date1": "2009",
+      "date2": "2010"
+    },
+    {
+      "title": "University of Maryland",
+      "degree": "B.S & minor",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "35"
+    },
+    {
+      "title": "Data Mining",
+      "count": "30"
+    },
+    {
+      "title": "Analytics",
+      "count": "27"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "16"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "11"
+    },
+    {
+      "title": "Strategy",
+      "count": "8"
+    },
+    {
+      "title": "Fixed Income",
+      "count": "7"
+    },
+    {
+      "title": "statistics",
+      "count": "6"
+    },
+    {
+      "title": "Statistics",
+      "count": "6"
+    },
+    {
+      "title": "Programming",
+      "count": "4"
+    },
+    {
+      "title": "Trading",
+      "count": "4"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Algorithms",
+      "count": "2"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Quantitative Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "VBA",
+      "count": "20"
+    },
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "SAS",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "Visual Basic for Applications (VBA)",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/theresavu/",
+        "text": "I especially noted Joel's competence while working directly with him for the same mentor. Even as a second-year mathematics student while being told to do work that was much beyond his level, he was very dilligent and worked hard until he saw the end of his projects, and his skills as a mathematician were very high. He asked questions as he needed, he communicated his needs and his thoughts very articulately, and he was a great pleasure to work with. I recommend him highly without reservation to any institution. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilyewagner/",
+      "text": "Data Scientist @ Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hubertjaouen/",
+      "text": "Data Science Manager at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ananjappa/",
+      "text": "Lead Product Manager at Venmo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heather-hui-cheng-6a12883b/",
+      "text": "Data Science Manager at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kate-johnson-a160a365/",
+      "text": "Senior Risk Decision Scientist at Venmo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabriela-alcala-murga/",
+      "text": "Data Science Manager at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kate-dahl-9aa62228/",
+      "text": "Progressive Data, Analytics, and Technology Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xinfu/",
+      "text": "Director of Data Science at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joel Witten",
+    "headline": "Data Science Manager at Facebook",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

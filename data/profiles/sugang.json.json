@@ -1,0 +1,314 @@
+{
+  "profileAlternative": {
+    "name": "Gang Su",
+    "headline": "Senior Data Scientist @ Netflix",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Active Persona: Data Science, Analytics, Statistical Learning, Machine Learning, Experimentation, Visualizations\nDormant Persona: Bioinformatics, Genomics, Life Sciences, Full-stack Dev, Designs"
+  },
+  "aboutAlternative": {
+    "text": "Active Persona: Data Science, Analytics, Statistical Learning, Machine Learning, Experimentation, Visualizations\nDormant Persona: Bioinformatics, Genomics, Life Sciences, Full-stack Dev, Designs"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Michigan",
+      "degree": "Doctor of Philosophy (PhD)"
+    },
+    {
+      "title": "University of Michigan",
+      "degree": "Master of Arts (MA)"
+    },
+    {
+      "title": "Nanjing University",
+      "degree": "Master of Science (MS)"
+    },
+    {
+      "title": "Nanjing University",
+      "degree": "Bachelor of Science (BS)"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Bioinformatics",
+      "count": "71"
+    },
+    {
+      "title": "R",
+      "count": "67"
+    },
+    {
+      "title": "Genomics",
+      "count": "42"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "24"
+    },
+    {
+      "title": "Statistics",
+      "count": "47"
+    },
+    {
+      "title": "Programming",
+      "count": "12"
+    },
+    {
+      "title": "Lifesciences",
+      "count": "10"
+    },
+    {
+      "title": "Algorithms",
+      "count": "16"
+    },
+    {
+      "title": "Biotechnology",
+      "count": "10"
+    },
+    {
+      "title": "Genetics",
+      "count": "10"
+    },
+    {
+      "title": "Data Mining",
+      "count": "26"
+    },
+    {
+      "title": "Protein Purification",
+      "count": "5"
+    },
+    {
+      "title": "Biochemistry",
+      "count": "6"
+    },
+    {
+      "title": "PCR",
+      "count": "4"
+    },
+    {
+      "title": "Biostatistics",
+      "count": "7"
+    },
+    {
+      "title": "Molecular Biology",
+      "count": "8"
+    },
+    {
+      "title": "Cell Biology",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "52"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "5"
+    },
+    {
+      "title": "Protein Chemistry",
+      "count": "3"
+    },
+    {
+      "title": "Molecular Cloning",
+      "count": "4"
+    },
+    {
+      "title": "Protein Expression",
+      "count": "3"
+    },
+    {
+      "title": "Life Sciences",
+      "count": "13"
+    },
+    {
+      "title": "Java",
+      "count": "15"
+    },
+    {
+      "title": "Perl",
+      "count": "7"
+    },
+    {
+      "title": "Illustrator",
+      "count": "2"
+    },
+    {
+      "title": "Databases",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "4"
+    },
+    {
+      "title": "Node.js",
+      "count": "4"
+    },
+    {
+      "title": "d3.js",
+      "count": "3"
+    },
+    {
+      "title": "HTML 5",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "Computational Biology",
+      "count": "16"
+    },
+    {
+      "title": "Microarray Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Experimental Design",
+      "count": "5"
+    },
+    {
+      "title": "Microarray",
+      "count": "6"
+    },
+    {
+      "title": "Proteomics",
+      "count": "4"
+    },
+    {
+      "title": "Sequence Analysis",
+      "count": "4"
+    },
+    {
+      "title": "DNA sequencing",
+      "count": "4"
+    },
+    {
+      "title": "Transcriptomics",
+      "count": "4"
+    },
+    {
+      "title": "Sequencing",
+      "count": "4"
+    },
+    {
+      "title": "Cancer Research",
+      "count": "3"
+    },
+    {
+      "title": "OmniGraffle",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dstates/",
+        "text": "Gang Su is an energetic and creative student. Likes to think outside the box and is a talented software developer able to bring his ideas to fruition effectively. Really enjoyed having him in the group."
+      },
+      {
+        "user": "https://www.linkedin.com/in/steveqin/",
+        "text": "Gang is knowledgeable, skilled in bioinformatics and computer programming, web application development. He is a very effective communicator, and has leadership potential."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "MotifOrganizer: a scalable model-based motif clustering tool for mammalian genomes",
+        "Measurement of Tear Glucose Levels with Amperometric Glucose Biosensor/ Capillary Tube Configuration",
+        "Integrated Metabolome and Transcriptome Analysis of the NCI60 dataset.",
+        "GSearcher: agile attribute querying for biological networks",
+        "GLay: community structure analysis of biological networks",
+        "Bayesian EM algorithm for scoring polymorphic deletions from SNP data and application to a common CNV on 8q24.",
+        "A web server for transcription factor binding site prediction.",
+        "MACO: a gapped-alignment scoring tool for comparing transcription factor binding sites.",
+        "clusterMaker: a multi-algorithm clustering plugin for Cytoscape."
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "First Place Award, Health Policy Case Competition",
+        "Michigan Business Competition (MBC) Winners",
+        "Third prize, Health Informatics Society Case Competition, sponsored by Northrop Grumman",
+        "Best Web/Mobile Technology Award for Entrepreneurial Excellence, China Business Challenge, 2012",
+        "Dare to Dream Start-up Grants, Zell Lurie Institute Ross School of Business",
+        "Jump Start Start-up Grants, Center for Entrepreneurship",
+        "Social Innovation Award, China Business Challenge 2011",
+        "Rackham Conference Grants"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rekhathakur/",
+      "text": "Manager, Data Science & Engineering at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julietteaurisset/",
+      "text": "Director, Data Science at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weiligeng/",
+      "text": "Senior Data Analyst at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaomu-wang-aa711124/",
+      "text": "Senior Statistician/Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lavanyasharan/",
+      "text": "Senior Data Scientist at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chang-liu-90ab3059/",
+      "text": "Data Scientist at Uber"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gang Su",
+    "headline": "Senior Data Scientist @ Netflix",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Active Persona: Data Science, Analytics, Statistical Learning, Machine Learning, Experimentation, Visualizations\nDormant Persona: Bioinformatics, Genomics, Life Sciences, Full-stack Dev, Designs"
+  }
+}

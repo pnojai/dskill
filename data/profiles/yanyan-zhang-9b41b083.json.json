@@ -1,0 +1,265 @@
+{
+  "profileAlternative": {
+    "name": "Yanyan Zhang",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced Data Scientist with 2.5-year of professional experience focusing on Machine Learning and Visualization.\n\n#Programming:\nPython (Pandas, Numpy, Scikit-learn, XGBoost, Keras, Plotly)\nJavaScript (Bootstrap, JQuery, Plotly, Mapbox)\nHTML\nR (ggplot, Leaflet)\nMatlab\nJava\n\n#Database:\nMySQL, Spark(PySpark), Hadoop"
+  },
+  "aboutAlternative": {
+    "text": "Experienced Data Scientist with 2.5-year of professional experience focusing on Machine Learning and Visualization.\n\n#Programming:\nPython (Pandas, Numpy, Scikit-learn, XGBoost, Keras, Plotly)\nJavaScript (Bootstrap, JQuery, Plotly, Mapbox)\nHTML\nR (ggplot, Leaflet)\nMatlab\nJava\n\n#Database:\nMySQL, Spark(PySpark), Hadoop"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "The Ohio State University",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2011",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "15"
+    },
+    {
+      "title": "Matlab",
+      "count": "13"
+    },
+    {
+      "title": "SAS Programming",
+      "count": "11"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "7"
+    },
+    {
+      "title": "Data Mining",
+      "count": "8"
+    },
+    {
+      "title": "Mathematics",
+      "count": "8"
+    },
+    {
+      "title": "Actuarial Science",
+      "count": "8"
+    },
+    {
+      "title": "Statistics",
+      "count": "11"
+    },
+    {
+      "title": "Life Insurance",
+      "count": "3"
+    },
+    {
+      "title": "Economics",
+      "count": "5"
+    },
+    {
+      "title": "Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Research",
+      "count": "4"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "R Programming",
+      "count": "8"
+    },
+    {
+      "title": "Access",
+      "count": "6"
+    },
+    {
+      "title": "SAS",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "9"
+    },
+    {
+      "title": "R",
+      "count": "7"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "hadoop"
+    },
+    {
+      "title": "Teamwork",
+      "count": "6"
+    },
+    {
+      "title": "Management",
+      "count": "3"
+    },
+    {
+      "title": "Leadership",
+      "count": "4"
+    },
+    {
+      "title": "ERP Software",
+      "count": "5"
+    },
+    {
+      "title": "Axis",
+      "count": "3"
+    },
+    {
+      "title": "Probability",
+      "count": "6"
+    },
+    {
+      "title": "SAS Base",
+      "count": "5"
+    },
+    {
+      "title": "SAS Certified Base Programmer",
+      "count": "4"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "spark"
+    },
+    {
+      "title": "Apache Spark"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "Algorithm for Data Science",
+        "Computer System",
+        "Data Exploratory and Visualization",
+        "Data Mining",
+        "Econometrics",
+        "Financial Economics",
+        "Intermediate Data Analysis",
+        "Machine Learning for Data Science",
+        "Neural Networks & Deep Learning",
+        "Partial Differential Equations"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Insurance Conversion Prediction",
+        "Roof Image Classification"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "University merit-based scholarship for international students"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/xianzhicao/",
+      "text": "Data Scientist (Machine/Deep Learning & AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/will-holmes-659b56135/",
+      "text": "Data Scientist, at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pei-chloe-jin-25450926/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ava-huang/",
+      "text": "Data Scientist at IBM | Quantitative Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lili88/",
+      "text": "Facebook - Data Scientist, Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chloe-he-8a356034/",
+      "text": "Data Scientist at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kairuili/",
+      "text": "Data Scientist at Nielsen"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhewenzhao/",
+      "text": "Data Scientist, Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-xia-b61b793a/",
+      "text": "Data Scientist at Uber, UberEats"
+    },
+    {
+      "user": "https://www.linkedin.com/in/navyak21/",
+      "text": "Data Scientist at IBM"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yanyan Zhang",
+    "headline": "Data Scientist",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced Data Scientist with 2.5-year of professional experience focusing on Machine Learning and Visualization.\n\n#Programming:\nPython (Pandas, Numpy, Scikit-learn, XGBoost, Keras, Plotly)\nJavaScript (Bootstrap, JQuery, Plotly, Mapbox)\nHTML\nR (ggplot, Leaflet)\nMatlab\nJava\n\n#Database:\nMySQL, Spark(PySpark), Hadoop"
+  }
+}

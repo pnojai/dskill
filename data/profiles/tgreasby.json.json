@@ -1,0 +1,207 @@
+{
+  "profileAlternative": {
+    "name": "Tamara Greasby",
+    "headline": "Director, Data Science at The Trade Desk",
+    "location": "Denver, Colorado",
+    "connections": "500+",
+    "summary": "Directionally causal, leaning towards significant"
+  },
+  "aboutAlternative": {
+    "text": "Directionally causal, leaning towards significant"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of California, Davis",
+      "degree": "Ph.D.",
+      "date1": "2006",
+      "date2": "2010"
+    },
+    {
+      "title": "University of California, Davis",
+      "degree": "M.S.",
+      "date1": "2004",
+      "date2": "2006"
+    },
+    {
+      "title": "University of Puget Sound",
+      "degree": "B.S.",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "22"
+    },
+    {
+      "title": "Statistics",
+      "count": "20"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "16"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "15"
+    },
+    {
+      "title": "Science",
+      "count": "6"
+    },
+    {
+      "title": "Research",
+      "count": "6"
+    },
+    {
+      "title": "Big Data",
+      "count": "5"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Simulations",
+      "count": "3"
+    },
+    {
+      "title": "Public Health",
+      "count": "2"
+    },
+    {
+      "title": "Biostatistics",
+      "count": "2"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Spatial Analysis",
+      "count": "1"
+    },
+    {
+      "title": "SAS",
+      "count": "9"
+    },
+    {
+      "title": "LaTeX",
+      "count": "7"
+    },
+    {
+      "title": "Mathematica",
+      "count": "6"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Scientific Computing",
+      "count": "5"
+    },
+    {
+      "title": "Hive",
+      "count": "3"
+    },
+    {
+      "title": "Experimental Design",
+      "count": "2"
+    },
+    {
+      "title": "Survival Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Monte Carlo Simulation",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "Assessing Uncertainty in Climate Model Ensembles via Annual Temperature Profiles",
+        "Effects of a Problem-Solving Intervention (COPE) on Quality of Life for Patients with Advanced Cancer on Clinical Trials and their Caregivers: Simultaneous Care Educational Intervention (SCEI): Linking Palliation and Clinical Trials",
+        "Multivariate Spatial Analysis of Climate Change Projections",
+        "Semiautomated Segmentation for Volumetric Analysis of Intratumoral Ethiodol Uptake and Subsequent Tumor Necrosis After Chemoembolization",
+        "Salzmann Nodular Degeneration",
+        "Correlations Between Plasma Levels of a Fibronectin Isoform Subpopulation and C-reactive Protein in Patients with Systemic Inflammatory Disease",
+        "Temporal Changes in Characteristics of Injection-Site Sarcomas in Cats: 392 cases (1990–2006)",
+        "Comparison of Two-Dimensional and Three-Dimensional Iterative Watershed Segmentation Methods in Hepatic Tumor Volumetrics",
+        "Increased Rotational Mobility of the Testis After Vasectomy A Sonographic Study",
+        "Rigid Interferon-α Subtype Responses of Human Plasmacytoid Dendritic Cells"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "NCAA Scholar Athlete",
+        "Otis Coolidge Chapman Scholar"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jacobnaylor/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessiecooper/",
+      "text": "Head of Platform Development at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perrinellisdonaldson/",
+      "text": "Associate Recruiter of GTM teams at Guild Education. We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markedavenport/",
+      "text": "GM, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/damian-wandler-3378988/",
+      "text": "Product Manager Lead at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erickostello/",
+      "text": "Director Data Science at Warner Bros. Entertainment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jefftgreen/",
+      "text": "Founder & CEO at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-fiolkoski-3469b248/",
+      "text": "Director of Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zakstengel/",
+      "text": "SVP Engineering at The Trade Desk"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tamara Greasby",
+    "headline": "Director, Data Science at The Trade Desk",
+    "location": "Denver, Colorado",
+    "connections": "500+",
+    "summary": "Directionally causal, leaning towards significant"
+  }
+}

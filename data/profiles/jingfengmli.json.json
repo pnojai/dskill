@@ -1,0 +1,264 @@
+{
+  "profileAlternative": {
+    "name": "Jingfeng Li",
+    "headline": "Senior Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "I am a Senior Data Scientist at Facebook. Before Facebook, I was a Machine Learning Software Engineer at Atigeo working on healthcare analytics. I received a Ph.D. in neuroscience from Washington University and have 11 publications to date."
+  },
+  "aboutAlternative": {
+    "text": "I am a Senior Data Scientist at Facebook. Before Facebook, I was a Machine Learning Software Engineer at Atigeo working on healthcare analytics. I received a Ph.D. in neuroscience from Washington University and have 11 publications to date."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Washington University in St. Louis",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2010",
+      "date2": "2015"
+    },
+    {
+      "title": "The Data Incubator",
+      "degree": "Data Science",
+      "date1": "2015",
+      "date2": "2015"
+    },
+    {
+      "title": "Peking University",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "31"
+    },
+    {
+      "title": "Statistics",
+      "count": "26"
+    },
+    {
+      "title": "Matlab",
+      "count": "23"
+    },
+    {
+      "title": "Data Mining",
+      "count": "19"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "3"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "24"
+    },
+    {
+      "title": "Python",
+      "count": "24"
+    },
+    {
+      "title": "Hadoop",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "13"
+    },
+    {
+      "title": "Scala",
+      "count": "7"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "R",
+      "count": "8"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "3"
+    },
+    {
+      "title": "Neural Networks",
+      "count": "9"
+    },
+    {
+      "title": "Decision Trees",
+      "count": "9"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "5"
+    },
+    {
+      "title": "Gradient Boosting",
+      "count": "1"
+    },
+    {
+      "title": "probabilistic theory",
+      "count": "1"
+    },
+    {
+      "title": "information theory",
+      "count": "2"
+    },
+    {
+      "title": "Digital Signal Processing",
+      "count": "3"
+    },
+    {
+      "title": "Support vector machine",
+      "count": "2"
+    },
+    {
+      "title": "Generalized linear model"
+    },
+    {
+      "title": "Multivariate Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Data Science",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Functional Connectivity in Unit Activity",
+        "Functional connectivity arises from a slow rhythmic mechanism",
+        "Motor role of parietal cortex in a monkey model of hemi-spatial neglect",
+        "Neural Correlates of Functional Connectivity.",
+        "Neural activity underlying functional connectivity MRI",
+        "Oxygen Level and LFP in Task-Positive and Task-Negative Areas: Bridging BOLD fMRI and Electrophysiology",
+        "Bridging BOLD fMRI and Electrophysiology: Oxygen polarography in awake macaques",
+        "Oxygen polarography and electrophysiology in the default-mode and dorsal-attention networks during rest and stimulation: Bridging BOLD fMRI and electrophysiology"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Advanced mathematics",
+        "Algorithm and data structures",
+        "Biological Neural Computation",
+        "Biostatistics",
+        "Complex Dynamical System",
+        "Introduction to Computer science",
+        "Introduction to logic"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Finalist for O'Leary Prize",
+        "Acceptance into Cognitive, Computational, and Systems Neuroscience pathway",
+        "Ellen Eoyang Scholarship",
+        "Outstanding Olympics Volunteer Award",
+        "3rd Prize of China Biology Olympiad (Provincial Level)",
+        "2rd Prize of China Mathematical Olympiad (Provincial Level)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "FcMRI Neural Network Modeling",
+        "Regression Based Dependency Analysis",
+        "Digit Recognition Neural Network"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Society for Neuroscience"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/hfang15/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/huihui-wang-44719043/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/balltammy/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elliottmerriam/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nanwangusc/",
+      "text": "Senior Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yihuilin/",
+      "text": "Senior Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fei-zhao-44a5002a/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelleganbaum/",
+      "text": "Data Scientist at Facebook"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Stadium Manager",
+      "experience": "2008 Summer Olympics",
+      "description": "Arts and Culture",
+      "date1": "Jul 2008 – Sep 2008",
+      "date2": "3 mos"
+    },
+    {
+      "title": "NeuroDay Presenter",
+      "experience": "St. Louis Science Center",
+      "description": "Education",
+      "date1": "Oct 2011",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Jingfeng Li",
+    "headline": "Senior Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "I am a Senior Data Scientist at Facebook. Before Facebook, I was a Machine Learning Software Engineer at Atigeo working on healthcare analytics. I received a Ph.D. in neuroscience from Washington University and have 11 publications to date."
+  }
+}

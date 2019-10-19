@@ -1,0 +1,138 @@
+{
+  "profileAlternative": {
+    "name": "Rory Michelen",
+    "headline": "Data Scientist at Etsy",
+    "location": "Brooklyn, New York",
+    "connections": "204"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Florida",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Excel",
+      "count": "6"
+    },
+    {
+      "title": "VBA",
+      "count": "6"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Mining",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Data Modeling"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Arena Simulation Software"
+    },
+    {
+      "title": "Visual Basic 5.0/6.0",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/srikanthmangipudi/",
+        "text": "Rory is is one of the brightest analyst in operations analytics.\n\nHe is highly knowledgeable in field of business and, at the same time, is capable of quickly understanding client’s business models. He is certainly capable of handling more difficult duties. On the other hand, he always shows interest on technical toolset to learn new things in technology side to solve clients problems better. His strong analytical skills helped us to build complex projects in Haul domain. He is passionate about his work and quick learner, highly recommended. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/srivani-kambhampati-9a207488/",
+        "text": "Srivani is hardworking, thorough, and naturally curious. On top of this, she is incredibly motivated to understand all aspects of software development. When I first met her, she demonstrated her mastery of SQL and C#. Over the next two years of our professional relationship, I witnessed her tackle other technologies that were new to her such as Apache Ignite and EXASOL.\n\nDuring our time working together, Srivani was in a backend development position. However, she demonstrated an impressive aptitude for business. She went far beyond the scope of her role to develop an understanding of the problem that she was asked to solve. She learned incredibly quickly and provided recommendations that became integral parts of our product.\n\nOverall, Srivani is an excellent critical thinker who thinks deeply about the problem she is asked to solve. She has developed a mastery of tools such as SQL, C#, and Apache Ignite, but her contributions to our team spanned way beyond that. Her intuition, curiosity, and communication make her a great “big-picture” thinker that pairs incredibly well with her depth of knowledge. I would recommend her to any team. \n\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/srikanthmangipudi/",
+        "text": "I have worked with Srikanth for the past 2 years. During this time, he demonstrated his leadership abilities, technical skills, and desire to continue learning. Srikanth was the UI team lead for both projects that I worked on with him. In each of those projects, he did an excellent job of managing several parallel workstreams, making key decisions, and sharing his technical expertise with the rest the team. \n\nSrikanth’s greatest contribution was his in-depth knowledge of open-source platforms. Through his own research, he designed a front-end technology stack for our project. This stack was so successful in our project that it became the standard in our company.\n\nSrikanth would make an incredible addition to any development team. He is dedicated, experienced, and creative. Above all, he is a wonderful teammate who inspires others to work just as hard as he does.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/samanthaemanuele/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/val-pocus/",
+      "text": "Data Scientist at Disney Streaming Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mfergis/",
+      "text": "Senior Data Scientist @ Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patrick-laughlin-89b162181/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perry-davidoff-b1b49462/",
+      "text": "Senior Data Scientist, Analytics at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-hollenberg-23941857/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoting-zhao-6001261b/",
+      "text": "Senior Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-li-39097822/",
+      "text": "Senior Machine Learning Engineer at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/caitlin-ohmann-8971a530/",
+      "text": "Senior Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumeetishere/",
+      "text": "Senior Data Scientist at Etsy"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rory Michelen",
+    "headline": "Data Scientist at Etsy",
+    "location": "Brooklyn, New York",
+    "connections": "204"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "profileAlternative": {
+    "name": "Joshua (Minxiang) Tu",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Big data enthusiast and enjoy providing data oriented, fact driven solution to business problem with 5 years of experience in big and complex data manipulation and analytics, strong background with data mining, prediction modeling, analytics programming with R, Python and SAS. Advanced degree with wide knowledge in statistic, machine learning, distribution system. Consulting experience in financial advisory leveraging wealth management data and credit card transaction data."
+  },
+  "aboutAlternative": {
+    "text": "Big data enthusiast and enjoy providing data oriented, fact driven solution to business problem with 5 years of experience in big and complex data manipulation and analytics, strong background with data mining, prediction modeling, analytics programming with R, Python and SAS. Advanced degree with wide knowledge in statistic, machine learning, distribution system. Consulting experience in financial advisory leveraging wealth management data and credit card transaction data."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Stevens Institute of Technology",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2012",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "52"
+    },
+    {
+      "title": "SQL",
+      "count": "49"
+    },
+    {
+      "title": "R",
+      "count": "35"
+    },
+    {
+      "title": "Data Mining",
+      "count": "25"
+    },
+    {
+      "title": "Analytics",
+      "count": "22"
+    },
+    {
+      "title": "Statistics",
+      "count": "16"
+    },
+    {
+      "title": "Program Management",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "23"
+    },
+    {
+      "title": "Python",
+      "count": "20"
+    },
+    {
+      "title": "HTML",
+      "count": "17"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "17"
+    },
+    {
+      "title": "VBA",
+      "count": "14"
+    },
+    {
+      "title": "Access",
+      "count": "10"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Visual Basic for Applications (VBA)",
+      "count": "1"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Optimization Models",
+      "count": "4"
+    },
+    {
+      "title": "Optimization Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Logistics modelling",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/kai-wang-b098aa5/",
+        "text": "Kai is a great colleague as well as a good friend. I really admire his intense interest in the area of creativity and innovation and also his leadership skill as the president of SIGMA."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "University Recommendation Engine",
+        "Knowledge Mining and Prediction Model Project.",
+        "Logistics Network Design",
+        "Carrier Recommendation Project",
+        "Automated Team Survey Tool",
+        "Netflix Recommendation Engine"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jingfengmli/",
+      "text": "Senior Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gangao/",
+      "text": "Data Scientist - Analytics at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katie-sohn-5b13b8b/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lydiahuo/",
+      "text": "Data Scientist II at Novantas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fei-feng-1b6aba82/",
+      "text": "Data Science & Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gr%C3%A9goire-crepy-99460a4a/",
+      "text": "Data Scientist, Analytics chez Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beilu/",
+      "text": "Marketing Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hanh-nguyen-2b252238/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tian-tan-854938a7/",
+      "text": "Data Scientist at MediaMath"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joshua (Minxiang) Tu",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Big data enthusiast and enjoy providing data oriented, fact driven solution to business problem with 5 years of experience in big and complex data manipulation and analytics, strong background with data mining, prediction modeling, analytics programming with R, Python and SAS. Advanced degree with wide knowledge in statistic, machine learning, distribution system. Consulting experience in financial advisory leveraging wealth management data and credit card transaction data."
+  }
+}

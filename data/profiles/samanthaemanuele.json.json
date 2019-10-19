@@ -1,0 +1,168 @@
+{
+  "profileAlternative": {
+    "name": "Samantha Emanuele",
+    "headline": "Data Scientist at Etsy",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Yale School of Public Health",
+      "degree": "Master of Public Health (MPH)",
+      "date1": "2013",
+      "date2": "2015"
+    },
+    {
+      "title": "The George Washington University",
+      "degree": "Bachelor's Degree",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SAS",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "Matlab",
+      "count": "4"
+    },
+    {
+      "title": "Statistics",
+      "count": "6"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "4"
+    },
+    {
+      "title": "LaTeX",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "2"
+    },
+    {
+      "title": "Italian",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Reporting",
+      "count": "1"
+    },
+    {
+      "title": "@Risk",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "25",
+      "items": [
+        "Analysis of Variance",
+        "Applied Linear Regression",
+        "Applied Time Series",
+        "Categorical Data Analysis",
+        "Customer Analytics",
+        "Data Analysis",
+        "Data Mining and Machine Learning",
+        "Healthcare Operations",
+        "Intro to Data Mining",
+        "Intro to Graph Theory"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Italian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rory-michelen-7a751a68/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahsusiepak/",
+      "text": "Data Scientist at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perry-davidoff-b1b49462/",
+      "text": "Senior Data Scientist, Analytics at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mfergis/",
+      "text": "Senior Data Scientist @ Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joelwitten/",
+      "text": "Data Science Manager at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrampappas/",
+      "text": "Data Scientist and Engineer!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laura-elsener-b7880123/",
+      "text": "Senior Data Scientist at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-hollenberg-23941857/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumeetishere/",
+      "text": "Senior Data Scientist at Etsy"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Samantha Emanuele",
+    "headline": "Data Scientist at Etsy",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "profileAlternative": {
+    "name": "Xiao Guo",
+    "headline": "Data Scientist at Discovery Inc",
+    "location": "New York, New York",
+    "connections": "392"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "The Ohio State University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {},
+    {
+      "title": "Bowling Green State University",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "Data science"
+    },
+    {
+      "title": "Data Mining",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Data Analysis"
+    },
+    {
+      "title": "Operation Research"
+    },
+    {
+      "title": "Econometrics"
+    },
+    {
+      "title": "R",
+      "count": "4"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Excel Macro",
+      "count": "1"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "Random Forest"
+    },
+    {
+      "title": "Decision Trees"
+    },
+    {
+      "title": "Regression Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Excel Pivot",
+      "count": "1"
+    },
+    {
+      "title": "Linear and Integer Programming",
+      "count": "1"
+    },
+    {
+      "title": "Sampling Design",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Advanced Macroeconomics",
+        "Advanced Microeconomics",
+        "Data Mining",
+        "Database Management",
+        "Experimental Design",
+        "Exploratory Data Analysis",
+        "Linear & Integer Programming",
+        "Nonparametric Statistical Inference",
+        "Probability Theory",
+        "Regression Analysis"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese Mandarin",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chalita-lertlumprasert-29610355/",
+      "text": "Data Scientist at Zillow Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lanny-fox-a8038a23/",
+      "text": "Data Scientist at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fernando-melchor/",
+      "text": "Data Scientist at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tainaoquendo/",
+      "text": "Head of Global Talent Acquisition @ Knotel- We’re Hiring! NYC, SF, LA, LON, BER"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jingwei-xiong-7a0a2bb6/",
+      "text": "Data Scientist at First Solar"
+    },
+    {
+      "user": "https://www.linkedin.com/in/balaji-j-7ab9b958/",
+      "text": "“Hiring recent graduates for entry level Software Developers “"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sam-c-cross/",
+      "text": "Analytics Intern at The Andersons, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/zheng-zhang-31786416a/",
+      "text": "Data Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timxflin/",
+      "text": "Data Scientist at dv01"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ephraimschoenbrun/",
+      "text": "Senior Data Scientist at Deloitte"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Xiao Guo",
+    "headline": "Data Scientist at Discovery Inc",
+    "location": "New York, New York",
+    "connections": "392"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "profileAlternative": {
+    "name": "LINGHUI Z.",
+    "headline": "Data Scientist at PCH",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I am good at data analysis, data mining, quantitative analysis, data modeling, predictive analysis, machine learning, business issues gathering and recognition. I have excellent problem-solving skills and programming skills, such as Python, R, and SQL. I can work on big data on AWS and Azure environment and I also can work under different operating systems such as Windows/Linux/Unix and with different databases, such as Oracle/Postgres/MySQL.\n\nI can produce business insights from mass internal and external data, and then create a meaningful and understandable visualization on top of those insights."
+  },
+  "aboutAlternative": {
+    "text": "I am good at data analysis, data mining, quantitative analysis, data modeling, predictive analysis, machine learning, business issues gathering and recognition. I have excellent problem-solving skills and programming skills, such as Python, R, and SQL. I can work on big data on AWS and Azure environment and I also can work under different operating systems such as Windows/Linux/Unix and with different databases, such as Oracle/Postgres/MySQL.\n\nI can produce business insights from mass internal and external data, and then create a meaningful and understandable visualization on top of those insights."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harrisburg University of Science and Technology",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {},
+    {
+      "title": "Rensselaer Polytechnic Institute",
+      "degree": "Master of Science - MS",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "Jiangnan University",
+      "degree": "Bachelor of Business Administration - BBA",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "6"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Agile & Waterfall Methodologies"
+    },
+    {
+      "title": "User Interface Design"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "Forecasting"
+    },
+    {
+      "title": "Digital Media"
+    },
+    {
+      "title": "Statistical Modeling"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "1"
+    },
+    {
+      "title": "Data Mining",
+      "count": "2"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Big Data",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Azure",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Unix"
+    },
+    {
+      "title": "Google Analytics"
+    },
+    {
+      "title": "SAS",
+      "count": "2"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Oracle Database"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft Word"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "TensorFlow"
+    },
+    {
+      "title": "Keras"
+    },
+    {
+      "title": "Google Cloud Platform (GCP)"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "USQL"
+    },
+    {
+      "title": "R Shiny",
+      "count": "1"
+    },
+    {
+      "title": "Google BigQuery"
+    },
+    {
+      "title": "Time Series Analysis"
+    },
+    {
+      "title": "Generic Programming",
+      "count": "1"
+    },
+    {
+      "title": "Bitbucket",
+      "count": "1"
+    },
+    {
+      "title": "Linear Regression"
+    },
+    {
+      "title": "Logistic Regression"
+    },
+    {
+      "title": "Cluster Analysis"
+    },
+    {
+      "title": "Data Classification"
+    },
+    {
+      "title": "Decision Trees"
+    },
+    {
+      "title": "Data Science",
+      "count": "2"
+    },
+    {
+      "title": "web crawling"
+    },
+    {
+      "title": "Neural Networks"
+    },
+    {
+      "title": "Natural Language Processing"
+    },
+    {
+      "title": "Deep Learning"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/adam-stokes-174a357/",
+        "text": "Linghui(Karina) was amazing to work with at HAVI. She required little direction and would always deliver above expectations. Her analytical skills, coding skills, and problem solving skills meant she was the go to member on my team when we had a hard problem to solve. She could find flaws in the methodology and code that other members could not. Her hard work, friendly personality, and dependability made Linghui a joy to work with. She would be an incredible asset on any data science or analytics team. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/yichenyang90/",
+        "text": "I'd been classmate with Linghui for more than one year for masters's degree majored in Business Statistics. Linghui is very talented in data analysis area. She is equipped with strong Python and R language when we built solutions for our academic projects. Besides, she is a very good organizer when we worked together on these projects. She could always quickly have the blue print for how we were going to achieve the goals based on her solid statistic knowledge. I would recommend her without any hesitation due to her brilliant knowledge base and technical skills when we cooperated in RPI. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/manyun-lei-33206312b/",
+        "text": "While studying with Manyun in RPI, I feel she is an energetic and enthusiastic person. Work with her, we can quickly make a plan for our data mining course project in early staging and easily implement this plan within a few days from data engineering to modeling with MatLab. I am impressed by her efficient execution. She is good at documenting and visualization reporting as well. I really recommend her in any data analysis/ data visualization related positions.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Convolutional Neural Networks for Visual Recognition (Spring 2017)",
+        "Google ML Practicum: Image Classification",
+        "Google MLCC",
+        "Lynda - NLP with Python for Machine Learning Essential Training",
+        "Natural Language Processing with Deep Learning (Winter 2017)",
+        "Udacity - A/B Testing",
+        "Udacity - Intro to Hadoop and MapReduce",
+        "Udacity - Intro to Machine Learning"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "HU - create a public website for student",
+        "Kaggle - New York City Tax Fare Prediction",
+        "Kaggle - Movie Review Sentiment Analysis",
+        "Kaggle - Corporación Favorita Grocery Sales Forecasting",
+        "Kaggle - House Prices: Advanced Regression Techniques",
+        "kaggle - Titanic: Machine Learning from Disaster"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alex-colcord-012aa88/",
+      "text": "Partner, Associate Director, Digital Investment at Mindshare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/smit-shah-809913101/",
+      "text": "Data Scientist at Fareportal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shobana-muthulingam-mph-a10037117/",
+      "text": "Senior Business Analyst at Dana-Farber Cancer Institute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivyslee/",
+      "text": "Associate Media Director, Digital Investment | Team Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kaitlin-kelly-19b79355/",
+      "text": "Senior Manager, Online Marketing at Publishers Clearing House"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoria-paris-a5616933/",
+      "text": "Project Manager - Product Development at Publishers Clearing House"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lydiakan/",
+      "text": "Data Engineer - Analytics at Samsung Electronics America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-k-dong-9674852/",
+      "text": "Associate Director, Marketing Sciences at Mindshare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicole-kirchner/",
+      "text": "Mobile Apps Specialist at Publishers Clearing House"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhihan-li-329189112/",
+      "text": "Aspiring data science and machine learning intern"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "LINGHUI Z.",
+    "headline": "Data Scientist at PCH",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I am good at data analysis, data mining, quantitative analysis, data modeling, predictive analysis, machine learning, business issues gathering and recognition. I have excellent problem-solving skills and programming skills, such as Python, R, and SQL. I can work on big data on AWS and Azure environment and I also can work under different operating systems such as Windows/Linux/Unix and with different databases, such as Oracle/Postgres/MySQL.\n\nI can produce business insights from mass internal and external data, and then create a meaningful and understandable visualization on top of those insights."
+  }
+}

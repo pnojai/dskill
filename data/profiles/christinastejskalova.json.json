@@ -1,0 +1,171 @@
+{
+  "profileAlternative": {
+    "name": "Christina Stejskalova",
+    "headline": "Social VR - Data Scientist at Facebook/Oculus VR",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Big Data. Behaviour Change. Design"
+  },
+  "aboutAlternative": {
+    "text": "Big Data. Behaviour Change. Design"
+  },
+  "positions": [
+    {
+      "title": "Social VR - Data Scientist at Facebook",
+      "description": "Using data to inspire the creation of social VR products",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Business Integrity - Data Ops",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University College London, U. of London",
+      "degree": "Master of Science (MSc)",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "New York Film Academy",
+      "degree": "Hands-on Intensive 8-Week Filmmaking Workshop",
+      "date1": "2010",
+      "date2": "2010"
+    },
+    {
+      "title": "University of Warwick",
+      "degree": "Bachelor of Science (BSc)",
+      "date1": "2007",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "17"
+    },
+    {
+      "title": "Analysis",
+      "count": "14"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "9"
+    },
+    {
+      "title": "Economics",
+      "count": "8"
+    },
+    {
+      "title": "Strategy",
+      "count": "8"
+    },
+    {
+      "title": "Policy Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Public Policy",
+      "count": "4"
+    },
+    {
+      "title": "Consulting",
+      "count": "3"
+    },
+    {
+      "title": "Market Research",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "1"
+    },
+    {
+      "title": "Policy",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Czech",
+        "English",
+        "French"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "- Cambridge Career Award in Information and Communications Technology"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kevincluo/",
+      "text": "AR/VR Research Analytics at Oculus VR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wei-jin-8b070670/",
+      "text": "Data Scientist at Oculus VR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidholeman/",
+      "text": "Director Customer Success at HiRoad"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amandawid/",
+      "text": "Head of Data, Investments at Norwest Venture Partners"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vik-rubenfeld-7889861/",
+      "text": "Full Stack Web App Developer: Node.js/PHP • Experienced Director of Market Research • Creator, TV Series \"EARLY EDITION\""
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-casariego-8a169027/",
+      "text": "Head of Growth Marketing at Oculus VR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewfine/",
+      "text": "I Help Ambitious Founders, Startups & Businesses Accelerate Monthly Revenue Growth"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danchoi/",
+      "text": "Entrepreneur"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marcel-sanchez-50737313/",
+      "text": "Head of Acquisition at Mercari"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yihangwang/",
+      "text": "Data Scientist at Oculus VR"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "E3 Mentor",
+      "experience": "BUILD",
+      "description": "Education",
+      "date1": "Sep 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Christina Stejskalova",
+    "headline": "Social VR - Data Scientist at Facebook/Oculus VR",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Big Data. Behaviour Change. Design"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "profileAlternative": {
+    "name": "Julian Tong",
+    "headline": "Data Scientist at Google",
+    "location": "Greater New York City Area",
+    "connections": "305",
+    "summary": "I am currently a Data Scientist working at Google Cloud.\n\nPreviously, I was a Senior Data Analyst at TVision Insights, an attention measurement startup for television. I was data person number 2 hired on to revamp the analytics infrastructure. I worked on all things data with projects within analytics, data science, data engineering, and business intelligence.\n\nI also worked as a consultant at the data analytics consultancy firm Keyrus US. At Keyrus, I was able to work on business intelligence, data engineering, and data science projects ranging from predicting placebo treatment response in clinical trials at pharmaceutical companies to enterprise BI projects at tier 1 investment banks. I worked in agile teams of developers as well as taking on projects as the sole project manager, developer, and client facing consultant.\n\nI received my MA in Economics from McGill University and graduated from New York University with a joint BA in Economics and Mathematics. My concentration was in Experimental Economics/Behavioral Economics with an emphasis on consumer choice problems and the decision process."
+  },
+  "aboutAlternative": {
+    "text": "I am currently a Data Scientist working at Google Cloud.\n\nPreviously, I was a Senior Data Analyst at TVision Insights, an attention measurement startup for television. I was data person number 2 hired on to revamp the analytics infrastructure. I worked on all things data with projects within analytics, data science, data engineering, and business intelligence.\n\nI also worked as a consultant at the data analytics consultancy firm Keyrus US. At Keyrus, I was able to work on business intelligence, data engineering, and data science projects ranging from predicting placebo treatment response in clinical trials at pharmaceutical companies to enterprise BI projects at tier 1 investment banks. I worked in agile teams of developers as well as taking on projects as the sole project manager, developer, and client facing consultant.\n\nI received my MA in Economics from McGill University and graduated from New York University with a joint BA in Economics and Mathematics. My concentration was in Experimental Economics/Behavioral Economics with an emphasis on consumer choice problems and the decision process."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "McGill University",
+      "degree": "Master of Arts (MA)",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "New York University",
+      "degree": "Bachelor of Arts (BA)",
+      "date1": "2010",
+      "date2": "2013"
+    },
+    {
+      "title": "De Anza College",
+      "degree": "Economics"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "14"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "Research",
+      "count": "15"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "3"
+    },
+    {
+      "title": "Warehouse Operations",
+      "count": "2"
+    },
+    {
+      "title": "Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "2"
+    },
+    {
+      "title": "Matlab",
+      "count": "7"
+    },
+    {
+      "title": "Stata",
+      "count": "6"
+    },
+    {
+      "title": "Qlikview",
+      "count": "3"
+    },
+    {
+      "title": "Tableau",
+      "count": "5"
+    },
+    {
+      "title": "Ruby",
+      "count": "2"
+    },
+    {
+      "title": "LaTeX",
+      "count": "5"
+    },
+    {
+      "title": "R",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "8"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "10"
+    },
+    {
+      "title": "Git",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "CSS",
+      "count": "2"
+    },
+    {
+      "title": "Teaching",
+      "count": "12"
+    },
+    {
+      "title": "Management",
+      "count": "3"
+    },
+    {
+      "title": "Mindfulness",
+      "count": "2"
+    },
+    {
+      "title": "Qlik Sense",
+      "count": "3"
+    },
+    {
+      "title": "S-Plus",
+      "count": "2"
+    },
+    {
+      "title": "Heroku",
+      "count": "2"
+    },
+    {
+      "title": "Techno",
+      "count": "4"
+    },
+    {
+      "title": "Cyber Operations",
+      "count": "2"
+    },
+    {
+      "title": "Mind-body",
+      "count": "2"
+    },
+    {
+      "title": "Spiritual Warfare",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/philiplima/",
+        "text": "Julian is a great mind and loves to challenge himself to learn new things.\n\nI worked with Julian in delivering data analytics solutions for investment banks and he proved he is a quick learner. He remains cognisant of the value he brings to the project he is delivering, and seeks to strengthen both himself and the company's position along the way.\n\nJulian seeks feedback and takes action on advice given. He is a great asset to any data-driven team. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/philiplima/",
+        "text": "I worked with Philip at BIPB (now currently known as Keyrus US) directly at an investment bank as a consultant shadowing a senior consultant for turnover on a project. Philip and I worked collaboratively on BI development during which Philip transferred knowledge of an entire legacy BI infrastructure. Philip explained the inner workings of an entire complex data system with simplicity and ease, while still finding the time to mentor and impart lasting advice and lessons that will guide me throughout my career in data. His design/visualization skills and ability to grasp the big picture are second to none, and I find myself reusing all his design tricks and best practices at every client site I have been on. Philip was a great co-worker and mentor, and there are very few people I would want to work with more on a problem, data related or otherwise. \n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "25",
+      "items": [
+        "Analytical Statistics",
+        "Applied Computational Economics (Numerical Methods) (PhD)",
+        "Calculus I-III",
+        "Coursera: Machine Learning",
+        "Experimental Economics",
+        "International Economics (PhD)",
+        "Introduction to Computer Programming",
+        "Introduction to Econometrics",
+        "Introduction to Math Modeling",
+        "Linear Algebra"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Udacity: Intro to Data Science",
+        "Paying for Simplicity: Mixed Bundling and Complexity"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Dean's Undergraduate Research Fund"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yichaojoyce/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joseph-kelly-23284572/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nitin-jain-431a8b1a/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bradley-clement-4597b850/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheng-zhang-87271654/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lev-solomovich-5546b522/",
+      "text": "Data Science at Keyrus USA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/burhan-senturk-67793b37/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/goessling/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hisham-talukder-b20b6647/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qian-wang-ba536628/",
+      "text": "Data Scientist at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Julian Tong",
+    "headline": "Data Scientist at Google",
+    "location": "Greater New York City Area",
+    "connections": "305",
+    "summary": "I am currently a Data Scientist working at Google Cloud.\n\nPreviously, I was a Senior Data Analyst at TVision Insights, an attention measurement startup for television. I was data person number 2 hired on to revamp the analytics infrastructure. I worked on all things data with projects within analytics, data science, data engineering, and business intelligence.\n\nI also worked as a consultant at the data analytics consultancy firm Keyrus US. At Keyrus, I was able to work on business intelligence, data engineering, and data science projects ranging from predicting placebo treatment response in clinical trials at pharmaceutical companies to enterprise BI projects at tier 1 investment banks. I worked in agile teams of developers as well as taking on projects as the sole project manager, developer, and client facing consultant.\n\nI received my MA in Economics from McGill University and graduated from New York University with a joint BA in Economics and Mathematics. My concentration was in Experimental Economics/Behavioral Economics with an emphasis on consumer choice problems and the decision process."
+  }
+}

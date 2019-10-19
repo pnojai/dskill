@@ -1,0 +1,267 @@
+{
+  "profileAlternative": {
+    "name": "Viola Cao",
+    "headline": "Data Scientist (Machine/Deep Learning & AI)",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "A visionary Data Scientist at Zurich North America, graduated from NYU Data Science Master's program, with a focus on Deep/Machine learning (Computer Vision, NLP, Reinforcement Learning, etc.) and Big Data Practice in new technology, media, medical and financial industry.\n\nWorking at United Nations Headquarters, energy industry and banking system, I have been intensively involved in Deep Neural Network based applications such as Recommendation Engine, Generative Adversarial Networks (GANs), Natural Language Processing (NLP) and Database Management, with Python (TensorFlow, PyTorch, Sklearn), SQL, Spark and Hadoop, as well as massive exposures to corporate financial modeling tools.\n\nMy academic background is in Data Science and Finance. Having studied in America, England, and China, I have built a global vision, a strong passion for new technology, and a prospect for international development."
+  },
+  "aboutAlternative": {
+    "text": "A visionary Data Scientist at Zurich North America, graduated from NYU Data Science Master's program, with a focus on Deep/Machine learning (Computer Vision, NLP, Reinforcement Learning, etc.) and Big Data Practice in new technology, media, medical and financial industry.\n\nWorking at United Nations Headquarters, energy industry and banking system, I have been intensively involved in Deep Neural Network based applications such as Recommendation Engine, Generative Adversarial Networks (GANs), Natural Language Processing (NLP) and Database Management, with Python (TensorFlow, PyTorch, Sklearn), SQL, Spark and Hadoop, as well as massive exposures to corporate financial modeling tools.\n\nMy academic background is in Data Science and Finance. Having studied in America, England, and China, I have built a global vision, a strong passion for new technology, and a prospect for international development."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "NYU Center for Data Science",
+      "degree": "Master of Science (MS)",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "Stanford University",
+      "degree": "Research Assistant",
+      "date1": "2015",
+      "date2": "2015"
+    },
+    {
+      "title": "The University of Manchester",
+      "degree": "Master(MSc)",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "University of York",
+      "degree": "Summer School",
+      "date1": "2009",
+      "date2": "2009"
+    },
+    {
+      "title": "ZJUT",
+      "degree": "Bachelor",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "59"
+    },
+    {
+      "title": "SQL",
+      "count": "50"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "31"
+    },
+    {
+      "title": "Big Data",
+      "count": "22"
+    },
+    {
+      "title": "Statistics",
+      "count": "27"
+    },
+    {
+      "title": "Data Mining",
+      "count": "31"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "28"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "33"
+    },
+    {
+      "title": "Economics",
+      "count": "27"
+    },
+    {
+      "title": "Econometrics",
+      "count": "12"
+    },
+    {
+      "title": "Hadoop",
+      "count": "30"
+    },
+    {
+      "title": "HTML5",
+      "count": "12"
+    },
+    {
+      "title": "EViews",
+      "count": "13"
+    },
+    {
+      "title": "Bloomberg",
+      "count": "21"
+    },
+    {
+      "title": "Oracle Database",
+      "count": "14"
+    },
+    {
+      "title": "Matlab",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "10"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "11"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Management",
+      "count": "22"
+    },
+    {
+      "title": "French",
+      "count": "11"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "21"
+    },
+    {
+      "title": "Qlik Sense",
+      "count": "9"
+    },
+    {
+      "title": "NumPy",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "Advanced Empirical Finance",
+        "Big Data",
+        "Capstone Project in Data Science",
+        "Corporate Finance",
+        "Deep Learning",
+        "Derivative Securities",
+        "Essentials of Finance",
+        "Financial Econometrics",
+        "Foundations of Machine Learning",
+        "Inference and Representation"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "2nd Place in Badminton Match",
+        "6th Place in Swimming Tournament at Zhejiang Energy Group",
+        "Graduated with Distinction Award in Master of Finance",
+        "ZJUT Excellent Graduate Award",
+        "Outstanding Award of 2010 NECCS",
+        "First Class Scholarship",
+        "Third Prize in Provincial Advanced Mathematics Competition",
+        "Individual First Place Debater Award",
+        "Champion of Campus “Music Genius”",
+        "Top 10 Campus Singer"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Chinese",
+        "English",
+        "French"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Analysis of Abnormal Returns Surrounding Announcement of Security Offerings",
+        "Global Terrorism Attack Analysis",
+        "Sequential Real Options on New Drug Research and Development Project"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Foundations for Machine Learning",
+        "Introduction to Data Science",
+        "Programming for Data Science"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Economic Transformation and Upgrading Under International Services Trade in Zhejiang"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhavyagarg16/",
+      "text": "Senior Data Analyst at RiskSpan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tianyi-fang-11040210a/",
+      "text": "Keep moving forward."
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuhanchen36/",
+      "text": "Senior Data Science & Machine Learning Analyst at PepsiCo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiajingchen/",
+      "text": "Data Scientist at HBO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisa-ren-b0083b76/",
+      "text": "Data Scientist at Hinge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katrina-evtimova/",
+      "text": "PhD Student in Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stellasun1/",
+      "text": "Data Scientist at Facebook"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Conference Organizer",
+      "experience": "The West Lake International Expo Hangzhou, China",
+      "date1": "2009",
+      "date2": "less than a year"
+    }
+  ],
+  "profile": {
+    "name": "Viola Cao",
+    "headline": "Data Scientist (Machine/Deep Learning & AI)",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "A visionary Data Scientist at Zurich North America, graduated from NYU Data Science Master's program, with a focus on Deep/Machine learning (Computer Vision, NLP, Reinforcement Learning, etc.) and Big Data Practice in new technology, media, medical and financial industry.\n\nWorking at United Nations Headquarters, energy industry and banking system, I have been intensively involved in Deep Neural Network based applications such as Recommendation Engine, Generative Adversarial Networks (GANs), Natural Language Processing (NLP) and Database Management, with Python (TensorFlow, PyTorch, Sklearn), SQL, Spark and Hadoop, as well as massive exposures to corporate financial modeling tools.\n\nMy academic background is in Data Science and Finance. Having studied in America, England, and China, I have built a global vision, a strong passion for new technology, and a prospect for international development."
+  }
+}

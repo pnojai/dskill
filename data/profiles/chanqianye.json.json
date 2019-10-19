@@ -1,0 +1,143 @@
+{
+  "profileAlternative": {
+    "name": "Chanqian Ye",
+    "headline": "Senior Data Scientist at American Express",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master's Degree",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Fudan University",
+      "degree": "BSc",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SAS",
+      "count": "23"
+    },
+    {
+      "title": "R",
+      "count": "17"
+    },
+    {
+      "title": "SQL",
+      "count": "17"
+    },
+    {
+      "title": "Analytics",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "VBA",
+      "count": "14"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "11"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "XGBoost"
+    },
+    {
+      "title": "MS Excel Pivot Tables",
+      "count": "3"
+    },
+    {
+      "title": "Unix Shell Scripting",
+      "count": "2"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "Risk Models"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "National University Student Statistical Modeling Contest, 2nd Prize"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/esther-zhang-90859a149/",
+      "text": "Data Scientist at American Express | Dartmouth College"
+    },
+    {
+      "user": "https://www.linkedin.com/in/archanaanandakrishnan/",
+      "text": "Senior Data Scientist at Meetup"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wenbiao-zhao-8a641512/",
+      "text": "Vice President at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mengyingzhang/",
+      "text": "Senior Manager at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luyangkong/",
+      "text": "Applied ML Scientist @ AWS Comprehend Medical"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelayuanqi/",
+      "text": "Senior Decision Scientist at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bowen-zhi-b3a021b3/",
+      "text": "Senior Manager at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuijngma/",
+      "text": "Data Scientist at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/congwu7/",
+      "text": "Senior Data Scientist at American Express"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chanqian Ye",
+    "headline": "Senior Data Scientist at American Express",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

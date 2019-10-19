@@ -1,0 +1,249 @@
+{
+  "profileAlternative": {
+    "name": "Jinshu Niu",
+    "headline": "Data Scientist @ Lyft",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "I graduated with an M.S degree from Columbia University, Management Science and Engineering program. Prior to joining Columbia, I hold a B.S degree in Operations Research from Tsinghua University, China.\n\nMy extensive data science and analytics experience in McKinsey, AIG and Louis Vuitton provided me with rigorous exposure to multiple industries, clients and teams. I am especially interested in applying big-data analytics and customer centric approach to uncover opportunities and drive growth. I am proficient in SQL, Hive, Python, R, SAS (Certified Advanced Programmer), and Tableau.\n\nPlease feel free to contact me at jinshu.niu@columbia.edu. I look forward to sharing my professional experience and discuss future opportunities with you."
+  },
+  "aboutAlternative": {
+    "text": "I graduated with an M.S degree from Columbia University, Management Science and Engineering program. Prior to joining Columbia, I hold a B.S degree in Operations Research from Tsinghua University, China.\n\nMy extensive data science and analytics experience in McKinsey, AIG and Louis Vuitton provided me with rigorous exposure to multiple industries, clients and teams. I am especially interested in applying big-data analytics and customer centric approach to uncover opportunities and drive growth. I am proficient in SQL, Hive, Python, R, SAS (Certified Advanced Programmer), and Tableau.\n\nPlease feel free to contact me at jinshu.niu@columbia.edu. I look forward to sharing my professional experience and discuss future opportunities with you."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Tsinghua University",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "42"
+    },
+    {
+      "title": "Matlab",
+      "count": "29"
+    },
+    {
+      "title": "R",
+      "count": "9"
+    },
+    {
+      "title": "Statistics",
+      "count": "27"
+    },
+    {
+      "title": "Operations Research",
+      "count": "18"
+    },
+    {
+      "title": "Strategy",
+      "count": "14"
+    },
+    {
+      "title": "Simulations",
+      "count": "4"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Research",
+      "count": "8"
+    },
+    {
+      "title": "Industrial Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Supply Chain Management",
+      "count": "2"
+    },
+    {
+      "title": "Consulting",
+      "count": "4"
+    },
+    {
+      "title": "Risk Analysis"
+    },
+    {
+      "title": "Optimization"
+    },
+    {
+      "title": "C++",
+      "count": "23"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "23"
+    },
+    {
+      "title": "SAS"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "QlikView",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "10"
+    },
+    {
+      "title": "Minitab",
+      "count": "10"
+    },
+    {
+      "title": "Mathematica",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "LaTeX",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "English",
+      "count": "4"
+    },
+    {
+      "title": "Modeling and Simulation"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/lauren-pollak-205539/",
+        "text": "Jinshu approaches her work with a creative and analytical mindset. Even in a fairly open-ended task, she applied both creativity and rigor. She flexibly responded to shifting her focus from one project to another, and did a good job changing gears to accommodate demands from different projects. Jinshu is collaborative and a good team player, and has established good working relationships with our immediate team. She clearly loves to learn; for example, she took the initiative to learn some Python on her own. She is very results-oriented, and always delivers strong work to the team. Our team could always count on her diligence and thoughtfulness. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "23",
+      "items": [
+        "Behavioral Finance",
+        "Business Analytics in R",
+        "Data Analysis and Applied Statistics (in R)",
+        "Data Structure and Algorithm Analysis",
+        "Database Concepts",
+        "Engineering Economy",
+        "Fundamentals of Computer Software Techniques",
+        "Game-Theoretic Business Strategy",
+        "Global Capital Market and Investments",
+        "International Logistics"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Study on Logistics and Multi-echelon Inventory Optimization of Perishable Agricultural Products",
+        "Logistics Park Planning in Changchun",
+        "Simulation and Optimization of Supermarket Queuing System",
+        "Accenture IT Business Case Competition"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Second Place Winner",
+        "Outstanding Student in Social Practice and Leadership",
+        "Second Place Winner"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Association of Student International Communication",
+        "SilkRoads Sino-French Student Exchange"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/zhukairan/",
+      "text": "Data Scientist at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/feiyuan21/",
+      "text": "Data Scientist at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/esther-zhang-90859a149/",
+      "text": "Data Scientist at American Express | Dartmouth College"
+    },
+    {
+      "user": "https://www.linkedin.com/in/georgexiao/",
+      "text": "Data Scientist, Pricing at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neil-chainani-3877913a/",
+      "text": "Data Scientist at Lyft (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chanqianye/",
+      "text": "Senior Data Scientist at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuanxin-zheng/",
+      "text": "Analytics Consultant at EXL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mengyingzhang/",
+      "text": "Senior Manager at American Express"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student Delegate",
+      "experience": "Tsinghua University",
+      "description": "Arts and Culture",
+      "date1": "Sep 2011 – Jul 2014",
+      "date2": "2 yrs 11 mos"
+    }
+  ],
+  "profile": {
+    "name": "Jinshu Niu",
+    "headline": "Data Scientist @ Lyft",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "I graduated with an M.S degree from Columbia University, Management Science and Engineering program. Prior to joining Columbia, I hold a B.S degree in Operations Research from Tsinghua University, China.\n\nMy extensive data science and analytics experience in McKinsey, AIG and Louis Vuitton provided me with rigorous exposure to multiple industries, clients and teams. I am especially interested in applying big-data analytics and customer centric approach to uncover opportunities and drive growth. I am proficient in SQL, Hive, Python, R, SAS (Certified Advanced Programmer), and Tableau.\n\nPlease feel free to contact me at jinshu.niu@columbia.edu. I look forward to sharing my professional experience and discuss future opportunities with you."
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "profileAlternative": {
+    "name": "Karen Schettlinger",
+    "headline": "Senior Data Scientist",
+    "location": "New York, New York",
+    "connections": "332",
+    "summary": "I'm a passionate data geek. Even as a kid I loved counting things, structuring and ordering them and just in general, making sense of how things work. Up to today, the questions \"How?\" and \"Why?\" are what drive me - and the motivation, passion and stamina to find out the answers based on massive data sets.\n\n(Please note that outside the EU, I require sponsorship / a working visa.)"
+  },
+  "aboutAlternative": {
+    "text": "I'm a passionate data geek. Even as a kid I loved counting things, structuring and ordering them and just in general, making sense of how things work. Up to today, the questions \"How?\" and \"Why?\" are what drive me - and the motivation, passion and stamina to find out the answers based on massive data sets.\n\n(Please note that outside the EU, I require sponsorship / a working visa.)"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "TU Dortmund University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "date1": "2004",
+      "date2": "2009"
+    },
+    {
+      "title": "Universität Dortmund",
+      "degree": "Diplom",
+      "date1": "1998",
+      "date2": "2004"
+    },
+    {
+      "title": "University of Auckland",
+      "degree": "Postgraduate Diploma in Science",
+      "date1": "2001",
+      "date2": "2002"
+    },
+    {
+      "title": "Hölty-Gymnasium Wunstorf",
+      "degree": "Abitur",
+      "date1": "1991",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "3"
+    },
+    {
+      "title": "Big Data",
+      "count": "5"
+    },
+    {
+      "title": "Data Mining",
+      "count": "3"
+    },
+    {
+      "title": "Online Advertising",
+      "count": "6"
+    },
+    {
+      "title": "Online Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Statistical Data Analysis"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "Analytical Skills",
+      "count": "1"
+    },
+    {
+      "title": "Troubleshooting"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "Organization Skills"
+    },
+    {
+      "title": "Behavioral Targeting"
+    },
+    {
+      "title": "Real-Time Bidding"
+    },
+    {
+      "title": "Apache Pig"
+    },
+    {
+      "title": "Conceptualizer"
+    },
+    {
+      "title": "Team Player"
+    },
+    {
+      "title": "Methodological Thinking"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Featured in the article \"Große Chancen durch große Daten\" (\"Big Chances by Big Data\")",
+        "Multivariate Real-Time Signal Extraction by a Robust Adaptive Regression Filter",
+        "Online analysis of time series by the Qn estimator",
+        "Real time signal processing by adaptive repeated median filters",
+        "Robust online scale estimation in time series: A model-free approach",
+        "Machine learning techniques in intensive care monitoring",
+        "Computing the least quartile difference estimator in the plane",
+        "Online signal extraction by robust linear regression",
+        "Robust filters for intensive care monitoring: beyond the running median"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Dissertationspreis 2009",
+        "Short Visit Grant for the Project \"Statistical Analysis of Complex Data with Robust and Related Statistical Methods\" (SACD)",
+        "Scholarship of the German Academic Exchange Services (DAAD)"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "German"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Delivering Advertising Messages in a Campaign in Accordance with a Target Frequency or Frequency Range"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devin-pullman-839a4474/",
+      "text": "Data Analyst at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhilwadhavkar/",
+      "text": "Tax Consultant at Deloitte"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacobnaylor/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthaemanuele/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucaszalduendo/",
+      "text": "Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-peebles-9036463/",
+      "text": "Senior Lead Software Engineer at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/bobbielin/",
+      "text": "Data Scientist at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/vamin/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Karen Schettlinger",
+    "headline": "Senior Data Scientist",
+    "location": "New York, New York",
+    "connections": "332",
+    "summary": "I'm a passionate data geek. Even as a kid I loved counting things, structuring and ordering them and just in general, making sense of how things work. Up to today, the questions \"How?\" and \"Why?\" are what drive me - and the motivation, passion and stamina to find out the answers based on massive data sets.\n\n(Please note that outside the EU, I require sponsorship / a working visa.)"
+  }
+}

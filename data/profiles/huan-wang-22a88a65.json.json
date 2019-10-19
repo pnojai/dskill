@@ -1,0 +1,139 @@
+{
+  "profileAlternative": {
+    "name": "Huan Wang",
+    "headline": "Data Scientist at Uber",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Specialized in advanced statistical modeling, machine learning, causal inference, experimentation design, product measurements and analytics. Intensive experience in R, Python, Pyspark, SQL(Hive, Presto, etc.) Developing innovative & scalable data science solutions for business growth."
+  },
+  "aboutAlternative": {
+    "text": "Specialized in advanced statistical modeling, machine learning, causal inference, experimentation design, product measurements and analytics. Intensive experience in R, Python, Pyspark, SQL(Hive, Presto, etc.) Developing innovative & scalable data science solutions for business growth."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Colorado State University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2008",
+      "date2": "2013"
+    },
+    {
+      "title": "Renmin University of China",
+      "degree": "Bachelor's degree",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "Renmin University of China",
+      "degree": "Bachelor's degree",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "25"
+    },
+    {
+      "title": "Statistics",
+      "count": "18"
+    },
+    {
+      "title": "SAS",
+      "count": "16"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "11"
+    },
+    {
+      "title": "Data Mining",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "6"
+    },
+    {
+      "title": "SAS programming",
+      "count": "2"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Customer Service",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/haomiao-li-98a24181/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhaozhenyu/",
+      "text": "Sr. Data Scientist II at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chang-liu-90ab3059/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alvira-swalin/",
+      "text": "Data Scientist @ Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/radhika-anand-86457122/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sugang/",
+      "text": "Senior Data Scientist @ Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melissadalis/",
+      "text": "Senior Data Scientist at Uber"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Huan Wang",
+    "headline": "Data Scientist at Uber",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Specialized in advanced statistical modeling, machine learning, causal inference, experimentation design, product measurements and analytics. Intensive experience in R, Python, Pyspark, SQL(Hive, Presto, etc.) Developing innovative & scalable data science solutions for business growth."
+  }
+}

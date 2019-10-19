@@ -1,0 +1,196 @@
+{
+  "profileAlternative": {
+    "name": "Fasil Alemante",
+    "headline": "Data Scientist at b8ta",
+    "location": "Greater New York City Area",
+    "connections": "335"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "William & Mary",
+      "degree": "Master of Science - MS",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "The College of William and Mary",
+      "degree": "Bachelor of Arts (B.A.)"
+    },
+    {
+      "title": "Princeton University"
+    },
+    {
+      "title": "Governor's Latin Academy"
+    },
+    {
+      "title": "Jamestown High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Econometrics",
+      "count": "11"
+    },
+    {
+      "title": "Stata",
+      "count": "9"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "9"
+    },
+    {
+      "title": "Statistics",
+      "count": "7"
+    },
+    {
+      "title": "Economics",
+      "count": "3"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Healthcare Information Technology",
+      "count": "1"
+    },
+    {
+      "title": "Eviews",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "Leadership",
+      "count": "1"
+    },
+    {
+      "title": "Economic Forecasting",
+      "count": "7"
+    },
+    {
+      "title": "Time Series Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Process Improvement",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ingridblake/",
+        "text": "Fasil was an absolute asset to my team and a true team player. Fasil was incredibly connected to the pulse of the business and was able to flex in to many functions in order to facilitate the needs of the business at the time.\n\nAs our data science manager, Fasil was the source of truth for the state of the business- from overall product metrics and insights to specific case by case customer analysis and recommendations.\n\nFasil proved to be an invaluable resource not only to the product and engineering teams, but also to customer success, sales and marketing.\n\nFasil defined our tracking and analytics processes and owned the analytical strategy from a future state perspective- planning and coordinating for iterations on our customer facing dashboard and bringing feature concepts to the table such as utilizing machine learning to contextually serve up retail experiences.\n\nFasil is a strategic thinker- in tune with a changing industry and able to think in terms of the holistic customer experience rather than in terms of channel or medium. Never afraid to ask the tough questions- Fasil would be a fantastic asset to any team - both in terms of technical acumen and cultural value. He was a pleasure to work with. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rogerbeaman/",
+        "text": "Fasil is likely one of the most driven students I ever met, with each course for which I was his TA he took care to go beyond the threshold necessary to get top marks and fully master the content. I see great potential in Fasil and look forward to seeing what his future holds."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/lynnellenqueen/",
+        "text": "I worked with Lynn Ellen at during an internship in which she was a mentor and coach to me and four other summer interns. Through her guidance as a career coach, I identified what I wanted out of a career and possible career paths. She took a personal interest in our success. After the internship, Lynn Ellen continued to coach me and worked with me to develop my interview and leadership skills in a way that's still paying dividends. I recommend her services without reservation.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rogerbeaman/",
+        "text": "Roger was the TA for Econometrics and Time Series analysis. We were also in Multivariable Calculus together. I worked with him a lot. Roger is a motivated student. As a TA, he was readily available and did an excellent job. I will be the Econometrics and Mathematical Economics TA next year and I hope I can be even half as good as Roger was.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "National Achievement Scholar"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Characterizing the Resolute Part of Monotonic Social Choice Correspondences"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ianmgrover/",
+      "text": "Operations Manager at b8ta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adiv-cederbaum-811aa6189/",
+      "text": "Amazon and Affiliate Sales at Twillory"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charnella-grossman-008b214/",
+      "text": "Vice President, Senior Portfolio Manager at Fifth Third Private Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoria-lewandowski-34448279/",
+      "text": "Merchandise Manager at b8ta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natesrkn/",
+      "text": "Implementation Engineer at b8ta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kylesalmon/",
+      "text": "Front End Engineer at b8ta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/blake-thompson-b83346191/",
+      "text": "Senior Systems Administrator at b8ta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rich-allgood-086b48a2/",
+      "text": "Sales Engineer for Netgear at MarketStar"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jkingprojects/",
+      "text": "b8ta tester at b8ta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidmunczinski/",
+      "text": "President, Marketplace Platform at b8ta"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Fasil Alemante",
+    "headline": "Data Scientist at b8ta",
+    "location": "Greater New York City Area",
+    "connections": "335"
+  }
+}

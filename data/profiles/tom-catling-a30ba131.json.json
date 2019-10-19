@@ -1,0 +1,243 @@
+{
+  "profileAlternative": {
+    "name": "Tom Catling",
+    "headline": "Data Scientist at the Competition and Markets Authority",
+    "location": "London, United Kingdom",
+    "connections": "302",
+    "summary": "I am a data scientist with a strong background in Python across a variety of industries. Most of my work has focussed on analysis and simulation of complex systems, including railway networks, knitting machines and x-ray telescopes. I enjoy writing clean, deployable code to analyse these things and communicate the results effectively."
+  },
+  "aboutAlternative": {
+    "text": "I am a data scientist with a strong background in Python across a variety of industries. Most of my work has focussed on analysis and simulation of complex systems, including railway networks, knitting machines and x-ray telescopes. I enjoy writing clean, deployable code to analyse these things and communicate the results effectively."
+  },
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "description": "I am a data scientist in the CMAs new Data, Technology and Analytics (DaTA) unit. We aim to facilitate and expand the traditional capabilities of the CMA while providing insight into emerging markets centred around data and technology.",
+      "date1": "Feb 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Resonate",
+      "description": "Resonate is building the UKs first fully-integrated rail traffic management system (Luminate). My work as a data scientist focusses on simulation and forecasting of train movements across the Great Western Railway, and analysis of the benefits derived from using our traffic management system in this context.... ",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Data Scientist",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 8 mos"
+        },
+        {
+          "title": "Data Science Fellow",
+          "date1": "Jan 2018 – Mar 2018",
+          "date2": "3 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "UCL",
+      "degree": "Doctor of Philosophy (PhD)",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "HAX Accelerator",
+      "degree": "Class VIII",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {
+      "title": "The University of Edinburgh",
+      "degree": "Master of Physics with Honours Astrophysics, First Class",
+      "date1": "2007",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "14"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Science",
+      "count": "7"
+    },
+    {
+      "title": "Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Electronics",
+      "count": "3"
+    },
+    {
+      "title": "Mechanical Design",
+      "count": "3"
+    },
+    {
+      "title": "CAD/CAM",
+      "count": "1"
+    },
+    {
+      "title": "Maths",
+      "count": "3"
+    },
+    {
+      "title": "Physics",
+      "count": "3"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "5"
+    },
+    {
+      "title": "Social Media"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "LaTeX",
+      "count": "2"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Docker Products"
+    },
+    {
+      "title": "Bash"
+    },
+    {
+      "title": "Teaching",
+      "count": "4"
+    },
+    {
+      "title": "Surface Metrology",
+      "count": "2"
+    },
+    {
+      "title": "Astrophysics",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Worshipful Company of Scientific Instrument Makers",
+        "OpenAFM / LEGO2NANO"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "SIM Scholar"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Phase measuring deflectometry for thin actuated mirrors"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/andyricegiggabox/",
+      "text": "Chief Operating Officer at Major Events International Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andreacoscelli/",
+      "text": "Chief Executive at Competition and Markets Authority"
+    },
+    {
+      "user": "https://www.linkedin.com/in/damian-mcbride-794896103/",
+      "text": "Political Adviser to Emily Thornberry MP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nijma-khan-24a98528/",
+      "text": "Principal at Faculty.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-dorrell-48a1a796/",
+      "text": "Director of Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-potter-a7204831/",
+      "text": "CEO at Peak"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-dorrell-a470656/",
+      "text": "Project Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-rovatsos-3b39a03/",
+      "text": "Professor of Artificial Intelligence at The University of Edinburgh"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicholascole1/",
+      "text": "Head of Resourcing at Dentons"
+    },
+    {
+      "user": "https://www.linkedin.com/in/momoh-alexander-0b9a9233/",
+      "text": "Associate Project Manager at Competition and Markets Authority"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Fundraising, Summer Camp Volunteer",
+      "experience": "CYPPD, Mongolia",
+      "date1": "May 2009 – Jun 2009",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Ceilidh Band Member + Caller",
+      "experience": "UCLU Folk & World Music",
+      "date1": "Oct 2015 – Present",
+      "date2": "4 yrs 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Tom Catling",
+    "headline": "Data Scientist at the Competition and Markets Authority",
+    "location": "London, United Kingdom",
+    "connections": "302",
+    "summary": "I am a data scientist with a strong background in Python across a variety of industries. Most of my work has focussed on analysis and simulation of complex systems, including railway networks, knitting machines and x-ray telescopes. I enjoy writing clean, deployable code to analyse these things and communicate the results effectively."
+  }
+}

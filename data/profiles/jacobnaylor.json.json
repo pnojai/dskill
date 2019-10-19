@@ -1,0 +1,189 @@
+{
+  "profileAlternative": {
+    "name": "Jacob Naylor",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "Indianapolis, Indiana Area",
+    "connections": "307",
+    "summary": "Data Scientist with deep technical background, strong communication skills, and a proven track record of creating & executing high impact analytics projects within multiple industries."
+  },
+  "aboutAlternative": {
+    "text": "Data Scientist with deep technical background, strong communication skills, and a proven track record of creating & executing high impact analytics projects within multiple industries."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Butler University",
+      "degree": "Bachelor of Science",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "4"
+    },
+    {
+      "title": "Apache Spark"
+    },
+    {
+      "title": "Data Mining",
+      "count": "6"
+    },
+    {
+      "title": "Statistics",
+      "count": "7"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "7"
+    },
+    {
+      "title": "Forecasting",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "16"
+    },
+    {
+      "title": "Analytics",
+      "count": "7"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Business Strategy",
+      "count": "6"
+    },
+    {
+      "title": "R",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "VBA",
+      "count": "5"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "5"
+    },
+    {
+      "title": "Hive",
+      "count": "1"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "5"
+    },
+    {
+      "title": "Data Products"
+    },
+    {
+      "title": "Monte Carlo Simulation",
+      "count": "2"
+    },
+    {
+      "title": "Optimization Models",
+      "count": "1"
+    },
+    {
+      "title": "Text Mining"
+    },
+    {
+      "title": "Regression Analysis"
+    },
+    {
+      "title": "Decision Analysis"
+    },
+    {
+      "title": "Data Science"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "French"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GMAT"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yi-fang-chen-22074a1b/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aimeng-emma-zhang-7401ab80/",
+      "text": "Data Scientist at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanghvinihar/",
+      "text": "Senior Data Scientist at Oracle Data Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vamin/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rong-xia-6433b218/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucaszalduendo/",
+      "text": "Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davemundo/",
+      "text": "Senior Director, Strategic Analytics & New Initiatives at Oracle Data Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuanxi-wang-54b72415/",
+      "text": "The Trade Desk - Principal Data Scientist"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jacob Naylor",
+    "headline": "Senior Data Scientist at The Trade Desk",
+    "location": "Indianapolis, Indiana Area",
+    "connections": "307",
+    "summary": "Data Scientist with deep technical background, strong communication skills, and a proven track record of creating & executing high impact analytics projects within multiple industries."
+  }
+}

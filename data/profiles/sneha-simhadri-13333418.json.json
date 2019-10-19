@@ -1,0 +1,120 @@
+{
+  "profileAlternative": {
+    "name": "sneha simhadri",
+    "headline": "Senior Data Analyst at Apple",
+    "location": "Fremont, California",
+    "connections": "102",
+    "summary": "Results-driven professional with 7+ years of extensive experience working on Unica Suite & SQL, with complete knowledge of campaign life cycle\n\nSkilled at performing extensive deep dives on data using sql to determine patterns and anomalies.\n\nExtensive experience working as a Unica Administrator using utilities like server admin, listener start stop, cleanup, trigger etc\n\nProficient in using advanced Unica capabilities including table catalogs, custom macros, templates and\nderived fields\n\nExperienced in multiple Unica modules like campaign, marketing operations, detect, optimize and e-message\n\nEnvironmental Summary:\n Campaign Management Tools: Unica Campaign, Marketing operations, Detect, Optimize\n Scripting languages: SAS, shell scripting\n Reporting tools: IBM Cognos, Micro Strategy, Tableau\n Databases: Teradata, Oracle, SQL Server\n Operating Systems: Windows, UNIX\n Others: Teradata SQL Assistant, TOAD, FileZilla, Putty"
+  },
+  "aboutAlternative": {
+    "text": "Results-driven professional with 7+ years of extensive experience working on Unica Suite & SQL, with complete knowledge of campaign life cycle\n\nSkilled at performing extensive deep dives on data using sql to determine patterns and anomalies.\n\nExtensive experience working as a Unica Administrator using utilities like server admin, listener start stop, cleanup, trigger etc\n\nProficient in using advanced Unica capabilities including table catalogs, custom macros, templates and\nderived fields\n\nExperienced in multiple Unica modules like campaign, marketing operations, detect, optimize and e-message\n\nEnvironmental Summary:\n Campaign Management Tools: Unica Campaign, Marketing operations, Detect, Optimize\n Scripting languages: SAS, shell scripting\n Reporting tools: IBM Cognos, Micro Strategy, Tableau\n Databases: Teradata, Oracle, SQL Server\n Operating Systems: Windows, UNIX\n Others: Teradata SQL Assistant, TOAD, FileZilla, Putty"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Southern California",
+      "degree": "Master’s Degree"
+    },
+    {
+      "title": "Birla Institute of Technology & Science, Pilani",
+      "degree": "Bachelor's degree"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Teradata",
+      "count": "3"
+    },
+    {
+      "title": "Unica Affinium Campaign",
+      "count": "1"
+    },
+    {
+      "title": "ETL",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Unix",
+      "count": "1"
+    },
+    {
+      "title": "sql"
+    },
+    {
+      "title": "unix"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/matthrms/",
+        "text": "It was an absolute pleasure working with Matthew on my latest job placement. He was proactive in reaching out to me and the client throughout the entire process. He goes above and beyond what is necessary in helping understand all the options and making an informed decision. I would strongly recommend working with Matthew and looking forward to working together in the future. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sanchit-suman-49a27320/",
+      "text": "Data Science Analyst at Apple | Strategic Data Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tranjustin/",
+      "text": "Senior Financial Data Analyst at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anuja-acharya-9998b6a1/",
+      "text": "Data Analyst at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amelia-liu-09b795a8/",
+      "text": "Data Analyst @ Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dingding-zhang-32a65327/",
+      "text": "Data analyst @ Google safety & trust"
+    },
+    {
+      "user": "https://www.linkedin.com/in/austin-taggart-057b60b0/",
+      "text": "Data Analyst at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/divyang-rastogi-8371a0b9/",
+      "text": "Senior Data Analyst at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyanka-alur-6810404a/",
+      "text": "Data Analyst at Apple Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/lauraxni/",
+      "text": "Data Analyst at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gracegu/",
+      "text": "Senior Data Analyst at Apple"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "sneha simhadri",
+    "headline": "Senior Data Analyst at Apple",
+    "location": "Fremont, California",
+    "connections": "102",
+    "summary": "Results-driven professional with 7+ years of extensive experience working on Unica Suite & SQL, with complete knowledge of campaign life cycle\n\nSkilled at performing extensive deep dives on data using sql to determine patterns and anomalies.\n\nExtensive experience working as a Unica Administrator using utilities like server admin, listener start stop, cleanup, trigger etc\n\nProficient in using advanced Unica capabilities including table catalogs, custom macros, templates and\nderived fields\n\nExperienced in multiple Unica modules like campaign, marketing operations, detect, optimize and e-message\n\nEnvironmental Summary:\n Campaign Management Tools: Unica Campaign, Marketing operations, Detect, Optimize\n Scripting languages: SAS, shell scripting\n Reporting tools: IBM Cognos, Micro Strategy, Tableau\n Databases: Teradata, Oracle, SQL Server\n Operating Systems: Windows, UNIX\n Others: Teradata SQL Assistant, TOAD, FileZilla, Putty"
+  }
+}

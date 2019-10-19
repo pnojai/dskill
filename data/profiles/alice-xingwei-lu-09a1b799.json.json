@@ -1,0 +1,188 @@
+{
+  "profileAlternative": {
+    "name": "Alice (Xingwei) Lu",
+    "headline": "Data Science Manager at Uber",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "I am interested in modeling and analyzing large scaled data, with a focus on marketing and operations.\n\n- Hands-on experience in processing large-scale data; experienced with Statistical Learning techniques, including Cross-Validation, Bootstrap, Support Vector Machine, Random Forest and Gradient Boosting\n- Specialties: Optimization, Statistical Analysis, Stochastic Modeling, Simulation, Dynamic Programming, Queueing Theory, Game Theory\n- Knowledge: SupplyChainManagement, Inventory Optimization, Profitability Forecasting, Revenue Management\n- Proven records of extracting compelling patterns from data and advising on the implications for products, processes and decisions\n- Programming skills: R, Python, Matlab, C/C++, SAS, SQL"
+  },
+  "aboutAlternative": {
+    "text": "I am interested in modeling and analyzing large scaled data, with a focus on marketing and operations.\n\n- Hands-on experience in processing large-scale data; experienced with Statistical Learning techniques, including Cross-Validation, Bootstrap, Support Vector Machine, Random Forest and Gradient Boosting\n- Specialties: Optimization, Statistical Analysis, Stochastic Modeling, Simulation, Dynamic Programming, Queueing Theory, Game Theory\n- Knowledge: SupplyChainManagement, Inventory Optimization, Profitability Forecasting, Revenue Management\n- Proven records of extracting compelling patterns from data and advising on the implications for products, processes and decisions\n- Programming skills: R, Python, Matlab, C/C++, SAS, SQL"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Pennsylvania - The Wharton School",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2011",
+      "date2": "2016"
+    },
+    {
+      "title": "Renmin University of China",
+      "degree": "Bachelor’s Degree",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Optimization",
+      "count": "22"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "19"
+    },
+    {
+      "title": "R",
+      "count": "17"
+    },
+    {
+      "title": "Quantitative Research",
+      "count": "17"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "11"
+    },
+    {
+      "title": "Supply Chain Management",
+      "count": "12"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "5"
+    },
+    {
+      "title": "Revenue Management",
+      "count": "7"
+    },
+    {
+      "title": "Consumer Behaviour",
+      "count": "10"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "15"
+    },
+    {
+      "title": "Research",
+      "count": "11"
+    },
+    {
+      "title": "C/C++",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "Teaching",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Information Sharing and Consumer Searching with Loyalty Programs",
+        "Revenue Management and Program Design of Loyalty Programs",
+        "Holiday Retailing with Gift Cards",
+        "Statistical Models to Detect Serial Murders",
+        "Healthcare Operations with Patient Data"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Doctoral Student Fellowship",
+        "Meritorious Winner",
+        "National Schollarship for Undergraduate Excellence",
+        "The First Prize"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luwang0629/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aprokofieva/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rekhathakur/",
+      "text": "Manager, Data Science & Engineering at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/serrypark/",
+      "text": "We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wenjun-gao-75183693/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julieranyan/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilywbailey/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Validation Associate",
+      "experience": "Beijing 2008 Olympics",
+      "description": "Social Services",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Alice (Xingwei) Lu",
+    "headline": "Data Science Manager at Uber",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "I am interested in modeling and analyzing large scaled data, with a focus on marketing and operations.\n\n- Hands-on experience in processing large-scale data; experienced with Statistical Learning techniques, including Cross-Validation, Bootstrap, Support Vector Machine, Random Forest and Gradient Boosting\n- Specialties: Optimization, Statistical Analysis, Stochastic Modeling, Simulation, Dynamic Programming, Queueing Theory, Game Theory\n- Knowledge: SupplyChainManagement, Inventory Optimization, Profitability Forecasting, Revenue Management\n- Proven records of extracting compelling patterns from data and advising on the implications for products, processes and decisions\n- Programming skills: R, Python, Matlab, C/C++, SAS, SQL"
+  }
+}

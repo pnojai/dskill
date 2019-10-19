@@ -1,0 +1,161 @@
+{
+  "profileAlternative": {
+    "name": "April Chen",
+    "headline": "Data Scientist at Lyft",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Chicago",
+      "degree": "BA",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Stuyvesant High School",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "12"
+    },
+    {
+      "title": "SPSS",
+      "count": "7"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "17"
+    },
+    {
+      "title": "Data Mining",
+      "count": "6"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "8"
+    },
+    {
+      "title": "Statistics",
+      "count": "6"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "1"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "SQL",
+      "count": "15"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "5"
+    },
+    {
+      "title": "Matlab",
+      "count": "3"
+    },
+    {
+      "title": "VBA",
+      "count": "1"
+    },
+    {
+      "title": "Tableau",
+      "count": "1"
+    },
+    {
+      "title": "Stata"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "5"
+    },
+    {
+      "title": "Behavioral Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Text Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Teradata"
+    },
+    {
+      "title": "Economic Research"
+    },
+    {
+      "title": "Data Science",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/steve-wang-b541b256/",
+      "text": "Software Engineer at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anna-khazan-a0098439/",
+      "text": "Data Scientist at Lyft Bikes and Scooters"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karen-yu-16894534/",
+      "text": "Data Scientist at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jinshuniu/",
+      "text": "Data Scientist @ Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gurenee/",
+      "text": "Data Scientist at Tesla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suzielu/",
+      "text": "Data Scientist at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alan-fu-2a39886b/",
+      "text": "CFO at Civis Analytics"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "April Chen",
+    "headline": "Data Scientist at Lyft",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  }
+}

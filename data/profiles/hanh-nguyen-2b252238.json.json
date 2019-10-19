@@ -1,0 +1,157 @@
+{
+  "profileAlternative": {
+    "name": "Hanh Nguyen",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Dartmouth College",
+      "degree": "BA",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "University of Oxford",
+      "degree": "Exchange Program",
+      "date1": "2013",
+      "date2": "2013"
+    },
+    {
+      "title": "Higher School of Economics",
+      "degree": "Math in Moscow Program",
+      "date1": "2012",
+      "date2": "2012"
+    },
+    {
+      "title": "Loomis Chaffee School",
+      "date1": "2008",
+      "date2": "2010"
+    },
+    {
+      "title": "Ha Noi Amsterdam High School",
+      "degree": "Mathematics"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "14"
+    },
+    {
+      "title": "Stata",
+      "count": "9"
+    },
+    {
+      "title": "Matlab",
+      "count": "8"
+    },
+    {
+      "title": "Algorithms",
+      "count": "6"
+    },
+    {
+      "title": "Mathematics",
+      "count": "4"
+    },
+    {
+      "title": "Photography",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "Mathematica",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "Sage",
+      "count": "1"
+    },
+    {
+      "title": "Lightroom",
+      "count": "1"
+    },
+    {
+      "title": "Chinese",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "Vietnamese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivy-jiarou-shen/",
+      "text": "Product Manager at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arcturuswati/",
+      "text": "Data Scientist at Instagram"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelleganbaum/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fei-zhao-44a5002a/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericaleh/",
+      "text": "Data Scientist at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-wang-b541b256/",
+      "text": "Software Engineer at Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshua-minxiang-tu-15148768/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonypaek/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinmgilbert/",
+      "text": "Data Scientist at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Hanh Nguyen",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}
