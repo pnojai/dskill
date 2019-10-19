@@ -329,6 +329,7 @@ df$Linkedin <- as.numeric(df$Linkedin)
 ## Visualizing the Data 
 
 ### Improvements
+
 The first exploratory pass is crowded. We'll filter the data in the next pass.
 
 ```{r}
@@ -346,7 +347,7 @@ ggplot(df, aes(x=Skills, y=Linkedin))+
 ```
 
 ```{r}
-# we have way too many skills so let's only focus on the ones that has significant count
+# we have way too many skills so let's only focus on the ones that has significant count.
 
 df <- filter(df, Linkedin >100)
 df
@@ -355,7 +356,7 @@ df
 
 ### Visualization
 ```{r}
-# we narrowed it down to 57 skills. Let's see how distribution works.
+# we narrowed it down to 57 skills. Let's see how distribution looks like.
 
 theme_set(theme_classic())
 
@@ -369,13 +370,11 @@ ggplot(df, aes(x=Skills, y=Linkedin))+
 
 ```{r}
 
-# let's narrow it down further 
+# let's narrow it down further. 
 df <- filter(df, Linkedin > 200)
 df
 
 ```
-
-
 
 
 ```{r}
@@ -384,13 +383,44 @@ theme_set(theme_classic())
 
 ggplot(df, aes(x=reorder(Skills, Linkedin, fun=max), y=Linkedin))+
   geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
-             theme(axis.text.x = element_text(angle = 65, vjust=0.6))
+  labs(title="2019 Data Science Skills Distribution",
+       x="Data Science Skills",
+       y="Count in Linkedin")+
+  theme(axis.text.x = element_text(angle = 65, vjust=0.6))
 
 
 ```
 
 
 ### Analyze the Data 
+
+The Data Science skills Distribution chart for 2019 shows us the most frequent data science skills that people use for their Linkedin Profiles. The results show us that, Data Analysis; as part of General Data Skills, is the most commonly used skill within Data Scientists in Linkedin. The top three programming languages used within the profiles are R, Python and SQL. Statistics and Machine Learning are in 5th and 6th place in that order. If we consider Machine Learning and Statistics, as part of General Data Science Skills and Programming Languages as part of Technical Data Science Skills, we can conclude that 
+
+** Top three General Data Science Skills are Data Analysis, Statistics and Machine Learning.**
+
+** Top three Technical Data Science Skills are R, Python and SQL. 
+
+```{r}
+# count for top three General and Technical Data Science Skills
+
+data_analysis <- filter(df, df$Skills=="Data Analysis")
+machine_learning <- filter(df, df$Skills=="Machine Learning")
+statistics <- filter(df, df$Skills=="Statistics")
+python <- filter(df, df$Skills=="Python")
+r <- filter(df, df$Skills=="R")
+sql <- filter(df, df$Skills=="SQL")
+data_analysis
+machine_learning
+statistics
+python
+r
+sql
+
+```
+
+
+
+We can also look at the Linkedin Data Set from Jeff Hale and see if they follow the same pattern.
 
 ```{r}
 # lets load 2018 Linkedin Data from Jeff Hale.
@@ -408,17 +438,15 @@ theme_set(theme_classic())
 
 ggplot(skills_2018, aes(x=reorder(Keyword, LinkedIn, fun=max),y=LinkedIn))+
   geom_bar(stat="identity", width = 0.5, fill=("tomato2"))+
-             theme(axis.text.x = element_text(angle = 65, vjust=0.6)) +
-  labs(title = "Hale's 2018 findings")
-
-
+  labs(title="2018 Data Science Skills Distribution",
+       x="Data Science Skills",
+       y="Count in Linkedin",
+       caption = "Source: Jeff Hale 2018 Data Skills Analysis")+
+  theme(axis.text.x = element_text(angle = 65, vjust=0.6))
 
 ```
 
-
-
-## View 2019 Data (DRAFT ONLY) {.tabset}
-
+With the assumption of computer science covering the Programming Lanaguages, we can see that the data science skills distribution for 2018 is similar to our Data Science Skills Distribution for 2018. Machine Learning , Data Analysis and Statistics leading the top General Data Science Skills. The only difference we see is that Machine Learning is slightly more used Data Science Skill than Data Analysis.
 
 ### Simplify data frame
 
@@ -432,7 +460,6 @@ df_counts
 
 ```
 
-
 ### View aggregate Skills counts
 ```{r}
 
@@ -445,8 +472,10 @@ agg_df_counts <- df_counts %>%
 
 agg_df_counts
 ```
+
+
 ```{r}
-# agg_df_counts[where(agg_df_counts$count > 200)]
+#agg_df_counts[where(agg_df_counts$count > 200)]
 ```
 
 ```{r, eval=FALSE}
@@ -457,33 +486,47 @@ agg_df_counts
 #comp_df1 <- data.frame(year=rep(2018, length(skills_2018$LinkedIn)), skills=skills_2018$Keyword, counts=skills_2018$LinkedIn)
 #comp_df2 < - data.frame(year=rep(2019, length(skills_2018$skills)), skills=over_200_2019$skills, counts=over_200_2019$counts)
 #comp_df <- rbdin(comp_df1, comp_df2)
-# Step 1
-comp_df %>% 
+#Step 1
+#comp_df %>% 
 #Step 2
-group_by(year) % > % 
+#group_by(year) % > % 
 #Step 3
-summarise(mean_counts = mean(counts)) % > % 
+#summarise(mean_counts = mean(counts)) % > % 
 #Step 4
-ggplot(aes(x = year, y = mean_counts, fill = year)) +
-    geom_bar(stat = "identity") +
-    theme_classic() +
-    labs(
-        x = "skil endorsements",
-        y = "Average skill endorsments",
-        title = paste(
+#ggplot(aes(x = year, y = mean_counts, fill = year)) +
+    #geom_bar(stat = "identity") +
+    #theme_classic() +
+    #labs(
+        #x = "skil endorsements",
+        #y = "Average skill endorsments",
+        #title = paste(
             "Comparing 2018 and 2019 LinkedIn Skills samples"
         )
     )
 ```
 
+
 ## Conclusions
+
 The six data science skills most valued by employers in 2019 appear to be the following.
 
-1. Data analysis
-1. R
-1. Python
-1. SQL
-1. Statistics
-1. Machine learning
+General Data Science Skills:
+
+1- Data Analysis => 2196
+
+2- Machine Learning => 979
+
+3- Statistics => 1036
+
+Technical Data Science Skills
+
+1- R => 1864
+
+2- Python => 1539
+
+3- SQL => 1237
 
 Our approach differed from Mr. Hale's. He investigated programming languages as a separate research question. Our approach commingles them. Therefore, though our high-ranking skills list includes the languages R, Python, and SQL, nothing is to be concluded from their absence from Hale's list. What we see in common are the skills of analysis, statistics, and machine learning. We believe the data tell a compelling story about investment in these disciplines.
+
+
+
