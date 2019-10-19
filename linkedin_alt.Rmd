@@ -232,12 +232,20 @@ head(df_csv)
 #  Encoding(x) <- "UTF-8"
 #  return(x)
 #}
-
+df_f <- df_csv
 # Remove non-ASCII character codes
-df_csv$skills <- sapply(df_csv$skills, function(x) gsub('[^\x20-\x7E]', '', x))
-df_csv$title <- sapply(df_csv$title, function(x) gsub('[^\x20-\x7E]', '', x))
-head(df_csv)
-df_csv[256,]
+test <- df_f[256,]
+df_f$skills <- sapply(df_f$skills, function(x) gsub('[^\x20-\x7E]', '', x))
+df_f$title <- sapply(df_f$title, function(x) gsub('[^\x20-\x7E]', '', x))
+df_f$skills <- sapply(df_f$skills, function(x) gsub('[@]', 'at', x))
+df_f$title <- sapply(df_f$title, function(x) gsub('[@]', 'at', x))
+df_f$skills <- sapply(df_f$skills, function(x) gsub('[@\\|\\(\\),]', '', x))
+df_f$title <- sapply(df_f$title, function(x) gsub('[@\\|\\(\\),]', '', x))
+Encoding(df_f$skills) <- "UTF-8"
+Encoding(df_f$title) <- "UTF-8"
+head(df_f)
+test
+df_f[256,]
 ```
 
 
@@ -246,7 +254,7 @@ df_csv[256,]
 ```{r}
 # write csv and upload to our mysql database
 # Encoding(df_csv)
-write.csv(df_csv, "results/df_alt.csv", row.names=FALSE)
+write.csv(df_f, "results/df_alt.csv", row.names=FALSE, fileEncoding="UTF-8")
 
 ```
 
