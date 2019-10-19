@@ -11,6 +11,7 @@ ds_general_skills_revised.csv
 sample_linkedin--tall.csv
 PayScaleData.csv
 df.csv
+df_alt.csv
 */
 
 DROP table agg_linkedin;
@@ -413,3 +414,25 @@ LOAD DATA INFILE '/var/lib/mysql-files/df.csv'
 INTO TABLE df
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
 IGNORE 1 LINES;  
+
+/*
+Load version 2 of df. First, I snapshot in AWS the table I prepared manually.
+This is the syntax, not SELECT INTO.
+create table df_bak
+select *
+from	df;
+*/
+
+DROP table df;
+CREATE table df (
+`skill_id` INT,
+`skills` VARCHAR(100),
+`count` INT,
+`title` VARCHAR(1000)
+);
+
+-- Awesome. This loads with no manual preparation.
+LOAD DATA INFILE '/var/lib/mysql-files/df_alt.csv' 
+INTO TABLE df
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+IGNORE 1 LINES;
