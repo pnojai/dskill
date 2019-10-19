@@ -54,7 +54,7 @@ library(RMariaDB)
 
 We have reviewed and discussed different data types such as current job requirements around data scientists from job postings such as indeed.com or monster.com and articles around top data scientists skills in websites such as towardsdatascience and knuggets. Our approach built on the assumption that data scientists with jobs have the skills most valued by employers. We collected skills from employed data scientists.
 
-we were inspired by the research of Jeff Hale whose article on data science skills appeared on the website, Medium.
+We were inspired by the research of Jeff Hale whose article on data science skills appeared on the website, Medium.
 
 - [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
 
@@ -396,9 +396,9 @@ ggplot(df, aes(x=reorder(Skills, Linkedin, fun=max), y=Linkedin))+
 
 The Data Science skills Distribution chart for 2019 shows us the most frequent data science skills that people use for their Linkedin Profiles. The results show us that, Data Analysis; as part of General Data Skills, is the most commonly used skill within Data Scientists in Linkedin. The top three programming languages used within the profiles are R, Python and SQL. Statistics and Machine Learning are in 5th and 6th place in that order. If we consider Machine Learning and Statistics, as part of General Data Science Skills and Programming Languages as part of Technical Data Science Skills, we can conclude that 
 
-** Top three General Data Science Skills are Data Analysis, Statistics and Machine Learning.**
+**Top three General Data Science Skills are Data Analysis, Statistics and Machine Learning.**
 
-** Top three Technical Data Science Skills are R, Python and SQL. 
+**Top three Technical Data Science Skills are R, Python and SQL.**
 
 ```{r}
 # count for top three General and Technical Data Science Skills
@@ -420,7 +420,7 @@ sql
 
 
 
-We can also look at the Linkedin Data Set from Jeff Hale and see if they follow the same pattern.
+We can also look at the LinkedIn Data Set from Jeff Hale and see if they follow the same pattern.
 
 ```{r}
 # lets load 2018 Linkedin Data from Jeff Hale.
