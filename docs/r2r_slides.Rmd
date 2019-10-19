@@ -73,8 +73,9 @@ knit        : slidify::knit2slides
 --- 
 
 ## Data integration (jj)
-- MySQL on AWS.
-- Data frames to MySQL.
+- Data prep.
+- Stage in local MySQL.
+- Load integration MySQL.
 
 --- 
 
