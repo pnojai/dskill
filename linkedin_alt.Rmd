@@ -4,8 +4,6 @@ author: Anil Akyildirim, Nicholas Chung, Jai Jeffryes, Tamiko Jenkins, Joe Roval
   Sie Siong Wong
 date: "10/19/2019"
 output:
-  pdf_document:
-    toc: yes
   html_document:
     code_download: yes
     code_folding: hide
@@ -14,6 +12,8 @@ output:
     theme: flatly
     toc: yes
     toc_float: yes
+  pdf_document:
+    toc: yes
 ---
 
 ## Introduction
@@ -329,6 +329,8 @@ df$Linkedin <- as.numeric(df$Linkedin)
 ## Visualizing the Data 
 
 ### Improvements
+The first exploratory pass is crowded. We'll filter the data in the next pass.
+
 ```{r}
 
 #We have 1157 observations (skills) that data science roles use in linkedin
@@ -447,18 +449,15 @@ agg_df_counts
 # agg_df_counts[where(agg_df_counts$count > 200)]
 ```
 
-```{r}
+```{r, eval=FALSE}
+# JJ: set this chunk not to run. Appears to be WIP.
 
-                      
 #library(ggplot2)
 #over_200_2019 <- agg_df_counts[agg_df_counts$count> 200]
 #comp_df1 <- data.frame(year=rep(2018, length(skills_2018$LinkedIn)), skills=skills_2018$Keyword, counts=skills_2018$LinkedIn)
 #comp_df2 < - data.frame(year=rep(2019, length(skills_2018$skills)), skills=over_200_2019$skills, counts=over_200_2019$counts)
 #comp_df <- rbdin(comp_df1, comp_df2)
 # Step 1
-```
-
-
 comp_df %>% 
 #Step 2
 group_by(year) % > % 
@@ -475,11 +474,7 @@ ggplot(aes(x = year, y = mean_counts, fill = year)) +
             "Comparing 2018 and 2019 LinkedIn Skills samples"
         )
     )
-
-
-
-
-
+```
 
 ## Conclusions
 The six data science skills most valued by employers in 2019 appear to be the following.
