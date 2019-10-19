@@ -69,8 +69,8 @@ example_file
 # apply fromJSON to read in all of the json files
 # create the column (variable) title, headline, which will be populated with json file identifying information
 # extract the skills data which contains the variables title and counts
-# bind the results together as a data frame named v
-v <- dplyr::bind_rows(sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$skills), .id="headline")
+# bind the results together as a data frame named r_df
+r_df <- dplyr::bind_rows(sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$skills), .id="headline")
 
 ```
 
@@ -88,26 +88,30 @@ headlines <- sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$profile$hea
 ```{r}
 #  apply a look up of the variable title specifying the filename 
 #  and add the headline value from the headlines  data frame
-#  to the headlines variable in  data frame v 
+#  to the headlines variable in  data frame r_df
 
-v$headline <- sapply(v$headline, function(x) headlines[x])
+r_df$headline <- sapply(r_df$headline, function(x) headlines[x])
 
 ```
 
 
 ### Name and convert variables and data
 ```{r}
+df <- r_df
 # TODO: conform names to db
-# display vector v
-head(v)
-# name v
-names(v) <- c("Headline", "Skills", "Linkedin")
-class(v)
+# TODO: Fix naming call
+# TODO: find out which naming convention we're using
+# display data frame r_df
+head(df)
+# name r_df
+names(df) <- c("title", "skills", "count")
+#names(v) <- c("headline", "skills", "linkedin")
+class(df)
 # create numeric values in Linkedin counts column
 # coerce any nulls to na's
-sapply(v, class)
-v$Linkedin <- as.numeric(v$Linkedin)
-sapply(v, class)
+sapply(df, class)
+df$count <- as.numeric(df$count)
+sapply(df, class)
 ```
 
 
@@ -116,22 +120,22 @@ sapply(v, class)
 # count all rows
 # 4822
 # view a subset of rows with na's mixed with complete rows
-nrow(v)
-v[11:20,]
+nrow(df)
+df[11:20,]
 
 # filter for any rows with na
 # count all rows with na's
 # 942
 # view a subset of rows with only na's
-v_na <- v %>% filter_all(any_vars(is.na(.)))
-nrow(v_na)
-v[1:20,]
+df_na <- df %>% filter_all(any_vars(is.na(.)))
+nrow(df_na)
+df[1:20,]
 
 # omit any rows with na's
 # save rows without na's as a data frame names df
 # count the data frame 
 # 4822-942 = 3880
-df <- na.omit(v)
+df <- na.omit(df)
 df
 nrow(df)
 ```
@@ -153,16 +157,40 @@ df_counts <- df[c(-1)]
 ```{r}
 
 # aggregate the counts for each unique skill
-df_counts %>%
-    group_by(Skills)  %>%
-    dplyr::summarise(Linkedin = n())  %>%
-    arrange(desc(Linkedin))
+# store as agg_df_counts data fram
+agg_df_counts <- df_counts %>%
+    group_by(skills)  %>%
+    dplyr::summarise(count = n())  %>%
+    arrange(desc(count))
+
+agg_df_counts
 ```
 
+# Prepare data for storage
+```{r}
+
+# TODO: follow df.csv convention
+
+# Add rownames (indices) as a skill id
+# to final dataframe to prepare for 
+# SQL-based storage and to provide option to
+# remove automatic row names from write csv
+# Remove depr function
+#df_csv <- add_rownames(df, var = "skill_id")
+df_csv <- tibble::rownames_to_column(df, var = "skill_id")
+head(df_csv)
+
+# TODO: follow df.csv convention
+# Rearrange column order with dplyr select
+df_csv <- dplyr::select(df_csv, skill_id, skills, count, title)
+
+head(df_csv)
+
+```
 
 ## Write to csv
 ```{r}
 # write csv and upload to our mysql database
-write.csv(df, "df_alt.csv")
+write.csv(df_csv, "results/df_alt.csv", row.names=FALSE)
 
 ```
