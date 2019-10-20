@@ -88,4 +88,6 @@ knit        : slidify::knit2slides
 - Next questions. (What else we could have explored.)
 - Articles and resources we liked.
   - Jeff Hale's analysis on Medium: [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
+ 
   - PayScale: [https://www.payscale.com](https://www.payscale.com).
+   ![width](SM.jpeg)
