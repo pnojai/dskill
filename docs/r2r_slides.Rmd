@@ -16,7 +16,7 @@ knit        : slidify::knit2slides
 }
 </style>
 
-## Ready 2 Rock
+## Ready 2 Rock (sw)
 - Anil Akyildirim
 - Nicholas Chung
 - Jai Jeffryes
@@ -26,7 +26,16 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Organize
+## Agenda (sw)
+- Organization and lifecycle
+- Analytical approach
+- Data acquisition and preparation
+- Conclusions
+- Wrap up
+
+---
+
+## Organize (jr)
 - Slack private channel
 - Skype
 - GitHub: [https://github.com/pnojai/dskill](https://github.com/pnojai/dskill)
@@ -34,7 +43,7 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Lifecycle
+## Lifecycle (aa)
 - Formed team
 - Explored articles
 - Brainstormed approach
@@ -44,11 +53,12 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Approach
-- Assumption: if a data scientist is working, they possess the most valuable skills.
-- Sample data scientists on LinkedIn.
-- List of their skills.
-- Count frequencies.
+## Approach (jr)
+- Assumption: if a data scientist is working, they possess valuable skills.
+- Assumption motivated our approach:
+  - Sample data scientists on LinkedIn.
+  - List of their skills.
+  - Count frequencies.
 - Visualize and report.
 
 ### Nice to have
@@ -56,19 +66,20 @@ knit        : slidify::knit2slides
 
 ---
 
-## Data collection and preparation
+## Data collection and preparation (nc & tj)
 - Bullets about scraping.
 - Data cleaning.
 
 --- 
 
-## Data integration
-- MySQL on AWS.
-- Data frames to MySQL.
+## Data integration (jj)
+- Data prep.
+- Stage in local MySQL.
+- Load integration MySQL.
 
 --- 
 
-## Analysis and conclusion
+## Analysis and conclusion (aa)
 - What graphs.
 - Relevant bullets.
 - Conclusion.
@@ -77,14 +88,14 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Achievements
+## Achievements (sw)
 - Team self-organization.
 - Containment of scope.
 - Fulfillment of minimum release.
 
 ---
 
-## Version 2.0
+## Version 2.0 (jr)
 - Next questions. (What else we could have explored.)
 - Articles and resources we liked.
   - Jeff Hale's analysis on Medium: [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
