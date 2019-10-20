@@ -1,0 +1,188 @@
+{
+  "profileAlternative": {
+    "name": "Chuanxi Wang",
+    "headline": "The Trade Desk - Principal Data Scientist",
+    "location": "Greater Los Angeles Area",
+    "connections": "500+",
+    "summary": "Specialties: Optimization Algorithms, Statistical Learning, Marketing Analytics, Big Data Technologies\n- Convex optimization, large-scale optimization, integer and combinatorial optimization, hands-on algorithm design\n- Regression and regularization algorithms, model selection and validation\n- Marketing Mix Modeling (MMM), Digital Attribution Models\n- Big data processing, storage, query and analysis\n- R, Matlab, java, C++, Python, SQL"
+  },
+  "aboutAlternative": {
+    "text": "Specialties: Optimization Algorithms, Statistical Learning, Marketing Analytics, Big Data Technologies\n- Convex optimization, large-scale optimization, integer and combinatorial optimization, hands-on algorithm design\n- Regression and regularization algorithms, model selection and validation\n- Marketing Mix Modeling (MMM), Digital Attribution Models\n- Big data processing, storage, query and analysis\n- R, Matlab, java, C++, Python, SQL"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Southern California",
+      "degree": "Ph.D.",
+      "date1": "2007",
+      "date2": "2013"
+    },
+    {
+      "title": "University of Southern California",
+      "degree": "Master",
+      "date1": "2010",
+      "date2": "2012"
+    },
+    {
+      "title": "Fudan University",
+      "degree": "BS",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "28"
+    },
+    {
+      "title": "Numerical Analysis",
+      "count": "24"
+    },
+    {
+      "title": "Finite Element Analysis",
+      "count": "20"
+    },
+    {
+      "title": "CFD",
+      "count": "12"
+    },
+    {
+      "title": "Optimization",
+      "count": "11"
+    },
+    {
+      "title": "Fluid Mechanics",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "Abaqus",
+      "count": "11"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    },
+    {
+      "title": "scala"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Numerical Simulation",
+      "count": "5"
+    },
+    {
+      "title": "Fluid Dynamics",
+      "count": "4"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "1"
+    },
+    {
+      "title": "Hive"
+    },
+    {
+      "title": "Cluster Analysis"
+    },
+    {
+      "title": "Regression Analysis"
+    },
+    {
+      "title": "High-speed Imaging"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/veronicaeliasson/",
+        "text": "Chuanxi has been a PhD student in my research group at USC over the last four years, and by now we can refer to him as Dr Wang! Chuanxi works very hard, and if he sets his mind on a goal he will reach it. During the last four years I have witnessed Chuanxi's tireless work ethic, talented abilities in a research setting, and I quickly realized that Chuanxi is not intimidated by any new research tasks that are put in front of him. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ruiqiao/",
+        "text": "Chuanxi is a very smart guy with strong background in engineering principles. When interned at Simulia, he did a great job to apply his knowledge to a technically challenging project. He is also a good team player, enthusiastic and easy to work with. Highly recommended!"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Quantitative pressure measurement of shock waves in water using a schlieren-based visualization technique",
+        "Shock wave focusing in water inside convergent structures.",
+        "Quantitative pressure measurements on a convergent structure during shock impact",
+        "Shock wave dynamics in a water-filled log-spiral duct"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/guofang-justin-li-73b62413/",
+      "text": "Senior Software Development Engineer at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pajiang/",
+      "text": "Senior Software Engineer at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dave-pickles-3a31bb3/",
+      "text": "CTO & Founder at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexschneider/",
+      "text": "VP, Executive Operations at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/becca-parr-8a228613b/",
+      "text": "Data Capture Analyst at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/programmaticguru/",
+      "text": "Associate Media Director at MullenLowe MediaHub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xinhuadeng/",
+      "text": "Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vamin/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chuanxi Wang",
+    "headline": "The Trade Desk - Principal Data Scientist",
+    "location": "Greater Los Angeles Area",
+    "connections": "500+",
+    "summary": "Specialties: Optimization Algorithms, Statistical Learning, Marketing Analytics, Big Data Technologies\n- Convex optimization, large-scale optimization, integer and combinatorial optimization, hands-on algorithm design\n- Regression and regularization algorithms, model selection and validation\n- Marketing Mix Modeling (MMM), Digital Attribution Models\n- Big data processing, storage, query and analysis\n- R, Matlab, java, C++, Python, SQL"
+  }
+}

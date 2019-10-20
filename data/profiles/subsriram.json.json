@@ -1,0 +1,196 @@
+{
+  "profileAlternative": {
+    "name": "Sriram Subramanian",
+    "headline": "Head of Data Sciences at Condé Nast",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Head of Data Sciences",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Adjunct Professor",
+      "description": "I teach a class on Decision Models.",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Doctor of Philosophy (Ph.D.)"
+    },
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Master's Degree"
+    },
+    {
+      "title": "North Carolina State University",
+      "degree": "Master's Degree"
+    },
+    {
+      "title": "Indian Institute of Technology, Madras",
+      "degree": "Bachelor's Degree"
+    },
+    {
+      "title": "Padma Seshadri Bala Bhavan, Chennai, India",
+      "degree": "High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Analytics",
+      "count": "41"
+    },
+    {
+      "title": "Optimization",
+      "count": "21"
+    },
+    {
+      "title": "Operations Research",
+      "count": "18"
+    },
+    {
+      "title": "Algorithms",
+      "count": "17"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "12"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "10"
+    },
+    {
+      "title": "Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "7"
+    },
+    {
+      "title": "Product Development",
+      "count": "6"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Quantitative Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Simulations",
+      "count": "4"
+    },
+    {
+      "title": "Consulting",
+      "count": "4"
+    },
+    {
+      "title": "Product Management",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining",
+      "count": "3"
+    },
+    {
+      "title": "Leadership",
+      "count": "4"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "10"
+    },
+    {
+      "title": "Computational Mathematics",
+      "count": "9"
+    },
+    {
+      "title": "Data Science",
+      "count": "8"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/himanshu-chaturvedi-8481a419/",
+        "text": "I worked with Sriram as a Product Manager while he was in a leadership position at RSG.\nSriram has exceptional leadership skills that are key to leading big corporate and academic projects. He has one of the sharpest minds at work when it comes to quantitative analysis and is never shy of rolling up his sleeves, sign of a great leader, to lead the way for his team members.\nI would recommend Sriram for a leadership position that requires exceptional skill set in the area of Big Data Analytics and people management. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/madhukar-nilmani-28511215/",
+        "text": "Madhukar is a talented analyst with a strong statistical data analysis and model building skills. He worked with me on several key projects and has been quick to grasp the problem and implement solutions in an efficient and timely fashion. He is also an excellent team player, always collegial, helpful and dependable. I recommend him highly.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kshitiz-pandey/",
+        "text": "Kshitiz is an extremely talented individual who has significant all-round skills. He is a very smart technologist, who can quickly understand the functional requirements, architect the system, creatively solve any problems and develop efficient code. He is also a good manager and mentor and has earned the trust of those within the organization and the trust of our clients. He is a vital contributor in all our analytics solutions and has played an important part in development and successful roll out to several major media clients. He is definitely a very valuable player in our team.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alva-i-strand-39b08189/",
+      "text": "Data Scientist at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paulfryzel/",
+      "text": "Principal Engineer at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richa-agarwal-2170304/",
+      "text": "Lead, Principal Scientist at Apple (I'm Hiring)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lindsaysilver/",
+      "text": "Head of Product @ Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amyzhaoyu/",
+      "text": "Product Strategy & Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karthicb/",
+      "text": "EVP & Chief Data Officer at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dickson-luong-45730859/",
+      "text": "Data Engineer at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/taeyoung-choi/",
+      "text": "Data Scientist at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniellecarrick/",
+      "text": "Senior Data Visualization Engineer at Condé Nast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chana-gold-268298127/",
+      "text": "Marketing Science Specialist at Condé Nast"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sriram Subramanian",
+    "headline": "Head of Data Sciences at Condé Nast",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}

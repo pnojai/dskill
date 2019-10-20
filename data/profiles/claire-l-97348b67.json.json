@@ -1,0 +1,135 @@
+{
+  "profileAlternative": {
+    "name": "Claire L.",
+    "headline": "Data Scientist(We are hiring!)",
+    "location": "United States",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master’s Degree in Data Science",
+      "date1": "2016"
+    },
+    {
+      "title": "University of California, Santa Barbara",
+      "degree": "Master’s Degree",
+      "date1": "2013"
+    },
+    {
+      "title": "Beijing Jiaotong University",
+      "degree": "Bachelor’s Degree"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "29"
+    },
+    {
+      "title": "R",
+      "count": "29"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "19",
+      "items": [
+        "Algorithm Analysis",
+        "Applied Mathematics",
+        "Applied Statistics",
+        "Bayesian Models in Machine Learning",
+        "Bioinformatics",
+        "Data Mining",
+        "Distributed Computer Systems",
+        "Econometric Methods",
+        "Econometrics in Time Series and Forecasting",
+        "Exploratory Data Analysis/Visualization"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cantonese",
+        "English",
+        "Mandarin"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Twitter Network analysis for facilitating marketing campaigns",
+        "Dining decision and rating predictive modeling on Yelp reviews",
+        "Peer-to-Peer Lending Default Prediction"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/serrypark/",
+      "text": "We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liu-yang-ph-d-04523766/",
+      "text": "Data Scientist III at Amazon. We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neil-chainani-3877913a/",
+      "text": "Data Scientist at Lyft (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelleganbaum/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gurenee/",
+      "text": "Data Scientist at Tesla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chao-zhao-34a9408b/",
+      "text": "Quantitative Research Associate at J.P. Morgan"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Beijing Olympic games",
+      "date1": "2008",
+      "date2": "less than a year"
+    }
+  ],
+  "profile": {
+    "name": "Claire L.",
+    "headline": "Data Scientist(We are hiring!)",
+    "location": "United States",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "profileAlternative": {
+    "name": "Triveni Gandhi, PhD",
+    "headline": "Data Scientist at Dataiku",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2010",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Denver - Josef Korbel School of International Studies",
+      "degree": "Master of Arts (M.A.)",
+      "date1": "2009",
+      "date2": "2010"
+    },
+    {
+      "title": "University of Denver",
+      "degree": "Bachelor of Arts (B.A.)",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "7"
+    },
+    {
+      "title": "Qualitative Research",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Public Policy",
+      "count": "3"
+    },
+    {
+      "title": "Policy Analysis",
+      "count": "2"
+    },
+    {
+      "title": "International Relations",
+      "count": "1"
+    },
+    {
+      "title": "International Development",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Politics"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "STATA"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Sql"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Google Suite"
+    },
+    {
+      "title": "Public Speaking"
+    },
+    {
+      "title": "Global Politics",
+      "count": "1"
+    },
+    {
+      "title": "Emiprical Research Methods",
+      "count": "1"
+    },
+    {
+      "title": "South Asian Politics"
+    },
+    {
+      "title": "Gender"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/cassandra-bayer-m-ed-m-p-p-b078045b/",
+        "text": "Triveni has been an exemplary teammate, both at New Visions and at Flaredown. Triveni excels in both organization and project management, as well as providing technical-knowhow on analysis and data science projects.\n\nWhile working with her, she built multiple predictive models to understand and ultimately improved student attendance and graduation rates in NYC. Triveni built a series of dashboards and annual reports to provide process monitoring for over 180k students in New Visions' network, which fueled consistent progress for our schools. Outside of New Visions, Triveni worked tirelessly to build a smart data pipeline and begin to identify key components causing upset in chronic illness patients' conditions. She was instrumental to structuring how the team worked and was organized.\n\nOutside of her work accomplishments, she is a fantastic thought partner. She consistently pushed the team to work smarter, not harder, and contributed a sense of excitement and ingenuity to the team. She encouraged learning by leading a seminar on using machine learning in Python, as well as starting multiple working groups to teach predictive analytics. She is a valuable team member in all regards, and would be an asset to any organization she joined. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Hindi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/seanpaulhanlon/",
+      "text": "Strategy @ Dataiku"
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-nowak/",
+      "text": "Solutions Architect at Dataiku"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jolenemork/",
+      "text": "Senior Data Scientist at Macy's"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabrielleesposito/",
+      "text": "Business Development Manager at Dataiku"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charlie-cohen-a9a94069/",
+      "text": "User Advocacy at Dataiku"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bradleyplunkett/",
+      "text": "machine learning & advanced analytics translator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnholmberg/",
+      "text": "Business Development - Financial Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vaishali-lambe/",
+      "text": "Data Scientist | 9 Years Experience | Leader | Writer | Creative | Speaker | Aspiring Entrepreneur"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bukowskimichael/",
+      "text": "Leading Clients and Teams to Success in Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/slbird/",
+      "text": "AI Research + Products"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Data Amabassador",
+      "experience": "DataKind",
+      "date1": "Sep 2017 – Nov 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Summer Volunteer",
+      "experience": "Barli Institute of Rual Development",
+      "description": "Economic Empowerment",
+      "date1": "Jul 2012",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Triveni Gandhi, PhD",
+    "headline": "Data Scientist at Dataiku",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

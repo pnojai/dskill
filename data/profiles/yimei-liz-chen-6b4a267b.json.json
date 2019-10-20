@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Yimei (Liz) Chen",
+    "headline": "Data Scientist at Facebook",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Data Scientist with experience in product development, marketing experiment, and go-to-market strategy. Passionate to wrestle with complex data and apply data insights to tell stories and solve business problems.\n\nProgramming: Python (sklearn, XGBoost, pandas, numpy, matplotlib), R, SQL\nDistributed Computing: AWS (EC2, S3, EMR), Spark (Spark SQL, Spark ML)\nDatabase and Visualization: Postgres, MongoDB, Tableau, shiny, ggplot, matplotlib\nLanguage: English, Chinese"
+  },
+  "aboutAlternative": {
+    "text": "Data Scientist with experience in product development, marketing experiment, and go-to-market strategy. Passionate to wrestle with complex data and apply data insights to tell stories and solve business problems.\n\nProgramming: Python (sklearn, XGBoost, pandas, numpy, matplotlib), R, SQL\nDistributed Computing: AWS (EC2, S3, EMR), Spark (Spark SQL, Spark ML)\nDatabase and Visualization: Postgres, MongoDB, Tableau, shiny, ggplot, matplotlib\nLanguage: English, Chinese"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "The University of Hong Kong",
+      "degree": "Bachelor of Economics and Finance",
+      "date1": "2012",
+      "date2": "2017"
+    },
+    {
+      "title": "University of San Francisco",
+      "degree": "Master of Science in Data Science",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "The University of British Columbia",
+      "degree": "Exchange program",
+      "date1": "2014",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Financial Analysis",
+      "count": "22"
+    },
+    {
+      "title": "Financial Accounting",
+      "count": "18"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "28"
+    },
+    {
+      "title": "Social Media",
+      "count": "11"
+    },
+    {
+      "title": "Project Management",
+      "count": "6"
+    },
+    {
+      "title": "Business Strategy",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "10"
+    },
+    {
+      "title": "Market Research",
+      "count": "3"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "4"
+    },
+    {
+      "title": "Consulting",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "13"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "19"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "13"
+    },
+    {
+      "title": "Leadership",
+      "count": "15"
+    },
+    {
+      "title": "Teamwork",
+      "count": "19"
+    },
+    {
+      "title": "Management",
+      "count": "2"
+    },
+    {
+      "title": "English",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/yuchunli/",
+        "text": "I directly worked with Liz on Dynamic Pricing project during her internship at Wiser Solutions, Inc. We worked on predictive modeling algorithms extensively for months. She demonstrated great independent researching and implementation ability and applied state-of-art machine learning techniques to solve real world problems with business insights. Her fast-learning capability, strong curiosity and business acumen made her a great asset to the team. Her humorous personality and great communication skills also made the work experience fun and productive. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Advanced Machine Learning Course Series",
+        "Bay Area Bike Share Daily Demand Prediction",
+        "Use Time Series to Predict Canadian Bankruptcy Rate",
+        "Go2Africa Project"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cantonese",
+        "Chinese Mandarin",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chao-zhao-34a9408b/",
+      "text": "Quantitative Research Associate at J.P. Morgan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weiligeng/",
+      "text": "Senior Data Analyst at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/garfieldlyao/",
+      "text": "Data Scientist, Business Intelligence Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tianqi-wang-884976a3/",
+      "text": "Top 0.5% Kaggler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-zhang/",
+      "text": "Investment Banking Associate at Goldman Sachs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/serrypark/",
+      "text": "We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yimei (Liz) Chen",
+    "headline": "Data Scientist at Facebook",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Data Scientist with experience in product development, marketing experiment, and go-to-market strategy. Passionate to wrestle with complex data and apply data insights to tell stories and solve business problems.\n\nProgramming: Python (sklearn, XGBoost, pandas, numpy, matplotlib), R, SQL\nDistributed Computing: AWS (EC2, S3, EMR), Spark (Spark SQL, Spark ML)\nDatabase and Visualization: Postgres, MongoDB, Tableau, shiny, ggplot, matplotlib\nLanguage: English, Chinese"
+  }
+}

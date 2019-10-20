@@ -1,0 +1,104 @@
+{
+  "profileAlternative": {
+    "name": "Bobbie Lin",
+    "headline": "Data Scientist at The Trade Desk, Inc.",
+    "location": "Boulder, Colorado",
+    "connections": "328",
+    "summary": "Strong background in statistical analysis, data mining for business. Familiar with R, SQL, Excel.\n\nSpecialties: Analytical skills & Statistical analysis"
+  },
+  "aboutAlternative": {
+    "text": "Strong background in statistical analysis, data mining for business. Familiar with R, SQL, Excel.\n\nSpecialties: Analytical skills & Statistical analysis"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Colorado School of Mines",
+      "degree": "M.S",
+      "date1": "2011",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Mining",
+      "count": "13"
+    },
+    {
+      "title": "SQL",
+      "count": "10"
+    },
+    {
+      "title": "R",
+      "count": "8"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "4"
+    },
+    {
+      "title": "Analytical Skills",
+      "count": "2"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Project Management",
+      "count": "1"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Problem Solving",
+      "count": "3"
+    },
+    {
+      "title": "Multivariate Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "1"
+    },
+    {
+      "title": "QlikView Development",
+      "count": "1"
+    },
+    {
+      "title": "Analytic Problem Solving"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bobbie Lin",
+    "headline": "Data Scientist at The Trade Desk, Inc.",
+    "location": "Boulder, Colorado",
+    "connections": "328",
+    "summary": "Strong background in statistical analysis, data mining for business. Familiar with R, SQL, Excel.\n\nSpecialties: Analytical skills & Statistical analysis"
+  }
+}

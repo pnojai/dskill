@@ -1,0 +1,216 @@
+{
+  "profileAlternative": {
+    "name": "Harrison Adler",
+    "headline": "Analytics and Data Science, Google Cloud Support",
+    "location": "Astoria, New York",
+    "connections": "500+",
+    "summary": "Analyze, Utilize, Realize."
+  },
+  "aboutAlternative": {
+    "text": "Analyze, Utilize, Realize."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia Engineering",
+      "degree": "MS",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "William E. Macaulay Honors College/Bernard M. Baruch College, CUNY",
+      "degree": "Bachelor",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Leadership",
+      "count": "30"
+    },
+    {
+      "title": "Start-ups",
+      "count": "28"
+    },
+    {
+      "title": "Analytics",
+      "count": "18"
+    },
+    {
+      "title": "Project Management",
+      "count": "16"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "15"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "11"
+    },
+    {
+      "title": "Strategy",
+      "count": "9"
+    },
+    {
+      "title": "Corporate Finance",
+      "count": "7"
+    },
+    {
+      "title": "Consulting",
+      "count": "6"
+    },
+    {
+      "title": "Finance",
+      "count": "6"
+    },
+    {
+      "title": "Non-profits",
+      "count": "4"
+    },
+    {
+      "title": "Business Development",
+      "count": "4"
+    },
+    {
+      "title": "Logistics",
+      "count": "3"
+    },
+    {
+      "title": "Forecasting",
+      "count": "3"
+    },
+    {
+      "title": "CRM",
+      "count": "3"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "3"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "2"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "8"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "6"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Android",
+      "count": "1"
+    },
+    {
+      "title": "Economic Research",
+      "count": "2"
+    },
+    {
+      "title": "Human Factors Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Product Adoption",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/alihr/",
+        "text": "Harrison and I have worked together on multiple projects, including a business plan spanning a whole year. In all his activities, graded or not, Harrison is innovative and diligent. He has brilliant ideas which he follows up to deliver results that stand out from the crowd.\nHarrison's team spirit and innate leadership also make him a great co-worker. I highly recommend Harrison as a co worker,and as a person. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/timothy-bekkers-05130919/",
+        "text": "Harrison was a thoughtful young man attuned to the cultural sensitivities around him. Harrison had the unique ability to succeed in a world with a complicated system of rules and authority by bringing his positive mentality to every situation he dealt with."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/getsumit/",
+        "text": "I am thoroughly impressed with Sumit's Program Management skills at Google. I begin working with Sumit in 2015 when he took over as the Program Manager for Google's Mobile Device Management software. Traction was slow and users and admins did not fully understand the product. Through Sumit's data driven planning, he was able to identify opportunities for the product to grow. Two years later, Mobile Device Management has become a key selling point for G Suite. Sumit is well-equipped to take on leadership roles in the tech arena.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/timothy-bekkers-05130919/",
+        "text": "Tim went above and beyond what was expected of him as an English Instructor.  He worked hard to improve the oral language skills of his students while introducing them to several aspects of Western culture.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Data Science: Programming with R",
+        "Machine Learning with R"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/goessling/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carstendevries/",
+      "text": "Manager, Analytics & Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cheehouhon/",
+      "text": "Cloud Support Associate at Logicworks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minghui-shi-13b4b717/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/norman-lemke-83328810/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marcus-chang-14b005185/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahul-belur-57246779/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amy-hemingway-81054810/",
+      "text": "Cloud Support Experience at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-azose-1304391a/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kenhenisey/",
+      "text": "Data Scientist at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Harrison Adler",
+    "headline": "Analytics and Data Science, Google Cloud Support",
+    "location": "Astoria, New York",
+    "connections": "500+",
+    "summary": "Analyze, Utilize, Realize."
+  }
+}

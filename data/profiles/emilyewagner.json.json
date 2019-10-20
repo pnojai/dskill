@@ -1,0 +1,152 @@
+{
+  "profileAlternative": {
+    "name": "Emily Wagner",
+    "headline": "Data Scientist @ Airbnb",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "20"
+    },
+    {
+      "title": "SQL",
+      "count": "13"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "12"
+    },
+    {
+      "title": "Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Analytics",
+      "count": "5"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Web Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Programming",
+      "count": "2"
+    },
+    {
+      "title": "Database Design",
+      "count": "1"
+    },
+    {
+      "title": "Strategy",
+      "count": "1"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Customer Insight"
+    },
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "4"
+    },
+    {
+      "title": "Google Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Databases",
+      "count": "1"
+    },
+    {
+      "title": "Relational Databases"
+    },
+    {
+      "title": "Business Insights"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "It's Time to Eat! Using Mobile Phone Games to Promote Healthy Eating."
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vquoss/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joelwitten/",
+      "text": "Data Science Manager at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawnshao/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kathy-a-yang/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liaojunshuo/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josiezhang/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pkhhanh/",
+      "text": "Data @ Airbnb, Head of Sales Data Science (Hiring Data Scientist & Data Engineer Lead!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deepaparameswaran/",
+      "text": "Data Scientist @Airbnb"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Emily Wagner",
+    "headline": "Data Scientist @ Airbnb",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "profileAlternative": {
+    "name": "Emily Bailey",
+    "headline": "Data Science Manager at Uber",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science - MS"
+    },
+    {
+      "title": "Duke University",
+      "degree": "BSc Economics; BA Environmental Science & Policy"
+    },
+    {
+      "title": "Stanford University",
+      "degree": "Continuing studies"
+    },
+    {
+      "title": "Harvard Business School Executive Education",
+      "degree": "Leadership; Strategy; Culture"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "23"
+    },
+    {
+      "title": "Forecasting",
+      "count": "6"
+    },
+    {
+      "title": "Econometrics",
+      "count": "3"
+    },
+    {
+      "title": "Quantitative Analytics"
+    },
+    {
+      "title": "Energy Efficiency",
+      "count": "2"
+    },
+    {
+      "title": "Management Consulting",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "9"
+    },
+    {
+      "title": "Economics",
+      "count": "2"
+    },
+    {
+      "title": "Data Visualization"
+    },
+    {
+      "title": "Analytics",
+      "count": "13"
+    },
+    {
+      "title": "Data Mining",
+      "count": "4"
+    },
+    {
+      "title": "Energy",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Stata",
+      "count": "3"
+    },
+    {
+      "title": "Databricks"
+    },
+    {
+      "title": "Shiny"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Leadership",
+      "count": "1"
+    },
+    {
+      "title": "Mandarin",
+      "count": "1"
+    },
+    {
+      "title": "Mandarin Chinese"
+    },
+    {
+      "title": "Spanish",
+      "count": "2"
+    },
+    {
+      "title": "Hive"
+    },
+    {
+      "title": "Predictive Modeling"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/eric-a-ruark-1a7959a/",
+        "text": "Emily worked as a Summer 2010 research intern at FAIR through the Stanback program at Duke University. Her main project was a local impact study researching the effect of population growth and development on the health of the Chesapeake Bay and surrounding waterways. Emily developed this project largely through her own initiative and produced a final report that will be published on our website. She also assisted in collecting and updating environmental data on our state and local web pages. Emily was diligent and thorough in her work and was able to work independently. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/trina-r-maitra/",
+        "text": "Trina was a great addition to our data science team. From day 1, she was enthusiastic about learning everything she could - asking smart questions about the business and determining what new skills she should focus on developing to allow her to do her best in the role. She quickly became the key point of contact for an extremely high-priority project, where she was interfacing with executives on a daily basis. Her work had their full trust. In addition, at the time that she joined Uber, we were making some major backend changes to our data stores, so another thing that impressed me was her ability to be super flexible in navigating the obstacles this threw in her way. It forced her to master some new technologies in very short time periods - she was constantly innovating, finding creative ways to work around these problems so that she could meet SLAs and provide timely insights. She definitely doesn't shy away from a challenge. I recommend her highly!\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "15",
+      "items": [
+        "Academic Writing",
+        "Advanced Data Mining",
+        "Analysis of Algorithms",
+        "Artificial Intelligence",
+        "Data Structures",
+        "Databases",
+        "Discrete Math",
+        "Econometrics",
+        "Honors Economics Independent Research",
+        "Linear Algebra for Machine Learning"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Winning team - Uber biannual internal hackathon",
+        "Workation Project Finalist",
+        "Argus Panoptes Award",
+        "Dean's List",
+        "Graduation with Distinction in Research",
+        "Graduation with High Distinction"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "The Multiplier Effect: How the Priming Effect Increases the Effectiveness of Behavioral Efficiency Programs",
+        "Unitization of Oil Reserves in Alaska and the Supply Elasticity of a Common Pool Resource",
+        "Immigration, Population Growth and The Chesapeake Bay"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/talbenyakar/",
+      "text": "Data Science at Uber | AI / ML innovation specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pramdas/",
+      "text": "Director, Real Time Data at Netflix (I'm Hiring!!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivia-liao-3b847b20/",
+      "text": "Data Science at Stitch Fix, ex-Uber, Stanford, Biostatistics consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shae-wang/",
+      "text": "Data Scientist at Uber (We're hiring in SF!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/silvanus-lee-2827ab9/",
+      "text": "Cofounder at Basis AI. ex Uber, Dropbox."
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sreeta-gorripaty-2b948717/",
+      "text": "Uber || Apple || UC Berkeley || IIT Bombay || HBS"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Club Facilitator",
+      "experience": "Girls Who Code",
+      "description": "Science and Technology",
+      "date1": "2016 – Present",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Duke Reader Project",
+      "experience": "Duke University",
+      "description": "Education",
+      "date1": "2015 – Present",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Judge: Duke Startup Challenge",
+      "experience": "Duke University",
+      "description": "Science and Technology",
+      "date1": "2014 – Present",
+      "date2": "5 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Emily Bailey",
+    "headline": "Data Science Manager at Uber",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  }
+}

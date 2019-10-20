@@ -1,0 +1,180 @@
+{
+  "profileAlternative": {
+    "name": "Andrew Woizesko",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "137",
+    "summary": "Experienced data scientist with a proven track record of working in large organizations delivering best of breed machine learning and artificial intelligence solutions."
+  },
+  "aboutAlternative": {
+    "text": "Experienced data scientist with a proven track record of working in large organizations delivering best of breed machine learning and artificial intelligence solutions."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Georgetown University",
+      "degree": "Certificate",
+      "date1": "2015",
+      "date2": "2015"
+    },
+    {},
+    {
+      "title": "University of Redlands",
+      "degree": "Master of Science - MS",
+      "date1": "2012",
+      "date2": "2012"
+    },
+    {},
+    {
+      "title": "Colgate University",
+      "degree": "Bachelor of Arts - BA",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {}
+  ],
+  "skills": [
+    {
+      "title": "Geography",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Statistics"
+    },
+    {
+      "title": "Artificial Intelligence"
+    },
+    {
+      "title": "Budget Management"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Geographic Information Systems (GIS)"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Docker Products"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Team Leadership"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Presentation Skills"
+    },
+    {
+      "title": "Social Network Analysis"
+    },
+    {
+      "title": "Microservices"
+    },
+    {
+      "title": "Gitlab"
+    },
+    {
+      "title": "Artificial Neural Networks"
+    },
+    {
+      "title": "Apache Spark"
+    },
+    {
+      "title": "Convolutional Neural Networks (CNN)"
+    },
+    {
+      "title": "Briefing"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sunercat/",
+      "text": "Sr. Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amanda-davis-93abb179/",
+      "text": "Senior Analytics and Media Manager at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pallav-anand-77b03924/",
+      "text": "Data Scientist II at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher%E2%80%8B-m-cornell-2a0137b6/",
+      "text": "Project Manager and Data Scientist for Analytics, Cognitive, and AI Solutions at Deloitte Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuci-chen-462aa8117/",
+      "text": "Research Scientist Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chiragbshetty/",
+      "text": "Analytics Manager at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sen92/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshlevy89/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dheepan-ramanan-063aa220/",
+      "text": "Data Scientist at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/didierha/",
+      "text": "Manager, Data Insights and Process Improvements"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrew Woizesko",
+    "headline": "Data Scientist at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "137",
+    "summary": "Experienced data scientist with a proven track record of working in large organizations delivering best of breed machine learning and artificial intelligence solutions."
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "profileAlternative": {
+    "name": "Rainie Gu",
+    "headline": "Data Scientist at Airbnb (We're hiring!)",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Data enthusiast with strong analytical, technical, and communication skills. Proficient at problem solving, Data Visualization, Machine Learning, and collaborating with business partners to translate data into actionable insights."
+  },
+  "aboutAlternative": {
+    "text": "Data enthusiast with strong analytical, technical, and communication skills. Proficient at problem solving, Data Visualization, Machine Learning, and collaborating with business partners to translate data into actionable insights."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University - Leonard N. Stern School of Business",
+      "degree": "Business Analytics, Statistics",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "New York University",
+      "degree": "Master of Science (M.Sc.)",
+      "date1": "2013",
+      "date2": "2015"
+    },
+    {
+      "title": "Tongji University",
+      "degree": "Bachelor of Business Administration (BBA)",
+      "date1": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Analytics",
+      "count": "17"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "23"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "Market Research",
+      "count": "60"
+    },
+    {
+      "title": "SEO",
+      "count": "19"
+    },
+    {
+      "title": "SEM",
+      "count": "9"
+    },
+    {
+      "title": "Web Analytics",
+      "count": "6"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "72"
+    },
+    {
+      "title": "Marketing",
+      "count": "56"
+    },
+    {
+      "title": "Research",
+      "count": "20"
+    },
+    {
+      "title": "Advertising",
+      "count": "45"
+    },
+    {
+      "title": "Social Media",
+      "count": "56"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "44"
+    },
+    {
+      "title": "Integrated Marketing",
+      "count": "22"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "20"
+    },
+    {
+      "title": "Competitive Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Marketing Communications",
+      "count": "15"
+    },
+    {
+      "title": "Event Management",
+      "count": "4"
+    },
+    {
+      "title": "Strategy"
+    },
+    {
+      "title": "Segmentation"
+    },
+    {
+      "title": "Customer Insight"
+    },
+    {
+      "title": "SPSS",
+      "count": "6"
+    },
+    {
+      "title": "Google Analytics",
+      "count": "23"
+    },
+    {
+      "title": "Google Adwords",
+      "count": "6"
+    },
+    {
+      "title": "Tableau",
+      "count": "1"
+    },
+    {
+      "title": "Facebook",
+      "count": "9"
+    },
+    {
+      "title": "Training",
+      "count": "1"
+    },
+    {
+      "title": "UX Research"
+    },
+    {
+      "title": "Marketing Research",
+      "count": "22"
+    },
+    {
+      "title": "Social Networking",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/perezliza/",
+        "text": "I worked with Rainie in a group project on our competitive strategy class and I have to say she is an amazing person to work with. She was very focused on the task at hand and brought a lot of ideas on how to complete our project. She was definitely an A-player to our project on top of being a great teammate. I believe Rainie can overcome any challenge presented to her. She has the skills, knowledge and most importantly the attitude to do it. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaelakohn/",
+        "text": "Rainie is a very creative and diligent worker who would be an asset to any marketing team. She has the extremely valuable ability to dissect complex data and distill it into actionable information. Her passion and dedication comes through in her work and because of it projects flourish."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/perezliza/",
+        "text": "I worked with Liza on a group project while a student at the New York University. She is someone who stands out from the crowd for many reasons. Aside from simply being a pleasant person to be around, she possesses strong problem solving and people skills quickly. Through her roles, she has made a positive impact during her time at NYU.\r\n\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jasonrdailey/",
+        "text": "Jason is a fantastic professor. He succeeds in explaining in a clear and engaging manner, and his examples really help solidify the digital marketing questions. He also gives me a lot of valuable advice to aspire my career path. Highly recommended. \n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Applebee's Database Analytics",
+        "Athleta Campaign Planning & Manage Media Plan",
+        "Haute Hotel In The Digital Age - Haute Success or Haute Mess?",
+        "American Airlines Marketing Research and Statistics Measurements Project",
+        "US Airways Competitive Strategy Marketing Plan",
+        "2014 Newcastle Brown Ale Integrated Digital Campaign",
+        "Haier American & Real Simple Magazine \"Refresh Your Life\" Integrated Marketing Pitch Plan",
+        "Multivariate Website Testing Plan For NBA.com/video"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Many Voices, One Team",
+        "Propheteer of the Year"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Rainy Days And Mondays",
+        "Cross-Straits Private Bookstore Operation Model Development and Reference Research"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-huang-93694923/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wzding/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyamatnani/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yan-zhang-usc/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xuyuhe/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuhanchen36/",
+      "text": "Senior Data Science & Machine Learning Analyst at PepsiCo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rainie Gu",
+    "headline": "Data Scientist at Airbnb (We're hiring!)",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Data enthusiast with strong analytical, technical, and communication skills. Proficient at problem solving, Data Visualization, Machine Learning, and collaborating with business partners to translate data into actionable insights."
+  }
+}

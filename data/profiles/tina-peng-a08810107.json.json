@@ -1,0 +1,167 @@
+{
+  "profileAlternative": {
+    "name": "Tina Peng",
+    "headline": "Data Scientist, Machine Learning, Deep Learning",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of San Francisco",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Stony Brook University",
+      "degree": "Bachelor's degree",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Nanjing University",
+      "degree": "Finance",
+      "date1": "2012",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "6"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "6"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "9"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "10"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Photography",
+      "count": "2"
+    },
+    {
+      "title": "MongoDB",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "12"
+    },
+    {
+      "title": "NoSQL",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "Photoshop",
+      "count": "4"
+    },
+    {
+      "title": "Business Development Consultancy",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Yelp Sentiment Analysis using Distributed Systems and Machine Learning",
+        "Dog Breed Classification (Convolutional Neural Network, Keras)",
+        "Predicting Parking In San Francisco using Machine Learning",
+        "Toxic Comment Classification (Bi­LSTM, GloVe)",
+        "Time Series Analysis Report: Forecasting Canada’s Bankruptcy Rate",
+        "Recommendation Systems (Collaborative Filtering)"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/katherinezhao22/",
+      "text": "AI/Machine Learning Engineer at Google Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lindarliu/",
+      "text": "Data Scientist at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tianqi-wang-884976a3/",
+      "text": "Top 0.5% Kaggler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/-aditi-sharma/",
+      "text": "Data Scientist at Square"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rishabh-joshi/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xinke-sun/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jadeyun/",
+      "text": "Data Scientist at Ericsson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nanlinds/",
+      "text": "Data Science @ Wish"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tina Peng",
+    "headline": "Data Scientist, Machine Learning, Deep Learning",
+    "location": "San Francisco, California",
+    "connections": "500+"
+  }
+}

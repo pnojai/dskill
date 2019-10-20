@@ -1,0 +1,202 @@
+{
+  "profileAlternative": {
+    "name": "Aditi Sharma",
+    "headline": "Data Scientist at Square",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Data Scientist with 3+ years of experience leveraging data to solve business problems in a results-driven environment. I thrive in a challenging environment and desire to continuously improve.\n\nCurrently working on recommender systems and pricing prediction using NLP/deep learning/RNN-LSTM."
+  },
+  "aboutAlternative": {
+    "text": "Data Scientist with 3+ years of experience leveraging data to solve business problems in a results-driven environment. I thrive in a challenging environment and desire to continuously improve.\n\nCurrently working on recommender systems and pricing prediction using NLP/deep learning/RNN-LSTM."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of San Francisco",
+      "degree": "Master of Science - MS",
+      "date1": "2018",
+      "date2": "2019"
+    },
+    {
+      "title": "National Institute of Technology Warangal",
+      "degree": "Bachelor of Technology (BTech)",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "11"
+    },
+    {
+      "title": "R",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "Data Structures",
+      "count": "5"
+    },
+    {
+      "title": "Statistics",
+      "count": "2"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "2"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Optimization",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "1"
+    },
+    {
+      "title": "Algorithms"
+    },
+    {
+      "title": "Artificial Intelligence (AI)"
+    },
+    {
+      "title": "Computer Vision"
+    },
+    {
+      "title": "Financial Analysis"
+    },
+    {
+      "title": "Regression Testing"
+    },
+    {
+      "title": "Neuro-Linguistic Programming (NLP)"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "python",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "selenium"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "PyTorch"
+    },
+    {
+      "title": "pytorch"
+    },
+    {
+      "title": "AWS"
+    },
+    {
+      "title": "PySpark"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "2"
+    },
+    {
+      "title": "Recommender Systems",
+      "count": "1"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "1"
+    },
+    {
+      "title": "Data Acquisition"
+    },
+    {
+      "title": "Exploratory Data Analysis"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "Data Analytics"
+    },
+    {
+      "title": "Chatbot Development"
+    },
+    {
+      "title": "Random Forest"
+    },
+    {
+      "title": "CPLEX"
+    },
+    {
+      "title": "Vehicle Routing"
+    },
+    {
+      "title": "EDA"
+    },
+    {
+      "title": "A/B Testing"
+    },
+    {
+      "title": "NLP"
+    },
+    {
+      "title": "Natural Language Processing (NLP)"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Scalable Motor Movement Recognition from Electroencephalography using Machine Learning"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aditi Sharma",
+    "headline": "Data Scientist at Square",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Data Scientist with 3+ years of experience leveraging data to solve business problems in a results-driven environment. I thrive in a challenging environment and desire to continuously improve.\n\nCurrently working on recommender systems and pricing prediction using NLP/deep learning/RNN-LSTM."
+  }
+}

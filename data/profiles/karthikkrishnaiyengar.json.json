@@ -1,0 +1,168 @@
+{
+  "profileAlternative": {
+    "name": "Krishnaiyengar Karthik",
+    "headline": "Data Scientist at JPMorgan Chase & Co.",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "I graduated from New York University with a PhD in experimental particle physics. I am deeply passionate about the science of data analysis. My dissertation involved analyzing data collected by the ATLAS detector at the Large Hadron Collider at CERN\n\nOver the course of my PhD I have developed a combination of analytic, computational and leadership skills with my main expertise being analysis of large datasets, statistical inference and model building.\n\nI would like to use the computational and analytic skills I developed and apply them to solve problems in industry. I recently finished a data science fellowship with Insight Data Science where I built Goodreviews"
+  },
+  "aboutAlternative": {
+    "text": "I graduated from New York University with a PhD in experimental particle physics. I am deeply passionate about the science of data analysis. My dissertation involved analyzing data collected by the ATLAS detector at the Large Hadron Collider at CERN\n\nOver the course of my PhD I have developed a combination of analytic, computational and leadership skills with my main expertise being analysis of large datasets, statistical inference and model building.\n\nI would like to use the computational and analytic skills I developed and apply them to solve problems in industry. I recently finished a data science fellowship with Insight Data Science where I built Goodreviews"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "date1": "2008",
+      "date2": "2014"
+    },
+    {
+      "title": "Indian Institute of Technology, Kanpur",
+      "degree": "MSc Integrated",
+      "date1": "2003",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Science",
+      "count": "9"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "7"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "6"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "2"
+    },
+    {
+      "title": "Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "Numerical Analysis",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "MapReduce"
+    },
+    {
+      "title": "Scientific Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Regression Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Clustering algorithms",
+      "count": "2"
+    },
+    {
+      "title": "Classification algorithms",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Flux Discharge Cascades in Various Dimensions",
+        "Search for exotic Higgs-boson decays in events with at least one photon, missing transverse momentum, and two forward jets produced in $\\sqrt{s}$ = 8 TeV $pp$ collisions with the ATLAS detector"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/robertcastellano1/",
+      "text": "Lead Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/yayun-ida-xie-7230a952/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuansun/",
+      "text": "VP, Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivan-yanev-a4382277/",
+      "text": "Data Scientist | Machine Learning Center of Excellence at JPMorgan Chase | Financial Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fei-feng-1b6aba82/",
+      "text": "Data Science & Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riddhi-narang-765506106/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennaburstein/",
+      "text": "Senior Associate, Data & Analytics, Consumer & Community Bank at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/chloekeyan/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/chen-trilnik/",
+      "text": "Data Scientist | Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phani-davineni-26607911/",
+      "text": "Bioinformatics Software Engineer- Center for Advanced Molecular Diagnostics at Brigham and Women's Hospital"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Krishnaiyengar Karthik",
+    "headline": "Data Scientist at JPMorgan Chase & Co.",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "I graduated from New York University with a PhD in experimental particle physics. I am deeply passionate about the science of data analysis. My dissertation involved analyzing data collected by the ATLAS detector at the Large Hadron Collider at CERN\n\nOver the course of my PhD I have developed a combination of analytic, computational and leadership skills with my main expertise being analysis of large datasets, statistical inference and model building.\n\nI would like to use the computational and analytic skills I developed and apply them to solve problems in industry. I recently finished a data science fellowship with Insight Data Science where I built Goodreviews"
+  }
+}

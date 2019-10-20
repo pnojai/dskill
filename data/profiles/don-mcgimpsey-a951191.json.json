@@ -1,0 +1,309 @@
+{
+  "profileAlternative": {
+    "name": "Don McGimpsey",
+    "headline": "Lead Data Scientist at Wolters Kluwer",
+    "location": "Union City, New Jersey",
+    "connections": "500+",
+    "summary": "My vocabulary does not include the phrase \"Cannot be done\". In my past, I have had a manager tell me: \"If it was easy, I would do it myself\"\n\nI believe that there is no problem too big that it cannot be solved by breaking it down into individual components. The secret of mastering technology is mastering the problem.\n\nAnother motto or maxim that I follow is \"If I can't do it, somebody else will\" By this, I mean that I will never refuse any assignment, and I will add value to the result so that the customer is not only satisfied, but blown away.\n\nSometimes, the problem is different from the request. It is very important to understand that the solution may not be what the customer asked for - ie: \"Just what they asked for but not what they wanted\" This scenario should always be avoided.\n\nAnother boss once told me that no matter what you do - you should become the expert in that domain - so much so that people come to you for the answers.\n\nI am a strong believer in Rapid Prototyping and Development. The SDLC analysis phase should contain at a minimum, a mockup, a proof of concept and a working prototype. By having a working prototype, no one can ever tell you that it cannot be done.\n\nSpecialties: Expert solutions."
+  },
+  "aboutAlternative": {
+    "text": "My vocabulary does not include the phrase \"Cannot be done\". In my past, I have had a manager tell me: \"If it was easy, I would do it myself\"\n\nI believe that there is no problem too big that it cannot be solved by breaking it down into individual components. The secret of mastering technology is mastering the problem.\n\nAnother motto or maxim that I follow is \"If I can't do it, somebody else will\" By this, I mean that I will never refuse any assignment, and I will add value to the result so that the customer is not only satisfied, but blown away.\n\nSometimes, the problem is different from the request. It is very important to understand that the solution may not be what the customer asked for - ie: \"Just what they asked for but not what they wanted\" This scenario should always be avoided.\n\nAnother boss once told me that no matter what you do - you should become the expert in that domain - so much so that people come to you for the answers.\n\nI am a strong believer in Rapid Prototyping and Development. The SDLC analysis phase should contain at a minimum, a mockup, a proof of concept and a working prototype. By having a working prototype, no one can ever tell you that it cannot be done.\n\nSpecialties: Expert solutions."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Toronto Mississauga",
+      "degree": "Computer Science",
+      "date1": "1983",
+      "date2": "1984"
+    },
+    {
+      "title": "Humber College",
+      "degree": "Bachelor",
+      "date1": "1980",
+      "date2": "1981"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Analytics",
+      "count": "36"
+    },
+    {
+      "title": "SAS",
+      "count": "27"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "23"
+    },
+    {
+      "title": "SDLC",
+      "count": "22"
+    },
+    {
+      "title": "Analysis",
+      "count": "20"
+    },
+    {
+      "title": "CRM",
+      "count": "17"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "14"
+    },
+    {
+      "title": "Data Mining",
+      "count": "13"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "12"
+    },
+    {
+      "title": "Risk Management",
+      "count": "11"
+    },
+    {
+      "title": "Requirements Gathering",
+      "count": "9"
+    },
+    {
+      "title": "Programming",
+      "count": "7"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "5"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "5"
+    },
+    {
+      "title": "Credit Cards",
+      "count": "4"
+    },
+    {
+      "title": "Integration",
+      "count": "4"
+    },
+    {
+      "title": "SAS programming",
+      "count": "4"
+    },
+    {
+      "title": "Financial Risk",
+      "count": "3"
+    },
+    {
+      "title": "Business Process",
+      "count": "3"
+    },
+    {
+      "title": "Business Process Improvement",
+      "count": "3"
+    },
+    {
+      "title": "Banking",
+      "count": "2"
+    },
+    {
+      "title": "Optimization",
+      "count": "2"
+    },
+    {
+      "title": "Process Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Testing",
+      "count": "2"
+    },
+    {
+      "title": "Portfolio Management",
+      "count": "2"
+    },
+    {
+      "title": "Project Planning",
+      "count": "2"
+    },
+    {
+      "title": "Database Design",
+      "count": "2"
+    },
+    {
+      "title": "Business Analytics",
+      "count": "2"
+    },
+    {
+      "title": "Customer Relations",
+      "count": "1"
+    },
+    {
+      "title": "Planning",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "15"
+    },
+    {
+      "title": "VBA",
+      "count": "8"
+    },
+    {
+      "title": "Databases",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "4"
+    },
+    {
+      "title": "Unix",
+      "count": "3"
+    },
+    {
+      "title": "Visio",
+      "count": "3"
+    },
+    {
+      "title": "Access",
+      "count": "2"
+    },
+    {
+      "title": "XML",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "MIS",
+      "count": "2"
+    },
+    {
+      "title": "SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "Excel",
+      "count": "1"
+    },
+    {
+      "title": "Customer Service",
+      "count": "2"
+    },
+    {
+      "title": "Problem Solving",
+      "count": "1"
+    },
+    {
+      "title": "Design Thinking"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "13"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "6"
+    },
+    {
+      "title": "ODBC",
+      "count": "2"
+    },
+    {
+      "title": "Risk",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/kanchipm/",
+        "text": "Kanchi is one of the brightest and most dedicated professionals I have had the pleasure of working with. She was always willing to pick up the slack, and take on responsibilities that were within her reach. Project management was a task she relished and through her contributions, millions of dollars were attributable to the bottom line\n\nI strongly endorse Kanchi.\n\nDon McGimpsey\nBig Data manager, Wolters Kluwer See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/abhishek-mittal-7115348/",
+        "text": "Abhishek is one of the most innovative thought-leaders I have worked with.\n\nAbhishek's enthusiasm and commitment to pursuing ideas through to completion has led to many innovative solutions, increasing efficiency, throughput and millions of dollars in bottom-line profit.\n\nI strongly endorse Abhishek, his knowledge, intelligence and ability to grasp complex problems makes him suitable for any position that he pursues.\n\nDon McGimpsey See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Mandarin"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Capital Markets Production Support at Fannie Mae"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tynandaly/",
+      "text": "Math is fun."
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-wanner-649a7086/",
+      "text": "Data Scientist, Team Lead at ThoughtTrace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathangallion/",
+      "text": "Lead Data Scientist at Mercury Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-manno-66909454/",
+      "text": "Director, Data and Operational Excellence at Wolters Kluwer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rupakv/",
+      "text": "Vice President - Head of Customer Insights at Wolters Kluwer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christian-dominguez-552ab864/",
+      "text": "Financial Controller at Imubit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adam-plager-09696/",
+      "text": "Lead Data Scientist, Technical Architect and Founder at QKSS, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tiffanie-diep-734b2a7b/",
+      "text": "Financial Controller at Ascendant Advisors, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ozgun-ataman-9545233/",
+      "text": "Founder & CEO at Soostone"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madelyn-doner-cpa-52524810/",
+      "text": "Financial Controller"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Don McGimpsey",
+    "headline": "Lead Data Scientist at Wolters Kluwer",
+    "location": "Union City, New Jersey",
+    "connections": "500+",
+    "summary": "My vocabulary does not include the phrase \"Cannot be done\". In my past, I have had a manager tell me: \"If it was easy, I would do it myself\"\n\nI believe that there is no problem too big that it cannot be solved by breaking it down into individual components. The secret of mastering technology is mastering the problem.\n\nAnother motto or maxim that I follow is \"If I can't do it, somebody else will\" By this, I mean that I will never refuse any assignment, and I will add value to the result so that the customer is not only satisfied, but blown away.\n\nSometimes, the problem is different from the request. It is very important to understand that the solution may not be what the customer asked for - ie: \"Just what they asked for but not what they wanted\" This scenario should always be avoided.\n\nAnother boss once told me that no matter what you do - you should become the expert in that domain - so much so that people come to you for the answers.\n\nI am a strong believer in Rapid Prototyping and Development. The SDLC analysis phase should contain at a minimum, a mockup, a proof of concept and a working prototype. By having a working prototype, no one can ever tell you that it cannot be done.\n\nSpecialties: Expert solutions."
+  }
+}

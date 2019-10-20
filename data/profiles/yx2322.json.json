@@ -1,0 +1,208 @@
+{
+  "profileAlternative": {
+    "name": "Yifan Xia",
+    "headline": "Data Scientist at Grubhub",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "Shanghai Jiao Tong University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Ruprecht-Karls-Universität Heidelberg",
+      "degree": "Common European Framework A1.1",
+      "date1": "2014",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "34"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "25"
+    },
+    {
+      "title": "R",
+      "count": "29"
+    },
+    {
+      "title": "Cooking",
+      "count": "21"
+    },
+    {
+      "title": "Programming",
+      "count": "18"
+    },
+    {
+      "title": "Telecommunications",
+      "count": "10"
+    },
+    {
+      "title": "Project Management",
+      "count": "10"
+    },
+    {
+      "title": "Research",
+      "count": "8"
+    },
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "Matlab",
+      "count": "18"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "15"
+    },
+    {
+      "title": "Java",
+      "count": "13"
+    },
+    {
+      "title": "C++",
+      "count": "14"
+    },
+    {
+      "title": "C",
+      "count": "14"
+    },
+    {
+      "title": "Android",
+      "count": "8"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "12"
+    },
+    {
+      "title": "Leadership",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sarika2patel/",
+        "text": "Yifan was an absolute pleasure to work with at Fresh Direct. Though it was a brief few months, off the bat I was able to tell that she would have success follow her wherever she goes. Not only is she fast at picking up concepts and contributing to the team, her out-of-the-box thinking has moved us forward in many ways when I was working with her. She is happy to accept challenges and perseveres through the toughest problems to find a long-term solutions. Her analytical skills far exceed her peers, and she also quick to suggest next steps to an action. I am glad to have worked by her side and I hope to do so again in the future. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/yiliangchen/",
+        "text": "Yifan and I were colleagues in our consulting team. She is very technically proficient and hardworking, goes the extra mile in making things happen. Enjoyed working with her!"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "12",
+      "items": [
+        "Business Analytics for Operation System",
+        "C++ Programming",
+        "Data Structure",
+        "Intro to Deterministic",
+        "Linear Algebra",
+        "Mathematical Analysis",
+        "Operations Consulting",
+        "Optimization",
+        "Probability Models",
+        "Probability and Statistics"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Movie Master",
+        "Repair Shredded Paper"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manisha-prathi-9411b2a2/",
+      "text": "Data Analyst at Grubhub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mariabelousova/",
+      "text": "CTO at Grubhub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moqingwang/",
+      "text": "Sr Pricing Analyst at Grubhub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhongyuan-wei-a46b5633/",
+      "text": "RWE Consultant - RWE Medical Device Epidemiology at Johnson & Johnson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoxian-yu-08579812b/",
+      "text": "Demand Planner at FreshDirect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoyue-moon-che-a1977a88/",
+      "text": "Software Engineer at Grubhub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weilanhuang/",
+      "text": "Data Analytics | Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eggie5/",
+      "text": "Data Scientist at Grubhub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rishikas/",
+      "text": "Supply Chain Analyst at Foodkick"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Siyuan Volunteer Association",
+      "description": "Education",
+      "date1": "Aug 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Yifan Xia",
+    "headline": "Data Scientist at Grubhub",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}

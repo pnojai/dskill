@@ -1,0 +1,158 @@
+{
+  "profileAlternative": {
+    "name": "Renee Gu",
+    "headline": "Data Scientist at Tesla",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of California, Berkeley",
+      "degree": "Engineer’s Degree",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "University of Michigan College of Literature, Science, and the Arts",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2013",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Research",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "Marketing",
+      "count": "3"
+    },
+    {
+      "title": "Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Social Media",
+      "count": "1"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Teamwork",
+      "count": "2"
+    },
+    {
+      "title": "Marketing Research"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Capstone Project: : Optimization of Surgical Clinical Pathway at UCSF Health",
+        "Machine Learning Project: Lemon Prediction for Auto Auctions",
+        "Optimal Bidding Strategies in Search Engine Advertising",
+        "Michigan Business Challenge, Ross School of Business",
+        "Text Mining Project: Piazza Word cloud",
+        "Experimental Design Project: Effect of Calisthenics on Heart Rate of College Males"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Fung Institue Leadership Fellowship Award",
+        "University of Michigan Five Terms University Honors"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Mandarin"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "National Honor Fraternity of Phi Sigma Pi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/emilysiyangli/",
+      "text": "Data Analyst at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoshuowang/",
+      "text": "Senior Data Scientist at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weiligeng/",
+      "text": "Senior Data Analyst at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rekhathakur/",
+      "text": "Manager, Data Science & Engineering at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachel-y-6a597166/",
+      "text": "Senior Analyst at Merkle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-zhang/",
+      "text": "Investment Banking Associate at Goldman Sachs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hadis-nouri-3561ab49/",
+      "text": "Data Scientist at Tesla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chao-zhao-34a9408b/",
+      "text": "Quantitative Research Associate at J.P. Morgan"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Circle K",
+      "date1": "Nov 2015 – Present",
+      "date2": "4 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Renee Gu",
+    "headline": "Data Scientist at Tesla",
+    "location": "San Francisco Bay Area",
+    "connections": "500+"
+  }
+}

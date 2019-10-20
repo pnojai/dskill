@@ -1,0 +1,240 @@
+{
+  "profileAlternative": {
+    "name": "Fei Feng",
+    "headline": "Data Science & Analytics",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced data scientist with a passion for using statistics and data mining to solve complex problems and deliver valuable insights from data. Proficient in using tools like SQL, Python, Tableau, Google Analytics, Spark and HDFS.\nConnect with me by : feifeng0312@gmail.com\nAll Invitations to Connect Welcome."
+  },
+  "aboutAlternative": {
+    "text": "Experienced data scientist with a passion for using statistics and data mining to solve complex problems and deliver valuable insights from data. Proficient in using tools like SQL, Python, Tableau, Google Analytics, Spark and HDFS.\nConnect with me by : feifeng0312@gmail.com\nAll Invitations to Connect Welcome."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Stevens Institute of Technology",
+      "degree": "Master degree in science",
+      "date1": "2013",
+      "date2": "2015"
+    },
+    {
+      "title": "Nanjing Agricultural University",
+      "degree": "Bachelor degree in management",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "34"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "28"
+    },
+    {
+      "title": "R",
+      "count": "27"
+    },
+    {
+      "title": "Data Mining",
+      "count": "19"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "13"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "9"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "6"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "6"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "6"
+    },
+    {
+      "title": "Analytical Skills",
+      "count": "6"
+    },
+    {
+      "title": "Statistics",
+      "count": "6"
+    },
+    {
+      "title": "Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "18"
+    },
+    {
+      "title": "Databases",
+      "count": "15"
+    },
+    {
+      "title": "SAS",
+      "count": "11"
+    },
+    {
+      "title": "VBA",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "5"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "Tableau",
+      "count": "4"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "4"
+    },
+    {
+      "title": "HDFS"
+    },
+    {
+      "title": "SAS E-Miner",
+      "count": "5"
+    },
+    {
+      "title": "Web Scraping",
+      "count": "4"
+    },
+    {
+      "title": "Text Mining",
+      "count": "4"
+    },
+    {
+      "title": "HIVE"
+    },
+    {
+      "title": "SPARK"
+    },
+    {
+      "title": "A/B Testing"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "Big Data Seminar",
+        "Data Warehousing/Business Intelligent",
+        "Experimental Design II",
+        "Knowledge Discover & Data Mining",
+        "Marketing Analytics",
+        "Multivariate Data Analysis",
+        "Process Optimization and Analytics",
+        "Risk Management",
+        "Social Network Analysis",
+        "Statistical Learning & Analytics"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Repeat Restaurant Booking Prediction",
+        "Using News Article to Predict Stock Price Trend",
+        "Multivariate Data Analysis on course evaluation",
+        "Web Analysis for MoocList",
+        "Social Network Analysis for YouTube Videos",
+        "Predicting the depression severity by postings"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese (Mandarin)",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/berkeleyjess/",
+      "text": "Director of Data Science & Data Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/baililu/",
+      "text": "Data Science @ Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sherry-zhao-a9652867/",
+      "text": "Data Analyst at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-p-monk-88440290/",
+      "text": "Head of A.I & Data Science Recruitment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/binyan-zhang-33349269/",
+      "text": "Research Scientist II at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lydiahuo/",
+      "text": "Data Scientist II at Novantas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lin-jia-dartmouth/",
+      "text": "Senior Data Scientist at Wayfair"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawn-simpson-9b866130/",
+      "text": "Principal Data Scientist at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wentaosu/",
+      "text": "Data Scientist at JPMorgan Chase"
+    },
+    {
+      "user": "https://www.linkedin.com/in/megan-wang-0326c75t/",
+      "text": "Data Analytics"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Fei Feng",
+    "headline": "Data Science & Analytics",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced data scientist with a passion for using statistics and data mining to solve complex problems and deliver valuable insights from data. Proficient in using tools like SQL, Python, Tableau, Google Analytics, Spark and HDFS.\nConnect with me by : feifeng0312@gmail.com\nAll Invitations to Connect Welcome."
+  }
+}

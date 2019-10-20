@@ -1,0 +1,123 @@
+{
+  "profileAlternative": {
+    "name": "Paul Yang",
+    "headline": "Data Scientist at Oculus VR",
+    "location": "San Francisco Bay Area",
+    "connections": "295"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Data Scientist",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Rutgers University",
+      "degree": "BA",
+      "date1": "2006",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "19"
+    },
+    {
+      "title": "SQL",
+      "count": "19"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "10"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "8"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "10"
+    },
+    {
+      "title": "Market Research",
+      "count": "2"
+    },
+    {
+      "title": "Online Marketing",
+      "count": "3"
+    },
+    {
+      "title": "Web Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Statistics",
+      "count": "7"
+    },
+    {
+      "title": "MongoDB",
+      "count": "11"
+    },
+    {
+      "title": "Hadoop",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "4"
+    },
+    {
+      "title": "VBA",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "3"
+    },
+    {
+      "title": "R",
+      "count": "5"
+    },
+    {
+      "title": "Hive",
+      "count": "8"
+    },
+    {
+      "title": "Natural Language Processing",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/alexander-scott-simons-073a5612/",
+        "text": "Paul is an incredible analyst and developer, who pairs technical skill with an ability to pick up domain expertise remarkably quickly. His energy and willingness to make things happen is incredible, and working with him was a fantastic experience. I couldn't recommend him highly enough."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dwyerryan/",
+        "text": "Paul is the type of person that you want on your team. He's a great team player and cares immensely about his craft. He's brilliant, passionate, and an incredibly nice guy. Paul was able to think laterally about varying problem sets and help drive some really innovative data driven projects while at Essence. I'd happily work with him again and know he will be doing great things in the data space and beyond. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Paul Yang",
+    "headline": "Data Scientist at Oculus VR",
+    "location": "San Francisco Bay Area",
+    "connections": "295"
+  }
+}

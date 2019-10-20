@@ -1,0 +1,273 @@
+{
+  "profileAlternative": {
+    "name": "Bin Han",
+    "headline": "Vice President, Data Scientist at BlackRock",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Maryland College Park",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2010",
+      "date2": "2015"
+    },
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Maryland College Park",
+      "degree": "Master of Science (M.S.)",
+      "date1": "2010",
+      "date2": "2013"
+    },
+    {
+      "title": "China Agricultural University",
+      "degree": "Bachelor's degree"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "21"
+    },
+    {
+      "title": "Data Science",
+      "count": "19"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "19"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "43"
+    },
+    {
+      "title": "Big Data",
+      "count": "13"
+    },
+    {
+      "title": "Statistics",
+      "count": "38"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "28"
+    },
+    {
+      "title": "Data Mining",
+      "count": "29"
+    },
+    {
+      "title": "Marketing",
+      "count": "6"
+    },
+    {
+      "title": "Bioinformatics",
+      "count": "6"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Analytics",
+      "count": "6"
+    },
+    {
+      "title": "Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Quantitative Analytics",
+      "count": "4"
+    },
+    {
+      "title": "Optimization",
+      "count": "4"
+    },
+    {
+      "title": "Analytical Skills",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "43"
+    },
+    {
+      "title": "SAS",
+      "count": "24"
+    },
+    {
+      "title": "Matlab",
+      "count": "21"
+    },
+    {
+      "title": "Java",
+      "count": "15"
+    },
+    {
+      "title": "C++",
+      "count": "14"
+    },
+    {
+      "title": "SQL",
+      "count": "24"
+    },
+    {
+      "title": "LaTeX",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "SPSS",
+      "count": "8"
+    },
+    {
+      "title": "Perl",
+      "count": "2"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Scala"
+    },
+    {
+      "title": "Teaching",
+      "count": "3"
+    },
+    {
+      "title": "Stochastic Optimization",
+      "count": "7"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "7"
+    },
+    {
+      "title": "Apache Spark"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sharron-silva-26b1959/",
+        "text": "I am pleased to offer this recommendation for Bin Han who served, under my supervision, as Predictive Analytics Intern for the American National Red Cross from May to August of 2013. Bin was offered this position because of his insightful collaboration with our Direct Mail vendor Russ Reid Company. This work involved mining our extensive disaster donor dataset to develop predictions on how direct mail campaign features interact with donor features such as donation history, loyalty and demographics with the aim of improving the cost-effectiveness of future campaigns.   During his internship with the Red Cross, Bin contributed significantly to a data validation project, which was part of our process for building a Data Warehouse. Using Teradata SQL query logic, he developed a series of correlations and consistency checks to validate migration of data among the relational databases. For this assignment, he taught himself SQL in a few days. His quick mastery of SQL was impressive and his SQL programs served as a model for other staff to use, all of which speeded the data validation process.   Finally, Bin applied his considerable analytic skills to a project to profile factors that impacted blood drive efficiency. For this project he used several large files describing blood drive sponsors and blood drive donation results to build a statistical model to profile blood collection efficiency and improve the effectiveness of blood drives. He also prepared a series of analyses to analyze blood drive efficiency trends over time, identify discrepancies among regions, and profiling variations in sponsor types, industry types, and other relevant factors.\n\nI was very impressed by how much he was able to accomplish during his relatively short internship. He efficiently mastered several new software packages and brought to each task his significant mastery of relevant data analysis techniques. It was a pleasure to supervise Bin.\nSee less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mark-ma-8306b14/",
+        "text": "Bin worked under my supervision during this internship. He demonstrated strong analytical skills and statistical knowledge. I was impressed by his ability to relate business to analytics and quickly find solutions. He is also very efficient in presenting complex and technical ideas to non-technical audience using various data visualization tools. Our group was very pleased with his work.\" See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Analysis of Algorithms",
+        "Computational Statistics",
+        "Computer Organization and Programming for Scientific Computing",
+        "Integer Programming",
+        "Linear Programming",
+        "Linear Statistical Models I",
+        "Linear Statistical Models II",
+        "Machine Learning",
+        "Mathematical Statistics I",
+        "Mathematical Statistics II"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "2015 Student Excellence Award Competition Finalist",
+        "Phi Delta Gamma Interdisciplinary Scholarship",
+        "Ann G. Wylie Dissertation Fellowship",
+        "Kaplan Travel Grant",
+        "Goldhaber Travel Grant",
+        "Dean's Graduate Fellowship",
+        "Student Paper Award",
+        "Excellent Student Fellowship"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cultivating Disaster Donors Using Data Analytics",
+        "Efficient Learning of Donor Retention Strategies for the American Red Cross",
+        "Simulation optimization in regression with combinatorial feature selection"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jackegindi/",
+      "text": "Data Scientist/Engineer @ BlackRock AI Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jerinsh/",
+      "text": "Data Science at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/haileysixuanren/",
+      "text": "Quantitative Research Analyst at Point72"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ellislbrownii/",
+      "text": "Engineer @ BlackRock AI Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/osho-jha/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shihuijia/",
+      "text": "Senior Data Scientist -Anti Fraud at Walmart Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brad-lowenstein-19432152/",
+      "text": "Data Scientist at Stackline"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaolingchen1226/",
+      "text": "Quant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ava-huang/",
+      "text": "Data Scientist at IBM | Quantitative Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawn-simpson-9b866130/",
+      "text": "Principal Data Scientist at BlackRock"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bin Han",
+    "headline": "Vice President, Data Scientist at BlackRock",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

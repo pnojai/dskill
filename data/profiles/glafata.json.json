@@ -1,0 +1,137 @@
+{
+  "profileAlternative": {
+    "name": "Gregory LaFata",
+    "headline": "Data Scientist at BlackRock",
+    "location": "Greater New York City Area",
+    "connections": "398"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Pennsylvania - The Wharton School",
+      "degree": "Bachelor of Science",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "LaSalle College High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Django",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Strategy",
+      "count": "4"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "4"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "D3.js"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/drewmmurray/",
+        "text": "Drew helped me transition from the financial services industry to an exciting tech start-up downtown. Despite my schedule at the time, he made the process seem easy. Drew is professional and courteous - a real pleasure to work with. Very pleased with my new role."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shawn-simpson-9b866130/",
+      "text": "Principal Data Scientist at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlye-mattsson-cfa-0a430b75/",
+      "text": "Vice President at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/osho-jha/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachelschutt/",
+      "text": "Co-Head of BlackRock AI Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelle-rodriguez-871751b4/",
+      "text": "Vice President of Customer Service"
+    },
+    {
+      "user": "https://www.linkedin.com/in/molly-zhu-94507924/",
+      "text": "Senior Data Scientist at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nathan-yeung-06688223/",
+      "text": "Quant Researcher at BlackRock"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saying-chen-0b5013b/",
+      "text": "Oracle DBA at IntercontinentalExchange"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishwarya-venkatachalam-83a78b39/",
+      "text": "Product Manager on Google Hangouts Meet at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lihaochen/",
+      "text": "Marketing Designer at Julius, Influencer Marketing"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gregory LaFata",
+    "headline": "Data Scientist at BlackRock",
+    "location": "Greater New York City Area",
+    "connections": "398"
+  }
+}

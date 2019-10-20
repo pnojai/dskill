@@ -1,0 +1,110 @@
+{
+  "profileAlternative": {
+    "name": "Nathan Mirman",
+    "headline": "Data Scientist at Macy's",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Ph.D.",
+      "date1": "2010",
+      "date2": "2017"
+    },
+    {
+      "title": "University of Minnesota-Twin Cities",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2007",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "9"
+    },
+    {
+      "title": "LaTeX",
+      "count": "8"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Measurement of the top quark mass in the dileptonic ttbar decay channel using the mass observables Mbl, MT2, and Mblv in pp collisions at √s = 8 TeV",
+        "Performance of the CMS missing transverse momentum reconstruction in pp data at √s = 8 TeV",
+        "Measurement of masses in the ttbar system by kinematic endpoints in pp collisions at √s = 7 TeV"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sanjanedic/",
+      "text": "Data Scientist at Squarespace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marcus-chuang/",
+      "text": "Data Scientist | Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adarsh-sivasankaran/",
+      "text": "Data Scientist at Macy's"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mahdi-malaek-b12a1039/",
+      "text": "Data Scientist at BCG"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rshekhar2/",
+      "text": "PhD, Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manushbalusa/",
+      "text": "Data Warehouse Developer / Data Scientist at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yang-jiang-4943421a/",
+      "text": "Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jolenemork/",
+      "text": "Senior Data Scientist at Macy's"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amirrezakhosroshahi/",
+      "text": "Principal Data Scientist at Marketing Evolution"
+    },
+    {
+      "user": "https://www.linkedin.com/in/graham-poliner-5877419/",
+      "text": "SVP, Analytics and Inventory Planning at Macy's"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nathan Mirman",
+    "headline": "Data Scientist at Macy's",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

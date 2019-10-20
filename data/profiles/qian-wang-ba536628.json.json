@@ -1,0 +1,198 @@
+{
+  "profileAlternative": {
+    "name": "Qian Wang",
+    "headline": "Data Scientist at Google",
+    "location": "San Diego, California",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Yale University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2012",
+      "date2": "2017"
+    },
+    {
+      "title": "Fudan University",
+      "degree": "Bachelor of Science (BS)",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "23"
+    },
+    {
+      "title": "R",
+      "count": "22"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "22"
+    },
+    {
+      "title": "Bioinformatics",
+      "count": "13"
+    },
+    {
+      "title": "Biochemistry",
+      "count": "6"
+    },
+    {
+      "title": "Molecular Biology",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "4"
+    },
+    {
+      "title": "Genomics",
+      "count": "3"
+    },
+    {
+      "title": "Lifesciences",
+      "count": "2"
+    },
+    {
+      "title": "Psychiatry",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "3"
+    },
+    {
+      "title": "Biostatistics",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Perl",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "1"
+    },
+    {
+      "title": "SAS",
+      "count": "1"
+    },
+    {
+      "title": "Computational Biology",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Bayesian Inference & Data Analysis",
+        "Biostatistics",
+        "C Programing",
+        "Computational Statistics",
+        "Computational Structure Biology",
+        "Computer Network & Webpage Design",
+        "Data Mining & Machine Learning",
+        "Genomic Methods & Genetic Analysis",
+        "Linear Models",
+        "Probability & Statistics"
+      ]
+    },
+    {
+      "count": "8",
+      "items": [
+        "Genetic factor common to schizophrenia and HIV infection is associated with risky sexual behavior: antagonistic vs. synergistic pleiotropic SNPs enriched for distinctly different biological functions",
+        "The interplay between risky sexual behaviors and alcohol dependence: genome-wide association and neuroimaging support for LHPP as a Risk Gene",
+        "Genome-wide Association Studies of Posttraumatic Stress Disorder in 2 Cohorts of US Army Soldiers",
+        "Genome-wide association study of cannabis dependence severity, novel risk variants, and shared genetic risks",
+        "Integrative Tissue-Specific Functional Annotations in the Human Genome Provide Novel Insights on Many Complex Traits and Improve Signal Prioritization in Genome Wide Association Studies",
+        "Pervasive pleiotropy between psychiatric disorders and immune disorders revealed by integrative analysis of multiple GWAS",
+        "Implications of pleiotropy: challenges and opportunities for mining Big Data in biomedicine",
+        "A review of study designs and statistical methods for genomic epidemiology studies using next generation sequencing"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jennifer-steele/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wan-chen-46863125/",
+      "text": "Senior Data scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yichaojoyce/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lijuan-xu-07074631/",
+      "text": "Data Scientist / Statistician, Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacey-cheng-0b009426/",
+      "text": "Staff Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pennypanli/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheng-zhang-87271654/",
+      "text": "Data Scientist at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valeriavulpe/",
+      "text": "Data Scientist, Google Search"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Teacher",
+      "experience": "Teaching & Education Volunteer Program @ Fudan University",
+      "description": "Education",
+      "date1": "2010",
+      "date2": "less than a year"
+    }
+  ],
+  "profile": {
+    "name": "Qian Wang",
+    "headline": "Data Scientist at Google",
+    "location": "San Diego, California",
+    "connections": "500+"
+  }
+}

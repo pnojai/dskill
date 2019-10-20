@@ -1,0 +1,119 @@
+{
+  "profileAlternative": {
+    "name": "Lisa Ren",
+    "headline": "Data Scientist at Hinge",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University",
+      "degree": "Master’s Degree",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "University of Southern California",
+      "degree": "Bachelor of Science (B.S.)",
+      "date1": "2008",
+      "date2": "2012"
+    },
+    {
+      "title": "London School of Economics and Political Science",
+      "degree": "General Course Study Abroad",
+      "date1": "2010",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Statistical Modeling"
+    },
+    {
+      "title": "Analytics"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "R"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Algorithms as Prosecutors: Lowering Rearrest Rates Without Disparate Impacts and Identifying Defendant Characteristics 'Noisy' to Human Decision-Makers"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/joel-micalizzi/",
+      "text": "Director, Data Engineering at Hinge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katie-sohn-5b13b8b/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samuel-levy-869a8911/",
+      "text": "COO at Hinge App"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bencelebicic/",
+      "text": "CTO @Hinge - We're hiring"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justin-mcleod-b43156134/",
+      "text": "Founder, CEO at Hinge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nickciao/",
+      "text": "Staff Software Eng @ Hinge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xianzhicao/",
+      "text": "Data Scientist (Machine/Deep Learning & AI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stellasun1/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lindsay-norman-42873112/",
+      "text": "Director of Design at Hinge"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Lisa Ren",
+    "headline": "Data Scientist at Hinge",
+    "location": "Greater New York City Area",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "profileAlternative": {
+    "name": "Roy Hodgman",
+    "headline": "Lead Data Scientist at Rapid7",
+    "location": "Greater Boston Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "The Johns Hopkins University",
+      "degree": "M.S.",
+      "date1": "2003",
+      "date2": "2004"
+    },
+    {
+      "title": "The Johns Hopkins University",
+      "degree": "B.S.",
+      "date1": "1998",
+      "date2": "2002"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dana-wolf-3a5bb9/",
+        "text": "Dana is one of the hardest working and most dedicated people I have ever worked with. As a colleague, Dana gets things done. She evaluates the problem at hand, considers relevant options, picks the most appropriate one and drives towards it with enthusiasm and passion. But Dana not only gets things done, she gets things done well. For her, success is not just finishing a task, project or assignment, success is producing results that exceed expectations. As a manager she both encourages and expects the best of her direct reports, providing advice, assistance and guidance that allows her employees to excel. See less"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nhunguyen20/",
+      "text": "Software Engineer Intern at PagerDuty"
+    },
+    {
+      "user": "https://www.linkedin.com/in/albertung/",
+      "text": "Software Engineer II at Rapid7"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuping-wang-ph-d-30548726/",
+      "text": "WE ARE HIRING, exciting and rewarding software and hardware development opportunities to positively impact millions of Amazon customers through Robotic Automation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/leahmurphy1/",
+      "text": "Talent Acquisition Specialist at SessionM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tim-o-brien-4b91894/",
+      "text": "Chief Executive Officer at Groups Recover Together"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-zaslavsky-996b012a/",
+      "text": "Principal Data Scientist at RSA Security"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yang-luo-5b8368157/",
+      "text": "Sr. Manager, Business Analytics & Data Science at Rapid7"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daryl-paraguya-7778353/",
+      "text": "Sr. Manager, Technology at Vistaprint"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jenhamblet/",
+      "text": "Compliance Specialist at KMS Financial Services, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/petersimon777/",
+      "text": "📌 👨 💻 Freelancing/Remote working Data Scientist, Machine Learning. 3y. Machine Learning, 2y. Python exp."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Roy Hodgman",
+    "headline": "Lead Data Scientist at Rapid7",
+    "location": "Greater Boston Area",
+    "connections": "500+"
+  }
+}

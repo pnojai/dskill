@@ -1,0 +1,151 @@
+{
+  "profileAlternative": {
+    "name": "Eric Hollenberg",
+    "headline": "Data Scientist at Etsy",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Data Science, Business Strategy, Financial Markets | Harvard ‘17"
+  },
+  "aboutAlternative": {
+    "text": "Data Science, Business Strategy, Financial Markets | Harvard ‘17"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "A.B.",
+      "date1": "2013",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "Looker"
+    },
+    {
+      "title": "Research",
+      "count": "14"
+    },
+    {
+      "title": "Economics",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Stata",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "5"
+    },
+    {
+      "title": "Scala"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "16"
+    },
+    {
+      "title": "Tutoring",
+      "count": "4"
+    },
+    {
+      "title": "Leadership",
+      "count": "1"
+    },
+    {
+      "title": "Regression Analysis"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Calculus and Differential Equations",
+        "Capital Markets and the Great Recession",
+        "Econometrics",
+        "Financial Crises: Concepts and Evidence (with Carmen Reinhart)",
+        "Financial Statistics With R",
+        "Game Theory",
+        "Macroeconomic Theory",
+        "Microeconomic Theory",
+        "Multivariable Calculus",
+        "Neurobiology of Behavior"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Joseph L. Barrett Award"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rory-michelen-7a751a68/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishwabhuta/",
+      "text": "Data Scientist at Etsy in New York City"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthaemanuele/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mfergis/",
+      "text": "Senior Data Scientist @ Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandermelton/",
+      "text": "Data Science and Strategy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raphael-louca-7329b476/",
+      "text": "Senior Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumeetishere/",
+      "text": "Senior Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adele-kikuchi-0966aa8a/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-gonzalez/",
+      "text": "Data Scientist at Etsy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moumitab/",
+      "text": "Senior Data Scientist (Machine Learning)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Eric Hollenberg",
+    "headline": "Data Scientist at Etsy",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Data Science, Business Strategy, Financial Markets | Harvard ‘17"
+  }
+}

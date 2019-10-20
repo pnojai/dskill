@@ -1,0 +1,190 @@
+{
+  "profileAlternative": {
+    "name": "Afshine Amidi",
+    "headline": "Data Scientist at Uber",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "http://www.mit.edu/~amidi"
+  },
+  "aboutAlternative": {
+    "text": "http://www.mit.edu/~amidi"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "Master's Degree, Business Analytics, Data Science",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Harvard University",
+      "degree": "Statistics",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Ecole Centrale Paris",
+      "degree": "Bachelor's and Master's Degree, Ingénieur Centrale Paris",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Lycée Saint Louis",
+      "degree": "Classes préparatoires MPSI/MP*",
+      "date1": "2012",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "35"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "20"
+    },
+    {
+      "title": "Statistics",
+      "count": "28"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "22"
+    },
+    {
+      "title": "Mathematics",
+      "count": "28"
+    },
+    {
+      "title": "Physics",
+      "count": "16"
+    },
+    {
+      "title": "Project Management",
+      "count": "12"
+    },
+    {
+      "title": "Engineering",
+      "count": "9"
+    },
+    {
+      "title": "Python",
+      "count": "38"
+    },
+    {
+      "title": "R",
+      "count": "33"
+    },
+    {
+      "title": "SQL",
+      "count": "19"
+    },
+    {
+      "title": "LaTeX",
+      "count": "19"
+    },
+    {
+      "title": "C++",
+      "count": "10"
+    },
+    {
+      "title": "Git",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/matthieu-ung-908677b6/",
+        "text": "I met Afshine during his first year at École Centrale Paris. We prepared an English debate together, and he was a very persuasive debater. Therefore I have no hesitation in highly recommending Afshine."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "French",
+        "German",
+        "Persian",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Centrale Talents",
+        "Dean's Fellowship",
+        "Jean Gaillard Fellowship"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Centrale Water-Polo"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Fast similarity searches over large databases with high dimensional data"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yimei-liz-chen-6b4a267b/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewyng/",
+      "text": "Founder and CEO of Landing AI (We're hiring!); Founder of deeplearning.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zahra-koochak-8bb175a1/",
+      "text": "Stanford PhD | Machine learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-xingwei-lu-09a1b799/",
+      "text": "Data Science Manager at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tongru-du/",
+      "text": "Data Scientist @ Facebook || Xoogler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melissadalis/",
+      "text": "Senior Data Scientist at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-l-97348b67/",
+      "text": "Data Scientist(We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/radhika-anand-86457122/",
+      "text": "Data Scientist at Airbnb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaoshuowang/",
+      "text": "Senior Data Scientist at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sreeta-gorripaty-2b948717/",
+      "text": "Uber || Apple || UC Berkeley || IIT Bombay || HBS"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Afshine Amidi",
+    "headline": "Data Scientist at Uber",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "http://www.mit.edu/~amidi"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "profileAlternative": {
+    "name": "Mariem Ayadi",
+    "headline": "Data Scientist",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Data Science Institute (DSI) - Graduate Program"
+    },
+    {
+      "title": "Smith College",
+      "degree": "Cum Laude - Bachelor's Degree"
+    },
+    {
+      "title": "UCL",
+      "degree": "Computer Science"
+    },
+    {
+      "title": "The Kennedy-Lugar Youth Exchange and Study (YES) program (High School)",
+      "degree": "Scholarship : U.S. Department of State"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "18"
+    },
+    {
+      "title": "Research",
+      "count": "17"
+    },
+    {
+      "title": "Python",
+      "count": "15"
+    },
+    {
+      "title": "Statistics",
+      "count": "7"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Event Management",
+      "count": "3"
+    },
+    {
+      "title": "Data Structures",
+      "count": "3"
+    },
+    {
+      "title": "Non-profits",
+      "count": "2"
+    },
+    {
+      "title": "Algorithms",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "12"
+    },
+    {
+      "title": "HTML",
+      "count": "11"
+    },
+    {
+      "title": "Mathematica",
+      "count": "10"
+    },
+    {
+      "title": "MySQL",
+      "count": "9"
+    },
+    {
+      "title": "LaTeX",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "5"
+    },
+    {
+      "title": "GIS",
+      "count": "1"
+    },
+    {
+      "title": "Assembly Language",
+      "count": "1"
+    },
+    {
+      "title": "Teamwork",
+      "count": "6"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "4"
+    },
+    {
+      "title": "French",
+      "count": "8"
+    },
+    {
+      "title": "Arabic",
+      "count": "7"
+    },
+    {
+      "title": "Turbo Pascal",
+      "count": "4"
+    },
+    {
+      "title": "Networking",
+      "count": "3"
+    },
+    {
+      "title": "Communication Skills",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jncmaguire/",
+        "text": "I had the pleasure of having Mariem on my team for the Thorn Hackathon in 2017. I mainly focus on software development, so it was great having a team player like Mariem who really understood Python, data science, and the sophistications of language analysis. I don't think our team would have accomplished what we did without her; I'd be delighted to be able to work with her again next year! See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/nadyapena/",
+        "text": "Mariem is a proactive learner who always seeks ways to expand her knowledge and connect with others. In my 2 years knowing Mariem professionally, I have seen her organize technical training in web development, participate in hackathons, and take on leadership positions in our IT organization. Furthermore, she has proven her skill as a developer by contributing to projects in Python, Java, JavaScript, and HTML. Lastly she is not only skilled technically, but she also has the soft skills to get along well with colleagues across different areas, with differing personalities, and expertise. I believe that Mariem has the flexibility to excel in any track that she chooses and I highly recommend her for any positions that she finds of interest! See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/yasminsalehizadeh/",
+        "text": "Yasmin has been an excellent recruiter to work with. She is very responsive and helpful regardless of the topic of inquiry. I have really enjoyed working with her pre and post my internship.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Arabic",
+        "English",
+        "French",
+        "German",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Best Use of Data",
+        "Draper Business Competition",
+        "NeXXt program scholar"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Rotary Club"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dr-david-rosenberg/",
+      "text": "Data Scientist -- CTO Office at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericchea/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kathmbell/",
+      "text": "Data Scientist | Data Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravindarg/",
+      "text": "Data Scientist at Credit Suisse"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ningyi-zhang-a65097a2/",
+      "text": "Data Scientist (People Analytics) at Bloomberg"
+    },
+    {
+      "user": "https://www.linkedin.com/in/winstonfb/",
+      "text": "Data Scientist - Vice President, Primary Research at Deutsche Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-m-calhoun/",
+      "text": "ML/AI Specialist at Amazon Web Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ninaksingh/",
+      "text": "Assistant Vice President at Credit Suisse"
+    },
+    {
+      "user": "https://www.linkedin.com/in/silvia-ochoa-phd-b3800010/",
+      "text": "Experienced Analytics Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/trivenigandhi/",
+      "text": "Data Scientist at Dataiku"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mariem Ayadi",
+    "headline": "Data Scientist",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

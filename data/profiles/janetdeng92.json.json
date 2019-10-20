@@ -1,0 +1,179 @@
+{
+  "profileAlternative": {
+    "name": "Janet Deng",
+    "headline": "Data Scientist at Capital Group | American Funds",
+    "location": "New York, New York",
+    "connections": "425"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Arts (MA)",
+      "date1": "2013",
+      "date2": "2015"
+    },
+    {
+      "title": "Columbia University - Columbia Business School",
+      "degree": "MBA Courseworks",
+      "date1": "2014",
+      "date2": "2014"
+    },
+    {
+      "title": "Beijing Normal University",
+      "degree": "Bachelor's degree",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Coursera"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "13"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "14"
+    },
+    {
+      "title": "R",
+      "count": "14"
+    },
+    {
+      "title": "Econometrics",
+      "count": "5"
+    },
+    {
+      "title": "Macroeconomics",
+      "count": "4"
+    },
+    {
+      "title": "Financial Markets",
+      "count": "3"
+    },
+    {
+      "title": "Valuation",
+      "count": "4"
+    },
+    {
+      "title": "Stata",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "4"
+    },
+    {
+      "title": "VBA",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "EViews",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Qualitative Research",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Delhi Energy Consumption Analysis–Data Analysis and Visualization"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "GRE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chuheng-hu/",
+      "text": "McKinsey & Company - Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yasmin-g-4a387a67/",
+      "text": "TMT Investment Banking Analyst at Deutsche Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason-l-231ba7128/",
+      "text": "Portfolio Guideline Analysis Associate at Capital Group | American Funds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robertcastellano1/",
+      "text": "Lead Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/johntylerhjalmquist/",
+      "text": "Data Scientist at Capital Group | American Funds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jinshuniu/",
+      "text": "Data Scientist @ Lyft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jburgesslkdin/",
+      "text": "Senior Data Scientist at Capital Group | American Funds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edwin-petrossian-8776323/",
+      "text": "Data Solutions Manager at Capital Group | American Funds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuanfeng1/",
+      "text": "Data Scientist at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuri-malitsky-0044a425/",
+      "text": "Data Scientist"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer Lecturer",
+      "experience": "Junior Achievement",
+      "description": "Education",
+      "date1": "Sep 2011 – Jan 2012",
+      "date2": "5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Janet Deng",
+    "headline": "Data Scientist at Capital Group | American Funds",
+    "location": "New York, New York",
+    "connections": "425"
+  }
+}

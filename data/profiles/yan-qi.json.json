@@ -1,0 +1,182 @@
+{
+  "profileAlternative": {
+    "name": "Yan Qi",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Proficient with R, SQL, Python. Hand on experiences of building Machine Learning models in professional environment. Work experience in both American and Chinese leading institutions, CFA.\n\nGitHub: https://github.com/yanqi8"
+  },
+  "aboutAlternative": {
+    "text": "Proficient with R, SQL, Python. Hand on experiences of building Machine Learning models in professional environment. Work experience in both American and Chinese leading institutions, CFA.\n\nGitHub: https://github.com/yanqi8"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Yale University",
+      "degree": "Master's degree",
+      "date1": "2017",
+      "date2": "2018"
+    },
+    {
+      "title": "Renmin University of China",
+      "degree": "Bachelor's degree"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "16"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "13"
+    },
+    {
+      "title": "Statistics",
+      "count": "11"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining",
+      "count": "1"
+    },
+    {
+      "title": "Business Analysis"
+    },
+    {
+      "title": "R",
+      "count": "19"
+    },
+    {
+      "title": "MySQL",
+      "count": "9"
+    },
+    {
+      "title": "Matlab",
+      "count": "12"
+    },
+    {
+      "title": "Visual Basic for Applications (VBA)",
+      "count": "3"
+    },
+    {
+      "title": "SPSS",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "4"
+    },
+    {
+      "title": "TensorFlow"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Tableau"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Spark",
+      "count": "1"
+    },
+    {
+      "title": "Panda",
+      "count": "1"
+    },
+    {
+      "title": "NumPy",
+      "count": "1"
+    },
+    {
+      "title": "JAGS",
+      "count": "1"
+    },
+    {
+      "title": "SciPy"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Hive"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Applied Data Mining & Machine Learning",
+        "Computational tool of Data Scinece",
+        "Data Analysis",
+        "Deep Learning Theory Applications",
+        "Linear Models",
+        "Multivariate Statistics",
+        "Probability and Statistics",
+        "Statistical Case Studies"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Connecticut Police Traffic Stops (R)",
+        "Real Estate of New Haven (Python & R)",
+        "Fixed Income Risk Management (VBA)",
+        "Statistical Arbitrage (MATLAB)"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "National Scholarship"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "World Wildlife Fund",
+      "description": "Animal Welfare",
+      "date1": "Aug 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Yan Qi",
+    "headline": "Data Scientist at Facebook",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Proficient with R, SQL, Python. Hand on experiences of building Machine Learning models in professional environment. Work experience in both American and Chinese leading institutions, CFA.\n\nGitHub: https://github.com/yanqi8"
+  }
+}

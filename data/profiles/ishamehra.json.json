@@ -1,0 +1,159 @@
+{
+  "profileAlternative": {
+    "name": "Isha Mehra",
+    "headline": "Data Scientist at Facebook",
+    "location": "Greater Seattle Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "Statistics and Machine Learning",
+      "date1": "2014",
+      "date2": "2018"
+    },
+    {
+      "title": "Lexington High School",
+      "degree": "High School Diploma",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "22"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "15"
+    },
+    {
+      "title": "Project Management",
+      "count": "17"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "9"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "9"
+    },
+    {
+      "title": "Research",
+      "count": "16"
+    },
+    {
+      "title": "Marketing",
+      "count": "6"
+    },
+    {
+      "title": "Program Management",
+      "count": "4"
+    },
+    {
+      "title": "Video Production",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "10"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "18"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "11"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "6"
+    },
+    {
+      "title": "C",
+      "count": "5"
+    },
+    {
+      "title": "JIRA",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "20"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "19"
+    },
+    {
+      "title": "Childcare",
+      "count": "4"
+    },
+    {
+      "title": "Management",
+      "count": "18"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "15",
+      "items": [
+        "Advanced Data Analysis",
+        "Algorithms and Data Structures",
+        "Body Politics - Women's Health in America",
+        "Crowd Computing",
+        "Data Visualization",
+        "Introduction to Machine Learning",
+        "Introduction to Probability Theory",
+        "Introduction to Statistical Inference",
+        "Learning Media Methods",
+        "Matrix Algebra with Applications"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Johnson & Johnson IT Case Competition | First Place"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Isha Mehra",
+    "headline": "Data Scientist at Facebook",
+    "location": "Greater Seattle Area",
+    "connections": "500+"
+  }
+}

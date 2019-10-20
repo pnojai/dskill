@@ -1,0 +1,239 @@
+{
+  "profileAlternative": {
+    "name": "Eric Fiolkoski",
+    "headline": "Director of Data Science",
+    "location": "Arvada, Colorado",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "South Dakota State University",
+      "degree": "PhD Candidate"
+    },
+    {
+      "title": "South Dakota State University",
+      "degree": "M.S."
+    },
+    {
+      "title": "University of Kansas",
+      "degree": "B.A."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Statistics",
+      "count": "34"
+    },
+    {
+      "title": "Analytics",
+      "count": "31"
+    },
+    {
+      "title": "Predictive Analytics",
+      "count": "14"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "12"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "8"
+    },
+    {
+      "title": "Risk Management",
+      "count": "7"
+    },
+    {
+      "title": "Energy",
+      "count": "6"
+    },
+    {
+      "title": "Data Mining",
+      "count": "6"
+    },
+    {
+      "title": "Renewable Energy",
+      "count": "5"
+    },
+    {
+      "title": "Strategy",
+      "count": "5"
+    },
+    {
+      "title": "Business Process Improvement",
+      "count": "4"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Smart Grid",
+      "count": "3"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Optimization",
+      "count": "3"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Asset Management",
+      "count": "2"
+    },
+    {
+      "title": "Econometrics",
+      "count": "1"
+    },
+    {
+      "title": "Derivatives",
+      "count": "1"
+    },
+    {
+      "title": "Investments",
+      "count": "1"
+    },
+    {
+      "title": "Asset Allocation",
+      "count": "1"
+    },
+    {
+      "title": "Systems Engineering",
+      "count": "1"
+    },
+    {
+      "title": "R",
+      "count": "11"
+    },
+    {
+      "title": "SQL",
+      "count": "7"
+    },
+    {
+      "title": "SAS",
+      "count": "7"
+    },
+    {
+      "title": "Oracle",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "Tableau",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "Hadoop",
+      "count": "1"
+    },
+    {
+      "title": "HRIS",
+      "count": "1"
+    },
+    {
+      "title": "Leadership",
+      "count": "7"
+    },
+    {
+      "title": "Management",
+      "count": "5"
+    },
+    {
+      "title": "Performance Improvement",
+      "count": "2"
+    },
+    {
+      "title": "Data Science",
+      "count": "5"
+    },
+    {
+      "title": "Process Improvement",
+      "count": "4"
+    },
+    {
+      "title": "Brio Explorer",
+      "count": "2"
+    },
+    {
+      "title": "Predictive Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Financial Research",
+      "count": "1"
+    },
+    {
+      "title": "Linear Regression",
+      "count": "1"
+    },
+    {
+      "title": "Epistemology",
+      "count": "1"
+    },
+    {
+      "title": "Netezza",
+      "count": "1"
+    },
+    {
+      "title": "SPSS Modeler",
+      "count": "1"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "1"
+    },
+    {
+      "title": "Productivity",
+      "count": "2"
+    },
+    {
+      "title": "Marketing Research",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/lorischifmannathanson/",
+        "text": "Lori is an energetic, innovative leader who initiates needed action and improvement efforts by engaging teammates and other leaders with poise, tact, and business savvy. Lori has been a great ally who artfully creates value with confidence and charm. I warmly recommend Lori without qualification."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "French",
+        "Greek, Ancient (to 1453)",
+        "Latin"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Eric Fiolkoski",
+    "headline": "Director of Data Science",
+    "location": "Arvada, Colorado",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "profileAlternative": {
+    "name": "Shruti Ranjalkar",
+    "headline": "Data Scientist at Amazon (Alexa AI)",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "Currently working as a Data Scientist in Amazon (Alexa AI).\n\nI am passionate about problem-solving, statistical modeling, machine learning, deep learning techniques and keen to learn new technologies. I aim to leverage my experience and skills to deliver efficient and effective solutions.\n\nSkill Set:\n•ML Techniques: Decision Tree, Random Forest, Support Vector Machine, Regression,Naïve Bayes and Bayesian Nets,Gradient Boosting, Neural Nets,Text Analytics, K-nearest Neighbors\n\n•Programming and Analytics Tools: R, Python, SQL, Excel, Tableau, TIBCO Spotfire, OBIEE, Microsoft Azure , Talend, SSIS"
+  },
+  "aboutAlternative": {
+    "text": "Currently working as a Data Scientist in Amazon (Alexa AI).\n\nI am passionate about problem-solving, statistical modeling, machine learning, deep learning techniques and keen to learn new technologies. I aim to leverage my experience and skills to deliver efficient and effective solutions.\n\nSkill Set:\n•ML Techniques: Decision Tree, Random Forest, Support Vector Machine, Regression,Naïve Bayes and Bayesian Nets,Gradient Boosting, Neural Nets,Text Analytics, K-nearest Neighbors\n\n•Programming and Analytics Tools: R, Python, SQL, Excel, Tableau, TIBCO Spotfire, OBIEE, Microsoft Azure , Talend, SSIS"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "Master’s Degree",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "University of Pune",
+      "degree": "Bachelor’s Degree",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Analysis",
+      "count": "17"
+    },
+    {
+      "title": "R",
+      "count": "11"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "5"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "7"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "1"
+    },
+    {
+      "title": "Database Design",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "Statistical Modeling"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "20"
+    },
+    {
+      "title": "Java",
+      "count": "48"
+    },
+    {
+      "title": "HTML",
+      "count": "42"
+    },
+    {
+      "title": "CSS",
+      "count": "11"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "24"
+    },
+    {
+      "title": "JavaScript",
+      "count": "32"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "25"
+    },
+    {
+      "title": "Spring MVC",
+      "count": "5"
+    },
+    {
+      "title": "Hibernate",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "65"
+    },
+    {
+      "title": "SQL Server",
+      "count": "7"
+    },
+    {
+      "title": "AJAX",
+      "count": "5"
+    },
+    {
+      "title": "JSON",
+      "count": "3"
+    },
+    {
+      "title": "REST"
+    },
+    {
+      "title": "SOAP",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "52"
+    },
+    {
+      "title": "C++",
+      "count": "37"
+    },
+    {
+      "title": "VB.NET",
+      "count": "6"
+    },
+    {
+      "title": "Core Java",
+      "count": "15"
+    },
+    {
+      "title": "C#",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "39"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "13"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "7"
+    },
+    {
+      "title": "XML",
+      "count": "1"
+    },
+    {
+      "title": "Databases",
+      "count": "4"
+    },
+    {
+      "title": "Power BI"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Spotfire"
+    },
+    {
+      "title": "J2EE Web Services",
+      "count": "1"
+    },
+    {
+      "title": "Logistic Regression"
+    },
+    {
+      "title": "Decision Trees"
+    },
+    {
+      "title": "Linear Regression"
+    },
+    {
+      "title": "DBMS",
+      "count": "1"
+    },
+    {
+      "title": "Talend"
+    },
+    {
+      "title": "Predictive Modeling"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "12",
+      "items": [
+        "Advances in Data Science and Architecture",
+        "Application Engineering Development",
+        "Big Data Intelligence and Analytics",
+        "Business Analysis",
+        "Data Structures",
+        "Data Warehousing and Business Intelligence",
+        "Database Management and Database Design",
+        "Digital Image processing",
+        "Micro-controllers and Applications",
+        "System Programming and Operating Systems"
+      ]
+    },
+    {
+      "count": "12",
+      "items": [
+        "Sentiment Analysis of Amazon Echo Dot",
+        "Prudential Life Insurance Assessment",
+        "Data Quality Analysis & Visualization",
+        "Sales Analysis",
+        "Blood Donation Analysis",
+        "Prediction of Insurance Policy and Cost",
+        "Churn Prediction for MegaTelCo",
+        "PCOS (Polycystic Ovarian Syndrome) Risk Analysis",
+        "Smart SLS Diagnosis",
+        "Supply Chain Management Of Best Buy"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Rising star of the Project",
+        "Instant Karma"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "RFID and GSM Synthesis for Authenticated ATM Transactions"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/arshdeepsandhu/",
+      "text": "Data Scientist at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yingluumn/",
+      "text": "Data Scientist at Google (We are hiring both interns and full time)!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-grewal/",
+      "text": "Head of Data Science at Airbnb (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/snehal-nagmote-79651122/",
+      "text": "Data@Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pallav-anand-77b03924/",
+      "text": "Data Scientist II at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishamehra/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monica-agrawal-bb73a874/",
+      "text": "PhD Student in Computer Science at MIT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthi-suresh-a3600683/",
+      "text": "Data Scientist at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shravyamandava/",
+      "text": "Data Engineering Consultant at McKinsey & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruthi-adimurthy-831b02129/",
+      "text": "Data Analyst at Citi | Tableau Desktop Associate | #GHC19"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shruti Ranjalkar",
+    "headline": "Data Scientist at Amazon (Alexa AI)",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "Currently working as a Data Scientist in Amazon (Alexa AI).\n\nI am passionate about problem-solving, statistical modeling, machine learning, deep learning techniques and keen to learn new technologies. I aim to leverage my experience and skills to deliver efficient and effective solutions.\n\nSkill Set:\n•ML Techniques: Decision Tree, Random Forest, Support Vector Machine, Regression,Naïve Bayes and Bayesian Nets,Gradient Boosting, Neural Nets,Text Analytics, K-nearest Neighbors\n\n•Programming and Analytics Tools: R, Python, SQL, Excel, Tableau, TIBCO Spotfire, OBIEE, Microsoft Azure , Talend, SSIS"
+  }
+}

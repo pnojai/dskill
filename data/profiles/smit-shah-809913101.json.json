@@ -1,0 +1,255 @@
+{
+  "profileAlternative": {
+    "name": "Smit Shah",
+    "headline": "Data Scientist at Fareportal",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I’m a Data Scientist Skilled in Machine Learning, Deep Learning, Spark, Cloud Computing Solutions such as AWS and Azure and writing Testable and Modular code in a variety of programming languages such as Python, JavaScript and Scala with a Master of Science (MS) focused in Computer Engineering from New York University.\n\nI love to mine, analyze, summarize and visualize datasets. I’ve a passion for building, maintaining and productionizing predictive models as well as building end to end data products."
+  },
+  "aboutAlternative": {
+    "text": "I’m a Data Scientist Skilled in Machine Learning, Deep Learning, Spark, Cloud Computing Solutions such as AWS and Azure and writing Testable and Modular code in a variety of programming languages such as Python, JavaScript and Scala with a Master of Science (MS) focused in Computer Engineering from New York University.\n\nI love to mine, analyze, summarize and visualize datasets. I’ve a passion for building, maintaining and productionizing predictive models as well as building end to end data products."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "New York University",
+      "degree": "Master of Science (MS)",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Pandit Deendayal Petroleum University",
+      "degree": "Bachelor’s Degree",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "12"
+    },
+    {
+      "title": "C",
+      "count": "14"
+    },
+    {
+      "title": "C++",
+      "count": "11"
+    },
+    {
+      "title": "Software Development",
+      "count": "4"
+    },
+    {
+      "title": "Programming",
+      "count": "5"
+    },
+    {
+      "title": "Research",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Data Mining",
+      "count": "2"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Statistical Data Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Statistical Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Matlab",
+      "count": "9"
+    },
+    {
+      "title": "Embedded C",
+      "count": "4"
+    },
+    {
+      "title": "Arduino",
+      "count": "3"
+    },
+    {
+      "title": "Ubuntu",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "7"
+    },
+    {
+      "title": "Mininet",
+      "count": "2"
+    },
+    {
+      "title": "Windows",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "14"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "8"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "Management",
+      "count": "2"
+    },
+    {
+      "title": "MikroC",
+      "count": "2"
+    },
+    {
+      "title": "Software Defined Networking",
+      "count": "3"
+    },
+    {
+      "title": "8051 Assembly",
+      "count": "3"
+    },
+    {
+      "title": "Proteus",
+      "count": "2"
+    },
+    {
+      "title": "Scilab",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Advanced Embedded Systems",
+        "Cloud Computing",
+        "Computer Architecture",
+        "Digital Signal Processing",
+        "High Speed Networks",
+        "Internet Architecture and Protocols",
+        "Machine Learning",
+        "Microprocessors and Microcontrollers",
+        "Modelling and Simulation",
+        "Network Security"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Gujarati",
+        "Hindi",
+        "Japanese"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Graduate Record Exam (GRE)",
+        "Test Of English as a Foreign Language( TOEFL )"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Wireless Gesture Controlled Gamepad"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/will-holmes-659b56135/",
+      "text": "Data Scientist, at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neilbardhan/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ujwal-reddy-moramganti-695337111/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dietrichson/",
+      "text": "Chief Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linghui-z-126524158/",
+      "text": "Data Scientist at PCH"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deisnel-cardenas/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhinavpalhade/",
+      "text": "Snr. Data Engineer at Fareportal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lydiakan/",
+      "text": "Data Engineer - Analytics at Samsung Electronics America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhisheksarma/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vipmunot/",
+      "text": "Data Scientist"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "YUVA Unstoppable",
+      "date1": "May 2012 – Aug 2012",
+      "date2": "4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Smit Shah",
+    "headline": "Data Scientist at Fareportal",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I’m a Data Scientist Skilled in Machine Learning, Deep Learning, Spark, Cloud Computing Solutions such as AWS and Azure and writing Testable and Modular code in a variety of programming languages such as Python, JavaScript and Scala with a Master of Science (MS) focused in Computer Engineering from New York University.\n\nI love to mine, analyze, summarize and visualize datasets. I’ve a passion for building, maintaining and productionizing predictive models as well as building end to end data products."
+  }
+}

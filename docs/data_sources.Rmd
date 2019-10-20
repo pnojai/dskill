@@ -1,0 +1,15 @@
+---
+title: "data_sources"
+author: "Jai Jeffryes"
+date: "10/10/2019"
+output: html_document
+---
+
+## Articles and studies
+- [Analyzing the Analyzers](https://www.oreilly.com/data/free/files/analyzing-the-analyzers.pdf) Study from O'Reilly, surveying data scientists themselves about their skills and careers.
+- [22 Skills of a Data Scientist](https://dataconomy.com/2014/09/the-22-skills-of-a-data-scientist/). 22 skills in one author's opinion.
+- [6 (really 9) Categories](https://www.datasciencecentral.com/profiles/blogs/six-categories-of-data-scientists). "Data Science" is broad.
+- [Jeff Hale - Most in Demand Skills (Medium article)](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db). Data provided. Multiple categories: Skill, language, etc. Graphs.
+  - [Spreadsheet - Data Science job search terms](https://docs.google.com/spreadsheets/d/1df7QTgdAOItQJadLoMHlIZH3AsQ2j2_yoyvHOpsy9qU/edit#gid=1072460513). Hale counted them up on job sites.
+  - [Kaggle](https://www.kaggle.com/discdiver/the-most-in-demand-skills-for-data-scientists/) All of Hale's code and data.
+- [Glassdoor study](https://www.glassdoor.com/research/data-scientist-personas/). Sampled 10,000 jobs. They even did some clustering on the results. How meta. Formed 3 categories of job with priority skills.

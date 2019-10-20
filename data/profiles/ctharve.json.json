@@ -1,0 +1,99 @@
+{
+  "profileAlternative": {
+    "name": "Chris Harvey",
+    "headline": "Data Scientist at The Trade Desk",
+    "location": "Boulder, Colorado",
+    "connections": "500+",
+    "summary": "Statistics, machine learning and programming. Research to production - full stack data science."
+  },
+  "aboutAlternative": {
+    "text": "Statistics, machine learning and programming. Research to production - full stack data science."
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "University of Michigan",
+      "degree": "Master of Science - MS",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "University of Portland",
+      "degree": "Bachelor of Arts - BA",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "High-throughput allele-specific expression across 250 environmental conditions",
+        "Which Genetics Variants in DNase-Seq Footprints Are More Likely to Alter Binding?",
+        "A high-throughput RNA-seq approach to profile transcriptional responses",
+        "QuASAR: Quantitative Allele Specific Analysis of Reads",
+        "Malate dehydrogenase 2 confers docetaxel resistance via regulation of JNK signaling and oxidative metabolism",
+        "HDAC4 Regulates HIF1a Protein and Cellular Response to Hypoxia",
+        "Progression of Forearm Intravenous Regional Anesthesia With Ropivacaine",
+        "ID1 Enhances Docetaxel Cytotoxicity in Prostate Cancer Cells Through Inhibition of p21"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/adam-kelleher-70912914/",
+      "text": "Chief Data Scientist for Research at Barclays Investment Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuanxi-wang-54b72415/",
+      "text": "The Trade Desk - Principal Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vamin/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-freifeld-288a1411/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yi-fang-chen-22074a1b/",
+      "text": "Senior Data Scientist at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/juliacy/",
+      "text": "Data Scientist / Software Engineer working at Ad Hoc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katherine-swintek-7456934b/",
+      "text": "Manager at West Monroe Partners"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tgreasby/",
+      "text": "Director, Data Science at The Trade Desk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelayiyu/",
+      "text": "VP, Quantitative Modeler at Barclays Investment Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucaszalduendo/",
+      "text": "Data Scientist at The Trade Desk"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chris Harvey",
+    "headline": "Data Scientist at The Trade Desk",
+    "location": "Boulder, Colorado",
+    "connections": "500+",
+    "summary": "Statistics, machine learning and programming. Research to production - full stack data science."
+  }
+}

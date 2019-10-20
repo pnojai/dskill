@@ -1,0 +1,167 @@
+{
+  "profileAlternative": {
+    "name": "Elena Grewal, Ph.D.",
+    "headline": "Head of Data Science at Airbnb (We're hiring!)",
+    "location": "Stanford, California",
+    "connections": "500+",
+    "summary": "I am currently leading the Data Science team at Airbnb.\n\nWe're always hiring: https://www.airbnb.com/careers/departments/data-science-analytics"
+  },
+  "aboutAlternative": {
+    "text": "I am currently leading the Data Science team at Airbnb.\n\nWe're always hiring: https://www.airbnb.com/careers/departments/data-science-analytics"
+  },
+  "positions": [],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "date1": "2007",
+      "date2": "2012"
+    },
+    {
+      "title": "Stanford University",
+      "degree": "Master of Arts (MA)",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "Yale University",
+      "degree": "BA",
+      "date1": "2002",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "31"
+    },
+    {
+      "title": "Stata",
+      "count": "25"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "24"
+    },
+    {
+      "title": "Statistics",
+      "count": "14"
+    },
+    {
+      "title": "Econometrics",
+      "count": "10"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "Program Evaluation",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "LaTeX",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Applied Econometrics"
+    },
+    {
+      "title": "HTML + CSS"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mplewis/",
+        "text": "Elena is both fun and brilliant. She has a strong work ethic and applies it towards providing guidance and insight to her team and those around her.\nI had a great time working with her. She moves at a really fast pace and helps sets the path for how to prioritize projects and opportunities.\nShe was really hands-on when we worked together, shifting quickly between code and high-level analysis. Highly recommended if you ever get the chance to work with her. See less"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ricardo-bion/",
+        "text": "Elena was my manager at Airbnb for nearly two years, before I became a manager, and I look to her as a model. From the day I joined Airbnb, she helped me work on high-impact projects, gave me the freedom to define my roadmap and trajectory, and was always there to guide and support me when needed. At the leadership level, her strategic leadership has helped to set company and data team vision, and the data teams she started have transformed Airbnb. She is incredibly sharp, has a keen sense for what will work best, and is an articulate and clear communicator to all types of audiences. In addition, she makes time for the little things that make a difference to motivate and inspire her team. She truly cares about what she is doing and the people involved and her warmth and positivity are great to be around.\n\nI also admire Elena’s work to increase diversity in data science. She helped double the ratio of female data scientists on our team, and regularly speaks at conferences, organizes meetings, and writes on this topic with the goal of impacting the industry more broadly. See less"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/rebeccarosenfelt/",
+        "text": "I would like Rebecca to work on all my teams, always. The words that come to mind when I think of Rebecca are drive, resourcefulness, and joy. She is incredible at figuring out what needs to be done and learning the skills to get it done, or finding the right resources to do it. In particular, Rebecca has a wonderful ability to tell a story with data and to use data in the right ways. We worked together on several projects where I had conducted statistical analysis and she helped me to craft the story and make sure there were no loose-ends. The result of that collaboration resulted in decks that changed the shape of the company. Now as a product manager, I have only seen great results for the business from her teams. It's also obvious that she loves thinking about what will have the biggest impact and then getting it done - that joy in executing is what enables her to product such great results. I really miss working with her and highly recommend her to any team.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/taliapage/",
+        "text": "I worked with Talia at Airbnb, providing data and analysis for the photography program. She was a true pleasure to work with, always upbeat and helpful. Whenever I came to her with a question about the data, she stayed calm and figured out what was going on quickly and efficiently. I was very impressed by her ability to understand the results and implications of my analysis. The ROI analysis we worked on was often very complex and technical, but I always felt like she was right there with me and knew what was going on. She never jumped to conclusions that were not supported by the data, and she took appropriate action based on the data.  She also had creative ideas for experiments and additional analysis. She often reached out for additional stats and was excited to learn more. I was very sad to hear she was leaving Airbnb and wish her all the best on her next adventure!\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "North American Collegiate Bridge Championship",
+        "Stanford Interdisciplinary Graduate Fellowship"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ya-xu-59346919/",
+      "text": "Head of Data Science at LinkedIn (I'm HIRING)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pramdas/",
+      "text": "Director, Real Time Data at Netflix (I'm Hiring!!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linshachen/",
+      "text": "Data Science Manager at Airbnb - I’m hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alokgupta83/",
+      "text": "Head Of Data Science & Machine Learning at DoorDash"
+    },
+    {
+      "user": "https://www.linkedin.com/in/egsands/",
+      "text": "Head of Data Science at Coursera"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rekhathakur/",
+      "text": "Manager, Data Science & Engineering at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justin-rao-ph-d-a9a18430/",
+      "text": "Head Economist and VP of Data Science (I'm Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shivanisiroya/",
+      "text": "CEO & Founder at Tala (We're Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisadbarnett/",
+      "text": "Co-Founder - We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aprokofieva/",
+      "text": "Software Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Elena Grewal, Ph.D.",
+    "headline": "Head of Data Science at Airbnb (We're hiring!)",
+    "location": "Stanford, California",
+    "connections": "500+",
+    "summary": "I am currently leading the Data Science team at Airbnb.\n\nWe're always hiring: https://www.airbnb.com/careers/departments/data-science-analytics"
+  }
+}
