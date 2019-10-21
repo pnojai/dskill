@@ -96,8 +96,8 @@ knit        : slidify::knit2slides
 
 ## Achievements (sw)
 - Team self-organization.
+- Overcome challenges.
 - Containment of scope.
-- Fulfillment of minimum release.
 
 ---
 
