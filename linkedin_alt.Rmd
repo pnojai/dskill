@@ -2,7 +2,7 @@
 title: "Tidy and clean Linkedin Scraped Data"
 author: Anil Akyildirim, Nicholas Chung, Jai Jeffryes, Tamiko Jenkins, Joe Rovalino,
   Sie Siong Wong
-date: "10/19/2019"
+date: "10/20/2019"
 output:
   html_document:
     code_download: yes
@@ -76,8 +76,9 @@ example_file
 # apply fromJSON to read in all of the json files
 # create the column (variable) title, headline, which will be populated with json file identifying information
 # extract the skills data which contains the variables title and counts
-# bind the results together as a data frame named r_df
-r_df <- dplyr::bind_rows(sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$skills), .id="headline")
+# bind the results together as a data frame named raw_df
+raw_df <- dplyr::bind_rows(sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$skills), .id="headline")
+head(raw_df)
 ```
 
 
@@ -87,6 +88,7 @@ r_df <- dplyr::bind_rows(sapply(filenames, function(x) fromJSON(x, flatten=TRUE)
 # extract the headline variable from the profile data, saving each file name as the variable title
 # save the mapping as  data frame headlines 
 headlines <- sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$profile$headline, USE.NAMES = TRUE)
+head(headlines)
 ```
 
 
@@ -94,31 +96,24 @@ headlines <- sapply(filenames, function(x) fromJSON(x, flatten=TRUE)$profile$hea
 ```{r}
 #  apply a look up of the variable title specifying the filename 
 #  and add the headline value from the headlines  data frame
-#  to the headlines variable in  data frame r_df
+#  to the headlines variable in  data frame raw_df
 
-r_df$headline <- sapply(r_df$headline, function(x) headlines[x])
-
+raw_df$headline <- sapply(raw_df$headline, function(x) headlines[x])
+head(raw_df)
 ```
 
 ## Format Data {.tabset}
 
 ### Name and convert variables and data
 ```{r}
-df <- r_df
-# TODO: conform names to db
-# TODO: Fix naming call
-# TODO: find out which naming convention we're using
-# display data frame r_df
-head(df)
-# name r_df
-names(df) <- c("title", "skills", "count")
-#names(v) <- c("headline", "skills", "linkedin")
-class(df)
-# create numeric values in Linkedin counts column
+df_conv <- raw_df
+names(df_conv) <- c("title", "skills", "count")
+class(df_conv)
 # coerce any nulls to na's
-sapply(df, class)
-df$count <- as.numeric(df$count)
-sapply(df, class)
+sapply(df_conv, class)
+# create numeric types in counts column
+df_conv$count <- as.numeric(df_conv$count)
+sapply(df_conv, class)
 ```
 
 
@@ -126,25 +121,25 @@ sapply(df, class)
 ```{r}
 # count all rows
 # 4822
+nrow(df_conv)
 # view a subset of rows with na's mixed with complete rows
-nrow(df)
-df[11:20,]
+df_conv[11:20,]
 
 # filter for any rows with na
 # count all rows with na's
 # 942
-# view a subset of rows with only na's
-df_na <- df %>% filter_all(any_vars(is.na(.)))
+df_na <- df_conv %>% filter_all(any_vars(is.na(.)))
 nrow(df_na)
-df[1:20,]
 
 # omit any rows with na's
 # save rows without na's as a data frame names df
 # count the data frame 
 # 4822-942 = 3880
-df <- na.omit(df)
-df
-nrow(df)
+df_omit <- na.omit(df_conv)
+# view the same rows without na's
+df_omit[11:20,]
+
+nrow(df_omit)
 ```
 
 
@@ -152,57 +147,29 @@ nrow(df)
 
 ### Prepare data values for storage
 ```{r}
-
-# TODO: 1) I think we just need a names () on the column missing the column name 
-# Done
-# TODO: 2) I have to research how to remove unicode 
-# suggest
-# rs <- dbSendQuery(con, 'SET NAMES utf8')
-# ALTER TABLE mytable CONVERT TO CHARACTER SET utf8mb4;
-
-# TODO: 3)remove termination of comma
-# TODO: can we try this: texts(df) <- iconv(texts(df, from = "UTF-8", to = "ASCII", sub = "")
-# https://cran.r-project.org/web/packages/quanteda/quanteda.pdf
-# stripped all the Unicode characters 
-# stripped all the commas from the fields for skill and title
-
-# Example of dirty data obtained with \d,"[^"]+,
-# line 256: "396","Python",31,"Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner"
-
-#x <- c("396","Python",31,"Data Scientist at Conde Nast • MS in Data Science, Columbia University • IIIT-H Alumnus • Marathoner")[4]
-#validUTF8(x)
-#validUTF8(xx)
-#xi <- stringi::stri_enc_toascii(x)
-#xi <- iconv(xi, "latin1", "ASCII", sub='')
-
-
-# Joe
-#library("quanteda")
-#dfs <-df
-#texts(dfs) <- iconv(texts(dfs, from = "UTF-8", to = "ASCII", sub = ""))
-
-#Convert Latin characters to UTF-8
-#convert_for_sql <- function(x) {
 #  Encoding(x) <- "latin1"
 #  x <-  iconv(x, "latin1", "UTF-8", sub='')
 #  x <- stringr::str_replace(x,",","")
 #  Encoding(x) <- "UTF-8"
-#  return(x)
-#}
-df_f <- df
+
+
+df_clean <- df_omit
 # Remove non-ASCII character codes
-test <- df_f[256,]
-df_f$skills <- sapply(df_f$skills, function(x) gsub('[^\x20-\x7E]', '', x))
-df_f$title <- sapply(df_f$title, function(x) gsub('[^\x20-\x7E]', '', x))
-df_f$skills <- sapply(df_f$skills, function(x) gsub('[@]', 'at', x))
-df_f$title <- sapply(df_f$title, function(x) gsub('[@]', 'at', x))
-df_f$skills <- sapply(df_f$skills, function(x) gsub('[\\|\\(\\),]', '', x))
-df_f$title <- sapply(df_f$title, function(x) gsub('[\\|\\(\\),]', '', x))
-Encoding(df_f$skills) <- "UTF-8"
-Encoding(df_f$title) <- "UTF-8"
-head(df_f)
+test <- df_clean[256,]
+df_clean$skills <- sapply(df_clean$skills, function(x) gsub('[^\x20-\x7E]', '', x))
+df_clean$title <- sapply(df_clean$title, function(x) gsub('[^\x20-\x7E]', '', x))
+df_clean$skills <- sapply(df_clean$skills, function(x) gsub('[@]', 'at', x))
+df_clean$title <- sapply(df_clean$title, function(x) gsub('[@]', 'at', x))
+df_clean$skills <- sapply(df_clean$skills, function(x) gsub('[\\|\\(\\),]', '', x))
+df_clean$title <- sapply(df_clean$title, function(x) gsub('[\\|\\(\\),]', '', x))
+Encoding(df_clean$skills) <- "UTF-8"
+Encoding(df_clean$title) <- "UTF-8"
+head(df_clean)
+
+# View original
 test
-df_f[256,]
+# view cleaned text
+df_clean[256,]
 ```
 
 
@@ -221,7 +188,7 @@ df_f[256,]
 # NB: these are the original row id's based on R records
 # to generate skill_ids without skips for na's removed
 # use a seq
-df_csv <- tibble::rownames_to_column(df_f, var = "skill_id")
+df_csv <- tibble::rownames_to_column(df_clean, var = "skill_id")
 df_csv$skill_id <- as.numeric(df_csv$skill_id)
 head(df_csv)
 
@@ -279,8 +246,8 @@ dbListTables(myDb)
 ```{r}
 # lets load 2018 Linkedin Data
 df <- dbGetQuery(myDb, "select * from df")
-df
-
+head(df)
+nrow(df)
 
 ```
 
@@ -290,23 +257,24 @@ df
 # There are more than 145 skills, clean to data similar to 2018 data
 df <- subset(df, select = c(skills, count))
 colnames(df) <- c("Skills", "Linkedin")
-df
+head(df)
+nrow(df)
 
 ```
 
 ```{r}
 # there are skills that is listed more than once. finding those
 n_occur <- data.frame(table(df$Skills))
-n_occur[n_occur$Freq > 1,]
-
+skills_more_once <- n_occur[n_occur$Freq > 1,]
+head(skills_more_once)
+nrow(skills_more_once)
 ```
 
 ```{r}
 # we need to add the count of the duplicate skills rows 
 
 df <- aggregate(Linkedin ~ Skills, dat=df, FUN=sum)
-df
-
+head(df)
 
 ```
 
@@ -350,7 +318,8 @@ ggplot(df, aes(x=Skills, y=Linkedin))+
 # we have way too many skills so let's only focus on the ones that has significant count.
 
 df <- filter(df, Linkedin >100)
-df
+head(df)
+nrow(df)
 
 ```
 
@@ -372,8 +341,8 @@ ggplot(df, aes(x=Skills, y=Linkedin))+
 
 # let's narrow it down further. 
 df <- filter(df, Linkedin > 200)
-df
-
+head(df)
+nrow(df)
 ```
 
 
@@ -448,61 +417,27 @@ ggplot(skills_2018, aes(x=reorder(Keyword, LinkedIn, fun=max),y=LinkedIn))+
 
 With the assumption of computer science covering the Programming Lanaguages, we can see that the data science skills distribution for 2018 is similar to our Data Science Skills Distribution for 2018. Machine Learning , Data Analysis and Statistics leading the top General Data Science Skills. The only difference we see is that Machine Learning is slightly more used Data Science Skill than Data Analysis.
 
-### Simplify data frame
+### Simplify 2019 data frame
 
 ```{r}
-
-# TODO: simplify
-# subset vector v, removing the headline variable
+# subset vector v, removing the headline variable[c(-1)]
 # save the new vector as v_counts
-df_counts <- df_csv#[c(-1)]
-df_counts
+df_counts <- df_csv
+head(df_counts)
 
 ```
 
-### View aggregate Skills counts
+### View aggregate 2019 Skills counts
 ```{r}
 
 # aggregate the counts for each unique skill
-# store as agg_df_counts data fram
+# store as agg_df_counts data frame
 agg_df_counts <- df_counts %>%
     group_by(skills)  %>%
     dplyr::summarise(count = n())  %>%
     arrange(desc(count))
 
 agg_df_counts
-```
-
-
-```{r}
-#agg_df_counts[where(agg_df_counts$count > 200)]
-```
-
-```{r, eval=FALSE}
-# JJ: set this chunk not to run. Appears to be WIP.
-
-#library(ggplot2)
-#over_200_2019 <- agg_df_counts[agg_df_counts$count> 200]
-#comp_df1 <- data.frame(year=rep(2018, length(skills_2018$LinkedIn)), skills=skills_2018$Keyword, counts=skills_2018$LinkedIn)
-#comp_df2 < - data.frame(year=rep(2019, length(skills_2018$skills)), skills=over_200_2019$skills, counts=over_200_2019$counts)
-#comp_df <- rbdin(comp_df1, comp_df2)
-#Step 1
-#comp_df %>% 
-#Step 2
-#group_by(year) % > % 
-#Step 3
-#summarise(mean_counts = mean(counts)) % > % 
-#Step 4
-#ggplot(aes(x = year, y = mean_counts, fill = year)) +
-    #geom_bar(stat = "identity") +
-    #theme_classic() +
-    #labs(
-        #x = "skil endorsements",
-        #y = "Average skill endorsments",
-        #title = paste(
-            "Comparing 2018 and 2019 LinkedIn Skills samples"
-        )
-    )
 ```
 
 
