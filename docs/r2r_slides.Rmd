@@ -81,25 +81,13 @@ knit        : slidify::knit2slides
 --- 
 
 ## Analysis and conclusion (aa)
+![](http://airlocked50.com/wp-content/uploads/2019/10/2019-Bar-Plot.jpg)
+- Data Science Skills- Data Analysis, Statistics ML, R, Python, SQL
 
-![](https://github.com/pnojai/dskill/blob/dev/docs/2019-Bar-Plot.JPG)
-
-- Most commonly used skill within Data Scientists is Data Analysis.
-
-- Top 3 General Data Science Skills are Data Analysis, Statistics and Machine Learning.
-
-- R is the most commonly used Programming Language followed by Python and SQL.
-
-![](https://github.com/pnojai/dskill/blob/dev/docs/2018-Bar-Plot.JPG)
-
-- Most commonly used skill within Data Scientists is Machine Learning.
-
-- Top 3 General Data Science Skils are Machine Learning, Data Analysis and Statistics. 
- 
-- Conclusion.
-
-- Top General Data Science Skills are same for 2018 Jeff Hale's Analysis and Our Analysis. 
-
+---
+## Jeff Hale 2018 Analysis
+![](http://airlocked50.com/wp-content/uploads/2019/10/2018-Bar-Plot.jpg)
+- Top General Data Science Skills are same for 2018 Jeff Hale's and our Analysis.
 --- 
 
 ## Achievements (sw)
