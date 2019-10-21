@@ -75,7 +75,7 @@ knit        : slidify::knit2slides
   - Aggregating JSON objects into dataframes
   - Removing special characters
   - Tidying dataframes into wide format
-  
+
 --- 
 
 ## Data integration (jj)
