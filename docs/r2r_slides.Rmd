@@ -45,9 +45,9 @@ knit        : slidify::knit2slides
 
 ## Lifecycle (aa)
 - Formed team
-- Explored articles
-- Brainstormed approach
-- Collected data
+- Explored articles - Sources: Towards Data Science, Kdnuggets, Stack Overflow, Kaggle.
+- Brainstormed approach - Linkedin, Indeed, Google, Collection Method. 
+- Collected data - 
 - Integrated data
 - Concluded and reported
 
@@ -80,11 +80,24 @@ knit        : slidify::knit2slides
 --- 
 
 ## Analysis and conclusion (aa)
-- What graphs.
-- Relevant bullets.
+
+![](https://github.com/pnojai/dskill/blob/dev/docs/2019-Bar-Plot.JPG)
+
+- Most commonly used skill within Data Scientists is Data Analysis.
+
+- Top 3 General Data Science Skills are Data Analysis, Statistics and Machine Learning.
+
+- R is the most commonly used Programming Language followed by Python and SQL.
+
+![](https://github.com/pnojai/dskill/blob/dev/docs/2018-Bar-Plot.JPG)
+
+- Most commonly used skill within Data Scientists is Machine Learning.
+
+- Top 3 General Data Science Skils are Machine Learning, Data Analysis and Statistics. 
+ 
 - Conclusion.
-- (One or two relevant plots?)
-- (One summary report?)
+
+- Top General Data Science Skills are same for 2018 Jeff Hale's Analysis and Our Analysis. 
 
 --- 
 
