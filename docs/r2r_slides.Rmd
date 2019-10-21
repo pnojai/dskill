@@ -67,9 +67,15 @@ knit        : slidify::knit2slides
 ---
 
 ## Data collection and preparation (nc & tj)
-- Bullets about scraping.
-- Data cleaning.
-
+- Open source javascript LinkedIn scraper from Github that uses:
+  - Selenium for automated browser crawling
+  - Scrapedin for profile scraping
+- Data prep for EDA required:
+  - Accessing relevant nested JSON objects
+  - Aggregating JSON objects into dataframes
+  - Removing special characters
+  - Tidying dataframes into wide format
+  
 --- 
 
 ## Data integration (jj)
