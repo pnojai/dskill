@@ -85,9 +85,10 @@ knit        : slidify::knit2slides
 - Data Science Skills- Data Analysis, Statistics ML, R, Python, SQL
 
 ---
-## Jeff Hale 2018 Analysis
+## Jeff Hale 2018 Analysis (aa)
 ![](http://airlocked50.com/wp-content/uploads/2019/10/2018-Bar-Plot.jpg)
 - Top General Data Science Skills are same for 2018 Jeff Hale's and our Analysis.
+
 --- 
 
 ## Achievements (sw)
