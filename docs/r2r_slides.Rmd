@@ -36,6 +36,7 @@ knit        : slidify::knit2slides
 ---
 
 ## Organize (jr)
+- Hi, Joe! Wanna delete me?
 - Slack private channel
 - Skype
 - GitHub: [https://github.com/pnojai/dskill](https://github.com/pnojai/dskill)
