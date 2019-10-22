@@ -16,7 +16,7 @@ knit        : slidify::knit2slides
 }
 </style>
 
-## Ready 2 Rock (sw)
+## Ready 2 Rock
 - Anil Akyildirim
 - Nicholas Chung
 - Jai Jeffryes
@@ -26,7 +26,7 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Agenda (sw)
+## Agenda
 - Organization and lifecycle
 - Analytical approach
 - Data acquisition and preparation
@@ -35,7 +35,7 @@ knit        : slidify::knit2slides
 
 ---
 
-## Organize (jr)
+## Organize
 
 - Slack private channel
 - Skype
@@ -44,7 +44,7 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Lifecycle (aa)
+## Lifecycle
 - Formed team
 - Explored articles - Sources: Towards Data Science, Kdnuggets, Stack Overflow, Kaggle.
 - Brainstormed approach - Linkedin, Indeed, Google, Collection Method. 
@@ -54,7 +54,7 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Approach (jr)
+## Approach
 - Assumption: if a data scientist is working, they possess valuable skills.
 - Assumption motivated our approach:
   - Sample data scientists on LinkedIn.
@@ -62,43 +62,40 @@ knit        : slidify::knit2slides
   - Count frequencies.
 - Visualize and report.
 
-### Nice to have
-- Compare findings to 2018 findings by analyst Jeff Hale.
-
 ---
 
-## Data collection and preparation (nc & tj)
+## Data collection and preparation
 - Bullets about scraping.
 - Data cleaning.
 
 --- 
 
-## Data integration (jj)
+## Data integration
 - Data prep.
 - Stage in local MySQL.
 - Load integration MySQL.
 
 --- 
 
-## Analysis and conclusion (aa)
+## Analysis and conclusion
 ![](http://airlocked50.com/wp-content/uploads/2019/10/2019-Bar-Plot.jpg)
 - Data Science Skills- Data Analysis, Statistics ML, R, Python, SQL
 
 ---
-## Jeff Hale 2018 Analysis (aa)
+## Jeff Hale 2018 Analysis
 ![](http://airlocked50.com/wp-content/uploads/2019/10/2018-Bar-Plot.jpg)
 - Top General Data Science Skills are same for 2018 Jeff Hale's and our Analysis.
 
 --- 
 
-## Achievements (sw)
-- Team self-organization.
-- Containment of scope.
-- Fulfillment of minimum release.
+## Success factors
+- Self-organization
+- Open communication
+- Containment of scope
 
 ---
 
-## Version 2.0 (jr)
+## Version 2.0
 - Next questions. (What else we could have explored.)
 - Articles and resources we liked.
   - Jeff Hale's analysis on Medium: [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
