@@ -16,7 +16,7 @@ knit        : slidify::knit2slides
 }
 </style>
 
-## Ready 2 Rock (sw)
+## Ready 2 Rock
 - Anil Akyildirim
 - Nicholas Chung
 - Jai Jeffryes
@@ -26,7 +26,7 @@ knit        : slidify::knit2slides
 
 --- 
 
-## Agenda (sw)
+## Agenda
 - Organization and lifecycle
 - Analytical approach
 - Data acquisition and preparation
@@ -35,25 +35,33 @@ knit        : slidify::knit2slides
 
 ---
 
-## Organize (jr)
-- Slack private channel
-- Skype
-- GitHub: [https://github.com/pnojai/dskill](https://github.com/pnojai/dskill)
-- Amazon Relational Database Service: [msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com](msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com)
+## Organize
+
+-Slack private channel
+   + collaboration tool
+   + asynchronous - group threads and breakout sessions
+   
+-Skype
+   + voice and video communication
+   + 'putting a name to a face'
+   
+-GitHub: [Project Github](https://github.com/pnojai/dskill)
+
+-Amazon Relational Database Service: [MySQL-AWS-Cloud](msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com)
 
 --- 
 
-## Lifecycle (aa)
+## Lifecycle
 - Formed team
-- Explored articles
-- Brainstormed approach
-- Collected data
+- Explored articles - Sources: Towards Data Science, Kdnuggets, Stack Overflow, Kaggle.
+- Brainstormed approach - Linkedin, Indeed, Google, Collection Method. 
+- Collected data - 
 - Integrated data
 - Concluded and reported
 
 --- 
 
-## Approach (jr)
+## Approach
 - Assumption: if a data scientist is working, they possess valuable skills.
 - Assumption motivated our approach:
   - Sample data scientists on LinkedIn.
@@ -61,42 +69,49 @@ knit        : slidify::knit2slides
   - Count frequencies.
 - Visualize and report.
 
-### Nice to have
-- Compare findings to 2018 findings by analyst Jeff Hale.
-
 ---
 
-## Data collection and preparation (nc & tj)
-- Bullets about scraping.
-- Data cleaning.
+## Data collection and preparation
+- Open source javascript LinkedIn scraper from Github that uses:
+  - Selenium for automated browser crawling
+  - Scrapedin for profile scraping
+- Data prep for EDA required:
+  - Accessing relevant nested JSON objects (sapply and bind_rows)
+  - Aggregating JSON objects into dataframes (jsonlite and dplyr)
+  - Removing special characters (the ascii printing characters)
+  - Tidying dataframes into wide format (dplyr::summarise)
 
 --- 
 
-## Data integration (jj)
+## Data integration
 - Data prep.
 - Stage in local MySQL.
 - Load integration MySQL.
 
 --- 
 
-## Analysis and conclusion (aa)
-- What graphs.
-- Relevant bullets.
-- Conclusion.
-- (One or two relevant plots?)
-- (One summary report?)
+## Analysis and conclusion
+![](http://airlocked50.com/wp-content/uploads/2019/10/2019-Bar-Plot.jpg)
+- Data Science Skills- Data Analysis, Statistics ML, R, Python, SQL
+
+---
+## Jeff Hale 2018 Analysis
+![](http://airlocked50.com/wp-content/uploads/2019/10/2018-Bar-Plot.jpg)
+- Top General Data Science Skills are same for 2018 Jeff Hale's and our Analysis.
 
 --- 
 
-## Achievements (sw)
-- Team self-organization.
-- Containment of scope.
-- Fulfillment of minimum release.
+## Success factors
+- Self-organization
+- Open communication
+- Containment of scope
 
 ---
 
-## Version 2.0 (jr)
+## Version 2.0
 - Next questions. (What else we could have explored.)
 - Articles and resources we liked.
-  - Jeff Hale's analysis on Medium: [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
-  - PayScale: [https://www.payscale.com](https://www.payscale.com).
+  - Jeff Hale's analysis on Medium: [The most in demand skills for data scientists](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
+  - PayScale: [Website](https://www.payscale.com).
+
+![width](SM.jpeg)
