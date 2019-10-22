@@ -36,18 +36,26 @@ knit        : slidify::knit2slides
 ---
 
 ## Organize (jr)
-- Slack private channel
-- Skype
-- GitHub: [https://github.com/pnojai/dskill](https://github.com/pnojai/dskill)
-- Amazon Relational Database Service: [msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com](msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com)
+
+-Slack private channel
+   + collaboration tool
+   + asynchronous - group threads and breakout sessions
+   
+-Skype
+   + voice and video communication
+   + 'putting a name to a face'
+   
+-GitHub: [Project Github](https://github.com/pnojai/dskill)
+
+-Amazon Relational Database Service: [MySQL-AWS-Cloud](msds607.ckxhi71v1dqf.us-east-1.rds.amazonaws.com)
 
 --- 
 
 ## Lifecycle (aa)
 - Formed team
-- Explored articles
-- Brainstormed approach
-- Collected data
+- Explored articles - Sources: Towards Data Science, Kdnuggets, Stack Overflow, Kaggle.
+- Brainstormed approach - Linkedin, Indeed, Google, Collection Method. 
+- Collected data - 
 - Integrated data
 - Concluded and reported
 
@@ -80,11 +88,13 @@ knit        : slidify::knit2slides
 --- 
 
 ## Analysis and conclusion (aa)
-- What graphs.
-- Relevant bullets.
-- Conclusion.
-- (One or two relevant plots?)
-- (One summary report?)
+![](http://airlocked50.com/wp-content/uploads/2019/10/2019-Bar-Plot.jpg)
+- Data Science Skills- Data Analysis, Statistics ML, R, Python, SQL
+
+---
+## Jeff Hale 2018 Analysis (aa)
+![](http://airlocked50.com/wp-content/uploads/2019/10/2018-Bar-Plot.jpg)
+- Top General Data Science Skills are same for 2018 Jeff Hale's and our Analysis.
 
 --- 
 
@@ -98,5 +108,7 @@ knit        : slidify::knit2slides
 ## Version 2.0 (jr)
 - Next questions. (What else we could have explored.)
 - Articles and resources we liked.
-  - Jeff Hale's analysis on Medium: [https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
-  - PayScale: [https://www.payscale.com](https://www.payscale.com).
+  - Jeff Hale's analysis on Medium: [The most in demand skills for data scientists](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db).
+  - PayScale: [Website](https://www.payscale.com).
+
+![width](SM.jpeg)
