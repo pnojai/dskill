@@ -72,10 +72,10 @@ knit        : slidify::knit2slides
   - Selenium for automated browser crawling
   - Scrapedin for profile scraping
 - Data prep for EDA required:
-  - Accessing relevant nested JSON objects
-  - Aggregating JSON objects into dataframes
-  - Removing special characters
-  - Tidying dataframes into wide format
+  - Accessing relevant nested JSON objects (sapply and bind_rows)
+  - Aggregating JSON objects into dataframes (jsonlite and dplyr)
+  - Removing special characters (the ascii printing characters)
+  - Tidying dataframes into wide format (dplyr::summarise)
 
 --- 
 
